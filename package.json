@@ -1,0 +1,11 @@
+{
+  "name": "news_bucket_backend",
+  "version": "0.5.0",
+  "description": "news bucket backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "al amin",
+  "license": "ISC"
+}
