@@ -13,6 +13,7 @@
     "express": "^4.14.1",
     "kue": "^0.11.5",
     "mongoose": "^4.8.2",
-    "node-schedule": "^1.2.0"
+    "node-schedule": "^1.2.0",
+    "xml2json": "^0.11.0"
   }
 }
