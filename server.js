@@ -39,28 +39,16 @@ queue.process('parse-bdnews24-rss', function (job, done) {
 });
 
 queue.create('parse-bdnews24-rss', {})
-.priority('high')
-.save(function (err) {
-    if (!err) {
-        console.log('parsing job created');
-    }
-})
-.on('complete', function () {
-    console.log('parsing job completed!');
-});
+    .priority('high')
+    .save(function (err) {
+        if (!err) {
+            console.log('parsing job created');
+        }
+    })
+    .on('complete', function () {
+        console.log('parsing job completed!');
+    });
 
-// for (var i = 1; i < 4; i++) {
-//     queue.create('calculation', {degree : i})
-//     .priority('high')
-//     .save(function (err) {
-//         if (!err) {
-//             console.log('calculation job created');
-//         }
-//     })
-//     .on('complete', function () {
-//         console.log('calculation job completed!');
-//     });
-// }
 
 var port = process.env.PORT || 8080;
 
