@@ -1,4 +1,7 @@
 var http = require('http');
+var xmlParser = require('xml2js').parseString;
+
+
 
 var options = {
     host: "www.banglanews24.com",
@@ -16,8 +19,10 @@ var getRequest = http.request(options, function (res, err) {
             responseString += data;
         });
         res.on("end", function () {
-            process.send(responseString);
-            process.exit();
+            xmlParser(responseString, function (err, resault) {
+                process.send(resault);
+                process.exit();
+            })
         });
     }
 });

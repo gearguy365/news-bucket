@@ -1,0 +1,39 @@
+{
+    "rss": {
+        "$": {
+            "version": "2.0",
+            "xmlns:atom": "http://www.w3.org/2005/Atom"
+        },
+        "channel": [{
+            "title": ["Bangla News"],
+            "link": ["http://www.banglanews24.com/"],
+            "description": ["banglanews24.com RSS Feed"],
+            "atom:link": [{
+                "$": {
+                    "href": "http://www.banglanews24.com/xhtml/rss.xml",
+                    "rel": "self",
+                    "type": "application/rss+xml"
+                }
+            }],
+            "item": [{
+                "title": ["শহীদুল্লা কায়সারের জন্ম, জেনারেল ওসমানীর প্রয়াণ"],
+                "link": ["http://www.banglanews24.com/national/news/bd/554574.details"],
+                "description": ["ঢাকা: ইতিহাস আজীবন কথা বলে। ইতিহাস মানুষকে ভাবায়, তাড়িত করে। প্রতিদিনের উল্লেখযোগ্য ঘটনা কালক্রমে রূপ নেয় ইতিহাসে। সেসব ঘটনাই ইতিহাসে স্থান পায়, যা কিছু ভালো, যা কিছু প্রথম, যা কিছু মানবসভ্যতার অভিশাপ-আশীর্বাদ।\r\n"],
+                "pubDate": ["Thu, 16 Feb 2017 00:07:32 +0600"],
+                "guid": ["http://www.banglanews24.com/national/news/bd/554574.details"]
+            }, {
+                "title": ["আয় বাড়বে কন্যার, খরচ বাড়বে তুলার"],
+                "link": ["http://www.banglanews24.com/horoscopes/news/bd/554573.details"],
+                "description": ["আজ কেমন যাবে\r\nতারিখ: ১৬/০২/২০১৭\r\n"],
+                "pubDate": ["Wed, 15 Feb 2017 23:59:03 +0600"],
+                "guid": ["http://www.banglanews24.com/horoscopes/news/bd/554573.details"]
+            }, {
+                "title": ["বাংলাদেশে আসছেন সৌদি আরবের বাদশাহ সালমান "],
+                "link": ["http://www.banglanews24.com/national/news/bd/554572.details"],
+                "description": ["ঢাকা: বাংলাদেশ সফরে আসছেন সৌদি আরবের বাদশাহ সালমান বিন আব্দুল আজিজ আল সৌদ।&nbsp;\r\n"],
+                "pubDate": ["Wed, 15 Feb 2017 23:48:27 +0600"],
+                "guid": ["http://www.banglanews24.com/national/news/bd/554572.details"]
+            }]
+        }]
+    }
+}
