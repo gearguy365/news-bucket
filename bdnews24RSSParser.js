@@ -1,35 +1,22 @@
 var http = require('http');
 var xmlParser = require('xml2js').parseString;
 var fs = require('fs');
-var mongoose = require('mongoose');
-mongoose.connect('mongodb://admin:123@ds143539.mlab.com:43539/news');
-var db = mongoose.connection;
+var Logger = require('./custom_modules/logger.js');
+var news_service = require('./custom_modules/news-service.js');
+var newsDb;
 
-var postSchema = mongoose.Schema({
-    Title: String,
-    Link: String,
-    Description: String,
-    PubDate: String
+news_service.getNewsDBObject(function (obj) {
+    newsDb = obj;
+    Logger.logger('logs/bdnews24RSSParserLog.txt', 'Started bdnews24 parsing');
+    getRequest.end();
 });
-var Post = mongoose.model('Post', postSchema);
 
-logger('logs/bdnews24RSSParserLog.txt', 'Started bdnews24 parsing at ' + new Date().toISOString());
-
-function logger(filePath, message) {
-    fs.readFile(filePath, 'utf8', function (err, data) {
-        if (!err) {
-            var modifiedData = data + '\n' + message;
-            fs.writeFile(filePath, modifiedData);
-        }
-    });
-}
-
-var options = {
+var request_options = {
     host: "www.banglanews24.com",
     path: "/rss/rss.xml"
 };
 
-var getRequest = http.request(options, function (res, err) {
+var getRequest = http.request(request_options, function (res, err) {
     if (err) {
         console.log(err);
     } else {
@@ -39,36 +26,29 @@ var getRequest = http.request(options, function (res, err) {
             responseString += data;
         });
         res.on("end", function () {
-            xmlParser(responseString, function (err, resault) {
-                //process.send(resault);
-
-                process.exit();
-            })
+            processXMLResponse(responseString);
         });
     }
 });
 
-function createPost (post, callback) {
-    var newPost = new Post(post);
-    newPost.save(function (err, post) {
-        if(err) return console.error(err);
-        else {
-            console.log('post saved');
-        }
-    });
-}
-
-function getAllPost(callback) {
-    Post.find(function (err, posts) {
-        if(err) return console.error(err);
-    });
-}
-
-function getPostByProperty(key, value, callback) {
-    Post.find({key : value}, function (err, post) {
-        if(err) return console.error(err);
-        console.log(post);
-    });
+function processXMLResponse(XMLString) {
+    xmlParser(XMLString, function (err, resault) {
+        Logger.logger('logs/bdnews24RSSParserLog.txt', 'Received RSS feed. ' + resault.rss.channel[0].item.length + ' news found.');
+        
+        var promises = [];
+        resault.rss.channel[0].item.forEach(function (news, count, original) {
+            promises.push(saveNews(news).then(function (response) {
+                Logger.logger('logs/bdnews24RSSParserLog.txt', 'creation ' + response + ', post title ' + news.title[0]);
+            }));
+        });
+        
+        Promise.all(promises).then(function () {
+            Logger.logger('logs/bdnews24RSSParserLog.txt', 'Finished bdnews24 parser');
+            setTimeout(function () {
+                process.exit();
+            }, 3000);
+        });
+    })
 }
 
 getRequest.on('error', function (error) {
@@ -76,4 +56,22 @@ getRequest.on('error', function (error) {
     console.log(error);
 });
 
-getRequest.end();
+function saveNews(news) {
+    return new Promise(function (callback) {
+        newsDb.getPostByProperty({ Guid: news.guid[0] }, 0, 1, function (post) {
+            if (post.length == 0) {
+                newsDb.createPost({
+                    Title: news.title[0],
+                    Link: news.link[0],
+                    Description: news.description[0],
+                    PubDate: new Date(news.pubDate[0]).toISOString(),
+                    Guid: news.guid[0]
+                }, function (response) {
+                    callback(response);
+                });
+            } else {
+                callback('aborted')
+            }
+        });
+    });
+}
