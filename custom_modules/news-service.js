@@ -1,6 +1,10 @@
 var mongoose = require('mongoose');
 
-mongoose.connect('mongodb://admin:admin@ds143539.mlab.com:43539/news');
+var options = { 
+                server: { socketOptions: { keepAlive: 300000, connectTimeoutMS: 30000 }}, 
+                replset: { socketOptions: { keepAlive: 300000, connectTimeoutMS : 30000 }} 
+              };
+mongoose.connect('mongodb://admin:admin@ds143539.mlab.com:43539/news', options);
 var connection = mongoose.connection;
 
 function getNewsDBObject (callback) {
