@@ -43,7 +43,7 @@ queue.process('parse-bdnews24-rss', function (job, done) {
 //=======================================================
 
 //run queue in a series of processes every 1 mins=======
-scheduler.scheduleJob('*/1 * * * *', function () {
+scheduler.scheduleJob('*/20 * * * *', function () {
     queue.create('parse-bdnews24-rss', {})
         .priority('high')
         .save(function (err) {

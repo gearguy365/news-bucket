@@ -1,0 +1,1057 @@
+2017-02-19T17:17:04.416Z : Started bdnews24 parsing
+2017-02-19T17:17:05.056Z : Received RSS feed. 30 news found.
+2017-02-19T17:17:05.550Z : creation aborted, post title শাটল ট্রেনের চালককে তুলে নিয়ে গেল ছাত্রলীগ, চলবে না শাটল
+2017-02-19T17:17:05.584Z : creation aborted, post title কুড়িগ্রামে যত্ন প্রকল্পের উদ্বোধন
+2017-02-19T17:17:05.633Z : creation aborted, post title ঢাকেশ্বরী মন্দিরের প্রধান সেবায়েত আর নেই
+2017-02-19T17:17:05.656Z : creation aborted, post title দোয়েল চত্বর দিয়েই শহীদ মিনারে যাবেন খালেদা
+2017-02-19T17:17:05.701Z : creation aborted, post title গাজীপুরে ঝুট গুদামে আগুন
+2017-02-19T17:17:05.730Z : creation aborted, post title চট্টগ্রামের গাড়ি নোয়াখালী নিয়ে খড় দিয়ে ঢেকে রাখল চোর
+2017-02-19T17:17:05.764Z : creation aborted, post title চ্যাম্পিয়নের মতোই শুরু চট্টগ্রাম আবাহনীর
+2017-02-19T17:17:05.796Z : creation aborted, post title আগুনে পুড়েছে কর্ণফুলী ক্যাপিটাল ড্রেজিং প্রকল্পের যন্ত্রপাতি 
+2017-02-19T17:17:05.847Z : creation aborted, post title ইন্টার্ন চিকিৎসককে লাঞ্ছনা, শজিমেকে ধর্মঘট
+2017-02-19T17:17:06.187Z : creation aborted, post title রাবিতে প্রামাণ্য চলচ্চিত্র প্রদর্শনী ২১ ফেব্রুয়ারি
+2017-02-19T17:17:06.187Z : creation aborted, post title কিশোরগঞ্জে ভাষা উৎসব
+2017-02-19T17:17:06.196Z : creation aborted, post title চকরিয়ায় বাসের ধাক্কায় যুবক নিহত
+2017-02-19T17:17:06.196Z : creation aborted, post title যুব ভলিবলে সিলেট অঞ্চলে চ্যাম্পিয়ন হবিগঞ্জ জেলা
+2017-02-19T17:17:06.225Z : creation aborted, post title শাবিপ্রবি শিক্ষার্থী ও এলাকাবাসীর মধ্যে সংঘর্ষ
+2017-02-19T17:17:06.227Z : creation aborted, post title বোচাগঞ্জে কষ্টি পাথরের ৩ মূর্তিসহ আটক ৪
+2017-02-19T17:17:06.227Z : creation aborted, post title নরওয়ের পররাষ্ট্রমন্ত্রী ঢাকা আসছেন সোমবার
+2017-02-19T17:17:06.227Z : creation aborted, post title ছিনতাইয়ের সময় ঘটনাস্থলে ছিল ছাত্রদল নেতা শিপু 
+2017-02-19T17:17:06.246Z : creation aborted, post title ত্রিপুরা ওয়েব মিডিয়া ফোরামের সাধারণ সভা অনুষ্ঠিত
+2017-02-19T17:17:07.921Z : creation aborted, post title ‘ব্লক করো, কেউ যাতে বের হতে না পারে’
+2017-02-19T17:17:07.941Z : creation aborted, post title রোহিঙ্গাদের অবস্থা পর্যবেক্ষণে আসছেন জাতিসংঘের বিশেষ দূত
+2017-02-19T17:17:07.941Z : creation aborted, post title নামাজে ধ্যান ধরে রাখতে করণীয়
+2017-02-19T17:17:07.941Z : creation aborted, post title বিডিআর হত্যায় যুক্তিতর্ক ২৮ ফেব্রুয়ারির মধ্যে শেষ করার নির্দেশ
+2017-02-19T17:17:07.944Z : creation aborted, post title বঙ্গবন্ধুর খুনি মোস্তাকের বাড়ি উচ্ছেদের দাবিতে বিক্ষোভ
+2017-02-19T17:17:07.951Z : creation aborted, post title মেলায় ছিল ক্রেতাদের ভিড়
+2017-02-19T17:17:07.955Z : creation aborted, post title রাবিতে অবসরপ্রাপ্ত কর্মকর্তাদের বিদায় সংবর্ধনা
+2017-02-19T17:17:07.960Z : creation aborted, post title জেলগেট থেকে ফের গ্রেফতার উপজেলা চেয়ারম্যান হিরণ
+2017-02-19T17:17:07.965Z : creation aborted, post title তিনদিনের জার্মানি সফর শেষে দেশে প্রধানমন্ত্রী
+2017-02-19T17:17:07.970Z : creation aborted, post title কাতারে মাদকবিরোধী সভা
+2017-02-19T17:17:08.481Z : creation aborted, post title ‘ডুব’ নিয়ে চলছে শেয়ানে শেয়ানে লড়াই! (অডিও-ভিজ্যুয়াল রিপোর্ট)
+2017-02-19T17:17:08.481Z : Finished bdnews24 parser
+2017-02-19T17:17:08.481Z : creation aborted, post title  ‘বাংলাদেশে বিনিয়োগ করতে ঢেউয়ের মতো আসছে চীন’
+2017-02-19T17:18:03.379Z : Started bdnews24 parsing
+2017-02-19T17:18:04.000Z : Received RSS feed. 30 news found.
+2017-02-19T17:18:04.514Z : creation aborted, post title শাটল ট্রেনের চালককে তুলে নিয়ে গেল ছাত্রলীগ, চলবে না শাটল
+2017-02-19T17:18:04.537Z : creation aborted, post title কুড়িগ্রামে যত্ন প্রকল্পের উদ্বোধন
+2017-02-19T17:18:04.567Z : creation aborted, post title ঢাকেশ্বরী মন্দিরের প্রধান সেবায়েত আর নেই
+2017-02-19T17:18:04.567Z : creation aborted, post title দোয়েল চত্বর দিয়েই শহীদ মিনারে যাবেন খালেদা
+2017-02-19T17:18:04.601Z : creation aborted, post title গাজীপুরে ঝুট গুদামে আগুন
+2017-02-19T17:18:04.606Z : creation aborted, post title চট্টগ্রামের গাড়ি নোয়াখালী নিয়ে খড় দিয়ে ঢেকে রাখল চোর
+2017-02-19T17:18:04.643Z : creation aborted, post title চ্যাম্পিয়নের মতোই শুরু চট্টগ্রাম আবাহনীর
+2017-02-19T17:18:04.644Z : creation aborted, post title আগুনে পুড়েছে কর্ণফুলী ক্যাপিটাল ড্রেজিং প্রকল্পের যন্ত্রপাতি 
+2017-02-19T17:18:04.730Z : creation aborted, post title ইন্টার্ন চিকিৎসককে লাঞ্ছনা, শজিমেকে ধর্মঘট
+2017-02-19T17:18:05.199Z : creation aborted, post title রাবিতে প্রামাণ্য চলচ্চিত্র প্রদর্শনী ২১ ফেব্রুয়ারি
+2017-02-19T17:18:05.199Z : creation aborted, post title কিশোরগঞ্জে ভাষা উৎসব
+2017-02-19T17:18:05.199Z : creation aborted, post title চকরিয়ায় বাসের ধাক্কায় যুবক নিহত
+2017-02-19T17:18:05.199Z : creation aborted, post title যুব ভলিবলে সিলেট অঞ্চলে চ্যাম্পিয়ন হবিগঞ্জ জেলা
+2017-02-19T17:18:05.199Z : creation aborted, post title শাবিপ্রবি শিক্ষার্থী ও এলাকাবাসীর মধ্যে সংঘর্ষ
+2017-02-19T17:18:05.200Z : creation aborted, post title বোচাগঞ্জে কষ্টি পাথরের ৩ মূর্তিসহ আটক ৪
+2017-02-19T17:18:05.200Z : creation aborted, post title নরওয়ের পররাষ্ট্রমন্ত্রী ঢাকা আসছেন সোমবার
+2017-02-19T17:18:06.117Z : creation aborted, post title ছিনতাইয়ের সময় ঘটনাস্থলে ছিল ছাত্রদল নেতা শিপু 
+2017-02-19T17:18:06.126Z : creation aborted, post title ত্রিপুরা ওয়েব মিডিয়া ফোরামের সাধারণ সভা অনুষ্ঠিত
+2017-02-19T17:18:06.139Z : creation aborted, post title ‘ব্লক করো, কেউ যাতে বের হতে না পারে’
+2017-02-19T17:18:06.139Z : creation aborted, post title বিডিআর হত্যায় যুক্তিতর্ক ২৮ ফেব্রুয়ারির মধ্যে শেষ করার নির্দেশ
+2017-02-19T17:18:06.146Z : creation aborted, post title রোহিঙ্গাদের অবস্থা পর্যবেক্ষণে আসছেন জাতিসংঘের বিশেষ দূত
+2017-02-19T17:18:06.152Z : creation aborted, post title নামাজে ধ্যান ধরে রাখতে করণীয়
+2017-02-19T17:18:06.152Z : creation aborted, post title বঙ্গবন্ধুর খুনি মোস্তাকের বাড়ি উচ্ছেদের দাবিতে বিক্ষোভ
+2017-02-19T17:18:06.162Z : creation aborted, post title মেলায় ছিল ক্রেতাদের ভিড়
+2017-02-19T17:18:06.171Z : creation aborted, post title রাবিতে অবসরপ্রাপ্ত কর্মকর্তাদের বিদায় সংবর্ধনা
+2017-02-19T17:18:06.176Z : creation aborted, post title জেলগেট থেকে ফের গ্রেফতার উপজেলা চেয়ারম্যান হিরণ
+2017-02-19T17:18:06.572Z : creation aborted, post title তিনদিনের জার্মানি সফর শেষে দেশে প্রধানমন্ত্রী
+2017-02-19T17:18:06.586Z : creation aborted, post title  ‘বাংলাদেশে বিনিয়োগ করতে ঢেউয়ের মতো আসছে চীন’
+2017-02-19T17:18:06.586Z : creation aborted, post title কাতারে মাদকবিরোধী সভা
+2017-02-19T17:18:06.596Z : creation aborted, post title ‘ডুব’ নিয়ে চলছে শেয়ানে শেয়ানে লড়াই! (অডিও-ভিজ্যুয়াল রিপোর্ট)
+2017-02-19T17:18:06.596Z : Finished bdnews24 parser
+2017-02-19T17:19:03.682Z : Started bdnews24 parsing
+2017-02-19T17:19:04.285Z : Received RSS feed. 30 news found.
+2017-02-19T17:19:04.785Z : creation aborted, post title শাটল ট্রেনের চালককে তুলে নিয়ে গেল ছাত্রলীগ, চলবে না শাটল
+2017-02-19T17:19:04.797Z : creation aborted, post title কুড়িগ্রামে যত্ন প্রকল্পের উদ্বোধন
+2017-02-19T17:19:04.817Z : creation aborted, post title ঢাকেশ্বরী মন্দিরের প্রধান সেবায়েত আর নেই
+2017-02-19T17:19:04.837Z : creation aborted, post title দোয়েল চত্বর দিয়েই শহীদ মিনারে যাবেন খালেদা
+2017-02-19T17:19:04.867Z : creation aborted, post title গাজীপুরে ঝুট গুদামে আগুন
+2017-02-19T17:19:04.883Z : creation aborted, post title চট্টগ্রামের গাড়ি নোয়াখালী নিয়ে খড় দিয়ে ঢেকে রাখল চোর
+2017-02-19T17:19:04.902Z : creation aborted, post title চ্যাম্পিয়নের মতোই শুরু চট্টগ্রাম আবাহনীর
+2017-02-19T17:19:04.922Z : creation aborted, post title আগুনে পুড়েছে কর্ণফুলী ক্যাপিটাল ড্রেজিং প্রকল্পের যন্ত্রপাতি 
+2017-02-19T17:19:04.955Z : creation aborted, post title ইন্টার্ন চিকিৎসককে লাঞ্ছনা, শজিমেকে ধর্মঘট
+2017-02-19T17:19:05.396Z : creation aborted, post title রাবিতে প্রামাণ্য চলচ্চিত্র প্রদর্শনী ২১ ফেব্রুয়ারি
+2017-02-19T17:19:05.396Z : creation aborted, post title কিশোরগঞ্জে ভাষা উৎসব
+2017-02-19T17:19:05.396Z : creation aborted, post title যুব ভলিবলে সিলেট অঞ্চলে চ্যাম্পিয়ন হবিগঞ্জ জেলা
+2017-02-19T17:19:05.396Z : creation aborted, post title চকরিয়ায় বাসের ধাক্কায় যুবক নিহত
+2017-02-19T17:19:05.396Z : creation aborted, post title শাবিপ্রবি শিক্ষার্থী ও এলাকাবাসীর মধ্যে সংঘর্ষ
+2017-02-19T17:19:05.396Z : creation aborted, post title বোচাগঞ্জে কষ্টি পাথরের ৩ মূর্তিসহ আটক ৪
+2017-02-19T17:19:05.396Z : creation aborted, post title নরওয়ের পররাষ্ট্রমন্ত্রী ঢাকা আসছেন সোমবার
+2017-02-19T17:19:06.352Z : creation aborted, post title ছিনতাইয়ের সময় ঘটনাস্থলে ছিল ছাত্রদল নেতা শিপু 
+2017-02-19T17:19:06.362Z : creation aborted, post title ত্রিপুরা ওয়েব মিডিয়া ফোরামের সাধারণ সভা অনুষ্ঠিত
+2017-02-19T17:19:06.369Z : creation aborted, post title ‘ব্লক করো, কেউ যাতে বের হতে না পারে’
+2017-02-19T17:19:06.372Z : creation aborted, post title বিডিআর হত্যায় যুক্তিতর্ক ২৮ ফেব্রুয়ারির মধ্যে শেষ করার নির্দেশ
+2017-02-19T17:19:06.381Z : creation aborted, post title রোহিঙ্গাদের অবস্থা পর্যবেক্ষণে আসছেন জাতিসংঘের বিশেষ দূত
+2017-02-19T17:19:06.386Z : creation aborted, post title নামাজে ধ্যান ধরে রাখতে করণীয়
+2017-02-19T17:19:06.401Z : creation aborted, post title বঙ্গবন্ধুর খুনি মোস্তাকের বাড়ি উচ্ছেদের দাবিতে বিক্ষোভ
+2017-02-19T17:19:06.401Z : creation aborted, post title মেলায় ছিল ক্রেতাদের ভিড়
+2017-02-19T17:19:06.406Z : creation aborted, post title রাবিতে অবসরপ্রাপ্ত কর্মকর্তাদের বিদায় সংবর্ধনা
+2017-02-19T17:19:06.411Z : creation aborted, post title জেলগেট থেকে ফের গ্রেফতার উপজেলা চেয়ারম্যান হিরণ
+2017-02-19T17:19:06.821Z : creation aborted, post title তিনদিনের জার্মানি সফর শেষে দেশে প্রধানমন্ত্রী
+2017-02-19T17:19:06.827Z : creation aborted, post title কাতারে মাদকবিরোধী সভা
+2017-02-19T17:19:06.828Z : creation aborted, post title  ‘বাংলাদেশে বিনিয়োগ করতে ঢেউয়ের মতো আসছে চীন’
+2017-02-19T17:19:06.828Z : creation aborted, post title ‘ডুব’ নিয়ে চলছে শেয়ানে শেয়ানে লড়াই! (অডিও-ভিজ্যুয়াল রিপোর্ট)
+2017-02-19T17:19:06.828Z : Finished bdnews24 parser
+2017-02-19T17:20:03.962Z : Started bdnews24 parsing
+2017-02-19T17:20:05.563Z : Received RSS feed. 30 news found.
+2017-02-19T17:20:06.058Z : creation aborted, post title শাটল ট্রেনের চালককে তুলে নিয়ে গেল ছাত্রলীগ, চলবে না শাটল
+2017-02-19T17:20:06.083Z : creation aborted, post title কুড়িগ্রামে যত্ন প্রকল্পের উদ্বোধন
+2017-02-19T17:20:06.113Z : creation aborted, post title ঢাকেশ্বরী মন্দিরের প্রধান সেবায়েত আর নেই
+2017-02-19T17:20:06.154Z : creation aborted, post title দোয়েল চত্বর দিয়েই শহীদ মিনারে যাবেন খালেদা
+2017-02-19T17:20:06.188Z : creation aborted, post title গাজীপুরে ঝুট গুদামে আগুন
+2017-02-19T17:20:06.223Z : creation aborted, post title চট্টগ্রামের গাড়ি নোয়াখালী নিয়ে খড় দিয়ে ঢেকে রাখল চোর
+2017-02-19T17:20:06.261Z : creation aborted, post title চ্যাম্পিয়নের মতোই শুরু চট্টগ্রাম আবাহনীর
+2017-02-19T17:20:06.294Z : creation aborted, post title আগুনে পুড়েছে কর্ণফুলী ক্যাপিটাল ড্রেজিং প্রকল্পের যন্ত্রপাতি 
+2017-02-19T17:20:06.337Z : creation aborted, post title ইন্টার্ন চিকিৎসককে লাঞ্ছনা, শজিমেকে ধর্মঘট
+2017-02-19T17:20:06.618Z : creation aborted, post title রাবিতে প্রামাণ্য চলচ্চিত্র প্রদর্শনী ২১ ফেব্রুয়ারি
+2017-02-19T17:20:06.619Z : creation aborted, post title কিশোরগঞ্জে ভাষা উৎসব
+2017-02-19T17:20:06.643Z : creation aborted, post title চকরিয়ায় বাসের ধাক্কায় যুবক নিহত
+2017-02-19T17:20:06.643Z : creation aborted, post title যুব ভলিবলে সিলেট অঞ্চলে চ্যাম্পিয়ন হবিগঞ্জ জেলা
+2017-02-19T17:20:06.667Z : creation aborted, post title শাবিপ্রবি শিক্ষার্থী ও এলাকাবাসীর মধ্যে সংঘর্ষ
+2017-02-19T17:20:06.667Z : creation aborted, post title বোচাগঞ্জে কষ্টি পাথরের ৩ মূর্তিসহ আটক ৪
+2017-02-19T17:20:06.667Z : creation aborted, post title নরওয়ের পররাষ্ট্রমন্ত্রী ঢাকা আসছেন সোমবার
+2017-02-19T17:20:08.112Z : creation aborted, post title ছিনতাইয়ের সময় ঘটনাস্থলে ছিল ছাত্রদল নেতা শিপু 
+2017-02-19T17:20:08.117Z : creation aborted, post title ত্রিপুরা ওয়েব মিডিয়া ফোরামের সাধারণ সভা অনুষ্ঠিত
+2017-02-19T17:20:08.126Z : creation aborted, post title ‘ব্লক করো, কেউ যাতে বের হতে না পারে’
+2017-02-19T17:20:08.128Z : creation aborted, post title বিডিআর হত্যায় যুক্তিতর্ক ২৮ ফেব্রুয়ারির মধ্যে শেষ করার নির্দেশ
+2017-02-19T17:20:08.138Z : creation aborted, post title রোহিঙ্গাদের অবস্থা পর্যবেক্ষণে আসছেন জাতিসংঘের বিশেষ দূত
+2017-02-19T17:20:08.143Z : creation aborted, post title নামাজে ধ্যান ধরে রাখতে করণীয়
+2017-02-19T17:20:08.148Z : creation aborted, post title বঙ্গবন্ধুর খুনি মোস্তাকের বাড়ি উচ্ছেদের দাবিতে বিক্ষোভ
+2017-02-19T17:20:08.153Z : creation aborted, post title মেলায় ছিল ক্রেতাদের ভিড়
+2017-02-19T17:20:08.164Z : creation aborted, post title রাবিতে অবসরপ্রাপ্ত কর্মকর্তাদের বিদায় সংবর্ধনা
+2017-02-19T17:20:08.165Z : creation aborted, post title জেলগেট থেকে ফের গ্রেফতার উপজেলা চেয়ারম্যান হিরণ
+2017-02-19T17:20:08.538Z : creation aborted, post title তিনদিনের জার্মানি সফর শেষে দেশে প্রধানমন্ত্রী
+2017-02-19T17:20:08.549Z : creation aborted, post title কাতারে মাদকবিরোধী সভা
+2017-02-19T17:20:08.549Z : creation aborted, post title  ‘বাংলাদেশে বিনিয়োগ করতে ঢেউয়ের মতো আসছে চীন’
+2017-02-19T17:20:08.561Z : Finished bdnews24 parser
+2017-02-19T17:20:08.560Z : creation aborted, post title ‘ডুব’ নিয়ে চলছে শেয়ানে শেয়ানে লড়াই! (অডিও-ভিজ্যুয়াল রিপোর্ট)
+2017-02-20T17:39:04.151Z : Started bdnews24 parsing
+2017-02-20T17:39:07.019Z : Received RSS feed. 30 news found.
+2017-02-20T17:39:09.773Z : creation success, post title খুলনার শিক্ষাসাগরে রাতে উড়ছে জাতীয় পতাকা!
+2017-02-20T17:39:09.774Z : creation success, post title জায়গা বিক্রিতে বাধা, সংঘর্ষের পর আটক ১২
+2017-02-20T17:39:10.108Z : creation success, post title সাভারে সড়ক দুর্ঘটনায় হানিফ সংকেতের খালাতো ভাই নিহত
+2017-02-20T17:39:10.410Z : creation success, post title দুর্ঘটনা প্রতিরোধে চালকদের প্রশিক্ষণ দিলো পুলিশ
+2017-02-20T17:39:10.410Z : creation success, post title হাতীবান্ধায় মোটরসাইকেল আরোহী নিহত
+2017-02-20T17:39:10.410Z : creation success, post title দেওয়ানগঞ্জে ৬৫টি ভারতীয় গরু উদ্ধার
+2017-02-20T17:39:10.982Z : creation success, post title কালীগঞ্জে দুই শিক্ষককে মারধর
+2017-02-20T17:39:10.982Z : creation success, post title এ শহীদ মিনার এখন স্মৃতি!
+2017-02-20T17:39:10.985Z : creation success, post title কক্সবাজারে লাঠির আঘাতে বন্ধুর মৃত্যু
+2017-02-20T17:39:10.985Z : creation success, post title সবার আগে সেমিফাইনালে মালদ্বীপের টিসি স্পোর্টস
+2017-02-20T17:39:11.543Z : creation success, post title কক্সবাজারে শিশুকে শ্বাসরোধ করে হত্যা
+2017-02-20T17:39:11.543Z : creation success, post title সীতাকুণ্ডে সড়ক দুর্ঘটনায় অজ্ঞাত পরিচয়ের নারী নিহত
+2017-02-20T17:39:11.543Z : creation success, post title বরিশালে ডোবা থেকে রিকশা চালকের মৃত‌দেহ উদ্ধার
+2017-02-20T17:39:11.786Z : creation success, post title ৫২’র ভাষা |‍ আলাউদ্দিন হোসেন
+2017-02-20T17:39:11.786Z : creation success, post title ব্রাহ্মণবাড়িয়ায় যুবলীগ নেতার মরদেহ উদ্ধার
+2017-02-20T17:39:11.792Z : creation success, post title শহীদ দিবস উপলক্ষে বগুড়ায় চিত্রাংকন প্রতিযোগিতা  
+2017-02-20T17:39:11.792Z : creation success, post title একুশ আসে ফিরে ফিরে | আহমেদ রব্বানী
+2017-02-20T17:39:12.169Z : creation success, post title ওমানে সড়ক দুর্ঘটনায় বাংলাদেশি যুবক নিহত
+2017-02-20T17:39:12.169Z : creation success, post title এবার একুশে পদকপ্রাপ্ত ১৭ গুণীজনের যতো অবদান
+2017-02-20T17:39:12.169Z : creation success, post title মৌলভীবাজারে সন্ধ্যায় মাঝারি ধরনের বৃষ্টি
+2017-02-20T17:39:12.225Z : creation success, post title ‌'মৌলবাদীদের সুযোগ দিলে তারা দেশে বিশৃঙ্খলা সৃষ্টি করবে’
+2017-02-20T17:39:12.225Z : creation success, post title  রোহিঙ্গা ইস্যুর শান্তিপূর্ণ সমাধান চায় বাংলাদেশ
+2017-02-20T17:39:12.975Z : creation success, post title বঙ্গবন্ধুর ঘনিষ্ঠ সহচর শাহ হাদিউজ্জামানের দাফন সম্পন্ন
+2017-02-20T17:39:12.975Z : creation success, post title একুশে ফেব্রুয়ারি আমাদের অহংকার 
+2017-02-20T17:39:12.975Z : creation success, post title সিসিকের দুই কাউন্সিলর বরখাস্তের আদেশ স্থগিত
+2017-02-20T17:39:12.976Z : creation success, post title অপ্রতিরোধ্য বাংলাদেশকে থামাবে কে?
+2017-02-20T17:39:12.980Z : creation success, post title ২১ ফেব্রুয়ারি বইমেলা শুরু সকাল ৮টায়
+2017-02-20T17:39:12.979Z : creation success, post title নোয়াখালীতে পাঁচ দিনব্যাপী একুশে বইমেলা শুরু
+2017-02-20T17:39:13.388Z : creation success, post title আদিতমারীতে আসামির ছুরিকাঘাতে এসআই আহত
+2017-02-20T17:39:13.388Z : creation success, post title চিকিৎসার জন্য মালয়েশিয়ায় আল্লামা শফী
+2017-02-20T17:39:13.389Z : Finished bdnews24 parser
+2017-02-20T17:44:04.067Z : Started bdnews24 parsing
+2017-02-20T17:44:05.109Z : Received RSS feed. 30 news found.
+2017-02-20T17:44:05.598Z : creation aborted, post title খুলনার শিক্ষাসাগরে রাতে উড়ছে জাতীয় পতাকা!
+2017-02-20T17:44:05.618Z : creation aborted, post title জায়গা বিক্রিতে বাধা, সংঘর্ষের পর আটক ১২
+2017-02-20T17:44:05.642Z : creation aborted, post title সাভারে সড়ক দুর্ঘটনায় হানিফ সংকেতের খালাতো ভাই নিহত
+2017-02-20T17:44:05.651Z : creation aborted, post title দুর্ঘটনা প্রতিরোধে চালকদের প্রশিক্ষণ দিলো পুলিশ
+2017-02-20T17:44:05.661Z : creation aborted, post title হাতীবান্ধায় মোটরসাইকেল আরোহী নিহত
+2017-02-20T17:44:05.671Z : creation aborted, post title দেওয়ানগঞ্জে ৬৫টি ভারতীয় গরু উদ্ধার
+2017-02-20T17:44:05.688Z : creation aborted, post title কালীগঞ্জে দুই শিক্ষককে মারধর
+2017-02-20T17:44:05.699Z : creation aborted, post title এ শহীদ মিনার এখন স্মৃতি!
+2017-02-20T17:44:05.730Z : creation aborted, post title কক্সবাজারে লাঠির আঘাতে বন্ধুর মৃত্যু
+2017-02-20T17:44:06.062Z : creation aborted, post title সবার আগে সেমিফাইনালে মালদ্বীপের টিসি স্পোর্টস
+2017-02-20T17:44:06.067Z : creation aborted, post title কক্সবাজারে শিশুকে শ্বাসরোধ করে হত্যা
+2017-02-20T17:44:06.214Z : creation aborted, post title সীতাকুণ্ডে সড়ক দুর্ঘটনায় অজ্ঞাত পরিচয়ের নারী নিহত
+2017-02-20T17:44:06.214Z : creation aborted, post title বরিশালে ডোবা থেকে রিকশা চালকের মৃত‌দেহ উদ্ধার
+2017-02-20T17:44:06.215Z : creation aborted, post title ৫২’র ভাষা |‍ আলাউদ্দিন হোসেন
+2017-02-20T17:44:06.215Z : creation aborted, post title একুশ আসে ফিরে ফিরে | আহমেদ রব্বানী
+2017-02-20T17:44:06.215Z : creation aborted, post title ব্রাহ্মণবাড়িয়ায় যুবলীগ নেতার মরদেহ উদ্ধার
+2017-02-20T17:44:07.032Z : creation aborted, post title শহীদ দিবস উপলক্ষে বগুড়ায় চিত্রাংকন প্রতিযোগিতা  
+2017-02-20T17:44:07.037Z : creation aborted, post title ওমানে সড়ক দুর্ঘটনায় বাংলাদেশি যুবক নিহত
+2017-02-20T17:44:07.039Z : creation aborted, post title এবার একুশে পদকপ্রাপ্ত ১৭ গুণীজনের যতো অবদান
+2017-02-20T17:44:07.042Z : creation aborted, post title মৌলভীবাজারে সন্ধ্যায় মাঝারি ধরনের বৃষ্টি
+2017-02-20T17:44:07.043Z : creation aborted, post title ‌'মৌলবাদীদের সুযোগ দিলে তারা দেশে বিশৃঙ্খলা সৃষ্টি করবে’
+2017-02-20T17:44:07.046Z : creation aborted, post title  রোহিঙ্গা ইস্যুর শান্তিপূর্ণ সমাধান চায় বাংলাদেশ
+2017-02-20T17:44:07.046Z : creation aborted, post title বঙ্গবন্ধুর ঘনিষ্ঠ সহচর শাহ হাদিউজ্জামানের দাফন সম্পন্ন
+2017-02-20T17:44:07.051Z : creation aborted, post title একুশে ফেব্রুয়ারি আমাদের অহংকার 
+2017-02-20T17:44:07.056Z : creation aborted, post title সিসিকের দুই কাউন্সিলর বরখাস্তের আদেশ স্থগিত
+2017-02-20T17:44:07.057Z : creation aborted, post title অপ্রতিরোধ্য বাংলাদেশকে থামাবে কে?
+2017-02-20T17:44:07.502Z : creation aborted, post title নোয়াখালীতে পাঁচ দিনব্যাপী একুশে বইমেলা শুরু
+2017-02-20T17:44:07.502Z : creation aborted, post title ২১ ফেব্রুয়ারি বইমেলা শুরু সকাল ৮টায়
+2017-02-20T17:44:07.502Z : creation aborted, post title চিকিৎসার জন্য মালয়েশিয়ায় আল্লামা শফী
+2017-02-20T17:44:07.502Z : creation aborted, post title আদিতমারীতে আসামির ছুরিকাঘাতে এসআই আহত
+2017-02-20T17:44:07.503Z : Finished bdnews24 parser
+2017-02-20T17:45:04.461Z : Started bdnews24 parsing
+2017-02-20T17:45:05.035Z : Received RSS feed. 30 news found.
+2017-02-20T17:45:05.551Z : creation aborted, post title খুলনার শিক্ষাসাগরে রাতে উড়ছে জাতীয় পতাকা!
+2017-02-20T17:45:05.572Z : creation aborted, post title জায়গা বিক্রিতে বাধা, সংঘর্ষের পর আটক ১২
+2017-02-20T17:45:05.601Z : creation aborted, post title সাভারে সড়ক দুর্ঘটনায় হানিফ সংকেতের খালাতো ভাই নিহত
+2017-02-20T17:45:05.612Z : creation aborted, post title দুর্ঘটনা প্রতিরোধে চালকদের প্রশিক্ষণ দিলো পুলিশ
+2017-02-20T17:45:05.641Z : creation aborted, post title হাতীবান্ধায় মোটরসাইকেল আরোহী নিহত
+2017-02-20T17:45:05.652Z : creation aborted, post title দেওয়ানগঞ্জে ৬৫টি ভারতীয় গরু উদ্ধার
+2017-02-20T17:45:05.678Z : creation aborted, post title কালীগঞ্জে দুই শিক্ষককে মারধর
+2017-02-20T17:45:05.703Z : creation aborted, post title এ শহীদ মিনার এখন স্মৃতি!
+2017-02-20T17:45:05.722Z : creation aborted, post title কক্সবাজারে লাঠির আঘাতে বন্ধুর মৃত্যু
+2017-02-20T17:45:06.157Z : creation aborted, post title সবার আগে সেমিফাইনালে মালদ্বীপের টিসি স্পোর্টস
+2017-02-20T17:45:06.157Z : creation aborted, post title কক্সবাজারে শিশুকে শ্বাসরোধ করে হত্যা
+2017-02-20T17:45:07.737Z : creation aborted, post title সীতাকুণ্ডে সড়ক দুর্ঘটনায় অজ্ঞাত পরিচয়ের নারী নিহত
+2017-02-20T17:45:07.738Z : creation aborted, post title বরিশালে ডোবা থেকে রিকশা চালকের মৃত‌দেহ উদ্ধার
+2017-02-20T17:45:07.742Z : creation aborted, post title ৫২’র ভাষা |‍ আলাউদ্দিন হোসেন
+2017-02-20T17:45:07.742Z : creation aborted, post title ব্রাহ্মণবাড়িয়ায় যুবলীগ নেতার মরদেহ উদ্ধার
+2017-02-20T17:45:07.751Z : creation aborted, post title একুশ আসে ফিরে ফিরে | আহমেদ রব্বানী
+2017-02-20T17:45:07.751Z : creation aborted, post title শহীদ দিবস উপলক্ষে বগুড়ায় চিত্রাংকন প্রতিযোগিতা  
+2017-02-20T17:45:07.751Z : creation aborted, post title ওমানে সড়ক দুর্ঘটনায় বাংলাদেশি যুবক নিহত
+2017-02-20T17:45:07.751Z : creation aborted, post title এবার একুশে পদকপ্রাপ্ত ১৭ গুণীজনের যতো অবদান
+2017-02-20T17:45:07.751Z : creation aborted, post title মৌলভীবাজারে সন্ধ্যায় মাঝারি ধরনের বৃষ্টি
+2017-02-20T17:45:07.752Z : creation aborted, post title ‌'মৌলবাদীদের সুযোগ দিলে তারা দেশে বিশৃঙ্খলা সৃষ্টি করবে’
+2017-02-20T17:45:07.752Z : creation aborted, post title বঙ্গবন্ধুর ঘনিষ্ঠ সহচর শাহ হাদিউজ্জামানের দাফন সম্পন্ন
+2017-02-20T17:45:07.752Z : creation aborted, post title  রোহিঙ্গা ইস্যুর শান্তিপূর্ণ সমাধান চায় বাংলাদেশ
+2017-02-20T17:45:07.752Z : creation aborted, post title একুশে ফেব্রুয়ারি আমাদের অহংকার 
+2017-02-20T17:45:07.752Z : creation aborted, post title সিসিকের দুই কাউন্সিলর বরখাস্তের আদেশ স্থগিত
+2017-02-20T17:45:07.752Z : creation aborted, post title অপ্রতিরোধ্য বাংলাদেশকে থামাবে কে?
+2017-02-20T17:45:07.752Z : creation aborted, post title নোয়াখালীতে পাঁচ দিনব্যাপী একুশে বইমেলা শুরু
+2017-02-20T17:45:07.752Z : creation aborted, post title ২১ ফেব্রুয়ারি বইমেলা শুরু সকাল ৮টায়
+2017-02-20T17:45:07.753Z : creation aborted, post title চিকিৎসার জন্য মালয়েশিয়ায় আল্লামা শফী
+2017-02-20T17:45:07.753Z : creation aborted, post title আদিতমারীতে আসামির ছুরিকাঘাতে এসআই আহত
+2017-02-20T17:45:07.753Z : Finished bdnews24 parser
+2017-02-20T17:46:04.823Z : Started bdnews24 parsing
+2017-02-20T17:46:05.444Z : Received RSS feed. 30 news found.
+2017-02-20T17:46:05.935Z : creation aborted, post title খুলনার শিক্ষাসাগরে রাতে উড়ছে জাতীয় পতাকা!
+2017-02-20T17:46:05.954Z : creation aborted, post title জায়গা বিক্রিতে বাধা, সংঘর্ষের পর আটক ১২
+2017-02-20T17:46:06.030Z : creation aborted, post title সাভারে সড়ক দুর্ঘটনায় হানিফ সংকেতের খালাতো ভাই নিহত
+2017-02-20T17:46:06.035Z : creation aborted, post title দুর্ঘটনা প্রতিরোধে চালকদের প্রশিক্ষণ দিলো পুলিশ
+2017-02-20T17:46:06.060Z : creation aborted, post title হাতীবান্ধায় মোটরসাইকেল আরোহী নিহত
+2017-02-20T17:46:06.060Z : creation aborted, post title দেওয়ানগঞ্জে ৬৫টি ভারতীয় গরু উদ্ধার
+2017-02-20T17:46:06.060Z : creation aborted, post title কালীগঞ্জে দুই শিক্ষককে মারধর
+2017-02-20T17:46:06.109Z : creation aborted, post title এ শহীদ মিনার এখন স্মৃতি!
+2017-02-20T17:46:07.549Z : creation aborted, post title কক্সবাজারে লাঠির আঘাতে বন্ধুর মৃত্যু
+2017-02-20T17:46:07.559Z : creation aborted, post title সবার আগে সেমিফাইনালে মালদ্বীপের টিসি স্পোর্টস
+2017-02-20T17:46:07.559Z : creation aborted, post title কক্সবাজারে শিশুকে শ্বাসরোধ করে হত্যা
+2017-02-20T17:46:07.565Z : creation aborted, post title সীতাকুণ্ডে সড়ক দুর্ঘটনায় অজ্ঞাত পরিচয়ের নারী নিহত
+2017-02-20T17:46:07.565Z : creation aborted, post title বরিশালে ডোবা থেকে রিকশা চালকের মৃত‌দেহ উদ্ধার
+2017-02-20T17:46:07.565Z : creation aborted, post title ৫২’র ভাষা |‍ আলাউদ্দিন হোসেন
+2017-02-20T17:46:07.565Z : creation aborted, post title ব্রাহ্মণবাড়িয়ায় যুবলীগ নেতার মরদেহ উদ্ধার
+2017-02-20T17:46:07.569Z : creation aborted, post title একুশ আসে ফিরে ফিরে | আহমেদ রব্বানী
+2017-02-20T17:46:08.261Z : creation aborted, post title শহীদ দিবস উপলক্ষে বগুড়ায় চিত্রাংকন প্রতিযোগিতা  
+2017-02-20T17:46:08.261Z : creation aborted, post title ওমানে সড়ক দুর্ঘটনায় বাংলাদেশি যুবক নিহত
+2017-02-20T17:46:08.267Z : creation aborted, post title এবার একুশে পদকপ্রাপ্ত ১৭ গুণীজনের যতো অবদান
+2017-02-20T17:46:08.267Z : creation aborted, post title মৌলভীবাজারে সন্ধ্যায় মাঝারি ধরনের বৃষ্টি
+2017-02-20T17:46:08.267Z : creation aborted, post title ‌'মৌলবাদীদের সুযোগ দিলে তারা দেশে বিশৃঙ্খলা সৃষ্টি করবে’
+2017-02-20T17:46:08.267Z : creation aborted, post title  রোহিঙ্গা ইস্যুর শান্তিপূর্ণ সমাধান চায় বাংলাদেশ
+2017-02-20T17:46:09.209Z : creation aborted, post title বঙ্গবন্ধুর ঘনিষ্ঠ সহচর শাহ হাদিউজ্জামানের দাফন সম্পন্ন
+2017-02-20T17:46:09.304Z : creation aborted, post title একুশে ফেব্রুয়ারি আমাদের অহংকার 
+2017-02-20T17:46:09.304Z : creation aborted, post title সিসিকের দুই কাউন্সিলর বরখাস্তের আদেশ স্থগিত
+2017-02-20T17:46:09.305Z : creation aborted, post title অপ্রতিরোধ্য বাংলাদেশকে থামাবে কে?
+2017-02-20T17:46:09.305Z : creation aborted, post title নোয়াখালীতে পাঁচ দিনব্যাপী একুশে বইমেলা শুরু
+2017-02-20T17:46:09.313Z : creation aborted, post title ২১ ফেব্রুয়ারি বইমেলা শুরু সকাল ৮টায়
+2017-02-20T17:46:09.670Z : creation aborted, post title চিকিৎসার জন্য মালয়েশিয়ায় আল্লামা শফী
+2017-02-20T17:46:09.670Z : creation aborted, post title আদিতমারীতে আসামির ছুরিকাঘাতে এসআই আহত
+2017-02-20T17:46:09.670Z : Finished bdnews24 parser
+2017-02-20T19:22:04.916Z : Started bdnews24 parsing
+2017-02-20T19:22:05.687Z : Received RSS feed. 30 news found.
+2017-02-20T19:22:06.376Z : creation aborted, post title খুলনার শিক্ষাসাগরে রাতে উড়ছে জাতীয় পতাকা!
+2017-02-20T19:22:06.376Z : creation aborted, post title জায়গা বিক্রিতে বাধা, সংঘর্ষের পর আটক ১২
+2017-02-20T19:22:06.376Z : creation aborted, post title সাভারে সড়ক দুর্ঘটনায় হানিফ সংকেতের খালাতো ভাই নিহত
+2017-02-20T19:22:06.378Z : creation aborted, post title দুর্ঘটনা প্রতিরোধে চালকদের প্রশিক্ষণ দিলো পুলিশ
+2017-02-20T19:22:06.381Z : creation aborted, post title হাতীবান্ধায় মোটরসাইকেল আরোহী নিহত
+2017-02-20T19:22:06.403Z : creation aborted, post title দেওয়ানগঞ্জে ৬৫টি ভারতীয় গরু উদ্ধার
+2017-02-20T19:22:06.854Z : creation aborted, post title কালীগঞ্জে দুই শিক্ষককে মারধর
+2017-02-20T19:22:06.854Z : creation aborted, post title এ শহীদ মিনার এখন স্মৃতি!
+2017-02-20T19:22:06.855Z : creation aborted, post title কক্সবাজারে লাঠির আঘাতে বন্ধুর মৃত্যু
+2017-02-20T19:22:06.855Z : creation aborted, post title সবার আগে সেমিফাইনালে মালদ্বীপের টিসি স্পোর্টস
+2017-02-20T19:22:06.855Z : creation aborted, post title কক্সবাজারে শিশুকে শ্বাসরোধ করে হত্য���
+2017-02-20T19:22:06.855Z : creation aborted, post title সীতাকুণ্ডে সড়ক দুর্ঘটনায় অজ্ঞাত পরিচয়ের নারী নিহত
+2017-02-20T19:22:06.855Z : creation aborted, post title বরিশালে ডোবা থেকে রিকশা চালকের মৃত‌দেহ উদ্ধার
+2017-02-20T19:22:07.984Z : creation aborted, post title ৫২’র ভাষা |‍ আলাউদ্দিন হোসেন
+2017-02-20T19:22:07.990Z : creation aborted, post title ব্রাহ্মণবাড়িয়ায় যুবলীগ নেতার মরদেহ উদ্ধার
+2017-02-20T19:22:08.018Z : creation aborted, post title একুশ আসে ফিরে ফিরে | আহমেদ রব্বানী
+2017-02-20T19:22:08.027Z : creation aborted, post title শহীদ দিবস উপলক্ষে বগুড়ায় চিত্রাংকন প্রতিযোগিতা  
+2017-02-20T19:22:08.029Z : creation aborted, post title ওমানে সড়ক দুর্ঘটনায় বাংলাদেশি যুবক নিহত
+2017-02-20T19:22:08.029Z : creation aborted, post title এবার একুশে পদকপ্রাপ্ত ১৭ গুণীজনের যতো অবদান
+2017-02-20T19:22:08.029Z : creation aborted, post title মৌলভীবাজারে সন্ধ্যায় মাঝারি ধরনের বৃষ্টি
+2017-02-20T19:22:08.030Z : creation aborted, post title ‌'মৌলবাদীদের সুযোগ দিলে তারা দেশে বিশৃঙ্খলা সৃষ্টি করবে’
+2017-02-20T19:22:08.033Z : creation aborted, post title  রোহিঙ্গা ইস্যুর শান্তিপূর্ণ সমাধান চায় বাংলাদেশ
+2017-02-20T19:22:08.038Z : creation aborted, post title বঙ্গবন্ধুর ঘনিষ্ঠ সহচর শাহ হাদিউজ্জামানের দাফন সম্পন্ন
+2017-02-20T19:22:08.046Z : creation aborted, post title একুশে ফেব্রুয়ারি আমাদের অহংকার 
+2017-02-20T19:22:08.049Z : creation aborted, post title সিসিকের দুই কাউন্সিলর বরখাস্তের আদেশ স্থগিত
+2017-02-20T19:22:08.060Z : creation aborted, post title অপ্রতিরোধ্য বাংলাদেশকে থামাবে কে?
+2017-02-20T19:22:08.069Z : creation aborted, post title নোয়াখালীতে পাঁচ দিনব্যাপী একুশে বইমেলা শুরু
+2017-02-20T19:22:08.076Z : creation success, post title ভাষাশহীদদের শ্রদ্ধা জানাতে শহীদ মিনারে জনতার ঢল
+2017-02-20T19:22:08.076Z : creation success, post title নিউইয়র্কে রুশ রাষ্ট্রদূতের ‘আকস্মিক মৃত্যু’
+2017-02-20T19:22:08.488Z : creation success, post title ভাষাশহীদদের প্রতি রাষ্ট্রপতি ও প্রধানমন্ত্রীর ফুলেল শ্রদ্ধা
+2017-02-20T19:22:08.488Z : Finished bdnews24 parser
+2017-02-20T19:23:04.284Z : Started bdnews24 parsing
+2017-02-20T19:23:04.975Z : Received RSS feed. 30 news found.
+2017-02-20T19:23:05.519Z : creation aborted, post title ভাষাশহীদদের শ্রদ্ধা জানাতে শহীদ মিনারে জনতার ঢল
+2017-02-20T19:23:05.541Z : creation aborted, post title নিউইয়র্কে রুশ রাষ্ট্রদূতের ‘আকস্মিক মৃত্যু’
+2017-02-20T19:23:05.561Z : creation aborted, post title ভাষাশহীদদের প্রতি রাষ্ট্রপতি ও প্রধানমন্ত্রীর ফুলেল শ্রদ্ধা
+2017-02-20T19:23:05.579Z : creation aborted, post title খুলনার শিক্ষাসাগরে রাতে উড়ছে জাতীয় পতাকা!
+2017-02-20T19:23:05.605Z : creation aborted, post title জায়গা বিক্রিতে বাধা, সংঘর্ষের পর আটক ১২
+2017-02-20T19:23:05.620Z : creation aborted, post title সাভারে সড়ক দুর্ঘটনায় হানিফ সংকেতের খালাতো ভাই নিহত
+2017-02-20T19:23:05.646Z : creation aborted, post title দুর্ঘটনা প্রতিরোধে চালকদের প্রশিক্ষণ দিলো পুলিশ
+2017-02-20T19:23:05.665Z : creation aborted, post title হাতীবান্ধায় মোটরসাইকেল আরোহী নিহত
+2017-02-20T19:23:05.701Z : creation aborted, post title দেওয়ানগঞ্জে ৬৫টি ভারতীয় গরু উদ্ধার
+2017-02-20T19:23:06.266Z : creation aborted, post title কালীগঞ্জে দুই শিক্ষককে মারধর
+2017-02-20T19:23:06.266Z : creation aborted, post title সবার আগে সেমিফাইনালে মালদ্বীপের টিসি স্পোর্টস
+2017-02-20T19:23:06.266Z : creation aborted, post title এ শহীদ মিনার এখন স্মৃতি!
+2017-02-20T19:23:06.267Z : creation aborted, post title কক্সবাজারে শিশুকে শ্বাসরোধ করে হত্য���
+2017-02-20T19:23:06.267Z : creation aborted, post title সীতাকুণ্ডে সড়ক দুর্ঘটনায় অজ্ঞাত পরিচয়ের নারী নিহত
+2017-02-20T19:23:06.266Z : creation aborted, post title কক্সবাজারে লাঠির আঘাতে বন্ধুর মৃত্যু
+2017-02-20T19:23:06.267Z : creation aborted, post title বরিশালে ডোবা থেকে রিকশা চালকের মৃত‌দেহ উদ্ধার
+2017-02-20T19:23:06.525Z : creation aborted, post title ৫২’র ভাষা |‍ আলাউদ্দিন হোসেন
+2017-02-20T19:23:06.525Z : creation aborted, post title ব্রাহ্মণবাড়িয়ায় যুবলীগ নেতার মরদেহ উদ্ধার
+2017-02-20T19:23:06.542Z : creation aborted, post title শহীদ দিবস উপলক্ষে বগুড়ায় চিত্রাংকন প্রতিযোগিতা  
+2017-02-20T19:23:06.542Z : creation aborted, post title একুশ আসে ফিরে ফিরে | আহমেদ রব্বানী
+2017-02-20T19:23:06.544Z : creation aborted, post title ওমানে সড়ক দুর্ঘটনায় বাংলাদেশি যুবক নিহত
+2017-02-20T19:23:06.544Z : creation aborted, post title এবার একুশে পদকপ্রাপ্ত ১৭ গুণীজনের যতো অবদান
+2017-02-20T19:23:06.544Z : creation aborted, post title মৌলভীবাজারে সন্ধ্যায় মাঝারি ধরনের বৃষ্টি
+2017-02-20T19:23:06.552Z : creation aborted, post title ‌'মৌলবাদীদের সুযোগ দিলে তারা দেশে বিশৃঙ্খলা সৃষ্টি করবে’
+2017-02-20T19:23:06.552Z : creation aborted, post title  রোহিঙ্গা ইস্যুর শান্তিপূর্ণ সমাধান চায় বাংলাদেশ
+2017-02-20T19:23:06.553Z : creation aborted, post title বঙ্গবন্ধুর ঘনিষ্ঠ সহচর শাহ হাদিউজ্জামানের দাফন সম্পন্ন
+2017-02-20T19:23:06.590Z : creation aborted, post title একুশে ফেব্রুয়ারি আমাদের অহংকার 
+2017-02-20T19:23:06.609Z : creation aborted, post title সিসিকের দুই কাউন্সিলর বরখাস্তের আদেশ স্থগিত
+2017-02-20T19:23:06.610Z : creation aborted, post title অপ্রতিরোধ্য বাংলাদেশকে থামাবে কে?
+2017-02-20T19:23:07.020Z : creation aborted, post title নোয়াখালীতে পাঁচ দিনব্যাপী একুশে বইমেলা শুরু
+2017-02-20T19:23:07.020Z : Finished bdnews24 parser
+2017-02-20T19:24:04.368Z : Started bdnews24 parsing
+2017-02-20T19:24:04.991Z : Received RSS feed. 30 news found.
+2017-02-20T19:24:05.546Z : creation aborted, post title ভাষাশহীদদের শ্রদ্ধা জানাতে শহীদ মিনারে জনতার ঢল
+2017-02-20T19:24:05.546Z : creation aborted, post title নিউইয়র্কে রুশ রাষ্ট্রদূতের ‘আকস্মিক মৃত্যু’
+2017-02-20T19:24:05.546Z : creation aborted, post title ভাষাশহীদদের প্রতি রাষ্ট্রপতি ও প্রধানমন্ত্রীর ফুলেল শ্রদ্ধা
+2017-02-20T19:24:05.546Z : creation aborted, post title খুলনার শিক্ষাসাগরে রাতে উড়ছে জাতীয় পতাকা!
+2017-02-20T19:24:05.546Z : creation aborted, post title জায়গা বিক্রিতে বাধা, সংঘর্ষের পর আটক ১২
+2017-02-20T19:24:05.548Z : creation aborted, post title সাভারে সড়ক দুর্ঘটনায় হানিফ সংকেতের খালাতো ভাই নিহত
+2017-02-20T19:24:05.556Z : creation aborted, post title দুর্ঘটনা প্রতিরোধে চালকদের প্রশিক্ষণ দিলো পুলিশ
+2017-02-20T19:24:05.574Z : creation aborted, post title হাতীবান্ধায় মোটরসাইকেল আরোহী নিহত
+2017-02-20T19:24:06.175Z : creation aborted, post title দেওয়ানগঞ্জে ৬৫টি ভারতীয় গরু উদ্ধার
+2017-02-20T19:24:06.176Z : creation aborted, post title কালীগঞ্জে দুই শিক্ষককে মারধর
+2017-02-20T19:24:06.176Z : creation aborted, post title এ শহীদ মিনার এখন স্মৃতি!
+2017-02-20T19:24:06.176Z : creation aborted, post title কক্সবাজারে লাঠির আঘাতে বন্ধুর মৃত্যু
+2017-02-20T19:24:06.176Z : creation aborted, post title সবার আগে সেমিফাইনালে মালদ্বীপের টিসি স্পোর্টস
+2017-02-20T19:24:06.176Z : creation aborted, post title কক্সবাজারে শিশুকে শ্বাসরোধ করে হত্যা
+2017-02-20T19:24:06.176Z : creation aborted, post title সীতাকুণ্ডে সড়ক দ���র্ঘটনায় অজ্ঞাত পরিচয়ের নারী নিহত
+2017-02-20T19:24:06.922Z : creation aborted, post title বরিশালে ডোবা থেকে রিকশা চালকের মৃত‌দেহ উদ্ধার
+2017-02-20T19:24:06.929Z : creation aborted, post title ৫২’র ভাষা |‍ আলাউদ্দিন হোসেন
+2017-02-20T19:24:06.930Z : creation aborted, post title ব্রাহ্মণবাড়িয়ায় যুবলীগ নেতার মরদেহ উদ্ধার
+2017-02-20T19:24:06.938Z : creation aborted, post title একুশ আসে ফিরে ফিরে | আহমেদ রব্বানী
+2017-02-20T19:24:06.944Z : creation aborted, post title ওমানে সড়ক দুর্ঘটনায় বাংলাদেশি যুবক নিহত
+2017-02-20T19:24:06.944Z : creation aborted, post title শহীদ দিবস উপলক্ষে বগুড়ায় চিত্রাংকন প্রতিযোগিতা  
+2017-02-20T19:24:06.945Z : creation aborted, post title এবার একুশে পদকপ্রাপ্ত ১৭ গুণীজনের যতো অবদান
+2017-02-20T19:24:07.841Z : creation aborted, post title মৌলভীবাজারে সন্ধ্যায় মাঝারি ধরনের বৃষ্টি
+2017-02-20T19:24:07.851Z : creation aborted, post title ‌'মৌলবাদীদের সুযোগ দিলে তারা দেশে বিশৃঙ্খলা সৃষ্টি করবে’
+2017-02-20T19:24:07.861Z : creation aborted, post title  রোহিঙ্গা ইস্যুর শান্তিপূর্ণ সমাধান চায় বাংলাদেশ
+2017-02-20T19:24:07.879Z : creation success, post title আন্তর্জাতিক স্বীকৃতিতে বিশ্বে বাংলা ভাষার মর্যাদা বেড়েছে
+2017-02-20T19:24:07.880Z : creation aborted, post title বঙ্গবন্ধুর ঘনিষ্ঠ সহচর শাহ হাদিউজ্জামানের দাফন সম্পন্ন
+2017-02-20T19:24:07.880Z : creation aborted, post title একুশে ফেব্রুয়ারি আমাদের অহংকার 
+2017-02-20T19:24:07.881Z : creation aborted, post title সিসিকের দুই কাউন্সিলর বরখাস্তের আদেশ স্থগিত
+2017-02-20T19:24:07.881Z : creation aborted, post title অপ্রতিরোধ্য বাংলাদেশকে থামাবে কে?
+2017-02-20T19:24:07.881Z : Finished bdnews24 parser
+2017-02-20T19:25:04.570Z : Started bdnews24 parsing
+2017-02-20T19:25:05.147Z : Received RSS feed. 30 news found.
+2017-02-20T19:25:05.679Z : creation aborted, post title আন্তর্জাতিক স্বীকৃতিতে বিশ্বে বাংলা ভাষার মর্যাদা বেড়েছে
+2017-02-20T19:25:05.682Z : creation aborted, post title ভাষাশহীদদের শ্রদ্ধা জানাতে শহীদ মিনারে জনতার ঢল
+2017-02-20T19:25:05.698Z : creation aborted, post title নিউইয়র্কে রুশ রাষ্ট্রদূতের ‘আকস্মিক মৃত্যু’
+2017-02-20T19:25:05.712Z : creation aborted, post title ভাষাশহীদদের প্রতি রাষ্ট্রপতি ও প্রধানমন্ত্রীর ফুলেল শ্রদ্ধা
+2017-02-20T19:25:05.722Z : creation aborted, post title খুলনার শিক্ষাসাগরে রাতে উড়ছে জাতীয় পতাকা!
+2017-02-20T19:25:05.738Z : creation aborted, post title জায়গা বিক্রিতে বাধা, সংঘর্ষের পর আটক ১২
+2017-02-20T19:25:05.752Z : creation aborted, post title সাভারে সড়ক দুর্ঘটনায় হানিফ সংকেতের খালাতো ভাই নিহত
+2017-02-20T19:25:05.771Z : creation aborted, post title দুর্ঘটনা প্রতিরোধে চালকদের প্রশিক্ষণ দিলো পুলিশ
+2017-02-20T19:25:05.795Z : creation aborted, post title হাতীবান্ধায় মোটরসাইকেল আরোহী নিহত
+2017-02-20T19:25:06.356Z : creation aborted, post title দেওয়ানগঞ্জে ৬৫টি ভারতীয় গরু উদ্ধার
+2017-02-20T19:25:06.356Z : creation aborted, post title কালীগঞ্জে দুই শিক্ষককে মারধর
+2017-02-20T19:25:06.356Z : creation aborted, post title এ শহীদ মিনার এখন স্মৃতি!
+2017-02-20T19:25:06.356Z : creation aborted, post title কক্সবাজারে লাঠির আঘাতে বন্ধুর মৃত্যু
+2017-02-20T19:25:06.356Z : creation aborted, post title সবার আগে সেমিফাইনালে মালদ্বীপের টিসি স্পোর্টস
+2017-02-20T19:25:06.356Z : creation aborted, post title কক্সবাজারে শিশুকে শ্বাসরোধ করে হত্যা
+2017-02-20T19:25:06.356Z : creation aborted, post title সীতাকুণ্ডে সড়ক দ���র্ঘটনায় অজ্ঞাত পরিচয়ের নারী নিহত
+2017-02-20T19:25:07.184Z : creation aborted, post title বরিশালে ডোবা থেকে রিকশা চালকের মৃত‌দেহ উদ্ধার
+2017-02-20T19:25:07.184Z : creation aborted, post title ৫২’র ভাষা |‍ আলাউদ্দিন হোসেন
+2017-02-20T19:25:07.196Z : creation aborted, post title ব্রাহ্মণবাড়িয়ায় যুবলীগ নেতার মরদেহ উদ্ধার
+2017-02-20T19:25:07.197Z : creation aborted, post title একুশ আসে ফিরে ফিরে | আহমেদ রব্বানী
+2017-02-20T19:25:07.198Z : creation aborted, post title শহীদ দিবস উপলক্ষে বগুড়ায় চিত্রাংকন প্রতিযোগিতা  
+2017-02-20T19:25:07.198Z : creation aborted, post title ওমানে সড়ক দুর্ঘটনায় বাংলাদেশি যুবক নিহত
+2017-02-20T19:25:07.202Z : creation aborted, post title মৌলভীবাজারে সন্ধ্যায় মাঝারি ধরনের বৃষ্টি
+2017-02-20T19:25:07.202Z : creation aborted, post title এবার একুশে পদকপ্রাপ্ত ১৭ গুণীজনের যতো অবদান
+2017-02-20T19:25:07.203Z : creation aborted, post title ‌'মৌলবাদীদের সুযোগ দিলে তারা দেশে বিশৃঙ্খলা সৃষ্টি করবে’
+2017-02-20T19:25:07.212Z : creation aborted, post title  রোহিঙ্গা ইস্যুর শান্তিপূর্ণ সমাধান চায় বাংলাদেশ
+2017-02-20T19:25:07.213Z : creation aborted, post title বঙ্গবন্ধুর ঘনিষ্ঠ সহচর শাহ হাদিউজ্জামানের দাফন সম্পন্ন
+2017-02-20T19:25:07.217Z : creation aborted, post title একুশে ফেব্রুয়ারি আমাদের অহংকার 
+2017-02-20T19:25:07.218Z : creation aborted, post title সিসিকের দুই কাউন্সিলর বরখাস্তের আদেশ স্থগিত
+2017-02-20T19:25:07.223Z : creation aborted, post title অপ্রতিরোধ্য বাংলাদেশকে থামাবে কে?
+2017-02-20T19:25:07.223Z : Finished bdnews24 parser
+2017-02-20T19:26:04.637Z : Started bdnews24 parsing
+2017-02-20T19:26:05.467Z : Received RSS feed. 30 news found.
+2017-02-20T19:26:05.979Z : creation aborted, post title আন্তর্জাতিক স্বীকৃতিতে বিশ্বে বাংলা ভাষার মর্যাদা বেড়েছে
+2017-02-20T19:26:05.982Z : creation aborted, post title ভাষাশহীদদের শ্রদ্ধা জানাতে শহীদ মিনারে জনতার ঢল
+2017-02-20T19:26:05.993Z : creation aborted, post title নিউইয়র্কে রুশ রাষ্ট্রদূতের ‘আকস্মিক মৃত্যু’
+2017-02-20T19:26:06.018Z : creation aborted, post title ভাষাশহীদদের প্রতি রাষ্ট্রপতি ও প্রধানমন্ত্রীর ফুলেল শ্রদ্ধা
+2017-02-20T19:26:06.023Z : creation aborted, post title খুলনার শিক্ষাসাগরে রাতে উড়ছে জাতীয় পতাকা!
+2017-02-20T19:26:06.034Z : creation aborted, post title জায়গা বিক্রিতে বাধা, সংঘর্ষের পর আটক ১২
+2017-02-20T19:26:06.053Z : creation aborted, post title সাভারে সড়ক দুর্ঘটনায় হানিফ সংকেতের খালাতো ভাই নিহত
+2017-02-20T19:26:06.063Z : creation aborted, post title দুর্ঘটনা প্রতিরোধে চালকদের প্রশিক্ষণ দিলো পুলিশ
+2017-02-20T19:26:06.091Z : creation aborted, post title হাতীবান্ধায় মোটরসাইকেল আরোহী নিহত
+2017-02-20T19:26:06.395Z : creation aborted, post title দেওয়ানগঞ্জে ৬৫টি ভারতীয় গরু উদ্ধার
+2017-02-20T19:26:06.396Z : creation aborted, post title এ শহীদ মিনার এখন স্মৃতি!
+2017-02-20T19:26:06.396Z : creation aborted, post title কালীগঞ্জে দুই শিক্ষককে মারধর
+2017-02-20T19:26:06.692Z : creation aborted, post title কক্সবাজারে লাঠির আঘাতে বন্ধুর মৃত্যু
+2017-02-20T19:26:06.692Z : creation aborted, post title সবার আগে সেমিফাইনালে মালদ্বীপের টিসি স্পোর্টস
+2017-02-20T19:26:06.693Z : creation aborted, post title কক্সবাজারে শিশুকে শ্বাসরোধ করে হত্যা
+2017-02-20T19:26:06.693Z : creation aborted, post title সীতাকুণ্ডে সড়ক দুর্ঘটনায় অজ্ঞাত পরিচয়ের নারী নিহত
+2017-02-20T19:26:07.489Z : creation aborted, post title বরিশালে ডোবা থেকে রিকশা চালকের মৃত‌দেহ উদ্ধার
+2017-02-20T19:26:07.493Z : creation aborted, post title ৫২’র ভাষা |‍ আলাউদ্দিন হোসেন
+2017-02-20T19:26:07.501Z : creation aborted, post title ব্রাহ্মণবাড়িয়ায় যুবলীগ নেতার মরদেহ উদ্ধার
+2017-02-20T19:26:07.501Z : creation aborted, post title একুশ আসে ফিরে ফিরে | আহমেদ রব্বানী
+2017-02-20T19:26:07.504Z : creation aborted, post title শহীদ দিবস উপলক্ষে বগুড়ায় চিত্রাংকন প্রতিযোগিতা  
+2017-02-20T19:26:07.504Z : creation aborted, post title ওমানে সড়ক দুর্ঘটনায় বাংলাদেশি যুবক নিহত
+2017-02-20T19:26:07.508Z : creation aborted, post title এবার একুশে পদকপ্রাপ্ত ১৭ গুণীজনের যতো অবদান
+2017-02-20T19:26:07.508Z : creation aborted, post title মৌলভীবাজারে সন্ধ্যায় মাঝারি ধরনের বৃষ্টি
+2017-02-20T19:26:07.513Z : creation aborted, post title ‌'মৌলবাদীদের সুযোগ দিলে তারা দেশে বিশৃঙ্খলা সৃষ্টি করবে’
+2017-02-20T19:26:07.519Z : creation aborted, post title  রোহিঙ্গা ইস্যুর শান্তিপূর্ণ সমাধান চায় বাংলাদেশ
+2017-02-20T19:26:07.519Z : creation aborted, post title বঙ্গবন্ধুর ঘনিষ্ঠ সহচর শাহ হাদিউজ্জামানের দাফন সম্পন্ন
+2017-02-20T19:26:07.523Z : creation aborted, post title একুশে ফেব্রুয়ারি আমাদের অহংকার 
+2017-02-20T19:26:07.523Z : creation aborted, post title সিসিকের দুই কাউন্সিলর বরখাস্তের আদেশ স্থগিত
+2017-02-20T19:26:07.529Z : creation aborted, post title অপ্রতিরোধ্য বাংলাদেশকে থামাবে কে?
+2017-02-20T19:26:07.529Z : Finished bdnews24 parser
+2017-02-20T19:27:04.272Z : Started bdnews24 parsing
+2017-02-20T19:27:04.854Z : Received RSS feed. 30 news found.
+2017-02-20T19:27:05.381Z : creation aborted, post title আন্তর্জাতিক স্বীকৃতিতে বিশ্বে বাংলা ভাষার মর্যাদা বেড়েছে
+2017-02-20T19:27:05.386Z : creation aborted, post title ভাষাশহীদদের শ্রদ্ধা জানাতে শহীদ মিনারে জনতার ঢল
+2017-02-20T19:27:05.410Z : creation aborted, post title নিউইয়র্কে রুশ রাষ্ট্রদূতের ‘আকস্মিক মৃত্যু’
+2017-02-20T19:27:05.424Z : creation aborted, post title ভাষাশহীদদের প্রতি রাষ্ট্রপতি ও প্রধানমন্ত্রীর ফুলেল শ্রদ্ধা
+2017-02-20T19:27:05.444Z : creation aborted, post title খুলনার শিক্ষাসাগরে রাতে উড়ছে জাতীয় পতাকা!
+2017-02-20T19:27:05.469Z : creation aborted, post title জায়গা বিক্রিতে বাধা, সংঘর্ষের পর আটক ১২
+2017-02-20T19:27:05.484Z : creation aborted, post title সাভারে সড়ক দুর্ঘটনায় হানিফ সংকেতের খালাতো ভাই নিহত
+2017-02-20T19:27:05.500Z : creation aborted, post title দুর্ঘটনা প্রতিরোধে চালকদের প্রশিক্ষণ দিলো পুলিশ
+2017-02-20T19:27:05.532Z : creation aborted, post title হাতীবান্ধায় মোটরসাইকেল আরোহী নিহত
+2017-02-20T19:27:05.974Z : creation aborted, post title দেওয়ানগঞ্জে ৬৫টি ভারতীয় গরু উদ্ধার
+2017-02-20T19:27:05.974Z : creation aborted, post title কালীগঞ্জে দুই শিক্ষককে মারধর
+2017-02-20T19:27:05.974Z : creation aborted, post title এ শহীদ মিনার এখন স্মৃতি!
+2017-02-20T19:27:05.974Z : creation aborted, post title কক্সবাজারে লাঠির আঘাতে বন্ধুর মৃত্যু
+2017-02-20T19:27:05.974Z : creation aborted, post title সবার আগে সেমিফাইনালে মালদ্বীপের টিসি স্পোর্টস
+2017-02-20T19:27:05.975Z : creation aborted, post title কক্সবাজারে শিশুকে শ্বাসরোধ করে হত্যা
+2017-02-20T19:27:05.975Z : creation aborted, post title সীতাকুণ্ডে সড়ক দ���র্ঘটনায় অজ্ঞাত পরিচয়ের নারী নিহত
+2017-02-20T19:27:06.982Z : creation aborted, post title বরিশালে ডোবা থেকে রিকশা চালকের মৃত‌দেহ উদ্ধার
+2017-02-20T19:27:06.989Z : creation aborted, post title ৫২’র ভাষা |‍ আলাউদ্দিন হোসেন
+2017-02-20T19:27:06.990Z : creation aborted, post title একুশ আসে ফিরে ফিরে | আহমেদ রব্বানী
+2017-02-20T19:27:06.989Z : creation aborted, post title ব্রাহ্মণবাড়িয়ায় যুবলীগ নেতার মরদেহ উদ্ধার
+2017-02-20T19:27:06.996Z : creation aborted, post title শহীদ দিবস উপলক্ষে বগুড়ায় চিত্রাংকন প্রতিযোগিতা  
+2017-02-20T19:27:06.996Z : creation aborted, post title ওমানে সড়ক দুর্ঘটনায় বাংলাদেশি যুবক নিহত
+2017-02-20T19:27:06.996Z : creation aborted, post title এবার একুশে পদকপ্রাপ্ত ১৭ গুণীজনের যতো অবদান
+2017-02-20T19:27:07.005Z : creation aborted, post title মৌলভীবাজারে সন্ধ্যায় মাঝারি ধরনের বৃষ্টি
+2017-02-20T19:27:07.005Z : creation aborted, post title ‌'মৌলবাদীদের সুযোগ দিলে তারা দেশে বিশৃঙ্খলা সৃষ্টি করবে’
+2017-02-20T19:27:07.007Z : creation aborted, post title  রোহিঙ্গা ইস্যুর শান্তিপূর্ণ সমাধান চায় বাংলাদেশ
+2017-02-20T19:27:07.464Z : creation aborted, post title বঙ্গবন্ধুর ঘনিষ্ঠ সহচর শাহ হাদিউজ্জামানের দাফন সম্পন্ন
+2017-02-20T19:27:07.467Z : creation aborted, post title একুশে ফেব্রুয়ারি আমাদের অহংকার 
+2017-02-20T19:27:07.467Z : creation aborted, post title সিসিকের দুই কাউন্সিলর বরখাস্তের আদেশ স্থগিত
+2017-02-20T19:27:07.467Z : creation aborted, post title অপ্রতিরোধ্য বাংলাদেশকে থামাবে কে?
+2017-02-20T19:27:07.468Z : Finished bdnews24 parser
+2017-02-20T19:28:04.693Z : Started bdnews24 parsing
+2017-02-20T19:28:05.616Z : Received RSS feed. 30 news found.
+2017-02-20T19:28:06.173Z : creation aborted, post title আন্তর্জাতিক স্বীকৃতিতে বিশ্বে বাংলা ভাষার মর্যাদা বেড়েছে
+2017-02-20T19:28:06.192Z : creation aborted, post title ভাষাশহীদদের শ্রদ্ধা জানাতে শহীদ মিনারে জনতার ঢল
+2017-02-20T19:28:06.215Z : creation aborted, post title নিউইয়র্কে রুশ রাষ্ট্রদূতের ‘আকস্মিক মৃত্যু’
+2017-02-20T19:28:06.246Z : creation aborted, post title ভাষাশহীদদের প্রতি রাষ্ট্রপতি ও প্রধানমন্ত্রীর ফুলেল শ্রদ্ধা
+2017-02-20T19:28:06.281Z : creation aborted, post title খুলনার শিক্ষাসাগরে রাতে উড়ছে জাতীয় পতাকা!
+2017-02-20T19:28:06.301Z : creation aborted, post title জায়গা বিক্রিতে বাধা, সংঘর্ষের পর আটক ১২
+2017-02-20T19:28:06.331Z : creation aborted, post title সাভারে সড়ক দুর্ঘটনায় হানিফ সংকেতের খালাতো ভাই নিহত
+2017-02-20T19:28:06.360Z : creation aborted, post title দুর্ঘটনা প্রতিরোধে চালকদের প্রশিক্ষণ দিলো পুলিশ
+2017-02-20T19:28:06.414Z : creation aborted, post title হাতীবান্ধায় মোটরসাইকেল আরোহী নিহত
+2017-02-20T19:28:06.431Z : creation aborted, post title দেওয়ানগঞ্জে ৬৫টি ভারতীয় গরু উদ্ধার
+2017-02-20T19:28:06.467Z : creation aborted, post title কালীগঞ্জে দুই শিক্ষককে মারধর
+2017-02-20T19:28:07.432Z : creation aborted, post title এ শহীদ মিনার এখন স্মৃতি!
+2017-02-20T19:28:07.433Z : creation aborted, post title কক্সবাজারে লাঠির আঘাতে বন্ধুর মৃত্যু
+2017-02-20T19:28:07.433Z : creation aborted, post title সবার আগে সেমিফাইনালে মালদ্বীপের টিসি স্পোর্টস
+2017-02-20T19:28:07.993Z : creation aborted, post title কক্সবাজারে শিশুকে শ্বাসরোধ করে হত্যা
+2017-02-20T19:28:08.572Z : creation aborted, post title সীতাকুণ্ডে সড়ক দুর্ঘটনায় অজ্ঞাত পরিচয়ের নারী নিহত
+2017-02-20T19:28:08.572Z : creation aborted, post title বরিশালে ডোবা থেকে রিকশা চালকের মৃত‌দেহ উদ্ধার
+2017-02-20T19:28:08.573Z : creation aborted, post title ৫২’র ভাষা |‍ আলাউদ্দি��� হোসেন
+2017-02-20T19:28:08.585Z : creation aborted, post title একুশ আসে ফিরে ফিরে | আহমেদ রব্বানী
+2017-02-20T19:28:08.585Z : creation aborted, post title ব্রাহ্মণবাড়িয়ায় যুবলীগ নেতার মরদেহ উদ্ধার
+2017-02-20T19:28:08.586Z : creation aborted, post title শহীদ দিবস উপলক্ষে বগুড়ায় চিত্রাংকন প্রতিযোগিতা  
+2017-02-20T19:28:08.592Z : creation aborted, post title ওমানে সড়ক দুর্ঘটনায় বাংলাদেশি যুবক নিহত
+2017-02-20T19:28:08.592Z : creation aborted, post title এবার একুশে পদকপ্রাপ্ত ১৭ গুণীজনের যতো অবদান
+2017-02-20T19:28:09.046Z : creation aborted, post title মৌলভীবাজারে সন্ধ্যায় মাঝারি ধরনের বৃষ্টি
+2017-02-20T19:28:09.058Z : creation aborted, post title ‌'মৌলবাদীদের সুযোগ দিলে তারা দেশে বিশৃঙ্খলা সৃষ্টি করবে’
+2017-02-20T19:28:09.058Z : creation aborted, post title  রোহিঙ্গা ইস্যুর শান্তিপূর্ণ সমাধান চায় বাংলাদেশ
+2017-02-20T19:28:09.058Z : creation aborted, post title বঙ্গবন্ধুর ঘনিষ্ঠ সহচর শাহ হাদিউজ্জামানের দাফন সম্পন্ন
+2017-02-20T19:28:09.069Z : creation aborted, post title একুশে ফেব্রুয়ারি আমাদের অহংকার 
+2017-02-20T19:28:09.069Z : creation aborted, post title সিসিকের দুই কাউন্সিলর বরখাস্তের আদেশ স্থগিত
+2017-02-20T19:28:09.070Z : creation aborted, post title অপ্রতিরোধ্য বাংলাদেশকে থামাবে কে?
+2017-02-20T19:28:09.070Z : Finished bdnews24 parser
+2017-02-20T19:29:04.063Z : Started bdnews24 parsing
+2017-02-20T19:29:04.692Z : Received RSS feed. 30 news found.
+2017-02-20T19:29:05.197Z : creation aborted, post title আন্তর্জাতিক স্বীকৃতিতে বিশ্বে বাংলা ভাষার মর্যাদা বেড়েছে
+2017-02-20T19:29:05.199Z : creation aborted, post title ভাষাশহীদদের শ্রদ্ধা জানাতে শহীদ মিনারে জনতার ঢল
+2017-02-20T19:29:05.215Z : creation aborted, post title নিউইয়র্কে রুশ রাষ্ট্রদূতের ‘আকস্মিক মৃত্যু’
+2017-02-20T19:29:05.236Z : creation aborted, post title ভাষাশহীদদের প্রতি রাষ্ট্রপতি ও প্রধানমন্ত্রীর ফুলেল শ্রদ্ধা
+2017-02-20T19:29:05.256Z : creation aborted, post title খুলনার শিক্ষাসাগরে রাতে উড়ছে জাতীয় পতাকা!
+2017-02-20T19:29:05.272Z : creation aborted, post title জায়গা বিক্রিতে বাধা, সংঘর্ষের পর আটক ১২
+2017-02-20T19:29:05.296Z : creation aborted, post title সাভারে সড়ক দুর্ঘটনায় হানিফ সংকেতের খালাতো ভাই নিহত
+2017-02-20T19:29:05.310Z : creation aborted, post title দুর্ঘটনা প্রতিরোধে চালকদের প্রশিক্ষণ দিলো পুলিশ
+2017-02-20T19:29:05.340Z : creation aborted, post title হাতীবান্ধায় মোটরসাইকেল আরোহী নিহত
+2017-02-20T19:29:05.836Z : creation aborted, post title কালীগঞ্জে দুই শিক্ষককে মারধর
+2017-02-20T19:29:05.836Z : creation aborted, post title দেওয়ানগঞ্জে ৬৫টি ভারতীয় গরু উদ্ধার
+2017-02-20T19:29:05.836Z : creation aborted, post title এ শহীদ মিনার এখন স্মৃতি!
+2017-02-20T19:29:05.836Z : creation aborted, post title কক্সবাজারে লাঠির আঘাতে বন্ধুর মৃত্যু
+2017-02-20T19:29:05.836Z : creation aborted, post title সবার আগে সেমিফাইনালে মালদ্বীপের টিসি স্পোর্টস
+2017-02-20T19:29:05.837Z : creation aborted, post title কক্সবাজারে শিশুকে শ্বাসরোধ করে হত্যা
+2017-02-20T19:29:05.837Z : creation aborted, post title সীতাকুণ্ডে সড়ক দুর্ঘটনায় অজ্ঞাত পরিচয়ের নারী নিহত
+2017-02-20T19:29:05.837Z : creation aborted, post title বরিশালে ডোবা থেকে রিকশা চালকের মৃত‌দেহ উদ্ধার
+2017-02-20T19:29:06.672Z : creation aborted, post title ৫২’র ভাষা |‍ আলাউদ্দিন হোসেন
+2017-02-20T19:29:06.680Z : creation aborted, post title ব্রাহ্মণবাড়িয়ায় যুবলীগ নেতার মরদেহ উদ্ধার
+2017-02-20T19:29:06.681Z : creation aborted, post title একুশ আসে ফিরে ফিরে | আহমেদ রব্বানী
+2017-02-20T19:29:06.687Z : creation aborted, post title শহীদ দিবস উপলক্ষে বগুড়ায় চিত্রাংকন প্রতিযোগিতা  
+2017-02-20T19:29:06.687Z : creation aborted, post title ওমানে সড়ক দুর্ঘটনায় বাংলাদেশি যুবক নিহত
+2017-02-20T19:29:06.687Z : creation aborted, post title এবার একুশে পদকপ্রাপ্ত ১৭ গুণীজনের যতো অবদান
+2017-02-20T19:29:06.691Z : creation aborted, post title মৌলভীবাজারে সন্ধ্যায় মাঝারি ধরনের বৃষ্টি
+2017-02-20T19:29:06.696Z : creation aborted, post title ‌'মৌলবাদীদের সুযোগ দিলে তারা দেশে বিশৃঙ্খলা সৃষ্টি করবে’
+2017-02-20T19:29:06.702Z : creation aborted, post title  রোহিঙ্গা ইস্যুর শান্তিপূর্ণ সমাধান চায় বাংলাদেশ
+2017-02-20T19:29:06.702Z : creation aborted, post title বঙ্গবন্ধুর ঘনিষ্ঠ সহচর শাহ হাদিউজ্জামানের দাফন সম্পন্ন
+2017-02-20T19:29:06.707Z : creation aborted, post title একুশে ফেব্রুয়ারি আমাদের অহংকার 
+2017-02-20T19:29:06.707Z : creation aborted, post title সিসিকের দুই কাউন্সিলর বরখাস্তের আদেশ স্থগিত
+2017-02-20T19:29:06.712Z : creation aborted, post title অপ্রতিরোধ্য বাংলাদেশকে থামাবে কে?
+2017-02-20T19:29:06.713Z : Finished bdnews24 parser
+2017-02-20T19:30:04.502Z : Started bdnews24 parsing
+2017-02-20T19:30:05.087Z : Received RSS feed. 30 news found.
+2017-02-20T19:30:06.411Z : creation aborted, post title আন্তর্জাতিক স্বীকৃতিতে বিশ্বে বাংলা ভাষার মর্যাদা বেড়েছে
+2017-02-20T19:30:06.533Z : creation aborted, post title ভাষাশহীদদের শ্রদ্ধা জানাতে শহীদ মিনারে জনতার ঢল
+2017-02-20T19:30:06.533Z : creation aborted, post title নিউইয়র্কে রুশ রাষ্ট্রদূতের ‘আকস্মিক মৃত্যু’
+2017-02-20T19:30:06.533Z : creation aborted, post title ভাষাশহীদদের প্রতি রাষ্ট্রপতি ও প্রধানমন্ত্রীর ফুলেল শ্রদ্ধা
+2017-02-20T19:30:06.813Z : creation aborted, post title খুলনার শিক্ষাসাগরে রাতে উড়ছে জাতীয় পতাকা!
+2017-02-20T19:30:06.813Z : creation aborted, post title জায়গা বিক্রিতে বাধা, সংঘর্ষের পর আটক ১২
+2017-02-20T19:30:06.823Z : creation aborted, post title সাভারে সড়ক দুর্ঘটনায় হানিফ সংকেতের খালাতো ভাই নিহত
+2017-02-20T19:30:06.842Z : creation aborted, post title দুর্ঘটনা প্রতিরোধে চালকদের প্রশিক্ষণ দিলো পুলিশ
+2017-02-20T19:30:06.842Z : creation aborted, post title হাতীবান্ধায় মোটরসাইকেল আরোহী নিহত
+2017-02-20T19:30:06.843Z : creation aborted, post title দেওয়ানগঞ্জে ৬৫টি ভারতীয় গরু উদ্ধার
+2017-02-20T19:30:06.843Z : creation aborted, post title কালীগঞ্জে দুই শিক্ষককে মারধর
+2017-02-20T19:30:06.843Z : creation aborted, post title এ শহীদ মিনার এখন স্মৃতি!
+2017-02-20T19:30:06.847Z : creation aborted, post title কক্সবাজারে লাঠির আঘাতে বন্ধুর মৃত্যু
+2017-02-20T19:30:06.848Z : creation aborted, post title সবার আগে সেমিফাইনালে মালদ্বীপের টিসি স্পোর্টস
+2017-02-20T19:30:06.848Z : creation aborted, post title কক্সবাজারে শিশুকে শ্বাসরোধ করে হত্যা
+2017-02-20T19:30:07.037Z : creation aborted, post title সীতাকুণ্ডে সড়ক দ���র্ঘটনায় অজ্ঞাত পরিচয়ের নারী নিহত
+2017-02-20T19:30:07.037Z : creation aborted, post title বরিশালে ডোবা থেকে রিকশা চালকের মৃত‌দেহ উদ্ধার
+2017-02-20T19:30:07.599Z : creation aborted, post title ৫২’র ভাষা |‍ আলাউদ্দিন হোসেন
+2017-02-20T19:30:07.604Z : creation aborted, post title ব্রাহ্মণবাড়িয়ায় যুবলীগ নেতার মরদেহ উদ্ধার
+2017-02-20T19:30:07.608Z : creation aborted, post title একুশ আসে ফিরে ফিরে | আহমেদ রব্বানী
+2017-02-20T19:30:07.612Z : creation aborted, post title শহীদ দিবস উপলক্ষে বগুড়ায় চিত্রাংকন প্রতিযোগিতা  
+2017-02-20T19:30:07.617Z : creation aborted, post title ওমানে সড়ক দুর্ঘটনায় বাংলাদেশি যুবক নিহত
+2017-02-20T19:30:07.622Z : creation aborted, post title এবার একুশে পদকপ্রাপ্ত ১৭ গুণীজনের যতো অবদান
+2017-02-20T19:30:07.628Z : creation aborted, post title মৌলভীবাজারে সন্ধ্যায় মাঝারি ধরনের বৃষ্টি
+2017-02-20T19:30:07.697Z : creation aborted, post title ‌'মৌলবাদীদের সুযোগ দিলে তারা দেশে বিশৃঙ্খলা সৃষ্টি করবে’
+2017-02-20T19:30:08.126Z : creation aborted, post title  রোহিঙ্গা ইস্যুর শান্তিপূর্ণ সমাধান চায় বাংলাদেশ
+2017-02-20T19:30:08.131Z : creation aborted, post title বঙ্গবন্ধুর ঘনিষ্ঠ সহচর শাহ হাদিউজ্জামানের দাফন সম্পন্ন
+2017-02-20T19:30:08.142Z : creation aborted, post title একুশে ফেব্রুয়ারি আমাদের অহংকার 
+2017-02-20T19:30:08.142Z : creation aborted, post title সিসিকের দুই কাউন্সিলর বরখাস্তের আদেশ স্থগিত
+2017-02-20T19:30:08.152Z : creation aborted, post title অপ্রতিরোধ্য বাংলাদেশকে থামাবে কে?
+2017-02-20T19:30:08.152Z : Finished bdnews24 parser
+2017-02-20T19:31:04.646Z : Started bdnews24 parsing
+2017-02-20T19:31:05.521Z : Received RSS feed. 30 news found.
+2017-02-20T19:31:06.046Z : creation aborted, post title আন্তর্জাতিক স্বীকৃতিতে বিশ্বে বাংলা ভাষার মর্যাদা বেড়েছে
+2017-02-20T19:31:06.054Z : creation aborted, post title ভাষাশহীদদের শ্রদ্ধা জানাতে শহীদ মিনারে জনতার ঢল
+2017-02-20T19:31:06.072Z : creation aborted, post title নিউইয়র্কে রুশ রাষ্ট্রদূতের ‘আকস্মিক মৃত্যু’
+2017-02-20T19:31:06.093Z : creation aborted, post title ভাষাশহীদদের প্রতি রাষ্ট্রপতি ও প্রধানমন্ত্রীর ফুলেল শ্রদ্ধা
+2017-02-20T19:31:06.109Z : creation aborted, post title খুলনার শিক্ষাসাগরে রাতে উড়ছে জাতীয় পতাকা!
+2017-02-20T19:31:06.124Z : creation aborted, post title জায়গা বিক্রিতে বাধা, সংঘর্ষের পর আটক ১২
+2017-02-20T19:31:06.148Z : creation aborted, post title সাভারে সড়ক দুর্ঘটনায় হানিফ সংকেতের খালাতো ভাই নিহত
+2017-02-20T19:31:06.163Z : creation aborted, post title দুর্ঘটনা প্রতিরোধে চালকদের প্রশিক্ষণ দিলো পুলিশ
+2017-02-20T19:31:06.192Z : creation aborted, post title হাতীবান্ধায় মোটরসাইকেল আরোহী নিহত
+2017-02-20T19:31:06.264Z : creation aborted, post title দেওয়ানগঞ্জে ৬৫টি ভারতীয় গরু উদ্ধার
+2017-02-20T19:31:06.269Z : creation aborted, post title কালীগঞ্জে দুই শিক্ষককে মারধর
+2017-02-20T19:31:06.270Z : creation aborted, post title এ শহীদ মিনার এখন স্মৃতি!
+2017-02-20T19:31:06.534Z : creation aborted, post title কক্সবাজারে লাঠির আঘাতে বন্ধুর মৃত্যু
+2017-02-20T19:31:06.537Z : creation aborted, post title সবার আগে সেমিফাইনালে মালদ্বীপের টিসি স্পোর্টস
+2017-02-20T19:31:06.537Z : creation aborted, post title কক্সবাজারে শিশুকে শ্বাসরোধ করে হত্যা
+2017-02-20T19:31:06.557Z : creation aborted, post title সীতাকুণ্ডে সড়ক দ���র্ঘটনায় অজ্ঞাত পরিচয়ের নারী নিহত
+2017-02-20T19:31:07.569Z : creation aborted, post title বরিশালে ডোবা থেকে রিকশা চালকের মৃত‌দেহ উদ্ধার
+2017-02-20T19:31:07.569Z : creation aborted, post title ৫২’র ভাষা |‍ আলাউদ্দিন হোসেন
+2017-02-20T19:31:07.581Z : creation aborted, post title ব্রাহ্মণবাড়িয়ায় যুবলীগ নেতার মরদেহ উদ্ধার
+2017-02-20T19:31:07.581Z : creation aborted, post title একুশ আসে ফিরে ফিরে | আহমেদ রব্বানী
+2017-02-20T19:31:07.582Z : creation aborted, post title শহীদ দিবস উপলক্ষে বগুড়ায় চিত্রাংকন প্রতিযোগিতা  
+2017-02-20T19:31:07.583Z : creation aborted, post title ওমানে সড়ক দুর্ঘটনায় বাংলাদেশি যুবক নিহত
+2017-02-20T19:31:07.589Z : creation aborted, post title এবার একুশে পদকপ্রাপ্ত ১৭ গুণীজনের যতো অবদান
+2017-02-20T19:31:07.589Z : creation aborted, post title মৌলভীবাজারে সন্ধ্যায় মাঝারি ধরনের বৃষ্টি
+2017-02-20T19:31:07.593Z : creation aborted, post title ‌'মৌলবাদীদের সুযোগ দিলে তারা দেশে বিশৃঙ্খলা সৃষ্টি করবে’
+2017-02-20T19:31:07.599Z : creation aborted, post title বঙ্গবন্ধুর ঘনিষ্ঠ সহচর শাহ হাদিউজ্জামানের দাফন সম্পন্ন
+2017-02-20T19:31:07.599Z : creation aborted, post title  রোহিঙ্গা ইস্যুর শান্তিপূর্ণ সমাধান চায় বাংলাদেশ
+2017-02-20T19:31:07.603Z : creation aborted, post title একুশে ফেব্রুয়ারি আমাদের অহংকার 
+2017-02-20T19:31:07.603Z : creation aborted, post title সিসিকের দুই কাউন্সিলর বরখাস্তের আদেশ স্থগিত
+2017-02-20T19:31:07.609Z : creation aborted, post title অপ্রতিরোধ্য বাংলাদেশকে থামাবে কে?
+2017-02-20T19:31:07.609Z : Finished bdnews24 parser
+2017-02-20T19:32:04.157Z : Started bdnews24 parsing
+2017-02-20T19:32:04.726Z : Received RSS feed. 30 news found.
+2017-02-20T19:32:05.196Z : creation aborted, post title আন্তর্জাতিক স্বীকৃতিতে বিশ্বে বাংলা ভাষার মর্যাদা বেড়েছে
+2017-02-20T19:32:05.205Z : creation aborted, post title ভাষাশহীদদের শ্রদ্ধা জানাতে শহীদ মিনারে জনতার ঢল
+2017-02-20T19:32:05.219Z : creation aborted, post title নিউইয়র্কে রুশ রাষ্ট্রদূতের ‘আকস্মিক মৃত্যু’
+2017-02-20T19:32:05.255Z : creation aborted, post title ভাষাশহীদদের প্রতি রাষ্ট্রপতি ও প্রধানমন্ত্রীর ফুলেল শ্রদ্ধা
+2017-02-20T19:32:05.835Z : creation aborted, post title খুলনার শিক্ষাসাগরে রাতে উড়ছে জাতীয় পতাকা!
+2017-02-20T19:32:05.835Z : creation aborted, post title জায়গা বিক্রিতে বাধা, সংঘর্ষের পর আটক ১২
+2017-02-20T19:32:05.836Z : creation aborted, post title সাভারে সড়ক দুর্ঘটনায় হানিফ সংকেতের খালাতো ভাই নিহত
+2017-02-20T19:32:05.836Z : creation aborted, post title দুর্ঘটনা প্রতিরোধে চালকদের প্রশিক্ষণ দিলো পুলিশ
+2017-02-20T19:32:06.133Z : creation aborted, post title হাতীবান্ধায় মোটরসাইকেল আরোহী নিহত
+2017-02-20T19:32:06.133Z : creation aborted, post title দেওয়ানগঞ্জে ৬৫টি ভারতীয় গরু উদ্ধার
+2017-02-20T19:32:06.133Z : creation aborted, post title কালীগঞ্জে দুই শিক্ষককে মারধর
+2017-02-20T19:32:06.134Z : creation aborted, post title এ শহীদ মিনার এখন স্মৃতি!
+2017-02-20T19:32:06.264Z : creation aborted, post title কক্সবাজারে লাঠির আঘাতে বন্ধুর মৃত্যু
+2017-02-20T19:32:06.269Z : creation aborted, post title সবার আগে সেমিফাইনালে মালদ্বীপের টিসি স্পোর্টস
+2017-02-20T19:32:06.269Z : creation aborted, post title কক্সবাজারে শিশুকে শ্বাসরোধ করে হত্যা
+2017-02-20T19:32:06.269Z : creation aborted, post title সীতাকুণ্ডে সড়ক দ���র্ঘটনায় অজ্ঞাত পরিচয়ের নারী নিহত
+2017-02-20T19:32:06.269Z : creation aborted, post title বরিশালে ডোবা থেকে রিকশা চালকের মৃত‌দেহ উদ্ধার
+2017-02-20T19:32:06.744Z : creation aborted, post title ৫২’র ভাষা |‍ আলাউদ্দিন হোসেন
+2017-02-20T19:32:06.758Z : creation aborted, post title একুশ আসে ফিরে ফিরে | আহমেদ রব্বানী
+2017-02-20T19:32:06.758Z : creation aborted, post title ব্রাহ্মণবাড়িয়ায় যুবলীগ নেতার মরদেহ উদ্ধার
+2017-02-20T19:32:07.210Z : creation aborted, post title শহীদ দিবস উপলক্ষে বগুড়ায় চিত্রাংকন প্রতিযোগিতা  
+2017-02-20T19:32:07.215Z : creation aborted, post title ওমানে সড়ক দুর্ঘটনায় বাংলাদেশি যুবক নিহত
+2017-02-20T19:32:07.215Z : creation aborted, post title এবার একুশে পদকপ্রাপ্ত ১৭ গুণীজনের যতো অবদান
+2017-02-20T19:32:07.220Z : creation aborted, post title মৌলভীবাজারে সন্ধ্যায় মাঝারি ধরনের বৃষ্টি
+2017-02-20T19:32:07.226Z : creation aborted, post title ‌'মৌলবাদীদের সুযোগ দিলে তারা দেশে বিশৃঙ্খলা সৃষ্টি করবে’
+2017-02-20T19:32:07.227Z : creation aborted, post title  রোহিঙ্গা ইস্যুর শান্তিপূর্ণ সমাধান চায় বাংলাদেশ
+2017-02-20T19:32:07.228Z : creation aborted, post title বঙ্গবন্ধুর ঘনিষ্ঠ সহচর শাহ হাদিউজ্জামানের দাফন সম্পন্ন
+2017-02-20T19:32:07.232Z : creation aborted, post title একুশে ফেব্রুয়ারি আমাদের অহংকার 
+2017-02-20T19:32:07.232Z : creation aborted, post title সিসিকের দুই কাউন্সিলর বরখাস্তের আদেশ স্থগিত
+2017-02-20T19:32:07.232Z : creation aborted, post title অপ্রতিরোধ্য বাংলাদেশকে থামাবে কে?
+2017-02-20T19:32:07.232Z : Finished bdnews24 parser
+2017-02-20T19:33:04.055Z : Started bdnews24 parsing
+2017-02-20T19:33:04.673Z : Received RSS feed. 30 news found.
+2017-02-20T19:33:05.182Z : creation aborted, post title আন্তর্জাতিক স্বীকৃতিতে বিশ্বে বাংলা ভাষার মর্যাদা বেড়েছে
+2017-02-20T19:33:05.191Z : creation aborted, post title ভাষাশহীদদের শ্রদ্ধা জানাতে শহীদ মিনারে জনতার ঢল
+2017-02-20T19:33:05.209Z : creation aborted, post title নিউইয়র্কে রুশ রাষ্ট্রদূতের ‘আকস্মিক মৃত্যু’
+2017-02-20T19:33:05.235Z : creation aborted, post title ভাষাশহীদদের প্রতি রাষ্ট্রপতি ও প্রধানমন্ত্রীর ফুলেল শ্রদ্ধা
+2017-02-20T19:33:05.252Z : creation aborted, post title খুলনার শিক্ষাসাগরে রাতে উড়ছে জাতীয় পতাকা!
+2017-02-20T19:33:05.270Z : creation aborted, post title জায়গা বিক্রিতে বাধা, সংঘর্ষের পর আটক ১২
+2017-02-20T19:33:05.290Z : creation aborted, post title সাভারে সড়ক দুর্ঘটনায় হানিফ সংকেতের খালাতো ভাই নিহত
+2017-02-20T19:33:05.310Z : creation aborted, post title দুর্ঘটনা প্রতিরোধে চালকদের প্রশিক্ষণ দিলো পুলিশ
+2017-02-20T19:33:05.347Z : creation aborted, post title হাতীবান্ধায় মোটরসাইকেল আরোহী নিহত
+2017-02-20T19:33:05.794Z : creation aborted, post title দেওয়ানগঞ্জে ৬৫টি ভারতীয় গরু উদ্ধার
+2017-02-20T19:33:05.794Z : creation aborted, post title কালীগঞ্জে দুই শিক্ষককে মারধর
+2017-02-20T19:33:05.794Z : creation aborted, post title এ শহীদ মিনার এখন স্মৃতি!
+2017-02-20T19:33:05.794Z : creation aborted, post title কক্সবাজারে লাঠির আঘাতে বন্ধুর মৃত্যু
+2017-02-20T19:33:05.794Z : creation aborted, post title সবার আগে সেমিফাইনালে মালদ্বীপের টিসি স্পোর্টস
+2017-02-20T19:33:05.794Z : creation aborted, post title কক্সবাজারে শিশুকে শ্বাসরোধ করে হত্যা
+2017-02-20T19:33:05.795Z : creation aborted, post title সীতাকুণ্ডে সড়ক দ���র্ঘটনায় অজ্ঞাত পরিচয়ের নারী নিহত
+2017-02-20T19:33:06.686Z : creation aborted, post title বরিশালে ডোবা থেকে রিকশা চালকের মৃত‌দেহ উদ্ধার
+2017-02-20T19:33:06.687Z : creation aborted, post title ৫২’র ভাষা |‍ আলাউদ্দিন হোসেন
+2017-02-20T19:33:06.698Z : creation aborted, post title ব্রাহ্মণবাড়িয়ায় যুবলীগ নেতার মরদেহ উদ্ধার
+2017-02-20T19:33:06.698Z : creation aborted, post title একুশ আসে ফিরে ফিরে | আহমেদ রব্বানী
+2017-02-20T19:33:06.702Z : creation aborted, post title শহীদ দিবস উপলক্ষে বগুড়ায় চিত্রাংকন প্রতিযোগিতা  
+2017-02-20T19:33:06.702Z : creation aborted, post title এবার একুশে পদকপ্রাপ্ত ১৭ গুণীজনের যতো অবদান
+2017-02-20T19:33:06.702Z : creation aborted, post title ওমানে সড়ক দুর্ঘটনায় বাংলাদেশি যুবক নিহত
+2017-02-20T19:33:06.705Z : creation aborted, post title মৌলভীবাজারে সন্ধ্যায় মাঝারি ধরনের বৃষ্টি
+2017-02-20T19:33:06.710Z : creation aborted, post title ‌'মৌলবাদীদের সুযোগ দিলে তারা দেশে বিশৃঙ্খলা সৃষ্টি করবে’
+2017-02-20T19:33:06.716Z : creation aborted, post title  রোহিঙ্গা ইস্যুর শান্তিপূর্ণ সমাধান চায় বাংলাদেশ
+2017-02-20T19:33:06.716Z : creation aborted, post title বঙ্গবন্ধুর ঘনিষ্ঠ সহচর শাহ হাদিউজ্জামানের দাফন সম্পন্ন
+2017-02-20T19:33:06.720Z : creation aborted, post title একুশে ফেব্রুয়ারি আমাদের অহংকার 
+2017-02-20T19:33:06.723Z : creation aborted, post title অপ্রতিরোধ্য বাংলাদেশকে থামাবে কে?
+2017-02-20T19:33:06.722Z : creation aborted, post title সিসিকের দুই কাউন্সিলর বরখাস্তের আদেশ স্থগিত
+2017-02-20T19:33:06.723Z : Finished bdnews24 parser
+2017-02-20T19:34:04.266Z : Started bdnews24 parsing
+2017-02-20T19:34:04.866Z : Received RSS feed. 30 news found.
+2017-02-20T19:34:05.429Z : creation aborted, post title আন্তর্জাতিক স্বীকৃতিতে বিশ্বে বাংলা ভাষার মর্যাদা বেড়েছে
+2017-02-20T19:34:05.445Z : creation aborted, post title ভাষাশহীদদের শ্রদ্ধা জানাতে শহীদ মিনারে জনতার ঢল
+2017-02-20T19:34:05.465Z : creation aborted, post title নিউইয়র্কে রুশ রাষ্ট্রদূতের ‘আকস্মিক মৃত্যু’
+2017-02-20T19:34:05.491Z : creation aborted, post title ভাষাশহীদদের প্রতি রাষ্ট্রপতি ও প্রধানমন্ত্রীর ফুলেল শ্রদ্ধা
+2017-02-20T19:34:05.526Z : creation aborted, post title খুলনার শিক্ষাসাগরে রাতে উড়ছে জাতীয় পতাকা!
+2017-02-20T19:34:05.551Z : creation aborted, post title জায়গা বিক্রিতে বাধা, সংঘর্ষের পর আটক ১২
+2017-02-20T19:34:05.576Z : creation aborted, post title সাভারে সড়ক দুর্ঘটনায় হানিফ সংকেতের খালাতো ভাই নিহত
+2017-02-20T19:34:05.614Z : creation aborted, post title দুর্ঘটনা প্রতিরোধে চালকদের প্রশিক্ষণ দিলো পুলিশ
+2017-02-20T19:34:06.276Z : creation aborted, post title হাতীবান্ধায় মোটরসাইকেল আরোহী নিহত
+2017-02-20T19:34:06.276Z : creation aborted, post title দেওয়ানগঞ্জে ৬৫টি ভারতীয় গরু উদ্ধার
+2017-02-20T19:34:06.276Z : creation aborted, post title কালীগঞ্জে দুই শিক্ষককে মারধর
+2017-02-20T19:34:06.276Z : creation aborted, post title এ শহীদ মিনার এখন স্মৃতি!
+2017-02-20T19:34:06.277Z : creation aborted, post title কক্সবাজারে লাঠির আঘাতে বন্ধুর মৃত্যু
+2017-02-20T19:34:06.277Z : creation aborted, post title সবার আগে সেমিফাইনালে মালদ্বীপের টিসি স্পোর্টস
+2017-02-20T19:34:06.277Z : creation aborted, post title কক্সবাজারে শিশুকে শ্বাসরোধ করে হত্যা
+2017-02-20T19:34:06.991Z : creation aborted, post title সীতাকুণ্ডে সড়ক দুর্ঘটনায় অজ্ঞাত পরিচয়ের নারী নিহত
+2017-02-20T19:34:07.005Z : creation aborted, post title বরিশালে ডোবা থেকে রিকশা চালকের মৃত‌দেহ উদ্ধার
+2017-02-20T19:34:07.006Z : creation aborted, post title ৫২’র ভাষা |‍ আলাউদ্দিন হোসেন
+2017-02-20T19:34:07.007Z : creation aborted, post title ব্রাহ্মণবাড়িয়ায় যুবলীগ নেতার মরদেহ উদ্ধার
+2017-02-20T19:34:07.009Z : creation aborted, post title একুশ আসে ফিরে ফিরে | আহমেদ রব্বানী
+2017-02-20T19:34:07.010Z : creation aborted, post title শহীদ দিব��� উপলক্ষে বগুড়ায় চিত্রাংকন প্রতিযোগিতা  
+2017-02-20T19:34:07.010Z : creation aborted, post title ওমানে সড়ক দুর্ঘটনায় বাংলাদেশি যুবক নিহত
+2017-02-20T19:34:07.010Z : creation aborted, post title এবার একুশে পদকপ্রাপ্ত ১৭ গুণীজ���ের যতো অবদান
+2017-02-20T19:34:07.012Z : creation aborted, post title মৌলভীবাজারে সন্ধ্যায় মাঝারি ধরনের বৃষ্টি
+2017-02-20T19:34:07.017Z : creation aborted, post title ‌'মৌলবাদীদের সুযোগ দিলে তারা দেশে বিশৃঙ্খলা সৃষ্টি করবে’
+2017-02-20T19:34:07.018Z : creation aborted, post title  রোহিঙ্গা ইস্যুর শান্তিপূর্ণ সমাধান চায় বাংলাদেশ
+2017-02-20T19:34:07.021Z : creation aborted, post title বঙ্গবন্ধুর ঘনিষ্ঠ সহচর শাহ হাদিউজ্জামানের দাফন সম্পন্ন
+2017-02-20T19:34:07.021Z : creation aborted, post title একুশে ফেব্রুয়ারি আমা���ের অহংকার 
+2017-02-20T19:34:07.038Z : creation success, post title ভাষার জন্য রক্ত দেয়া বীর সন্তানদের গভীর শ্রদ্ধায় স্মরণ
+2017-02-20T19:34:07.038Z : creation aborted, post title সিসিকের দুই কাউন্সিলর বরখাস্তের আদেশ স্থগিত
+2017-02-20T19:34:07.038Z : Finished bdnews24 parser
+2017-02-20T19:35:04.200Z : Started bdnews24 parsing
+2017-02-20T19:35:04.802Z : Received RSS feed. 30 news found.
+2017-02-20T19:35:05.329Z : creation aborted, post title ভাষার জন্য রক্ত দেয়া বীর সন্তানদের গভীর শ্রদ্ধায় স্মরণ
+2017-02-20T19:35:05.332Z : creation aborted, post title আন্তর্জাতিক স্বীকৃতিতে বিশ্বে বাংলা ভাষার মর্যাদা বেড়েছে
+2017-02-20T19:35:05.353Z : creation aborted, post title ভাষাশহীদদের শ্রদ্ধা জানাতে শহীদ মিনারে জনতার ঢল
+2017-02-20T19:35:05.367Z : creation aborted, post title নিউইয়র্কে রুশ রাষ্ট্রদূতের ‘আকস্মিক মৃত্যু’
+2017-02-20T19:35:05.392Z : creation aborted, post title ভাষাশহীদদের প্রতি রাষ্ট্রপতি ��� প্রধানমন্ত্রীর ফুলেল শ্রদ্ধা
+2017-02-20T19:35:05.412Z : creation aborted, post title খুলনার শিক্ষাসাগরে রাতে উড়ছে জাতীয় পতাকা!
+2017-02-20T19:35:05.433Z : creation aborted, post title জায়গা বিক্রিতে বাধা, সংঘর্ষের পর আটক ১২
+2017-02-20T19:35:05.447Z : creation aborted, post title সাভারে সড়ক দুর্ঘটনায় হানিফ সংকেতের খালাতো ভাই নিহত
+2017-02-20T19:35:05.480Z : creation aborted, post title দুর্ঘটনা প্রতিরোধে চালকদের প্রশিক্ষণ দিলো পুলিশ
+2017-02-20T19:35:06.067Z : creation aborted, post title হাতীবান্ধায় মোটরসাইকেল আরোহী নিহত
+2017-02-20T19:35:06.067Z : creation aborted, post title দেওয়ানগঞ্জে ৬৫টি ভারতীয় গরু উদ্ধার
+2017-02-20T19:35:06.067Z : creation aborted, post title কালীগঞ্জে দুই শিক্ষককে মারধর
+2017-02-20T19:35:06.067Z : creation aborted, post title এ শহীদ মিনার এখন স্মৃতি!
+2017-02-20T19:35:06.068Z : creation aborted, post title কক্সবাজারে লাঠির আঘাতে বন্ধুর মৃত্যু
+2017-02-20T19:35:06.068Z : creation aborted, post title সবার আগে সেমিফাইনালে মালদ্বীপের টিসি স্পোর্টস
+2017-02-20T19:35:06.068Z : creation aborted, post title কক্সবাজারে শিশুকে শ্বাসরোধ করে হত্যা
+2017-02-20T19:35:06.068Z : creation aborted, post title সীতাকুণ্ডে সড়ক দুর্ঘটনায় অজ্ঞাত পরিচয়ের নারী নিহত
+2017-02-20T19:35:06.068Z : creation aborted, post title বরিশালে ডোবা থেকে রিকশা চালকের মৃত‌দেহ উদ্ধার
+2017-02-20T19:35:06.836Z : creation aborted, post title ৫২’র ভাষা |‍ আলাউদ্দিন হোসেন
+2017-02-20T19:35:06.840Z : creation aborted, post title ব্রাহ্মণবাড়িয়ায় যুবলীগ নেতার মরদেহ উদ্ধার
+2017-02-20T19:35:06.840Z : creation aborted, post title একুশ আসে ফিরে ফিরে | আহমেদ রব্বানী
+2017-02-20T19:35:06.840Z : creation aborted, post title শহীদ দিবস উপলক্ষে বগুড়ায় চিত্রাংকন প্রতিযোগিতা  
+2017-02-20T19:35:06.843Z : creation aborted, post title ওমানে সড়ক দুর্ঘটনায় বাংলাদেশি যুবক নিহত
+2017-02-20T19:35:06.848Z : creation aborted, post title এবার একুশে পদকপ্রাপ্ত ১৭ গুণীজনের যতো অবদান
+2017-02-20T19:35:06.848Z : creation aborted, post title মৌলভীবাজারে সন্ধ্যায় মাঝারি ধরনের বৃষ্টি
+2017-02-20T19:35:06.854Z : creation aborted, post title ‌'মৌলবাদীদের সুযোগ দিলে তারা দেশে বিশৃঙ্খলা সৃষ্টি করবে’
+2017-02-20T19:35:06.854Z : creation aborted, post title  রোহিঙ্গা ইস্যুর শান্তিপূর্ণ সমাধান চায় বাংলাদেশ
+2017-02-20T19:35:06.858Z : creation aborted, post title বঙ্গবন্ধুর ঘনিষ্ঠ সহচর শাহ হাদিউজ্জামানের দাফন সম্পন্ন
+2017-02-20T19:35:07.293Z : creation aborted, post title একুশে ফেব্রুয়ারি আমাদের অহংকার 
+2017-02-20T19:35:07.294Z : creation aborted, post title সিসিকের দুই কাউন্সিলর বরখাস্তের আদেশ স্থগিত
+2017-02-20T19:35:07.294Z : Finished bdnews24 parser
+2017-02-20T19:36:04.220Z : Started bdnews24 parsing
+2017-02-20T19:36:04.815Z : Received RSS feed. 30 news found.
+2017-02-20T19:36:05.305Z : creation aborted, post title ভাষার জন্য রক্ত দেয়া বীর সন্তানদের গভীর শ্রদ্ধায় স্মরণ
+2017-02-20T19:36:05.309Z : creation aborted, post title আন্তর্জাতিক স্বীকৃতিতে বিশ্বে বাংলা ভাষার মর্যাদা বেড়েছে
+2017-02-20T19:36:05.327Z : creation aborted, post title ভাষাশহীদদের শ্রদ্ধা জানাতে শহীদ মিনারে জনতার ঢল
+2017-02-20T19:36:05.337Z : creation aborted, post title নিউইয়র্কে রুশ রাষ্ট্রদূতের ‘আকস্মিক মৃত্যু’
+2017-02-20T19:36:05.352Z : creation aborted, post title ভাষাশহীদদের প্রতি রাষ্ট্রপতি ও প্রধানমন্ত্রীর ফুলেল শ্রদ্ধা
+2017-02-20T19:36:05.367Z : creation aborted, post title খুলনার শিক্ষাসাগরে রাতে উড়ছে জাতীয় পতাকা!
+2017-02-20T19:36:05.379Z : creation aborted, post title জায়গা বিক্রিতে বাধা, সংঘর্ষের পর আটক ১২
+2017-02-20T19:36:05.394Z : creation aborted, post title সাভারে সড়ক দুর্ঘটনায় হানিফ সংকেতের খালাতো ভাই নিহত
+2017-02-20T19:36:05.418Z : creation aborted, post title দুর্ঘটনা প্রতিরোধে চালকদের প্রশিক্ষণ দিলো পুলিশ
+2017-02-20T19:36:05.873Z : creation aborted, post title হাতীবান্ধায় মোটরসাইকেল আরোহী নিহত
+2017-02-20T19:36:05.873Z : creation aborted, post title দেওয়ানগঞ্জে ৬৫টি ভারতীয় গরু উদ্ধার
+2017-02-20T19:36:05.873Z : creation aborted, post title কালীগঞ্জে দুই শিক্ষককে মারধর
+2017-02-20T19:36:05.873Z : creation aborted, post title এ শহীদ মিনার এখন স্মৃতি!
+2017-02-20T19:36:05.874Z : creation aborted, post title কক্সবাজারে লাঠির আঘাতে বন্ধুর মৃত্যু
+2017-02-20T19:36:05.874Z : creation aborted, post title সবার আগে সেমিফাইনালে মালদ্বীপের টিসি স্পোর্টস
+2017-02-20T19:36:05.874Z : creation aborted, post title কক্সবাজারে শিশুকে শ্বাসরোধ করে হত্যা
+2017-02-20T19:36:05.874Z : creation aborted, post title সীতাকুণ্ডে সড়ক দুর্ঘটনায় অজ্ঞাত পরিচয়ের নারী নিহত
+2017-02-20T19:36:05.874Z : creation aborted, post title বরিশালে ডোবা থেকে রিকশা চালকের মৃত‌দেহ উদ্ধার
+2017-02-20T19:36:06.768Z : creation aborted, post title ব্রাহ্মণবাড়িয়ায় যুবলীগ নেতার মরদেহ উদ্ধার
+2017-02-20T19:36:06.768Z : creation aborted, post title ৫২’র ভাষা |‍ আলাউদ্দিন হোসেন
+2017-02-20T19:36:06.770Z : creation aborted, post title একুশ আসে ফিরে ফিরে | আহমেদ রব্বানী
+2017-02-20T19:36:06.770Z : creation aborted, post title শহীদ দিব��� উপলক্ষে বগুড়ায় চিত্রাংকন প্রতিযোগিতা  
+2017-02-20T19:36:06.773Z : creation aborted, post title ওমানে সড়ক দুর্ঘটনায় বাংলাদেশি যুবক নিহত
+2017-02-20T19:36:06.773Z : creation aborted, post title এবার একুশে পদকপ্রাপ্ত ১৭ গুণীজ���ের যতো অবদান
+2017-02-20T19:36:06.779Z : creation aborted, post title মৌলভীবাজারে সন্ধ্যায় মাঝারি ধরনের বৃষ্টি
+2017-02-20T19:36:06.784Z : creation aborted, post title  রোহিঙ্গা ইস্যুর শান্তিপূর্ণ সমাধান চায় বাংলাদেশ
+2017-02-20T19:36:06.784Z : creation aborted, post title ‌'মৌলবাদীদের সুযোগ দিলে তারা দেশে বিশৃঙ্খলা সৃষ্টি করবে’
+2017-02-20T19:36:06.788Z : creation aborted, post title বঙ্গবন্ধুর ঘনিষ্ঠ সহচর শাহ হাদিউজ্জামানের দাফন সম্পন্ন
+2017-02-20T19:36:07.214Z : creation aborted, post title একুশে ফেব্রুয়ারি আমা���ের অহংকার 
+2017-02-20T19:36:07.214Z : creation aborted, post title সিসিকের দুই কাউন্সিলর বরখাস্তের আদেশ স্থগিত
+2017-02-20T19:36:07.214Z : Finished bdnews24 parser
+2017-02-20T20:00:05.120Z : Started bdnews24 parsing
+2017-02-20T20:00:06.224Z : Received RSS feed. 30 news found.
+2017-02-20T20:00:06.837Z : creation aborted, post title ভাষার জন্য রক্ত দেয়া বীর সন্তানদের গভীর শ্রদ্ধায় স্মরণ
+2017-02-20T20:00:06.838Z : creation aborted, post title আন্তর্জাতিক স্বীকৃতিতে বিশ্বে বাংলা ভাষার মর্যাদা বেড়েছে
+2017-02-20T20:00:06.840Z : creation aborted, post title ভাষাশহীদদের শ্রদ্ধা জানাতে শহীদ মিনারে জনতার ঢল
+2017-02-20T20:00:07.611Z : creation aborted, post title সাভারে সড়ক দুর্ঘটনায় হানিফ সংকেতের খালাতো ভাই নিহত
+2017-02-20T20:00:06.906Z : creation aborted, post title খুলনার শিক্ষাসাগরে রাতে উড়ছে জাতীয় পতাকা!
+2017-02-20T20:00:07.611Z : creation aborted, post title দুর্ঘটনা প্রতিরোধে চালকদের প্রশিক্ষণ দিলো পুলিশ
+2017-02-20T20:00:07.611Z : creation aborted, post title দেওয়ানগঞ্জে ৬৫টি ভারতীয় গরু উদ্ধার
+2017-02-20T20:00:06.854Z : creation aborted, post title নিউইয়র্কে রুশ রাষ্ট্রদূতের ‘আকস্মিক মৃত্যু’
+2017-02-20T20:00:06.879Z : creation aborted, post title ভাষাশহীদদের প্রতি রাষ্ট্রপতি ও প্রধানমন্ত্রীর ফুলেল শ্রদ্ধা
+2017-02-20T20:00:07.612Z : creation aborted, post title এ শহীদ মিনার এখন স্মৃতি!
+2017-02-20T20:00:07.611Z : creation aborted, post title কালীগঞ্জে দুই শিক্ষককে মারধর
+2017-02-20T20:00:07.612Z : creation aborted, post title কক্সবাজারে লাঠির আঘাতে বন্ধুর মৃত্যু
+2017-02-20T20:00:07.612Z : creation aborted, post title সবার আগে সেমিফাইনালে মালদ্বীপের টিসি স্পোর্টস
+2017-02-20T20:00:07.611Z : creation aborted, post title হাতীবান্ধায় মোটরসাইকেল আরোহী নিহত
+2017-02-20T20:00:07.612Z : creation aborted, post title সীতাকুণ্ডে সড়ক দুর্ঘটনায় অজ্ঞাত পরিচয়ের নারী নিহত
+2017-02-20T20:00:07.612Z : creation aborted, post title ৫২’র ভাষা |‍ আলাউদ্দিন হোসেন
+2017-02-20T20:00:06.925Z : creation aborted, post title জায়গা বিক্রিতে বাধা, সংঘর্ষের পর আটক ১২
+2017-02-20T20:00:07.612Z : creation aborted, post title ব্রাহ্মণবাড়িয়ায় যুবলীগ নেতার মরদেহ উদ্ধার
+2017-02-20T20:00:07.612Z : creation aborted, post title বরিশালে ডোবা থেকে রিকশা চালকের মৃত‌দেহ উদ্ধার
+2017-02-20T20:00:07.612Z : creation aborted, post title শহীদ দিবস উপলক্ষে বগুড়ায় চিত্রাংকন প্রতিযোগিতা  
+2017-02-20T20:00:07.612Z : creation aborted, post title কক্সবাজারে শিশুকে শ্বাসরোধ করে হত্যা
+2017-02-20T20:00:07.876Z : creation aborted, post title ওমানে সড়ক দুর্ঘটনায় বাংলাদেশি যুবক নিহত
+2017-02-20T20:00:07.876Z : creation aborted, post title মৌলভীবাজারে সন্ধ্যায় মাঝারি ধরনের বৃষ্টি
+2017-02-20T20:00:07.876Z : creation aborted, post title এবার একুশে পদকপ্রাপ্ত ১৭ গুণীজনের যতো অবদান
+2017-02-20T20:00:07.955Z : creation aborted, post title বঙ্গবন্ধুর ঘনিষ্ঠ সহচর শাহ হাদিউজ্জামানের দাফন সম্পন্ন
+2017-02-20T20:00:07.900Z : creation aborted, post title ‌'মৌলবাদীদের সুযোগ দিলে তারা দেশে বিশৃঙ্খলা সৃষ্টি করবে’
+2017-02-20T20:00:07.612Z : creation aborted, post title একুশ আসে ফিরে ফিরে | আহমেদ রব্বানী
+2017-02-20T20:00:07.955Z : creation aborted, post title  রোহিঙ্গা ইস্যুর শান্তিপূর্ণ সমাধান চায় বাংলাদেশ
+2017-02-20T20:00:07.992Z : creation success, post title শহীদ মিনারে খালেদার ফুলেল শ্রদ্ধা 
+2017-02-20T20:00:07.993Z : creation aborted, post title একুশে ফেব্রুয়ারি আমাদের অহংকার 
+2017-02-20T20:00:07.993Z : Finished bdnews24 parser
+2017-02-20T20:20:05.614Z : Started bdnews24 parsing
+2017-02-20T20:20:06.925Z : Received RSS feed. 30 news found.
+2017-02-20T20:20:07.527Z : creation aborted, post title শহীদ মিনারে খালেদার ফুলেল শ্রদ্ধা 
+2017-02-20T20:20:07.549Z : creation aborted, post title ভাষার জন্য রক্ত দেয়া বীর সন্তানদের গভীর শ্রদ্ধায় স্মরণ
+2017-02-20T20:20:07.550Z : creation aborted, post title আন্তর্জাতিক স্বীকৃতিতে বিশ্বে বাংলা ভাষার মর্যাদা বেড়েছে
+2017-02-20T20:20:07.550Z : creation aborted, post title ভাষাশহীদদের শ্রদ্ধা জানাতে শহীদ মিনারে জনতার ঢল
+2017-02-20T20:20:07.564Z : creation aborted, post title নিউইয়র্কে রুশ রাষ্ট্রদূতের ‘আকস্মিক মৃত্যু���
+2017-02-20T20:20:07.569Z : creation aborted, post title ভাষাশহীদদের প্রতি রাষ্ট্রপতি ও প্রধানমন্ত্রীর ফুলেল শ্রদ্ধা
+2017-02-20T20:20:07.596Z : creation aborted, post title খুলনার শিক্ষাসাগরে রাতে উড়ছে জাতীয় পতাকা!
+2017-02-20T20:20:07.597Z : creation aborted, post title জায়গা বিক্রিতে বাধা, সংঘর্ষের পর আটক ১২
+2017-02-20T20:20:07.911Z : creation aborted, post title দুর্ঘটনা প্রতিরোধে চালকদের প্রশিক্ষণ দিলো পুলিশ
+2017-02-20T20:20:07.911Z : creation aborted, post title সাভারে সড়ক দুর্ঘটনায় হানিফ সংকেতের খালাতো ভাই নিহত
+2017-02-20T20:20:07.911Z : creation aborted, post title হাতীবান্ধায় মোটরসাইকেল আরোহী নিহত
+2017-02-20T20:20:08.203Z : creation success, post title শহীদ বেদিতে ‘মুক্তিযোদ্ধার সন্তানদের’ মারামারি
+2017-02-20T20:20:08.205Z : creation aborted, post title এ শহীদ মিনার এখন স্মৃতি!
+2017-02-20T20:20:08.205Z : creation aborted, post title দেওয়ানগঞ্জে ৬৫টি ভারতীয় গরু উদ্ধার
+2017-02-20T20:20:08.205Z : creation aborted, post title কক্সবাজারে লাঠির আঘাতে বন্ধুর মৃত্যু
+2017-02-20T20:20:08.205Z : creation aborted, post title কালীগঞ্জে দুই শিক্ষককে মারধর
+2017-02-20T20:20:08.206Z : creation aborted, post title স���ার আগে সেমিফাইনালে মালদ্বীপের টিসি স্পোর্টস
+2017-02-20T20:20:08.206Z : creation aborted, post title কক্সবাজারে শিশুকে শ্বাসরোধ করে হত্যা
+2017-02-20T20:20:08.206Z : creation aborted, post title সীতাকুণ্ডে সড়ক দুর্ঘটনায় অজ্ঞাত পরিচয়ের নারী নিহত
+2017-02-20T20:20:08.206Z : creation aborted, post title বরিশালে ডোবা থেকে রিকশা চালকের মৃত‌দেহ উদ্ধার
+2017-02-20T20:20:08.206Z : creation aborted, post title ৫২’র ভাষা |‍ আলাউদ্দিন হোসেন
+2017-02-20T20:20:08.206Z : creation aborted, post title ব্রাহ্মণবাড়িয়ায় যুবলীগ নেতার মরদেহ উদ্ধার
+2017-02-20T20:20:08.206Z : creation aborted, post title শহীদ দিবস উপলক্ষে বগুড়ায় চিত্রাংকন প্রতিযোগিতা  
+2017-02-20T20:20:08.206Z : creation aborted, post title একুশ আসে ফিরে ফিরে | আহমেদ রব্বানী
+2017-02-20T20:20:08.206Z : creation aborted, post title ওমানে সড়ক দুর্ঘটনায় বাংলাদেশি যুবক নিহত
+2017-02-20T20:20:08.206Z : creation aborted, post title এবার একুশে পদকপ্রাপ্ত ১৭ গুণীজনের যতো অবদান
+2017-02-20T20:20:08.206Z : creation aborted, post title মৌলভীবাজারে সন্ধ্যায় মাঝারি ধরনের বৃষ্টি
+2017-02-20T20:20:08.206Z : creation aborted, post title ‌'মৌলবাদীদের সুযোগ দিলে তারা দেশে বিশৃঙ্খলা সৃষ্টি করবে’
+2017-02-20T20:20:08.207Z : creation aborted, post title  রোহিঙ্গা ইস্যুর শান্তিপূর্ণ সমাধান চায় বাংলাদেশ
+2017-02-20T20:20:08.207Z : creation aborted, post title বঙ্গবন্ধুর ঘনিষ্ঠ সহচর শাহ হাদিউজ্জামানের দাফন সম্পন্ন
+2017-02-20T20:20:08.207Z : Finished bdnews24 parser
+2017-02-20T20:40:05.032Z : Started bdnews24 parsing
+2017-02-20T20:40:05.868Z : Received RSS feed. 30 news found.
+2017-02-20T20:40:06.425Z : creation aborted, post title শহীদ বেদিতে ‘মুক্তিযোদ্ধার সন্তানদের’ মারামারি
+2017-02-20T20:40:06.428Z : creation aborted, post title শহীদ মিনারে খালেদার ফুলেল শ্রদ্ধা 
+2017-02-20T20:40:06.442Z : creation aborted, post title ভাষার জন্য রক্ত দেয়া বীর সন্তানদের গভীর শ্রদ্ধায় স্মরণ
+2017-02-20T20:40:06.457Z : creation aborted, post title আন্তর্জাতিক স্বীকৃতিতে বিশ্বে বাংলা ভাষার মর্যাদা বেড়েছে
+2017-02-20T20:40:06.477Z : creation aborted, post title ভাষাশহীদদের শ্রদ্ধা জানাতে শহীদ মিনারে জনতার ঢল
+2017-02-20T20:40:06.491Z : creation aborted, post title নিউইয়র্কে রুশ রাষ্ট্রদূতের ‘আকস্মিক মৃত্যু’
+2017-02-20T20:40:06.517Z : creation aborted, post title ভাষাশহীদদের প্রতি রাষ্ট্রপতি ও প্রধানমন্ত্রীর ফুলেল শ্রদ্ধা
+2017-02-20T20:40:06.625Z : creation aborted, post title খুলনার শিক্ষাসাগরে রাতে উড়ছে জাতীয় পতাকা!
+2017-02-20T20:40:06.628Z : creation aborted, post title জায়গা বিক্রিতে বাধা, সংঘর্ষের পর আটক ১২
+2017-02-20T20:40:07.002Z : creation aborted, post title সাভারে সড়ক দুর্ঘটনায় হানিফ সংকেতের খালাতো ভাই নিহত
+2017-02-20T20:40:07.003Z : creation aborted, post title হাতীবান্ধায় মোটরসাইকেল আরোহী নিহত
+2017-02-20T20:40:07.003Z : creation aborted, post title দুর্ঘটনা প্রতিরোধে চালকদের প্রশিক্ষণ দিলো পুলিশ
+2017-02-20T20:40:07.822Z : creation aborted, post title দেওয়ানগঞ্জে ৬৫টি ভারতীয় গরু উদ্ধার
+2017-02-20T20:40:07.829Z : creation aborted, post title কালীগঞ্জে দুই শিক্ষককে মারধর
+2017-02-20T20:40:07.830Z : creation aborted, post title এ শহীদ মিনার এখন স্মৃতি!
+2017-02-20T20:40:07.830Z : creation aborted, post title কক্সবাজারে লাঠির আঘাতে বন্ধুর মৃত্যু
+2017-02-20T20:40:07.833Z : creation aborted, post title সবার আগে সেমিফাইনালে মালদ্বীপের টিসি স্পোর্টস
+2017-02-20T20:40:07.842Z : creation aborted, post title কক্সবাজারে শিশুকে শ্বাসরোধ করে হত্যা
+2017-02-20T20:40:07.842Z : creation aborted, post title সীতাকুণ্ডে সড়ক দুর্ঘটনায় অজ্ঞাত পরিচয়ের নারী নিহত
+2017-02-20T20:40:07.845Z : creation aborted, post title বরিশালে ডোবা থেকে রিকশা চালকের মৃত‌দেহ উদ্ধার
+2017-02-20T20:40:07.845Z : creation aborted, post title ৫২’র ভাষা |‍ আলাউদ্দিন হোসেন
+2017-02-20T20:40:07.849Z : creation aborted, post title ব্রাহ্মণবাড়িয়ায় যুবলীগ নেতার মরদেহ উদ্ধার
+2017-02-20T20:40:07.849Z : creation aborted, post title একুশ আসে ফিরে ফিরে | আহমেদ রব্বানী
+2017-02-20T20:40:07.854Z : creation aborted, post title শহীদ দিবস উপলক্ষে বগুড়ায় চিত্রাংকন প্রতিযোগিতা  
+2017-02-20T20:40:07.854Z : creation aborted, post title ওমানে সড়ক দুর্ঘটনায় বাংলাদেশি যুবক নিহত
+2017-02-20T20:40:07.859Z : creation aborted, post title এবার একুশে পদকপ্রাপ্ত ১৭ গুণীজনের যতো অবদান
+2017-02-20T20:40:07.859Z : creation aborted, post title মৌলভীবাজারে সন্ধ্যায় মাঝারি ধরনের বৃষ্টি
+2017-02-20T20:40:07.864Z : creation aborted, post title ‌'মৌলবাদীদের সুযোগ দিলে তারা দেশে বিশৃঙ্খলা সৃষ্টি করবে’
+2017-02-20T20:40:08.289Z : creation success, post title স্মৃতির মিনারে লাখো মানুষের ঢল
+2017-02-20T20:40:08.289Z : Finished bdnews24 parser
+2017-02-20T20:40:08.289Z : creation success, post title ভালুকায় সড়ক দুর্ঘটনায় শ্রমিক নিহত, বাসে আগুন
+2017-02-21T04:40:05.261Z : Started bdnews24 parsing
+2017-02-21T05:00:04.218Z : Started bdnews24 parsing
+2017-02-21T05:00:05.431Z : Received RSS feed. 30 news found.
+2017-02-21T05:00:08.032Z : creation success, post title মেয়ে দত্তক নেবেন মনীষা
+2017-02-21T05:00:08.033Z : creation success, post title বেনাপোল দুই বাংলার ভাষাপ্রেমিদের বরণে প্রস্তুত নোম্যান্সল্যান্ড
+2017-02-21T05:00:08.033Z : creation success, post title চা শিশুদের ভালোবাসার শহীদ মিনার
+2017-02-21T05:00:08.033Z : creation success, post title খুলনায় কলেজ ছাত্রকে পিটিয়ে হত্যা
+2017-02-21T05:00:08.033Z : creation failed, post title ‘একুশ দিল মুখের বুলি, একুশ তোমায় কেমনে ভুলি’
+2017-02-21T05:00:08.121Z : creation success, post title যেভাবে গ্রেফতার ব্লগার রাজীব হত্যার মূল আসামি
+2017-02-21T05:00:08.121Z : creation success, post title ইমানের সুস্থতায় হাত বাড়ালেন হৃতিকের মা
+2017-02-21T05:00:08.220Z : creation success, post title জাতির বীর সন্তানদের হৃদয়ের অর্ঘ্য
+2017-02-21T05:00:08.244Z : creation success, post title শহীদ মিনারে জনতার ঢল, শোকের ছায়া
+2017-02-21T05:00:08.344Z : creation success, post title কক্সবাজারে সাড়ে ৫ হাজার পিস ইয়াবাসহ আটক ২
+2017-02-21T05:00:08.445Z : creation success, post title বর্জ্য অপসারণে চসিককে এক্সিম ব্যাংকের ৫০ ভ্যান 
+2017-02-21T05:00:08.445Z : creation success, post title আমরা কি তোমাদের ভুলে গিয়েছি?
+2017-02-21T05:00:08.522Z : creation success, post title বিজিবি-বিএসএফ প্রীতি ভলিবল ম্যাচ
+2017-02-21T05:00:08.570Z : creation success, post title বেনাপোলে ‘ইয়াবা সম্রাট’ সেলিম গুলিতে নিহত
+2017-02-21T05:00:08.849Z : creation success, post title ভোলায় ভাষা শহীদদের প্রতি আনসার-ভিডিপির শ্রদ্ধাঞ্জলি
+2017-02-21T05:00:08.849Z : creation success, post title জবিতে ছাত্রলীগকর্মীর হাতে শিক্ষার্থী লাঞ্ছিতের অভিযোগ
+2017-02-21T05:00:08.869Z : creation success, post title শেকৃবি’তে ফুলেল শ্রদ্ধায় ভাষাশহীদদের স্মরণ
+2017-02-21T05:00:08.950Z : creation success, post title সতেরোর একুশ, বায়ান্নর একুশ
+2017-02-21T05:00:09.031Z : creation success, post title ভাষাশহীদদের প্রতি নুরুল হুদা কমিশনের ফুলেল শ্রদ্ধা 
+2017-02-21T05:00:09.031Z : creation success, post title ‘বর্ণমালার উচ্চারণে’ ভাষা শহীদদের শ্রদ্ধা
+2017-02-21T05:00:09.146Z : creation success, post title ফের নিরাপত্তা উপদেষ্টা পদে নতুন নাম ঘোষণা ট্রাম্পের
+2017-02-21T05:00:09.146Z : creation success, post title নেতাদের নিয়ে মূল বেদীতে উঠে পড়লেন খালেদা!
+2017-02-21T05:00:09.416Z : creation success, post title সেই অন্ধ হাফেজকে ছাত্রলীগ সা. সম্পাদকের সহায়তা
+2017-02-21T05:00:09.416Z : creation success, post title নোয়াখালীতে একুশের আলোচনা, একুশের গান
+2017-02-21T05:00:09.801Z : creation success, post title রাজধানীতে পৃথক ঘটনায় ৫ জন আহত, ঢামেকে ভর্তি
+2017-02-21T05:00:11.552Z : creation success, post title বাংলা ভাষার বিকৃতি চাই না
+2017-02-21T05:00:11.552Z : creation failed, post title শ্রদ্ধার ফুলে ‘বর্ণমালা’ আর ‘বাংলাদেশ’
+2017-02-21T05:00:11.552Z : creation success, post title ময়মনসিংহে শ্রদ্ধা নিবেদনে ওয়ারেন্ট অব প্রিসিডেন্স লঙ্ঘন, ক্ষোভ
+2017-02-21T05:00:11.553Z : creation success, post title সাড়ে ৬ বছরে ৪ বার শহীদ মিনারে 
+2017-02-21T05:00:11.621Z : creation success, post title ফেনীর সীমান্ত হাটে বসছে দুই বাংলার মিলনমেলা
+2017-02-21T05:00:11.621Z : Finished bdnews24 parser
+2017-02-21T05:20:05.241Z : Started bdnews24 parsing
+2017-02-21T05:20:06.107Z : Received RSS feed. 30 news found.
+2017-02-21T05:20:10.449Z : creation aborted, post title মেয়ে দত্তক নেবেন মনীষা
+2017-02-21T05:20:10.449Z : creation aborted, post title বেনাপোল দুই বাংলার ভাষাপ্রেমিদের বরণে প্রস্তুত নোম্যান্সল্যান্ড
+2017-02-21T05:20:10.449Z : creation aborted, post title চা শিশুদের ভালোবাসার শহীদ মিনার
+2017-02-21T05:20:10.484Z : creation aborted, post title যেভাবে গ্রেফতার ব্লগার রাজীব হত্যার মূল আসামি
+2017-02-21T05:20:10.484Z : creation aborted, post title ইমানের সুস্থতায় হাত বাড়ালেন হৃতিকের মা
+2017-02-21T05:20:10.484Z : creation aborted, post title খুলনায় কলেজ ছাত্রকে পিটিয়ে হত্যা
+2017-02-21T05:20:10.484Z : creation aborted, post title জাতির বীর সন্তানদের হৃদয়ের অর্ঘ্য
+2017-02-21T05:20:10.883Z : creation aborted, post title শহীদ মিনারে জনতার ঢল, শোকের ছায়া
+2017-02-21T05:20:10.889Z : creation aborted, post title কক্সবাজারে সাড়ে ৫ হাজার পিস ইয়াবাসহ আটক ২
+2017-02-21T05:20:10.889Z : creation aborted, post title বর্জ্য অপসারণে চসিককে এক্সিম ব্যাংকের ৫০ ভ্যান 
+2017-02-21T05:20:10.893Z : creation aborted, post title আমরা কি তোমাদের ভুলে গিয়েছি?
+2017-02-21T05:20:10.899Z : creation aborted, post title ভোলায় ভাষা শহীদদের প্রতি আনসার-ভিডিপির শ্রদ্ধাঞ্জলি
+2017-02-21T05:20:10.899Z : creation aborted, post title জবিতে ছাত্রলীগকর্মীর হাতে শিক্ষার্থী লাঞ্ছিতের অভিযোগ
+2017-02-21T05:20:10.903Z : creation aborted, post title শেকৃবি’তে ফুলেল শ্রদ্ধায় ভাষাশহীদদের স্মরণ
+2017-02-21T05:20:10.909Z : creation aborted, post title বিজিবি-বিএসএফ প্রীতি ভলিবল ম্যাচ
+2017-02-21T05:20:10.909Z : creation aborted, post title সতেরোর একুশ, বায়ান্নর একুশ
+2017-02-21T05:20:10.920Z : creation aborted, post title বেনাপোলে ‘ইয়াবা সম্রাট’ সেলিম গুলিতে নিহত
+2017-02-21T05:20:10.920Z : creation aborted, post title ভাষাশহীদদের প্রতি নুরুল হুদা কমিশনের ফুলেল শ্রদ্ধা 
+2017-02-21T05:20:11.015Z : creation aborted, post title বাংলা ভাষার বিকৃতি চাই না
+2017-02-21T05:20:11.015Z : creation aborted, post title সেই অন্ধ হাফেজকে ছাত্রলীগ সা. সম্পাদকের সহায়তা
+2017-02-21T05:20:11.024Z : creation aborted, post title ‘বর্ণমালার উচ্চারণে’ ভাষা শহীদদের শ্রদ্ধা
+2017-02-21T05:20:11.024Z : creation aborted, post title নোয়াখালীতে একুশের আলোচনা, একুশের গান
+2017-02-21T05:20:11.024Z : creation aborted, post title ময়মনসিংহে শ্রদ্ধা নিবেদনে ওয়ারেন্ট অব প্রিসিডেন্স লঙ্ঘন, ক্ষোভ
+2017-02-21T05:20:11.028Z : creation aborted, post title সাড়ে ৬ বছরে ৪ বার শহীদ মিনারে 
+2017-02-21T05:20:11.033Z : creation aborted, post title ফের নিরাপত্তা উপদেষ্টা পদে নতুন নাম ঘোষণা ট্রাম্পের
+2017-02-21T05:20:11.038Z : creation aborted, post title রাজধানীতে পৃথক ঘটনায় ৫ জন আহত, ঢামেকে ভর্তি
+2017-02-21T05:20:11.040Z : creation aborted, post title ফেনীর সীমান্ত হাটে বসছে দুই বাংলার মিলনমেলা
+2017-02-21T05:20:11.156Z : creation failed, post title ‘একুশ দিল মুখের বুলি, একুশ তোমায় কেমনে ভুলি’
+2017-02-21T05:20:11.219Z : creation success, post title মুন্সীগঞ্জে বয়লার বিস্ফোরণে স্কুলছাত্র নিহত
+2017-02-21T05:20:11.425Z : creation failed, post title শ্রদ্ধার ফুলে ‘বর্ণমালা’ আর ‘বাংলাদেশ’
+2017-02-21T05:20:11.425Z : Finished bdnews24 parser
+2017-02-21T05:40:06.208Z : Started bdnews24 parsing
+2017-02-21T05:40:06.948Z : Received RSS feed. 30 news found.
+2017-02-21T05:40:07.758Z : creation aborted, post title মেয়ে দত্তক নেবেন মনীষা
+2017-02-21T05:40:07.758Z : creation aborted, post title বেনাপোল দুই বাংলার ভাষাপ্রেমীদের বরণে প্রস্তুত নোম্যান্সল্যান্ড
+2017-02-21T05:40:07.758Z : creation aborted, post title চা শিশুদের ভালোবাসার শহীদ মিনার
+2017-02-21T05:40:07.888Z : creation aborted, post title মুন্সীগঞ্জে বয়লার বিস্ফোরণে স্কুলছাত্র নিহত
+2017-02-21T05:40:08.468Z : creation aborted, post title খুলনায় কলেজ ছাত্রকে ���িটিয়ে হত্যা
+2017-02-21T05:40:08.478Z : creation aborted, post title যেভাবে গ্রেফতার ব্লগার রাজীব হত্যার মূল আসামি
+2017-02-21T05:40:08.498Z : creation aborted, post title ইমানের সুস্থতায় হাত বাড়ালেন হৃতিকের মা
+2017-02-21T05:40:08.498Z : creation aborted, post title জাতির বীর সন্তানদের হৃদয়ের অর্ঘ্য
+2017-02-21T05:40:08.638Z : creation aborted, post title শহীদ মিনারে জনতার ঢল, শোকের ছায়া
+2017-02-21T05:40:08.648Z : creation aborted, post title কক্সবাজারে সাড়ে ৫ হাজার পিস ইয়াবাসহ আ���ক ২
+2017-02-21T05:40:08.848Z : creation aborted, post title বর্জ্য অপসারণে চসিককে এক্সিম ব্যাংকের ৫০ ভ্যান 
+2017-02-21T05:40:08.938Z : creation aborted, post title আমরা কি তোমাদের ভুলে গিয়েছি?
+2017-02-21T05:40:08.968Z : creation aborted, post title ভোলায় ভাষা শহীদদের প্রতি আনসার-ভিডিপির শ্রদ্ধাঞ্জলি
+2017-02-21T05:40:09.328Z : creation aborted, post title জবিতে ছাত্রলীগকর্মীর হাতে শিক্ষ���র্থী লাঞ্ছিতের অভিযোগ
+2017-02-21T05:40:09.328Z : creation aborted, post title শেকৃবি’তে ফুলেল শ্রদ্ধায় ভাষাশহীদদের স্মরণ
+2017-02-21T05:40:09.358Z : creation aborted, post title বিজিবি-বিএসএফ প্রীতি ভলিবল ম্যাচ
+2017-02-21T05:40:09.408Z : creation aborted, post title সতেরোর একুশ, বায়ান্নর একুশ
+2017-02-21T05:40:09.928Z : creation aborted, post title বেনাপোলে ‘ইয়াবা সম্রাট’ সেলিম গুলিতে নিহত
+2017-02-21T05:40:11.698Z : creation aborted, post title ভাষাশহীদদের প্রতি নুরুল হুদা কমিশনের ফুলেল শ্রদ্ধা 
+2017-02-21T05:40:11.718Z : creation aborted, post title বাংলা ভাষার বিকৃতি চাই না
+2017-02-21T05:40:11.718Z : creation aborted, post title ‘বর্ণমালার উচ্চারণে’ ভাষা শহীদদের শ্রদ্ধা
+2017-02-21T05:40:11.718Z : creation aborted, post title সেই অন্ধ হাফেজকে ছাত্রলীগ সা. সম্পাদকের সহায়তা
+2017-02-21T05:40:11.718Z : creation aborted, post title ময়মনসিংহে শ্রদ্ধা নিবেদনে ওয়ারেন্ট অব প্রিসিডেন্স লঙ্ঘন, ক্ষোভ
+2017-02-21T05:40:11.718Z : creation aborted, post title নোয়াখালীতে একুশের আলোচনা, একুশের গান
+2017-02-21T05:40:11.738Z : creation success, post title স্বামীর জন্মদিনে প্রাক্তন প্রেমিকাকে নিমন্ত্রণ
+2017-02-21T05:40:11.758Z : creation success, post title বাংলাকে জাতিসংঘের দাপ্তরিক ভাষা করার দাবি কাদেরের
+2017-02-21T05:40:11.758Z : creation success, post title স্কুলে স্কুলে একুশ
+2017-02-21T05:40:11.758Z : creation success, post title শহীদ মিনারে প্রধান বিচারপতির শ্রদ্ধা
+2017-02-21T05:40:12.228Z : creation failed, post title ‘একুশ দিল মুখের বুলি, একুশ তোমায় কেমনে ভুলি’
+2017-02-21T05:40:12.278Z : creation failed, post title শ্রদ্ধার ফুলে ‘বর্ণমালা’ আর ‘বাংলাদেশ’
+2017-02-21T05:40:12.278Z : Finished bdnews24 parser
+2017-02-21T06:00:04.915Z : Started bdnews24 parsing
+2017-02-21T06:00:05.506Z : Received RSS feed. 30 news found.
+2017-02-21T06:00:06.083Z : creation aborted, post title স্বামীর জন্মদিনে প্রাক্তন প্রেমিকাকে নিমন্ত্রণ
+2017-02-21T06:00:06.085Z : creation aborted, post title বাংলাকে জাতিসংঘের দাপ্তরিক ভাষা করার দাবি কাদেরের
+2017-02-21T06:00:06.640Z : creation aborted, post title স্কুলে স্কুলে একুশ
+2017-02-21T06:00:06.640Z : creation aborted, post title শহীদ মিনারে প্রধান বিচারপতির শ্রদ্ধা
+2017-02-21T06:00:06.640Z : creation aborted, post title বেনাপোল দুই বাংলার ভাষাপ্রেমীদের বরণে প্রস্তুত নোম্���ান্সল্যান্ড
+2017-02-21T06:00:06.640Z : creation aborted, post title মুন্সীগঞ্জে বয়লার বিস্ফোরণে স্কুলছাত্র নিহত
+2017-02-21T06:00:06.640Z : creation aborted, post title মেয়ে দত্তক নেবেন মনীষা
+2017-02-21T06:00:06.640Z : creation aborted, post title খুলনায় কলেজ ছাত্রকে পিটিয়ে হত্যা
+2017-02-21T06:00:06.640Z : creation aborted, post title চা শিশুদের ভালোবাসার শহীদ মিনার
+2017-02-21T06:00:06.858Z : creation aborted, post title যেভাবে গ্রেফতার ব্লগার রাজীব হত্যার মূল আসামি
+2017-02-21T06:00:06.865Z : creation aborted, post title ইমানের সুস্থতায় হাত বাড়ালেন হৃতিকের মা
+2017-02-21T06:00:06.865Z : creation aborted, post title জাতির বীর সন্তানদের হৃদয়ের অর্ঘ্য
+2017-02-21T06:00:06.867Z : creation aborted, post title শহীদ মিনারে জনতার ঢল, শোকের ছায়া
+2017-02-21T06:00:06.873Z : creation aborted, post title কক্সবাজারে সাড়ে ৫ হাজার পিস ইয়াবাসহ আটক ২
+2017-02-21T06:00:06.873Z : creation aborted, post title বর্জ্য অপসারণে চসিকক��� এক্সিম ব্যাংকের ৫০ ভ্যান 
+2017-02-21T06:00:06.878Z : creation aborted, post title আমরা কি তোমাদের ভুলে গিয়েছি?
+2017-02-21T06:00:06.878Z : creation aborted, post title ভোলায় ভাষা শহীদদের প্রতি আনসার-ভিডিপির শ্রদ্ধাঞ্জলি
+2017-02-21T06:00:06.883Z : creation aborted, post title জবিতে ছাত্রলীগকর্মীর হাতে শিক্ষার্থী লাঞ্ছিতের অভিযোগ
+2017-02-21T06:00:06.884Z : creation aborted, post title শেকৃবি’তে ফুলেল শ্রদ্ধায় ভাষাশহীদদের স্মরণ
+2017-02-21T06:00:06.887Z : creation aborted, post title বিজিবি-বিএসএফ প্রীতি ভলিবল ম্যাচ
+2017-02-21T06:00:06.960Z : creation success, post title চৌদ্দগ্রামে সড়ক দুর্ঘটনায় মাছ ব্যবসায়ী নিহত
+2017-02-21T06:00:06.960Z : creation success, post title ভাষাশহীদদের শ্রদ্ধা জানালেন জাতীয় বিশ্ববিদ্যালয়ের উপাচার্য
+2017-02-21T06:00:06.947Z : creation aborted, post title সতেরোর একুশ, বায়ান্নর একুশ
+2017-02-21T06:00:06.960Z : creation success, post title চাইনিজ তাইপেকে উড়িয়ে কোয়ার্টারে বাংলাদেশ
+2017-02-21T06:00:06.960Z : creation success, post title জামালখানে ৫৭০ বর্গফুটের পোড়ামাটির ম্যুরাল উদ্বোধন
+2017-02-21T06:00:06.961Z : creation success, post title ত্রিপুরায় পালিত হচ্ছে আন্তর্জাতিক মাতৃভাষা দিবস
+2017-02-21T06:00:06.961Z : creation success, post title ২১শে ফেব্রুয়ারি শুধু একটি দিন নয়, প্রেরণার উৎস
+2017-02-21T06:00:07.388Z : creation success, post title শ্রীলঙ্কা সফরে দলে ফিরলেন মোস্তাফিজ
+2017-02-21T06:00:07.388Z : creation success, post title এমপি লিটনের বোনের গাড়ি ভাঙচুর
+2017-02-21T06:00:07.452Z : creation failed, post title ‘একুশ দিল মুখের বুলি, একুশ তোমায় কেমনে ভুলি’
+2017-02-21T06:00:07.452Z : Finished bdnews24 parser
+2017-02-21T06:20:05.194Z : Started bdnews24 parsing
+2017-02-21T06:20:05.815Z : Received RSS feed. 30 news found.
+2017-02-21T06:20:06.448Z : creation aborted, post title চৌদ্দগ্রামে সড়ক দুর্ঘটনায় মাছ ব্যবসায়ী নিহত
+2017-02-21T06:20:06.465Z : creation aborted, post title ভাষাশহীদদের শ্রদ্ধা জানালেন জাতীয় বিশ্ববিদ্যালয়ের উপাচার্য
+2017-02-21T06:20:06.472Z : creation aborted, post title চাইনিজ তাইপেকে উড়িয়ে কোয়ার্টারে বাংলাদেশ
+2017-02-21T06:20:07.009Z : creation aborted, post title জামালখানে ৫৭০ বর্গফুটের পোড়ামাটির ম্যুরাল উদ্বোধন
+2017-02-21T06:20:07.009Z : creation aborted, post title ত্রিপুরায় পালিত হচ্ছে আন্তর্জাতিক মাতৃভাষা দিবস
+2017-02-21T06:20:07.010Z : creation aborted, post title ২১শে ফেব্রুয়ারি শুধু একটি দিন নয়, প্রেরণার উৎস
+2017-02-21T06:20:07.010Z : creation aborted, post title এমপি লিটনের বোনের গাড়ি ভাঙচুর
+2017-02-21T06:20:07.010Z : creation aborted, post title শ্রীলঙ্কা সফরে দলে ফিরলেন ���োস্তাফিজ
+2017-02-21T06:20:07.010Z : creation aborted, post title স্বামীর জন্মদিনে প্রাক্তন প্রেমিকাকে নিমন্ত্রণ
+2017-02-21T06:20:07.010Z : creation aborted, post title বাংলাকে জাতিসংঘের দাপ্তরিক ভাষা করার দাবি কাদেরের
+2017-02-21T06:20:07.010Z : creation aborted, post title স্কুলে স্কুলে একুশ
+2017-02-21T06:20:07.010Z : creation aborted, post title শহীদ মিনারে প্রধান বিচারপতির শ্রদ্ধা
+2017-02-21T06:20:07.010Z : creation aborted, post title মেয়ে দত্তক নেবেন মনীষা
+2017-02-21T06:20:07.010Z : creation aborted, post title বেনাপোল দুই বাংলার ভাষাপ্রেমীদের বরণে প্রস্তুত নোম্যান্সল্যান্ড
+2017-02-21T06:20:07.011Z : creation aborted, post title চা শিশুদের ভালোবাসার শহীদ মিনার
+2017-02-21T06:20:07.969Z : creation aborted, post title যেভাবে গ্রেফতার ব্লগার রাজীব হত্যার মূল আসামি
+2017-02-21T06:20:07.969Z : creation aborted, post title মুন্সীগঞ্জে বয়লার বিস্ফোরণে স্কুলছাত্র নিহত
+2017-02-21T06:20:07.969Z : creation aborted, post title খুলনায় কলেজ ছাত্রকে পিটিয়ে হত্যা
+2017-02-21T06:20:07.977Z : creation aborted, post title ইমানের সুস্থতায় হাত বাড়ালেন হৃতিকের মা
+2017-02-21T06:20:07.978Z : creation aborted, post title জাতির বীর সন্তানদের হৃদয়ের অর্ঘ্য
+2017-02-21T06:20:07.981Z : creation aborted, post title শহীদ মিনারে জনতার ঢল, শোকের ছায়া
+2017-02-21T06:20:07.986Z : creation aborted, post title কক্সবাজারে সাড়ে ৫ হাজার পিস ইয়াবাসহ আটক ২
+2017-02-21T06:20:07.987Z : creation aborted, post title বর্জ্য অপসারণে চসিককে এক্সিম ব্যাংকের ৫০ ভ্যান 
+2017-02-21T06:20:08.000Z : creation success, post title ধামরাইয়ে বাস দুর্ঘটনায় হেলপার নিহত
+2017-02-21T06:20:08.000Z : creation success, post title একুশের আভা আসছে বইমেলায়
+2017-02-21T06:20:08.003Z : creation success, post title জিন্নাহর ‘ওসিয়ত’ নাজিমুদ্দেনের ‘নসিয়তে’ বাঙালির ‘না’
+2017-02-21T06:20:08.004Z : creation success, post title নাটোরে যুবকের মরদেহ উদ্ধার
+2017-02-21T06:20:08.004Z : creation success, post title রাজশাহীতে বিনম্র শ্রদ্ধায় পালিত হচ্ছে ভাষা দিবস
+2017-02-21T06:20:08.004Z : creation success, post title শুনুন একুশের চেতনায় ভাস্বর কিছু গান
+2017-02-21T06:20:08.501Z : creation failed, post title ‘একুশ দিল মুখের বুলি, একুশ তোমায় কেমনে ভুলি’
+2017-02-21T06:20:08.501Z : Finished bdnews24 parser
+2017-02-21T06:40:05.116Z : Started bdnews24 parsing
+2017-02-21T06:40:06.276Z : Received RSS feed. 30 news found.
+2017-02-21T06:40:06.923Z : creation aborted, post title ধামরাইয়ে বাস দুর্ঘটনায় হেলপার নিহত
+2017-02-21T06:40:06.959Z : creation aborted, post title একুশের আভা আসছে বইমেলায়
+2017-02-21T06:40:07.010Z : creation aborted, post title জিন্নাহর ‘ওসিয়ত’ নাজিমুদ্দেনের ‘নসিয়তে’ বাঙালির ‘না’
+2017-02-21T06:40:07.019Z : creation aborted, post title নাটোরে যুবকের মরদেহ উদ্ধার
+2017-02-21T06:40:07.297Z : creation aborted, post title রাজশাহীতে বিনম্র শ্রদ্ধায় পালিত হচ্ছে ভাষা দিবস
+2017-02-21T06:40:07.297Z : creation aborted, post title শুনুন একুশের চেতনায় ভাস্বর কিছু গান
+2017-02-21T06:40:07.298Z : creation aborted, post title চৌদ্দগ্রামে সড়ক দুর্ঘটনায় মাছ ব্যবসায়ী নিহত
+2017-02-21T06:40:07.589Z : creation aborted, post title ভাষাশহীদদের শ্রদ্ধা জানালেন জাতীয় বিশ্ববিদ্যালয়ের উপাচার্য
+2017-02-21T06:40:08.570Z : creation aborted, post title চাইনিজ তাইপেকে উড়িয়ে কোয়ার্টারে বাংলাদেশ
+2017-02-21T06:40:08.580Z : creation aborted, post title জামালখানে ৫৭০ বর্গফুটের পোড়ামাটির ম্যুরাল উদ্বোধন
+2017-02-21T06:40:08.580Z : creation aborted, post title ত্রিপুরায় পালিত হচ্ছে আন্তর্জাতিক মাতৃভাষা দিবস
+2017-02-21T06:40:08.584Z : creation aborted, post title ২১শে ফেব্রুয়ারি শুধু একটি দিন নয়, প্রেরণার উৎস
+2017-02-21T06:40:08.584Z : creation aborted, post title এমপি লিটনের বোনের গাড়ি ভাঙচুর
+2017-02-21T06:40:08.590Z : creation aborted, post title শ্রীলঙ্কা সফরে দলে ফিরলেন মোস্তাফিজ
+2017-02-21T06:40:08.597Z : creation aborted, post title বাংলাকে জাতিসংঘের দাপ্তরিক ভাষা করার দাবি কাদেরের
+2017-02-21T06:40:08.597Z : creation aborted, post title স্বামীর জন্মদিনে প্রাক্তন প্রেমিকাকে নিমন্ত্রণ
+2017-02-21T06:40:08.601Z : creation aborted, post title স্কুলে স্কুলে একুশ
+2017-02-21T06:40:08.601Z : creation aborted, post title শহীদ মিনারে প্রধান বিচারপতির শ্রদ্ধা
+2017-02-21T06:40:09.024Z : creation aborted, post title বেনাপোল দুই বাংলার ভাষাপ্রেমীদের বরণে প্রস্তুত নোম্যান্সল্যান্ড
+2017-02-21T06:40:09.024Z : creation aborted, post title চা শিশুদের ভালোবাসার শহীদ মিনার
+2017-02-21T06:40:09.024Z : creation aborted, post title মেয়ে দত্তক নেবেন মনীষা
+2017-02-21T06:40:09.026Z : creation aborted, post title খুলনায় কলেজ ছাত্রকে পিটিয়ে হত্যা
+2017-02-21T06:40:09.026Z : creation aborted, post title মুন্সীগঞ্জে বয়লার বিস্ফোরণে স্কুলছাত্র নিহত
+2017-02-21T06:40:09.042Z : creation success, post title বাবার সুর নিয়ে ইমনের স্বপ্নের অ্যালবাম
+2017-02-21T06:40:09.042Z : creation success, post title কলকাতা উপ দূতাবাসে আন্তর্জাতিক মাতৃভাষা দিবস পালিত
+2017-02-21T06:40:09.042Z : creation success, post title ফুল নয়, জুতা হাতে শহীদ মিনারে আনসার সদস্য
+2017-02-21T06:40:09.042Z : creation success, post title শ্রদ্ধায় ভাষা শহীদদের স্মরণ করেছে ইডিইউ
+2017-02-21T06:40:09.043Z : creation aborted, post title যেভাবে গ্রেফতার ব্লগার রাজীব হত্যার মূল আসামি
+2017-02-21T06:40:09.076Z : creation success, post title মুম্বাইয়ের ব্যস্ত সড়কে শাহরুখপুত্র আবরাম (ভিডিও)
+2017-02-21T06:40:09.592Z : creation failed, post title ‘একুশ দিল মুখের বুলি, একুশ তোমায় কেমনে ভুলি’
+2017-02-21T06:40:09.593Z : Finished bdnews24 parser

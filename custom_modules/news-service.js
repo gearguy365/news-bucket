@@ -19,7 +19,8 @@ var newsDb = function () {
         Link: { type: String, unique: false },
         Description: { type: String, unique: false },
         PubDate: { type: String, unique: false },
-        Guid: { type: String, unique: true }
+        Guid: { type: String, unique: true },
+        Category: {type: String, unique: false}
     });
     var Post = mongoose.model('Post', postSchema);
 

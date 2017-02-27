@@ -65,7 +65,8 @@ function saveNews(news) {
                     Link: news.link[0],
                     Description: news.description[0],
                     PubDate: new Date(news.pubDate[0]).toISOString(),
-                    Guid: news.guid[0]
+                    Guid: news.guid[0],
+                    Category: 'none'
                 }, function (response) {
                     callback(response);
                 });
