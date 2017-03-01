@@ -42,24 +42,48 @@ queue.process('parse-bdnews24-rss', function (job, done) {
 });
 //=======================================================
 
+//prothomalo parser process===============================
+queue.process('parse-prothomalo-scrape', function (job, done) {
+    var worker = child_process.fork('prothomaloParser.js', []);
+
+    worker.on('message', function (message) {
+        console.log(message);
+    });
+
+    worker.on('close', function () {
+        done();
+    });
+});
+//=======================================================
+
 //run queue in a series of processes every 1 mins=======
-scheduler.scheduleJob('*/20 * * * *', function () {
+scheduler.scheduleJob('*/5 * * * *', function () {
     queue.create('parse-bdnews24-rss', {})
         .priority('high')
         .save(function (err) {
             if (!err) {
-                console.log('parsing job created');
+                console.log('bdnews parsing job created');
             }
         })
         .on('complete', function () {
-            console.log('parsing job completed!');
+            console.log('bdnews parsing job completed!');
         });
+    queue.create('parse-prothomalo-scrape', {})
+        .priority('high')
+        .save(function (err) {
+            if (!err) {
+                console.log('prothomalo parsing job created')
+            }
+        })
+        .on('complete', function () {
+            console.log('prothomalo parsing job completed!');
+        })
 });
 //========================================================
 
 //initializing Express app and exposing endpoints=========
 var app = express();
-var port = process.env.PORT || 8080;
+var port = process.env.PORT || 3000;
 
 app.get('/news', function (req, res) {
     console.log('received request');

@@ -51,6 +51,7 @@ function init () {
                     Logger.logger('logs/prothomaloParserLog.txt', 'extraction completed from : ' + link);
                     if (resolveCount == 15) {
                         Logger.logger('logs/prothomaloParserLog.txt', 'prothom alo parsing completed');
+                        process.exit();
                     }
                 });
                 // if (sourcesCount == sources.length - 1 && linksCount == source.links.length - 1) {
@@ -70,7 +71,6 @@ function processHtmlContent (html, link, category) {
         var promises = [];
         var contents = $('.content_type_article');
         contents.each(function (a, b, c) {
-            console.log('entered ' + a + ' times');
             var newObject = {};
 
             newObject.Title = $(this).find('.info').find('h2').text();
