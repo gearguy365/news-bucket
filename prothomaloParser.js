@@ -51,7 +51,9 @@ function init () {
                     Logger.logger('logs/prothomaloParserLog.txt', 'extraction completed from : ' + link);
                     if (resolveCount == 15) {
                         Logger.logger('logs/prothomaloParserLog.txt', 'prothom alo parsing completed');
-                        process.exit();
+                        setTimeout(function() {
+                            process.exit();
+                        }, 3000);
                     }
                 });
                 // if (sourcesCount == sources.length - 1 && linksCount == source.links.length - 1) {
