@@ -77,11 +77,12 @@ function processHtmlContent (html, link, category) {
 
             newObject.Title = $(this).find('.info').find('h2').text();
             newObject.Description = $(this).find('.info').find('.summery').text();
-            newObject.ubDate = $(this).find('.info').find('.additional').find('span').attr('data-published');
+            newObject.PubDate = $(this).find('.info').find('.additional').find('span').attr('data-published');
             newObject.Link = 'http://www.prothom-alo.com/' + $(this).find('.link_overlay').attr('href');
             newObject.Guid = newObject.Link;
             newObject.Category = category;
-            // var imageLink = 'http:' + $(this).find('.image').find('img').attr('src');
+            newObject.ImageLink = 'http:' + $(this).find('.image').find('img').attr('src');
+            newObject.Source = 'prothomalo'
             // Logger.logger('logs/prothomaloParserLog.txt', 'extracted news with GUID : ' + newObject.Guid);
             promises.push(saveNews(newObject).then(function (response) {
                 Logger.logger('logs/prothomaloParserLog.txt', 'creation ' + response + ', post title :' + newObject.Title);

@@ -1,13 +1,13 @@
 var mongoose = require('mongoose');
 
-var options = { 
-                server: { socketOptions: { keepAlive: 300000, connectTimeoutMS: 30000 }}, 
-                replset: { socketOptions: { keepAlive: 300000, connectTimeoutMS : 30000 }} 
-              };
-mongoose.connect('mongodb://admin:admin@ds143539.mlab.com:43539/news', options);
-var connection = mongoose.connection;
 
 function getNewsDBObject (callback) {
+    var options = { 
+                    server: { socketOptions: { keepAlive: 300000, connectTimeoutMS: 30000 }}, 
+                    replset: { socketOptions: { keepAlive: 300000, connectTimeoutMS : 30000 }} 
+                };
+    mongoose.connect('mongodb://admin:admin@ds143539.mlab.com:43539/news', options);
+    var connection = mongoose.connection;
     connection.once('open', function () {
         callback(new newsDb());
     })
@@ -38,7 +38,7 @@ var newsDb = function () {
     }
 
     newsDb.prototype.getAllPost = function (skip, limit, success, failure) {
-        Post.find({}, {}, { skip: skip, limit: limit }, function (err, posts) {
+        Post.find({}, {}, { skip: skip, limit: limit}, function (err, posts) {
             if (!err) {
                 success(posts);
             } else {
@@ -48,7 +48,7 @@ var newsDb = function () {
     }
 
     newsDb.prototype.getPostByProperty = function (searchObj, skip, limit, success, failure) {
-        Post.find(searchObj, {}, { skip: skip, limit: limit }, function (err, post) {
+        Post.find(searchObj, {}, { skip: skip, limit: limit , sort: {PubDate : -1}}, function (err, post) {
             if (!err) {
                 success(post);
             } else {

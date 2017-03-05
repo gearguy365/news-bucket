@@ -20,7 +20,8 @@ var sources =
         category: 'sports',
         links: ['http://www.kalerkantho.com/online/sport']
 
-    }];
+    }
+    ];
 
 news_service.getNewsDBObject(function (obj) {
     newsDb = obj;
@@ -35,11 +36,11 @@ function init () {
             request(link, function (error, response, html) {
                 processHtmlContent(html, link, source.category).then(function (response) {
                     resolveCount++;
-                    console.log('extraction completed form ' + link);
+                    // console.log('extraction completed form ' + link);
                     Logger.logger('logs/kalerkonthoParserLog.txt', 'extraction completed from : ' + link);
                     if (resolveCount == 4) {
                         Logger.logger('logs/kalerkonthoParserLog.txt', 'kalerkontho parsing completed');
-                        console.log('exiting process');
+                        // console.log('exiting process');
                         setTimeout(function () {
                             process.exit();
                         }, 3000)
@@ -64,10 +65,11 @@ function processHtmlContent (html, link, category) {
             newObject.Link = 'http://www.kalerkantho.com' + $(this).find('a').attr('href').slice(1);
             
             var newsUrlSplitted = newObject.Link.split('/');
-            newObject.PubDate = new Date(newsUrlSplitted[5], parseInt(newsUrlSplitted[6]) - 1, newsUrlSplitted[7]);
+            newObject.PubDate = new Date(newsUrlSplitted[5], parseInt(newsUrlSplitted[6]) - 1, newsUrlSplitted[7]).toISOString();
             newObject.Guid = newObject.Link;
             newObject.Category = category;
-            // var imageLink = 'http:' + $(this).find('.image').find('img').attr('src');
+            newObject.ImageLink = $(this).find('.img').find('img').attr('src');
+            newObject.Source = 'kalerkontho';
             // Logger.logger('logs/prothomaloParserLog.txt', 'extracted news with GUID : ' + newObject.Guid);
             promises.push(saveNews(newObject).then(function (response) {
                 Logger.logger('logs/kalerkonthoParserLog.txt', 'creation ' + response + ', post title :' + newObject.Title);
@@ -81,15 +83,15 @@ function processHtmlContent (html, link, category) {
 
 function saveNews(news) {
     return new Promise(function (resolve, reject) {
-        newsDb.getPostByProperty({ Guid: news.Guid }, 0, 1, function (post) {
-            if (post.length == 0) {
+    //     newsDb.getPostByProperty({ Guid: news.Guid }, 0, 1, function (post) {
+    //         if (post.length == 0) {
                 newsDb.createPost(news, function (response) {
                     // console.log(news);
                     resolve(response);
                 });
-            } else {
-                resolve('aborted')
-            }
-        });
+        //     } else {
+        //         resolve('aborted')
+        //     }
+        // });
     });
 }
