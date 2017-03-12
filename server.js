@@ -138,30 +138,6 @@ app.use(function(req, res, next) {
 
 var port = process.env.PORT || 3000;
 
-app.get('/news', function (req, res) {
-    console.log('received request');
-    var filterObject = {};
-    if (req.query.category) {
-        filterObject.Category = req.query.category;
-    }
-    if (req.query.source) {
-        filterObject.Source = req.query.source;
-    }
-
-    var skip = !req.query.skip ? 0 : parseInt(req.query.skip);
-    var limit = !req.query.limit ? 10 : parseInt(req.query.limit);
-    
-
-    newsDb.getPostByProperty(filterObject, skip, limit, function (response) {
-        res.type('json');
-        console.log('sending response');
-        res.send(JSON.stringify(response));
-    }, function (error) {
-        console.log(error);
-        res.send('something went wrong');
-    });
-});
-
 app.post('/signup', function (req, res) {
     passport.authenticate('local-signup', function (err, user, info) {
         if (err) {
@@ -214,9 +190,49 @@ app.post('/login', function (req, res, next) {
     })(req, res, next);
 });
 
+app.get('/logout', function (req, res) {
+    req.logout();
+    res.status(200).send('success');
+});
+
+app.post('/news-activation', function (req, res) {
+    if (req.isAuthenticated()) {
+        //activate/deactivate here
+        var id = req.params.id;
+        var status = req.params.status;
+        
+    } else {
+        res.status(401).send('unauthorized');
+    }
+})
+
+app.get('/news', function (req, res) {
+    console.log('received request');
+    var filterObject = {};
+    if (req.query.category) {
+        filterObject.Category = req.query.category;
+    }
+    if (req.query.source) {
+        filterObject.Source = req.query.source;
+    }
+
+    var skip = !req.query.skip ? 0 : parseInt(req.query.skip);
+    var limit = !req.query.limit ? 10 : parseInt(req.query.limit);
+    
+
+    newsDb.getPostByProperty(filterObject, skip, limit, function (response) {
+        res.type('json');
+        console.log('sending response');
+        res.send(JSON.stringify(response));
+    }, function (error) {
+        console.log(error);
+        res.send('something went wrong');
+    });
+});
+
 app.get('/news/:id', function (req, res) {
     console.log('received request');
-    if (req.isAuthenticated()) {
+    // if (req.isAuthenticated()) {
         newsDb.getPostByProperty({_id : req.params.id}, 0, 5, function (response) {
             res.type('json');
             console.log('sending response');
@@ -225,14 +241,9 @@ app.get('/news/:id', function (req, res) {
             console.log(error);
             res.send('something went wrong');
         });
-    } else {
-        res.status(401).send('unauthorized');
-    }
-});
-
-app.get('/logout', function (req, res) {
-    req.logout();
-    res.status(200).send('success');
+    // } else {
+    //     res.status(401).send('unauthorized');
+    // }
 });
 
 app.listen(port, function () {

@@ -22,7 +22,8 @@ var newsDb = function () {
         Guid: { type: String, unique: true },
         Category: {type: String, unique: false},
         ImageLink: {type: String, unique: false},
-        Source: {type: String, unique: false}
+        Source: {type: String, unique: false},
+        Status: {type: String, unique: false}
     });
     var Post = mongoose.model('Post', postSchema);
 
@@ -35,6 +36,10 @@ var newsDb = function () {
                 callback('failed');
             }
         });
+    }
+
+    newsDb.prototype.createPost = function () {
+        
     }
 
     newsDb.prototype.getAllPost = function (skip, limit, success, failure) {
