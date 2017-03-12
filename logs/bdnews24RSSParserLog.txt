@@ -725,3 +725,300 @@
 2017-03-04T19:44:19.091Z : creation success, post title ক্যাপিটাল মেশিনারিজ ঘোষণায় নিষিদ্ধ পণ্য আমদানি! 
 2017-03-04T19:44:19.116Z : creation success, post title বগুড়ায় স্বামীর বিরুদ্ধে স্ত্রীকে হত্যার অভিযোগ
 2017-03-04T19:44:19.116Z : Finished bdnews24 parser
+2017-03-07T06:49:17.718Z : Started bdnews24 parsing
+2017-03-07T06:49:20.848Z : Received RSS feed. 30 news found.
+2017-03-07T06:49:22.096Z : creation success, post title ক্রিকেটার সানীর মামলার প্রতিবেদন দাখিল ৬ এপ্রিল
+2017-03-07T06:49:22.096Z : creation success, post title কুশল-করুনারাত্নে জুটি ভাঙলেন মিরাজ
+2017-03-07T06:49:22.096Z : creation success, post title ভারতকে ধসিয়ে দিল���ন স্টার্ক-হ্যাজেলউড
+2017-03-07T06:49:22.096Z : creation success, post title বাড়ি ফেরার কথা বলে লাপাত্তা হয় জঙ্গি কামাল!
+2017-03-07T06:49:22.096Z : creation success, post title মরদেহ পাঠাতেও ঘুষ বাংলাদেশ হাই কমিশন মালয়েশিয়ায়!
+2017-03-07T06:49:22.096Z : creation success, post title জঙ্গিবাদসহ আপত্তিকর কনটেন্টরোধে ফেসবুকের সঙ্গে বসছে সরকার
+2017-03-07T06:49:22.096Z : creation success, post title মোস্তাফিজদের নিয়ন্ত্রিত বোলিংয়ে লঙ্কানদের সাবধানী ব্যাটিং
+2017-03-07T06:49:22.096Z : creation success, post title ক্যান্টিনে বাকি বা ফ্রি খেলে আজীবন বহিষ্কার করবে ঢাবি ছাত্রলীগ
+2017-03-07T06:49:22.096Z : creation failed, post title সমুদ্র সহযোগিতা জোরদারে বিশ্বমঞ্চে শেখ ���াসিনার আহ্বান
+2017-03-07T06:49:22.096Z : creation success, post title মধুপুরে ৩টি দোকান পুড়ে ছাই
+2017-03-07T06:49:22.096Z : creation success, post title পাকিস্তানে খেলবে বিশ্ব একাদশ!
+2017-03-07T06:49:22.102Z : creation success, post title ত্রিশাল ও টঙ্গি মিশন, জঙ্গি ছিনতাই স্টাইলে মিল-অমিল
+2017-03-07T06:49:22.102Z : creation success, post title অরফানেজ ট্রাস্ট মামলার অংশ বিশেষ পুনঃতদন্ত চেয়ে খালেদার আবেদন
+2017-03-07T06:49:22.103Z : creation success, post title সুপ্রিম কোর্টের কাছে ক্ষমা চাইলেন অনুরাগ
+2017-03-07T06:49:22.103Z : creation success, post title আইওআরও লিডারস সামিট শুরু, প্রধানমন্ত্রীর অংশগ্রহণ
+2017-03-07T06:49:22.105Z : creation success, post title শাহজালালে তৃতীয় টার্মিনাল নির্মাণে সরানো হবে কিছু অবকাঠামো   
+2017-03-07T06:49:22.106Z : creation success, post title শিমুল হত্যা, মীরুর ভাইয়ের ব্যবহৃত পাইপগান উদ্ধার
+2017-03-07T06:49:22.385Z : creation success, post title সড়কের পাশে পড়ে রইলো যুবকের নিথর দেহ
+2017-03-07T06:49:22.385Z : creation success, post title ব্রেকথ্রু এনে দিলেন শুভাশিস
+2017-03-07T06:49:22.388Z : creation success, post title ব্রেকথ্রুর অপেক্ষায় মোস্তাফিজ-তাসকিনরা
+2017-03-07T06:49:22.388Z : creation success, post title ১৮ উপজেলা-পৌরসভা উপনির্বাচনে ১০টিতে আ’লীগ বিজয়ী
+2017-03-07T06:49:22.388Z : creation success, post title ব্র্যাকাথন সফটওয়্যার চ্যাম্পিয়নশিপে দেশসেরা শাবিপ্রবি
+2017-03-07T06:49:22.388Z : creation success, post title আগুনে ৮ বসতঘর পুড়ে ছাই
+2017-03-07T06:49:22.389Z : creation success, post title ফিল্ডিংয়ে নেমেছে টাইগাররা
+2017-03-07T06:49:22.388Z : creation success, post title দুষ্প্রাপ্য পাহাড়ি আলু
+2017-03-07T06:49:22.393Z : creation success, post title তারবিহীন সিসি ক্যামেরা লাগাতে চায় সিএমপি
+2017-03-07T06:49:22.704Z : creation success, post title তিফায় তাল ঠুকে শুরু আইওআরএ শীর্ষ সম্মেলন, অংশ নিলেন শেখ হাসিনা
+2017-03-07T06:49:22.704Z : creation success, post title রাজধানীতে অপহৃত শিশু মানিকগঞ্জে উদ্ধার, আটক ২
+2017-03-07T06:49:22.705Z : creation success, post title দেশীয় জঙ্গি সংগঠনই মুফতি হান্নানের ঘটনা ঘটিয়েছে
+2017-03-07T06:49:22.705Z : creation success, post title টস হেরে ফিল্ডিংয়ে বাংলাদেশ
+2017-03-07T06:49:22.706Z : Finished bdnews24 parser
+2017-03-07T07:00:06.062Z : Started bdnews24 parsing
+2017-03-07T07:00:08.315Z : Received RSS feed. 30 news found.
+2017-03-07T07:00:08.652Z : creation aborted, post title ক্রিকেটার সানীর মামলার প্রতিবেদন দাখিল ৬ এপ্রিল
+2017-03-07T07:00:08.652Z : creation aborted, post title বাড়ি ফেরার কথা বলে লাপাত্তা হয় জঙ্গি কামাল!
+2017-03-07T07:00:08.652Z : creation aborted, post title কুশল-করুনারাত্নে জুটি ভাঙলেন মিরাজ
+2017-03-07T07:00:08.652Z : creation aborted, post title ভারতক��� ধসিয়ে দিলেন স্টার্ক-হ্যাজেলউড
+2017-03-07T07:00:09.248Z : creation aborted, post title মরদেহ পাঠাতেও ঘুষ বাংলাদেশ হাই কমিশন মালয়েশিয়ায়!
+2017-03-07T07:00:09.250Z : creation aborted, post title মোস্তাফিজদের নিয়ন্ত্রিত বোলিংয়ে লঙ্কানদের সাবধানী ���্যাটিং
+2017-03-07T07:00:09.250Z : creation aborted, post title মধুপুরে ৩টি দোকান পুড়ে ছাই
+2017-03-07T07:00:09.250Z : creation aborted, post title জঙ্গিবাদসহ আপত্তিকর কনটেন্টরোধে ফেসবুকের সঙ্গে বসছে সরকার
+2017-03-07T07:00:09.250Z : creation aborted, post title পাকিস্তানে খেলবে বিশ্ব একাদশ!
+2017-03-07T07:00:09.255Z : creation aborted, post title ক্যান্টিনে বাকি বা ফ্রি খেলে আজীবন বহিষ্কার করবে ঢাবি ছাত্রলীগ
+2017-03-07T07:00:09.259Z : creation aborted, post title ত্রিশাল ও টঙ্গি মিশন, জঙ্গি ছিনতাই স্টাইলে মিল-অমিল
+2017-03-07T07:00:09.264Z : creation aborted, post title অরফানেজ ট্রাস্ট মামলার অংশ বিশেষ পুনঃতদন্ত চেয়ে খালেদার আবেদন
+2017-03-07T07:00:09.267Z : creation aborted, post title সুপ্রিম কোর্টের কাছে ক্ষমা চাইলেন অনুরাগ
+2017-03-07T07:00:09.272Z : creation aborted, post title আইওআরও লিডারস সামিট শুরু, প্রধানমন্ত্রীর অংশগ্রহণ
+2017-03-07T07:00:09.544Z : creation aborted, post title শাহজালালে তৃতীয় টার্মিনাল নির্মাণ��� সরানো হবে কিছু অবকাঠামো   
+2017-03-07T07:00:09.545Z : creation aborted, post title শিমুল হত্যা, মীরুর ভাইয়ের ব্যবহৃত পাইপগান উদ্ধার
+2017-03-07T07:00:09.546Z : creation aborted, post title ব্রেকথ্রু এনে দিলেন শুভাশিস
+2017-03-07T07:00:09.546Z : creation aborted, post title সড়কের পাশে পড়ে রইলো যুবকের নিথর দেহ
+2017-03-07T07:00:09.551Z : creation aborted, post title ব্রেকথ্রুর অপেক্ষায় মোস্তাফিজ-তাসকিনরা
+2017-03-07T07:00:09.551Z : creation aborted, post title ১৮ উপজেলা-পৌরসভা উপনির্বাচনে ১০টিতে আ’লীগ বিজয়ী
+2017-03-07T07:00:09.556Z : creation aborted, post title দুষ্প্রাপ্য পাহাড়ি আলু
+2017-03-07T07:00:09.566Z : creation aborted, post title ব্র্যাকাথন সফটওয়্যার চ্যাম্পিয়নশিপে দেশসেরা শাবিপ্রবি
+2017-03-07T07:00:09.569Z : creation aborted, post title আগুনে ৮ বসতঘর পুড়ে ছাই
+2017-03-07T07:00:09.569Z : creation aborted, post title ফিল্ডিংয়ে নেমেছে টাইগাররা
+2017-03-07T07:00:09.583Z : creation success, post title বগুড়ায় ক্রিকেট লীগের উদ্বোধন
+2017-03-07T07:00:09.584Z : creation success, post title কিশোরগঞ্জের রাজাকারের রায় যেকোনো দিন
+2017-03-07T07:00:09.589Z : creation success, post title মৌসুমী-জাহিদ আবার
+2017-03-07T07:00:09.589Z : creation failed, post title সমুদ্র সহযোগি���া জোরদারে বিশ্বমঞ্চে শেখ হাসিনার আহ্বান
+2017-03-07T07:00:09.589Z : Finished bdnews24 parser
+2017-03-07T07:00:09.584Z : creation aborted, post title তারবিহীন সিসি ক্যামেরা লাগাতে চায় সিএমপি
+2017-03-07T07:00:09.589Z : creation success, post title মধ্যাহ্ন বিরতিতে শ্রীলঙ্কা ৬১/২
+2017-03-07T07:07:35.188Z : Started bdnews24 parsing
+2017-03-07T07:07:36.010Z : Received RSS feed. 30 news found.
+2017-03-07T07:07:36.342Z : creation aborted, post title কিশোরগঞ্জের দুই রাজাকারের রায় যেকোনো দিন
+2017-03-07T07:07:36.342Z : creation aborted, post title ক্রিকেটার সানীর মামলার প্রতিবেদন দাখিল ৬ এপ্রিল
+2017-03-07T07:07:36.342Z : creation aborted, post title মধ্যাহ্ন বিরতিতে শ্রীলঙ্কা ৬১/২
+2017-03-07T07:07:36.341Z : creation aborted, post title বগুড়ায় ক্রিকেট লীগের উদ্বোধন
+2017-03-07T07:07:36.342Z : creation aborted, post title মৌসুমী-জাহিদ আবার
+2017-03-07T07:07:36.907Z : creation aborted, post title কুশল-করুনারাত্নে জুটি ভাঙলেন মিরাজ
+2017-03-07T07:07:36.908Z : creation aborted, post title ভারতকে ধসিয়ে দিলেন স্টার্ক-হ্যাজেলউড
+2017-03-07T07:07:36.908Z : creation aborted, post title বাড়ি ফেরার কথা বলে লাপাত্তা হ��� জঙ্গি কামাল!
+2017-03-07T07:07:36.908Z : creation aborted, post title মরদেহ পাঠাতেও ঘুষ বাংলাদেশ হাই কমিশন মালয়েশিয়ায়!
+2017-03-07T07:07:36.909Z : creation aborted, post title মোস্তাফিজদের নিয়ন্ত্রিত বোলিংয়ে লঙ্কানদের সাবধানী ব্যাটিং
+2017-03-07T07:07:36.914Z : creation aborted, post title জঙ্গিবাদসহ আপত্তিকর কনটেন্টরোধে ফেসবুকের সঙ্গে বসছে সরকার
+2017-03-07T07:07:36.919Z : creation aborted, post title মধুপুরে ৩টি দোকান পুড়ে ছাই
+2017-03-07T07:07:36.922Z : creation aborted, post title পাকিস্তানে খেলবে বিশ্ব একাদশ!
+2017-03-07T07:07:36.928Z : creation aborted, post title ক্যান্টিনে বাকি বা ফ্রি খেলে আজীবন বহিষ্কার করবে ঢাবি ছাত্রলীগ
+2017-03-07T07:07:36.933Z : creation aborted, post title ত্রিশাল ও টঙ্গি মিশন, জঙ্গি ছিনতাই স্টাইলে মিল-অমিল
+2017-03-07T07:07:36.937Z : creation aborted, post title অরফানেজ ট্রাস্ট মামলার অংশ বিশেষ পুনঃতদন্ত চেয়ে খালেদার আবেদন
+2017-03-07T07:07:36.941Z : creation aborted, post title সুপ্রিম কোর্টের কাছে ক্ষমা চাইলেন অনুরাগ
+2017-03-07T07:07:37.189Z : creation aborted, post title আইওআরও লিডারস সামিট শুরু, প্রধানমন্ত্রীর অংশগ্রহণ
+2017-03-07T07:07:37.190Z : creation aborted, post title শাহজালালে তৃতীয় টার্মিনাল নির্মাণে সরানো হবে কিছু অবকাঠামো   
+2017-03-07T07:07:37.190Z : creation aborted, post title শিমুল হত্যা, মীরুর ভাইয়ের ব্যবহৃত পাইপগান উদ্ধার
+2017-03-07T07:07:37.191Z : creation aborted, post title ব্রেকথ্রু এনে দিলেন শুভাশিস
+2017-03-07T07:07:37.196Z : creation aborted, post title সড়কের পাশে পড়ে রইলো যুবকের নিথর দেহ
+2017-03-07T07:07:37.196Z : creation aborted, post title ব্রেকথ্রুর অপেক্ষায় মোস্তাফিজ-তাসকিনরা
+2017-03-07T07:07:37.202Z : creation aborted, post title ১৮ উপজেলা-পৌরসভা উপনির্বাচনে ১০টিতে আ’লীগ বিজয়ী
+2017-03-07T07:07:37.208Z : creation aborted, post title দুষ্প্রাপ্য পাহাড়ি আলু
+2017-03-07T07:07:37.219Z : creation success, post title মুকুলে স্বপ্ন দেখছেন বগুড়ার আম চাষিরা
+2017-03-07T07:07:37.219Z : creation success, post title শিশুসুলভ আচরণ ভুলতে বসেছে শিশুরা: শায়েস্তা খান
+2017-03-07T07:07:37.222Z : creation failed, post title সমুদ্র সহযোগিতা জোরদারে বিশ্বমঞ্চে শেখ হাসিনার আহ্বান
+2017-03-07T07:07:37.219Z : creation success, post title সাভারে শ্রমিকদের বেতনের ৫০ লাখ টাকা ছিনতাই, আহত ১
+2017-03-07T07:07:37.222Z : Finished bdnews24 parser
+2017-03-07T07:07:37.219Z : creation success, post title খালেদার নাইকো দুর্নীতি মামলা স্থগিত
+2017-03-07T07:30:06.822Z : Started bdnews24 parsing
+2017-03-07T07:30:07.864Z : Received RSS feed. 30 news found.
+2017-03-07T07:30:08.806Z : creation aborted, post title মুকুলে স্বপ্ন দেখছেন বগুড়ার আম চাষিরা
+2017-03-07T07:30:08.806Z : creation aborted, post title শিশুসুলভ আচরণ ভুলতে বসেছে শিশুরা: শায়েস্তা খান
+2017-03-07T07:30:08.806Z : creation aborted, post title সাভারে শ্রমিকের বেতনের বিপুল অংকের টাকা ছিনতাই, আহত ৩
+2017-03-07T07:30:08.806Z : creation aborted, post title খালেদার নাইকো দুর্নীতি মামলা স্থগিত
+2017-03-07T07:30:09.469Z : creation aborted, post title বগুড়ায় ক্রিকেট লীগের উদ্বোধন
+2017-03-07T07:30:09.469Z : creation aborted, post title কিশোরগঞ্জের দুই রাজাকারের রায় যেকোনো দিন
+2017-03-07T07:30:09.469Z : creation aborted, post title মধ্যাহ্ন বিরতিতে শ্রীলঙ্কা ৬১/২
+2017-03-07T07:30:10.121Z : creation aborted, post title মৌসুমী-জাহিদ আবার
+2017-03-07T07:30:10.121Z : creation aborted, post title ক্রিকেটার সানীর মামলার প্রতিবেদন দাখিল ৬ এপ্রিল
+2017-03-07T07:30:10.121Z : creation aborted, post title ভারতকে ধসিয়ে দিলেন স্টার্ক-হ্যাজেলউড
+2017-03-07T07:30:10.121Z : creation aborted, post title কুশল-করুনারাত্নে জুটি ভাঙলেন মিরাজ
+2017-03-07T07:30:10.121Z : creation aborted, post title বাড়ি ফেরার কথা বলে লাপাত্তা হয় জঙ্গি কামাল!
+2017-03-07T07:30:10.121Z : creation aborted, post title মরদেহ পাঠাতেও ঘুষ বাংলাদেশ হাই কমিশন মালয়েশিয়ায়!
+2017-03-07T07:30:10.137Z : creation aborted, post title জঙ্গিবাদসহ আপত্তিকর কনটেন্টরোধে ফেসবুকের সঙ্গে বসছে সরকার
+2017-03-07T07:30:10.121Z : creation aborted, post title মোস্তাফিজদের নিয়ন্ত্রিত বোলিংয়ে লঙ্কানদের সাবধানী ব্যাটিং
+2017-03-07T07:30:10.137Z : creation aborted, post title মধুপুরে ৩টি দোকান পুড়ে ছাই
+2017-03-07T07:30:10.463Z : creation aborted, post title পাকিস্তানে খেলবে বিশ্ব একাদশ!
+2017-03-07T07:30:10.463Z : creation aborted, post title ক্যান্টিনে বাকি বা ফ্রি খেলে আজীবন বহিষ্কার করবে ঢাবি ছাত্রলীগ
+2017-03-07T07:30:10.464Z : creation aborted, post title ত্রিশাল ও টঙ্গি মিশন, জঙ্গি ছিনতাই স্টাইলে মিল-অমিল
+2017-03-07T07:30:11.692Z : creation success, post title নাফিসের ব্যাটে দ্বিতীয় ডাবল সেঞ্চুরি
+2017-03-07T07:30:11.692Z : creation success, post title চান্দিনায় পুলিশের ওপর হামলা, ২ যুবক আটক
+2017-03-07T07:30:11.692Z : creation success, post title আশুলিয়ায় ব্যবসায়ীর বাড়িতে ডাকাতির অভিযোগ
+2017-03-07T07:30:11.692Z : creation success, post title দোহার ব্যান্ডের গায়ক কালিকাপ্রসাদ নিহত 
+2017-03-07T07:30:11.692Z : creation success, post title স্বর্ণ চোরাচালান মামলায় কাস্টমস কর্মকর্তা কারাগারে
+2017-03-07T07:30:11.693Z : creation aborted, post title অরফানেজ ট্রাস্ট মামলার অংশ বিশেষ পুনঃতদন্ত চেয়ে খালেদার আবেদন
+2017-03-07T07:30:11.693Z : creation aborted, post title সুপ্রিম কোর্টের কাছে ক্ষমা চাইলেন অনুরাগ
+2017-03-07T07:30:11.693Z : creation aborted, post title আইওআরও লিডারস সামিট শুরু, প্রধানমন্ত্রীর অংশগ্রহণ
+2017-03-07T07:30:11.693Z : creation aborted, post title শাহজালালে তৃতীয় টার্মিনাল নির্মাণে সরানো হবে কিছু অবকাঠামো   
+2017-03-07T07:30:11.693Z : creation aborted, post title শিমুল হত্যা, মী���ুর ভাইয়ের ব্যবহৃত পাইপগান উদ্ধার
+2017-03-07T07:30:11.969Z : creation failed, post title সমুদ্র সহযোগিতা জোরদারে বিশ্বমঞ্চে শেখ হাসিনার আহ্বান
+2017-03-07T07:30:11.969Z : Finished bdnews24 parser
+2017-03-12T08:00:10.349Z : Started bdnews24 parsing
+2017-03-12T08:00:11.107Z : Received RSS feed. 30 news found.
+2017-03-12T08:00:14.367Z : creation success, post title ৩৩ বছর বয়সে নেইল ব্রমের টেস্ট অভিষেক
+2017-03-12T08:00:14.367Z : creation success, post title কোহলিদের কোচ হিসেবে আসছেন দ্রাবিড়!
+2017-03-12T08:00:14.367Z : creation success, post title সঞ্জয়রূপী ছেলেকে এখনও দেখেননি মা নিতু কাপুর
+2017-03-12T08:00:14.367Z : creation success, post title আইন না মানলে নতুন শিক্ষার্থী ভর্তি বন্ধ: শিক্ষামন্ত্রী
+2017-03-12T08:00:14.368Z : creation success, post title ঢাকার অবৈধ কে‌মিক্যাল কারখানা সরানোর নির্দেশ
+2017-03-12T08:00:14.368Z : creation success, post title অপরাধ দমনে তথ্য আদান-প্রদান গুরুত্বপূর্ণ
+2017-03-12T08:00:14.368Z : creation success, post title পঞ্চম স্থান নিশ্চিত করলো বাংলাদেশ
+2017-03-12T08:00:14.368Z : creation success, post title মোবাইল ব্যাংকিংয়ের সার্ভিস চার্জ কমানোর দাবি
+2017-03-12T08:00:14.368Z : creation success, post title সুন্দরগঞ্জ উপনির্বাচন, আ’লীগ প্রার্থীর জরিমানা
+2017-03-12T08:00:14.368Z : creation success, post title হঠাৎ কুয়াশার চাদরে দিনাজপুর
+2017-03-12T08:00:14.368Z : creation success, post title প্রথম সাবমেরিন ঘাঁটি বিএনএস শেখ হাসিনা
+2017-03-12T08:00:14.368Z : creation success, post title কারও সঙ্গে যুদ্ধ নয়, আক্রমণ করলে সমুচিত জবাব
+2017-03-12T08:00:14.368Z : creation success, post title সন্ত্রাস দমনে পুলিশ সম্মেলন গুরুত্বপূর্ণ ভূমিকা রাখবে
+2017-03-12T08:00:14.368Z : creation success, post title শাহরাস্তিতে গৃহবধূর মরদেহ উদ্ধার
+2017-03-12T08:00:14.368Z : creation success, post title দেপোর্তিভোর মাঠে নেইমারবিহীন বার্সা
+2017-03-12T08:00:14.368Z : creation success, post title রাজশাহী অ্যাডভোকেট বারের নির্বাচন ১৬ মার্চ, প্রচারণা তুঙ্গে
+2017-03-12T08:00:14.368Z : creation success, post title চবিতে ‘যৌন হয়রানি’ তদন্তে কমিটি
+2017-03-12T08:00:15.030Z : creation success, post title নারী দিবস উপলক্ষে এডব্লিউসি’র ফান্ড রেইজিং ইভেন্ট
+2017-03-12T08:00:15.030Z : creation success, post title জুতার গোডাউনে অগ্নিকাণ্ডে ৩ কোটি টাকার মাল ভস্মীভূত 
+2017-03-12T08:00:15.379Z : creation success, post title পুনরায় সাক্ষ্য নিতে খালেদার আবেদন আপিলেও খারিজ
+2017-03-12T08:00:15.380Z : creation success, post title ‘জিবোর্ডে’ রিয়েল টাইম ট্রান্সলেট ফিচার
+2017-03-12T08:00:15.380Z : creation success, post title গাংনীতে ৫ কেজি গাঁজাসহ নারী মাদক ব্যবসায়ী আটক
+2017-03-12T08:00:15.382Z : creation success, post title কালিয়াকৈরে ট্রেনে কাটা পড়ে অজ্ঞাতপরিচয় যুবকের মৃত্যু
+2017-03-12T08:00:15.382Z : creation success, post title বেতন বাড়ার খবর ‘টোটালি ফলস’
+2017-03-12T08:00:15.383Z : creation success, post title বাগমারা-পবায় জেএমবি-হিযবুত তাহরীর তিন সদস্য আটক
+2017-03-12T08:00:15.383Z : creation success, post title রাজধানীতে বিদ্যুৎস্পৃষ্টে ২ যুবকের মৃত্যু
+2017-03-12T08:00:15.380Z : creation success, post title ‘বাহুবলী’র সেই কাটাপ্পা
+2017-03-12T08:00:15.383Z : creation success, post title ‘ইচ্ছে তাই’ গাইলেন অপূর্ব
+2017-03-12T08:00:15.715Z : creation success, post title চট্টগ্রাম জুড়ে থাকবে মাঝারি বৃষ্টি
+2017-03-12T08:00:15.715Z : creation success, post title কঠিন ভেন্যুতে বাংলাদেশের শততম টেস্ট
+2017-03-12T08:00:15.716Z : Finished bdnews24 parser
+2017-03-12T08:30:07.428Z : Started bdnews24 parsing
+2017-03-12T08:30:07.856Z : Received RSS feed. 30 news found.
+2017-03-12T08:30:08.215Z : creation aborted, post title ৩৩ বছর বয়সে নেইল ব্রমের টেস্ট অভিষেক
+2017-03-12T08:30:08.215Z : creation aborted, post title আইন না মানলে নতুন শিক্ষার্থী ভর্তি বন্ধ: শিক্ষামন্ত্রী
+2017-03-12T08:30:08.215Z : creation aborted, post title ঢাকার অবৈধ কে‌মিক্যাল কারখানা সরানোর নির্দেশ
+2017-03-12T08:30:08.215Z : creation aborted, post title কোহলিদের কোচ হিসেবে আসছেন দ্রাবিড়!
+2017-03-12T08:30:08.215Z : creation aborted, post title সঞ্জয়রূপী ছেলেকে এখনও দেখেননি মা নিতু কাপুর
+2017-03-12T08:30:08.215Z : creation aborted, post title সুন্দরগঞ্জ উপনির্বাচন, আ’লীগ প্রার্থীর জরিমানা
+2017-03-12T08:30:08.774Z : creation aborted, post title অপরাধ দমনে তথ্য আদান-প্রদান গুরুত্বপূর্ণ
+2017-03-12T08:30:08.780Z : creation aborted, post title ���ঞ্চম স্থান নিশ্চিত করলো বাংলাদেশ
+2017-03-12T08:30:08.781Z : creation aborted, post title হঠাৎ কুয়াশার চাদরে দিনাজপুর
+2017-03-12T08:30:08.782Z : creation aborted, post title কারও সঙ্গে যুদ্ধ নয়, আক্রমণ করলে সমুচিত জবাব
+2017-03-12T08:30:08.781Z : creation aborted, post title মোবাইল ব্যাংকিংয়ের সার্ভিস চার্জ কমানোর দাবি
+2017-03-12T08:30:08.784Z : creation aborted, post title সন্ত্রাস দমনে পুলিশ সম্মেলন গুরুত্বপূর্ণ ভূমিকা রাখবে
+2017-03-12T08:30:08.782Z : creation aborted, post title প্রথম সাবমেরিন ঘাঁটি বিএনএস শেখ হাসিনা
+2017-03-12T08:30:08.785Z : creation aborted, post title শাহরাস্তিতে গৃহবধূর মরদেহ উদ্ধার
+2017-03-12T08:30:08.788Z : creation aborted, post title দেপোর্তিভোর মাঠে নেইমারবিহীন বার্সা
+2017-03-12T08:30:08.791Z : creation aborted, post title রাজশাহী অ্যাডভোকেট বারের নির্বাচন ১৬ মার্চ, প্রচারণা তুঙ্গে
+2017-03-12T08:30:08.796Z : creation aborted, post title চবিতে ‘যৌন হয়রানি’ তদন্তে কমিটি
+2017-03-12T08:30:08.800Z : creation aborted, post title জুতার গোডাউনে অগ্নিকাণ্ডে ৩ কোটি টাকার মাল ভস্মীভূত 
+2017-03-12T08:30:08.804Z : creation aborted, post title নারী দিবস উপলক্ষে এডব্লিউসি’র ফান্ড রেইজিং ইভেন্ট
+2017-03-12T08:30:09.050Z : creation aborted, post title পুনরায় সাক্ষ্য নিতে খালেদার আবেদন আপিলেও খারিজ
+2017-03-12T08:30:09.053Z : creation aborted, post title ‘বাহুবলী’র সেই কাটাপ্পা
+2017-03-12T08:30:09.053Z : creation aborted, post title ‘জিবোর্ডে’ রিয়েল টাইম ট্রান্সলেট ফিচার
+2017-03-12T08:30:09.053Z : creation aborted, post title গাংনীতে ৫ কেজি গাঁজাসহ নারী মাদক ব্যবসায়ী আটক
+2017-03-12T08:30:09.053Z : creation aborted, post title বেতন বাড়ার খবর ‘টোটালি ফলস’
+2017-03-12T08:30:09.057Z : creation aborted, post title কালিয়াকৈরে ট্রেনে কাটা পড়ে অজ্ঞাতপরিচয় যুবকের মৃত্যু
+2017-03-12T08:30:09.064Z : creation aborted, post title বাগমারা-পবায় জেএমবি-হিযবুত তাহরীর তিন সদস্য আটক
+2017-03-12T08:30:09.064Z : creation aborted, post title রাজধানীতে বিদ্যুৎস্পৃষ্টে ২ যু���কের মৃত্যু
+2017-03-12T08:30:09.077Z : creation success, post title বেতন-ভাতা নির্ধারণের পদ্ধতি খুঁজতে কমিটি
+2017-03-12T08:30:09.077Z : creation success, post title ছাত্রীকে ‘যৌন হয়রানি’: চিকিৎসকের অপসারণ চেয়ে মানববন্ধন
+2017-03-12T08:30:09.077Z : creation success, post title রোমাঞ্চ ছড়িয়েই বাংলাদেশের জয়
+2017-03-12T08:30:09.078Z : Finished bdnews24 parser
+2017-03-12T09:00:07.485Z : Started bdnews24 parsing
+2017-03-12T09:00:07.929Z : Received RSS feed. 30 news found.
+2017-03-12T09:00:08.942Z : creation aborted, post title বেতন-ভাতা নির্ধারণের পদ্ধতি খুঁজতে কমিটি
+2017-03-12T09:00:08.943Z : creation aborted, post title রোমাঞ্চ ছড়িয়েই বাংলাদেশের জয়
+2017-03-12T09:00:08.943Z : creation aborted, post title আইন না মানলে নতুন শিক্ষার্থী ভর্তি বন্ধ: শিক্ষামন্ত্রী
+2017-03-12T09:00:08.943Z : creation aborted, post title ৩৩ বছর বয়সে নেইল ব্রমের টেস্ট অভিষেক
+2017-03-12T09:00:08.943Z : creation aborted, post title ছাত্রীকে ‘যৌন হয়রান���’: চিকিৎসকের অপসারণ চেয়ে মানববন্ধন
+2017-03-12T09:00:08.946Z : creation aborted, post title কোহলিদের কোচ হিসেবে আসছেন দ্রাবিড়!
+2017-03-12T09:00:08.946Z : creation aborted, post title সঞ্জয়রূপী ছেলেকে এখনও দেখেননি মা নিতু কাপুর
+2017-03-12T09:00:08.948Z : creation aborted, post title ঢাকার অবৈধ কে‌মিক্যাল কারখানা সরানোর নির্দেশ
+2017-03-12T09:00:08.950Z : creation aborted, post title সুন্দরগঞ্জ উপনির্বাচন, আ’লীগ প্রার্থীর জরিমানা
+2017-03-12T09:00:08.956Z : creation aborted, post title অপরাধ দমনে তথ্য আদান-প্রদান গুরুত্বপূর্ণ
+2017-03-12T09:00:08.959Z : creation aborted, post title পঞ্চম স্থান নিশ্চিত করলো বাংলাদেশ
+2017-03-12T09:00:08.963Z : creation aborted, post title মোবাইল ব্যাংকিংয়ের সার্ভিস চার্জ কমানোর দাবি
+2017-03-12T09:00:09.243Z : creation aborted, post title হঠাৎ কুয়াশার চাদরে দিনাজপুর
+2017-03-12T09:00:09.247Z : creation aborted, post title কারও সঙ্গে যুদ্ধ নয়, আক্রমণ করলে সমুচিত জবাব
+2017-03-12T09:00:09.247Z : creation aborted, post title প্রথম সাবমেরিন ঘাঁটি বিএনএস শেখ হাসিনা
+2017-03-12T09:00:09.247Z : creation aborted, post title শাহরাস্তিতে গৃহবধূর মরদেহ উদ্ধার
+2017-03-12T09:00:09.247Z : creation aborted, post title সন্ত্রাস দমনে পুলিশ সম্মেলন গুরুত্বপূর্ণ ভূমিকা রাখবে
+2017-03-12T09:00:09.260Z : creation success, post title দাউদকান্দিতে নিরাপত্তা কর্মীকে পুড়িয়ে হত্যা
+2017-03-12T09:00:09.260Z : creation success, post title চট্টগ্রামে বিশ্বসাহিত্য কেন্দ্রের পুরস্কার বিতরণ
+2017-03-12T09:00:09.260Z : creation success, post title ‘ভারতের সঙ্গে শেখ হাসিনার মান অভিমান চলছে’
+2017-03-12T09:00:09.260Z : creation success, post title লাগলো যে দোল..
+2017-03-12T09:00:09.260Z : creation success, post title শাহরুখের বাড়িতে আমির
+2017-03-12T09:00:09.260Z : creation success, post title দামুড়হুদায় ট্রাক্টরের ধাক্কায় মোটরসাইকেল আরোহী নিহত
+2017-03-12T09:00:09.262Z : creation success, post title দ্বিতীয় রাউন্ডেই অঘটনের শিকার মারে
+2017-03-12T09:00:09.260Z : creation success, post title লাল-সবুজে প্রাণ ফিরে পাচ্ছে ‘কপোতাক্ষ’
+2017-03-12T09:00:09.260Z : creation success, post title আদিতমারীতে গাঁজাসহ অটোচালক আটক
+2017-03-12T09:00:09.262Z : creation success, post title জনতা ব্যাংকে এক্সিকিউটিভ অফিসার নিয়োগ পরীক্ষার সময়সূচী
+2017-03-12T09:00:09.262Z : creation success, post title আবারো পাকিস্তানে যেতে আগ্রহী জিম্বাবুয়ে
+2017-03-12T09:00:09.262Z : creation success, post title রিকশায় চড়ে বাজার ঘুরলেন রাষ্ট্রপতি
+2017-03-12T09:00:09.263Z : creation success, post title র���ষ্ট্রদূত কায়েসকে ব্রাজিলের সামরিক সম্মান
+2017-03-12T09:00:09.263Z : Finished bdnews24 parser
+2017-03-12T09:30:07.541Z : Started bdnews24 parsing
+2017-03-12T09:30:07.961Z : Received RSS feed. 30 news found.
+2017-03-12T09:30:08.356Z : creation aborted, post title দাউদকান্দিতে নিরাপত্তা কর্মীকে পুড়িয়ে হত্যা
+2017-03-12T09:30:08.356Z : creation aborted, post title আদিতমারীতে গাঁজাসহ অটোচালক আটক
+2017-03-12T09:30:08.356Z : creation aborted, post title ‘ভারতের সঙ্গে শেখ হাসিনার মান অ���িমান চলছে’
+2017-03-12T09:30:08.976Z : creation aborted, post title চট্টগ্রামে বিশ্বসাহিত্য কেন্দ্রের পুরস্কার বিতরণ
+2017-03-12T09:30:08.983Z : creation aborted, post title শাহরুখের বাড়িতে আমির
+2017-03-12T09:30:08.983Z : creation aborted, post title লাগলো যে দোল..
+2017-03-12T09:30:08.983Z : creation aborted, post title দামুড়হুদায় ট্রাক্টরের ধাক্কায় মোটরসাইকেল আরোহী নিহত
+2017-03-12T09:30:08.983Z : creation aborted, post title লাল-সবুজে প্রাণ ফিরে পাচ্ছে ‘কপোতাক্ষ’
+2017-03-12T09:30:08.983Z : creation aborted, post title দ্বিতীয় রাউন্ডেই অঘটনের শিকার মারে
+2017-03-12T09:30:08.983Z : creation aborted, post title আবারো পাকিস্তানে যেতে আগ্রহী জিম্বাবুয়ে
+2017-03-12T09:30:08.986Z : creation aborted, post title রিকশায় চড়ে বাজার ঘুরলেন রাষ্ট্রপতি
+2017-03-12T09:30:08.986Z : creation aborted, post title জনতা ব্যাংকে এক্সিকিউটিভ অফিসার নিয়োগ পরীক্ষার সময়সূচী
+2017-03-12T09:30:08.989Z : creation aborted, post title রাষ্ট্রদূত কায়েসকে ব্রাজিলের সামরিক সম্মান
+2017-03-12T09:30:08.994Z : creation aborted, post title বেতন-ভাতা নির্ধারণের পদ্ধতি খুঁজতে কমিটি
+2017-03-12T09:30:08.998Z : creation aborted, post title রোমাঞ্চ ছড়িয়েই বাংলাদেশের জয়
+2017-03-12T09:30:09.002Z : creation aborted, post title ছাত্রীকে ‘যৌন হয়রানি’: চিকিৎসকের অপসারণ চেয়ে মানববন্ধন
+2017-03-12T09:30:09.287Z : creation aborted, post title ৩৩ বছর বয়সে নেইল ব্রমের টেস্ট অভিষেক
+2017-03-12T09:30:09.290Z : creation aborted, post title আইন না মানলে নতুন শিক্ষার্থী ভর্তি বন্ধ: শিক্ষামন্ত্রী
+2017-03-12T09:30:09.290Z : creation aborted, post title কোহলিদের কোচ হিসেবে আসছেন দ্রাবিড়!
+2017-03-12T09:30:09.292Z : creation aborted, post title সঞ্জয়রূপী ছেলেকে এখনও দেখেননি মা নিতু কাপুর
+2017-03-12T09:30:09.292Z : creation aborted, post title পুরান ঢাকার সব কে‌মিক্যাল কারখানা সরানোর নির্দেশ
+2017-03-12T09:30:09.294Z : creation aborted, post title সুন্দরগঞ্জ উপনির্বাচন, আ’লীগ প্রার্থীর জরিমানা
+2017-03-12T09:30:09.300Z : creation aborted, post title অপরাধ দমনে তথ্য আদান-প্রদান গুরুত্বপূর্ণ
+2017-03-12T09:30:09.316Z : creation success, post title নতুন মিশন নিয়ে ‘ভুবন মাঝি’
+2017-03-12T09:30:09.316Z : creation success, post title নারীদের বিনামূল্যে প্রশিক্ষণ
+2017-03-12T09:30:09.318Z : creation success, post title আত্মবিশ্বাসী বার্সাকে জিদানের ‘খোঁচা’
+2017-03-12T09:30:09.317Z : creation aborted, post title পঞ্চম স্থান নিশ্চিত করলো বাংলাদেশ
+2017-03-12T09:30:09.325Z : creation success, post title খুলনা শিপইয়ার্ডে চাকরির সুযোগ
+2017-03-12T09:30:09.325Z : creation success, post title কেবিন ক্রু নিচ্ছে নভোএয়ার
+2017-03-12T09:30:09.316Z : creation success, post title ক্যাপচা থেকে সরে আসছে গুগল
+2017-03-12T09:30:09.325Z : Finished bdnews24 parser
+2017-03-12T10:00:06.112Z : Started bdnews24 parsing
+2017-03-12T10:00:06.535Z : Received RSS feed. 30 news found.
+2017-03-12T10:00:07.423Z : creation aborted, post title নতুন মিশন নিয়ে ‘ভুবন মাঝি’
+2017-03-12T10:00:07.423Z : creation aborted, post title নারীদের বিন���মূল্যে প্রশিক্ষণ
+2017-03-12T10:00:07.423Z : creation aborted, post title আত্মবিশ্বাসী বার্সাকে জিদানের ‘খোঁচা’
+2017-03-12T10:00:07.423Z : creation aborted, post title কেবিন ক্রু নিচ্ছে নভোএয়ার
+2017-03-12T10:00:07.423Z : creation aborted, post title ক্যাপচা থেকে সরে আসছে গুগল
+2017-03-12T10:00:07.426Z : creation aborted, post title দাউদকান্দিতে নিরাপত্তা কর্মীকে পুড়িয়ে হত্যা
+2017-03-12T10:00:07.423Z : creation aborted, post title খুলনা শিপইয়ার্ডে চাকরির সুযোগ
+2017-03-12T10:00:07.426Z : creation aborted, post title ‘ভারতের সঙ্গে শেখ হাসিন���র মান অভিমান চলছে’
+2017-03-12T10:00:07.672Z : creation aborted, post title আদিতমারীতে গাঁজা���হ অটোচালক আটক
+2017-03-12T10:00:07.677Z : creation aborted, post title চট্টগ্রামে বিশ্বসাহিত্য কেন্দ্রের পুরস্কার বিতরণ
+2017-03-12T10:00:07.677Z : creation aborted, post title লাগলো যে দোল..
+2017-03-12T10:00:07.677Z : creation aborted, post title শাহরুখের বাড়িতে আমির
+2017-03-12T10:00:07.677Z : creation aborted, post title লাল-সবুজে প্রাণ ফিরে পাচ্ছে ‘কপোতাক্ষ’
+2017-03-12T10:00:07.677Z : creation aborted, post title দামুড়হুদায় ট্রাক্টরের ধাক্কায় মোটরসাইকেল আরোহী নিহত
+2017-03-12T10:00:07.679Z : creation aborted, post title দ্বিতীয় রাউন্ডেই অঘটনের শিকার মারে
+2017-03-12T10:00:07.686Z : creation aborted, post title আবারো পাকিস্তানে যেতে আগ্রহী জিম্বাবুয়ে
+2017-03-12T10:00:07.686Z : creation aborted, post title রিকশায় চড়ে বাজার ঘুরলেন রাষ্ট্রপতি
+2017-03-12T10:00:07.691Z : creation aborted, post title জনত��� ব্যাংকে এক্সিকিউটিভ অফিসার নিয়োগ পরীক্ষার সময়সূচী
+2017-03-12T10:00:07.697Z : creation aborted, post title রাষ্ট্রদূত কায়েসকে ব্রাজিলের সামরিক সম্মান
+2017-03-12T10:00:07.710Z : creation success, post title প্রতিবন্ধীদের জন্য রেলপথ মন্ত্রণালয়ের দরজা খোলা
+2017-03-12T10:00:07.710Z : creation success, post title ইমার্জিং কাপে সেই আবু হায়দার রনি
+2017-03-12T10:00:07.711Z : creation aborted, post title বেতন-ভাতা নির্ধারণের পদ্ধতি খুঁজতে কমিটি
+2017-03-12T10:00:07.715Z : creation success, post title ‘শেখ হাসিনা শোধনাগার’ থেকে দিনে ১৪ কোটি লিটার পানি
+2017-03-12T10:00:07.715Z : creation success, post title নাটোরে পৃথক সড়ক দুর্ঘটনায় ২ জন নিহত
+2017-03-12T10:00:07.715Z : creation success, post title সূচকের উত্থানে সপ্তাহ শুরু
+2017-03-12T10:00:07.715Z : creation success, post title সিলেটের শিশু রাজন হত্যার হাইকোর্ট রায় ১১ এপ্রিল
+2017-03-12T10:00:07.715Z : creation success, post title  ‘জঙ্গিবাদ নিয়ে সোস্যাল মিডিয়ায় গুজব ছাড়ানো হচ্ছে’
+2017-03-12T10:00:07.715Z : creation success, post title রূপগঞ্জে ৩ মাদকসেবীর কারাদণ্ড
+2017-03-12T10:00:08.062Z : creation success, post title হোলির রঙে রঙিন নেপাল
+2017-03-12T10:00:08.062Z : creation success, post title ৩ দিন তিনঘণ্টা কর্মবিরতি ঘোষণা সাংবাদিক নেতাদের
+2017-03-12T10:00:08.062Z : Finished bdnews24 parser

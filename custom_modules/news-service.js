@@ -48,13 +48,24 @@ var newsDb = function () {
     }
 
     newsDb.prototype.getPostByProperty = function (searchObj, skip, limit, success, failure) {
-        Post.find(searchObj, {}, { skip: skip, limit: limit , sort: {PubDate : -1}}, function (err, post) {
-            if (!err) {
-                success(post);
-            } else {
-                failure(err);
-            }
-        });
+        // Post.find(searchObj, {}, { skip: skip, limit: limit , sort: {PubDate : -1}}, function (err, post) {
+        //     if (!err) {
+        //         success(post);
+        //     } else {
+        //         failure(err);
+        //     }
+        // });
+        Post.find(searchObj)
+            .skip(skip)
+            .limit(limit)
+            .sort('-PubDate')
+            .exec(function (err, data) {
+                if (!err) {
+                    success(data);
+                } else {
+                    failure(err);
+                }
+            });
     }
 };
 

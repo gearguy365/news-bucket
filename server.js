@@ -4,8 +4,12 @@ var child_process = require('child_process');
 var fs = require('fs');
 var scheduler = require('node-schedule');
 var news_service = require('./custom_modules/news-service.js');
+var passport = require('passport');
+var cookieParser = require('cookie-parser');
+var bodyParser = require('body-parser');
+var session = require('express-session');
+require('./config/passport')(passport);
 var newsDb;
-
 news_service.getNewsDBObject(function (obj) {
     newsDb = obj;
 });
@@ -71,7 +75,7 @@ queue.process('parse-kalerkontho-scrape', function (job, done) {
 //=======================================================
 
 //run queue in a series of processes every 1 mins=======
-scheduler.scheduleJob('*/30 * * * *', function () {
+scheduler.scheduleJob('*/59 * * * *', function () {
     // queue.create('parse-bdnews24-rss', {})
     //     .priority('high')
     //     .save(function (err) {
@@ -120,6 +124,18 @@ function launchProcessSequence (processes) {
 
 //initializing Express app and exposing endpoints=========
 var app = express();
+app.use(cookieParser()); // read cookies (needed for auth)
+app.use(bodyParser()); // get information from html forms
+app.use(session({ secret: 'ilovescotchscotchyscotchscotch' })); // session secret
+app.use(passport.initialize());
+app.use(passport.session()); // persistent login sessions
+app.use(function(req, res, next) {
+  res.header("Access-Control-Allow-Origin", "http://localhost:4000");
+  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+  res.header("Access-Control-Allow-Credentials", "true");
+  next();
+});
+
 var port = process.env.PORT || 3000;
 
 app.get('/news', function (req, res) {
@@ -146,21 +162,81 @@ app.get('/news', function (req, res) {
     });
 });
 
+app.post('/signup', function (req, res) {
+    passport.authenticate('local-signup', function (err, user, info) {
+        if (err) {
+            res.send({
+                status : 1,
+                message : err
+            });
+        } else if (info) {
+            res.send({
+                status : 1,
+                message : info
+            });
+        } else {
+            res.send({
+                status : 0,
+                message : 'registration successful'
+            })
+        }
+    })(req, res);
+});
+
+app.post('/login', function (req, res, next) {
+    passport.authenticate('local-login', function (err, user, info) {
+        if (err) {
+            res.send({
+                status: 1,
+                message: err
+            });
+        } 
+        else if (info) {
+            res.send({
+                status: 1,
+                message: info
+            });
+        } else {
+            req.logIn(user, function (err) {
+                if (err) {
+                    res.send({
+                        status: 1,
+                        message: err
+                    });
+                }
+                res.send({
+                    status: 0,
+                    message: 'login successful'
+                });
+            });
+
+        }
+    })(req, res, next);
+});
+
 app.get('/news/:id', function (req, res) {
     console.log('received request');
-    newsDb.getPostByProperty({Guid : req.params.id}, 0, 5, function (response) {
-        res.type('json');
-        console.log('sending response');
-        res.send(JSON.stringify(response));
-    }, function (error) {
-        console.log(error);
-        res.send('something went wrong');
-    });
+    if (req.isAuthenticated()) {
+        newsDb.getPostByProperty({_id : req.params.id}, 0, 5, function (response) {
+            res.type('json');
+            console.log('sending response');
+            res.send(JSON.stringify(response));
+        }, function (error) {
+            console.log(error);
+            res.send('something went wrong');
+        });
+    } else {
+        res.status(401).send('unauthorized');
+    }
+});
+
+app.get('/logout', function (req, res) {
+    req.logout();
+    res.status(200).send('success');
 });
 
 app.listen(port, function () {
     console.log('server is listening on port ' + port);
-    launchProcessSequence(['bdnews24RSSParser.js', 'prothomaloParser.js', 'kalerkonthoParser.js']);
     // console.log(active_pids.length);
 });
 //========================================================
