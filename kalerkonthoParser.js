@@ -70,6 +70,7 @@ function processHtmlContent (html, link, category) {
             newObject.Category = category;
             newObject.ImageLink = $(this).find('.img').find('img').attr('src');
             newObject.Source = 'kalerkontho';
+            newObject.Status = 'inactive';
             // Logger.logger('logs/prothomaloParserLog.txt', 'extracted news with GUID : ' + newObject.Guid);
             promises.push(saveNews(newObject).then(function (response) {
                 Logger.logger('logs/kalerkonthoParserLog.txt', 'creation ' + response + ', post title :' + newObject.Title);

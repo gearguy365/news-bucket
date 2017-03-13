@@ -82,7 +82,8 @@ function processHtmlContent (html, link, category) {
             newObject.Guid = newObject.Link;
             newObject.Category = category;
             newObject.ImageLink = 'http:' + $(this).find('.image').find('img').attr('src');
-            newObject.Source = 'prothomalo'
+            newObject.Source = 'prothomalo';
+            newObj.Status = 'inactive';
             // Logger.logger('logs/prothomaloParserLog.txt', 'extracted news with GUID : ' + newObject.Guid);
             promises.push(saveNews(newObject).then(function (response) {
                 Logger.logger('logs/prothomaloParserLog.txt', 'creation ' + response + ', post title :' + newObject.Title);

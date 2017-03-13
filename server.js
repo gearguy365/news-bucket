@@ -100,7 +100,7 @@ scheduler.scheduleJob('*/59 * * * *', function () {
 });
 //========================================================
 
-function launchProcessSequence (processes) {
+function launchProcessSequence(processes) {
     // var processes = ['bdnews24RSSParser.js', 'prothomaloParser.js', 'kalerkonthoParser.js'];
     console.log('executing process ' + processes[0]);
     var worker = child_process.fork(processes[0], []);
@@ -129,11 +129,11 @@ app.use(bodyParser()); // get information from html forms
 app.use(session({ secret: 'ilovescotchscotchyscotchscotch' })); // session secret
 app.use(passport.initialize());
 app.use(passport.session()); // persistent login sessions
-app.use(function(req, res, next) {
-  res.header("Access-Control-Allow-Origin", "http://localhost:4000");
-  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
-  res.header("Access-Control-Allow-Credentials", "true");
-  next();
+app.use(function (req, res, next) {
+    res.header("Access-Control-Allow-Origin", "http://localhost");
+    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+    res.header("Access-Control-Allow-Credentials", "true");
+    next();
 });
 
 var port = process.env.PORT || 3000;
@@ -142,18 +142,18 @@ app.post('/signup', function (req, res) {
     passport.authenticate('local-signup', function (err, user, info) {
         if (err) {
             res.send({
-                status : 1,
-                message : err
+                status: 1,
+                message: err
             });
         } else if (info) {
             res.send({
-                status : 1,
-                message : info
+                status: 1,
+                message: info
             });
         } else {
             res.send({
-                status : 0,
-                message : 'registration successful'
+                status: 0,
+                message: 'registration successful'
             })
         }
     })(req, res);
@@ -166,7 +166,7 @@ app.post('/login', function (req, res, next) {
                 status: 1,
                 message: err
             });
-        } 
+        }
         else if (info) {
             res.send({
                 status: 1,
@@ -197,10 +197,19 @@ app.get('/logout', function (req, res) {
 
 app.post('/news-activation', function (req, res) {
     if (req.isAuthenticated()) {
-        //activate/deactivate here
-        var id = req.params.id;
-        var status = req.params.status;
-        
+        //activate/deactivat~e here
+        var id = req.body.id;
+        var status = req.body.status;
+        if (!id || !status) {
+            res.status(403).send('bad request');
+        } else {
+            newsDb.updatePost(id, {Status : status}, function () {
+                res.send({
+                    status : 0,
+                    message : 'update successful'
+                });
+            });
+        }
     } else {
         res.status(401).send('unauthorized');
     }
@@ -218,7 +227,7 @@ app.get('/news', function (req, res) {
 
     var skip = !req.query.skip ? 0 : parseInt(req.query.skip);
     var limit = !req.query.limit ? 10 : parseInt(req.query.limit);
-    
+
 
     newsDb.getPostByProperty(filterObject, skip, limit, function (response) {
         res.type('json');
@@ -233,14 +242,14 @@ app.get('/news', function (req, res) {
 app.get('/news/:id', function (req, res) {
     console.log('received request');
     // if (req.isAuthenticated()) {
-        newsDb.getPostByProperty({_id : req.params.id}, 0, 5, function (response) {
-            res.type('json');
-            console.log('sending response');
-            res.send(JSON.stringify(response));
-        }, function (error) {
-            console.log(error);
-            res.send('something went wrong');
-        });
+    newsDb.getPostByProperty({ _id: req.params.id }, 0, 5, function (response) {
+        res.type('json');
+        console.log('sending response');
+        res.send(JSON.stringify(response));
+    }, function (error) {
+        console.log(error);
+        res.send('something went wrong');
+    });
     // } else {
     //     res.status(401).send('unauthorized');
     // }

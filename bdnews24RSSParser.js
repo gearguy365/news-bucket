@@ -67,7 +67,8 @@ function saveNews(news) {
                     PubDate: new Date(news.pubDate[0]).toISOString(),
                     Guid: news.guid[0],
                     Category: 'none',
-                    Source: 'bdnews24'
+                    Source: 'bdnews24',
+                    Status: 'inactive'
                 }, function (response) {
                     callback(response);
                 });
