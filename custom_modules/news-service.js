@@ -6,7 +6,8 @@ function getNewsDBObject(callback) {
         server: { socketOptions: { keepAlive: 300000, connectTimeoutMS: 30000 } },
         replset: { socketOptions: { keepAlive: 300000, connectTimeoutMS: 30000 } }
     };
-    mongoose.connect('mongodb://admin:admin@ds143539.mlab.com:43539/news', options);
+    // mongoose.connect('mongodb://admin:admin@ds143539.mlab.com:43539/news', options);
+    mongoose.connect('mongodb://localhost:27017/news', options);
     var connection = mongoose.connection;
     connection.once('open', function () {
         callback(new newsDb());
@@ -23,7 +24,8 @@ var newsDb = function () {
         Category: { type: String, unique: false },
         ImageLink: { type: String, unique: false },
         Source: { type: String, unique: false },
-        Status: { type: String, unique: false }
+        Status: { type: String, unique: false },
+        DetailedDesc: { type: String, unique: false, index: false, maxlength : 2000 }
     });
     var Post = mongoose.model('Post', postSchema);
 
@@ -48,7 +50,9 @@ var newsDb = function () {
 
             post.save(function (err, savedPost) {
                 if (err) return handleError(err);
-                callback(savedPost);
+                if (callback) {
+                    callback(savedPost);
+                }
             });
         });
     }

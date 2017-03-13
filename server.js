@@ -8,6 +8,8 @@ var passport = require('passport');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var session = require('express-session');
+var cheerio = require('cheerio');
+var request = require('request');
 require('./config/passport')(passport);
 var newsDb;
 news_service.getNewsDBObject(function (obj) {
@@ -224,6 +226,9 @@ app.get('/news', function (req, res) {
     if (req.query.source) {
         filterObject.Source = req.query.source;
     }
+    if (req.query.title) {
+        filterObject.Title = new RegExp(req.query.title, 'i');
+    }
 
     var skip = !req.query.skip ? 0 : parseInt(req.query.skip);
     var limit = !req.query.limit ? 10 : parseInt(req.query.limit);
@@ -243,9 +248,36 @@ app.get('/news/:id', function (req, res) {
     console.log('received request');
     // if (req.isAuthenticated()) {
     newsDb.getPostByProperty({ _id: req.params.id }, 0, 5, function (response) {
-        res.type('json');
-        console.log('sending response');
-        res.send(JSON.stringify(response));
+        var newsObject = response[0];
+
+        if (newsObject.DetailedDesc) {
+            res.type('json');
+            console.log('sending response');
+            res.send(JSON.stringify(response));
+        } else {
+            request(newsObject.Link, function (error, response, html) {
+                var $ = cheerio.load(html);
+                switch (newsObject.Source) {
+                    case 'prothomalo':
+                        newsObject.DetailedDesc = $('article').find('p').text();
+                        // newsObject.DetailedDesc = newsObject.DetailedDesc.slice(0, newsObject.DetailedDesc.length/2);
+                        newsDb.updatePost(newsObject._id, {DetailedDesc : newsObject.DetailedDesc});
+                        break;
+                    case 'kalerkontho':
+                        
+                        break;
+                    case 'bdnews24':
+                        
+                        break;
+
+                    default:
+                        break;
+                }
+                res.type('json');
+                console.log('sending response');
+                res.send(JSON.stringify(newsObject));
+            });
+        }
     }, function (error) {
         console.log(error);
         res.send('something went wrong');
