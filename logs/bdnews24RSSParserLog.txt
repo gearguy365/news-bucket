@@ -1022,3 +1022,135 @@
 2017-03-12T10:00:08.062Z : creation success, post title হোলির রঙে রঙিন নেপাল
 2017-03-12T10:00:08.062Z : creation success, post title ৩ দিন তিনঘণ্টা কর্মবিরতি ঘোষণা সাংবাদিক নেতাদের
 2017-03-12T10:00:08.062Z : Finished bdnews24 parser
+2017-03-14T07:59:07.701Z : Started bdnews24 parsing
+2017-03-14T07:59:08.177Z : Received RSS feed. 30 news found.
+2017-03-14T07:59:09.757Z : creation success, post title বাংলাদেশকে জঙ্গিরাষ্ট্র বানানোর ষড়যন্ত্র শুরু হয়েছে
+2017-03-14T07:59:09.757Z : creation success, post title 'আন্তর্জাতিক কোন সংগঠনের জঙ্গি বাংলাদেশে নেই'
+2017-03-14T07:59:09.757Z : creation success, post title বিএনপির রাজনীতি স্টেটমেন্ট-ফেসবুকেই সীমাবদ্ধ
+2017-03-14T07:59:09.757Z : creation success, post title লক্ষ্মীপুর পৌঁছেছেন প্রধানমন্ত্রী
+2017-03-14T07:59:09.757Z : creation success, post title বিচারকদের বিধিমালার গেজেট প্রকাশে আরও সময়
+2017-03-14T07:59:09.757Z : creation success, post title বাঙালি মেয়েরা খুব পজিটিভ মাইন্ডেড: আলিয়া ভাট
+2017-03-14T07:59:09.757Z : creation success, post title বড়াইগ্রামে ট্রাকচাপায় কিশোর নিহত
+2017-03-14T07:59:09.757Z : creation success, post title চতুর্থ রাউন্ডে ভেনাস-কেরবার
+2017-03-14T07:59:09.757Z : creation success, post title টিআইবির প্রতিবেদন সত্য নয়, দাবি প্রবাসী কল্যাণ মন্ত্রীর
+2017-03-14T07:59:09.757Z : creation success, post title নাগরিকত্ব আইন দেশকে ব্যর্থ রাষ্ট্রে পরিণত করবে
+2017-03-14T07:59:09.757Z : creation success, post title খালেদা জিয়ার কারণে ডিএসসিসির অভিযান স্থগিত
+2017-03-14T07:59:09.757Z : creation success, post title মানিকগঞ্জে গাড়িচাপায় পথচারী নিহত
+2017-03-14T07:59:09.757Z : creation success, post title ২য় দিনের মতো গার্হস্থ্য অর্থনীতির শিক্ষার্থীদের অবরোধ
+2017-03-14T07:59:09.757Z : creation success, post title রাজশাহীতে রবি’র ‘খোঁজ দ্য নাম্বার ১ স্পিনার’ হান্ট
+2017-03-14T07:59:09.994Z : creation success, post title সাহস নিয়ে কর ফাঁকিবাজদের মোকাবেলা করতে হবে
+2017-03-14T07:59:09.994Z : creation success, post title জাতীয় মোবাইল অ্যাপ্লিকেশন প্রতিযোগিতায় অংশগ্রহণের সময় বাড়লো
+2017-03-14T07:59:10.032Z : creation success, post title ১৮ মার্চের মধ্যে নবম ওয়েজবোর্ড, নইলে আন্দোলন
+2017-03-14T07:59:10.033Z : creation success, post title রাবির ভিসিসহ চারজনের বিরুদ্ধে তদন্ত নিয়ে রুল
+2017-03-14T07:59:10.046Z : creation success, post title মুমিনুলও মিস করছেন শততম টেস্ট!
+2017-03-14T07:59:10.048Z : creation success, post title আরো দুই অঞ্চলে প্রোগ্রামিং প্রতিযোগিতা অনুষ্ঠিত
+2017-03-14T07:59:10.048Z : creation success, post title বৈশাখে আনন্দদিনে ‘বেগমজান’ বিদ্যা
+2017-03-14T07:59:10.046Z : creation success, post title ৫২৩৮ কোটি টাকা ব্যয়ে ৭ প্রকল্পের অনুমোদন
+2017-03-14T07:59:10.046Z : creation success, post title আটঘরিয়ায় ১৬ বসতঘরে আগুন লেগে নিহত ১, আহত ৬
+2017-03-14T07:59:10.048Z : creation success, post title খ্যাতির মরিচে স্বপ্ন বুনছেন চরাঞ্চলের মানুষ
+2017-03-14T07:59:10.319Z : creation success, post title বনবিভাগের জায়গায় অবৈধ বসতি!
+2017-03-14T07:59:10.319Z : creation success, post title খালেদার ১১ মামলার চার্জ গঠন ২৮ মার্চ
+2017-03-14T07:59:11.127Z : creation success, post title খুলনায় ১০ হাজার কেজি জাটকা জব্দ
+2017-03-14T07:59:11.423Z : creation success, post title দুপুরে লক্ষ্মীপুরে যাচ্ছেন প্রধানমন্ত্রী
+2017-03-14T07:59:11.424Z : creation success, post title ভাঙ্গা হচ্ছে যুক্তরাষ্ট্র দূতাবাস লাগোয়া পুলিশ-বক্স
+2017-03-14T07:59:11.424Z : creation success, post title নড়াইলে ৭ মাদক ব্যবসায়ীসহ গ্রেফতার ৩৬ 
+2017-03-14T07:59:11.424Z : Finished bdnews24 parser
+2017-03-14T08:00:02.600Z : Started bdnews24 parsing
+2017-03-14T08:00:03.384Z : Received RSS feed. 30 news found.
+2017-03-14T08:00:03.719Z : creation aborted, post title বাংলাদেশকে জঙ্গিরাষ্ট্র বানানোর ষড়যন্ত্র শুরু হয়েছে
+2017-03-14T08:00:03.728Z : creation aborted, post title লক্ষ্মীপুর পৌঁছেছেন প্রধানমন্ত্রী
+2017-03-14T08:00:03.728Z : creation aborted, post title 'আন্তর্জাতিক কোন সংগঠনের জঙ্গি বাংলাদেশে নেই'
+2017-03-14T08:00:03.728Z : creation aborted, post title বিএনপির রাজনীতি স্টেটমেন্ট-ফেসবুকেই সীমাবদ্ধ
+2017-03-14T08:00:03.728Z : creation aborted, post title বিচারকদের বিধিমালার গেজেট প্রকাশে আরও সময়
+2017-03-14T08:00:03.728Z : creation aborted, post title চতুর্থ রাউন্ডে ভেনাস-কেরবার
+2017-03-14T08:00:03.729Z : creation aborted, post title বড়াইগ্রামে ট্রাকচাপায় কিশোর নিহত
+2017-03-14T08:00:04.806Z : creation aborted, post title বাঙালি মেয়েরা খুব পজিটিভ মাই���্ডেড: আলিয়া ভাট
+2017-03-14T08:00:04.809Z : creation aborted, post title খালেদা জিয়ার কারণে ডিএসসিসির ���ভিযান স্থগিত
+2017-03-14T08:00:04.809Z : creation aborted, post title নাগরিকত্ব আইন দেশকে ব্যর্থ রাষ্ট্রে পরিণত করবে
+2017-03-14T08:00:04.809Z : creation aborted, post title টিআইবির প্রতিবেদন সত্য নয়, দাবি প্রবাসী কল্যাণ মন্ত্রীর
+2017-03-14T08:00:04.811Z : creation aborted, post title মানিকগঞ্জে গাড়িচাপায় পথচারী নিহত
+2017-03-14T08:00:04.815Z : creation aborted, post title ২য় দিনের মতো গার্হস্থ্য অর্থনীতির শিক্ষার্থীদের অবরোধ
+2017-03-14T08:00:04.819Z : creation aborted, post title রাজশাহীতে রবি’র ‘খোঁজ দ্য নাম্বার ১ স্পিনার’ হান্ট
+2017-03-14T08:00:05.100Z : creation aborted, post title সাহস নিয়ে কর ফাঁকিবাজদের মোকাবেলা করতে হবে
+2017-03-14T08:00:05.101Z : creation aborted, post title ১৮ মার্চের মধ্যে নবম ওয়েজবোর্ড, নইলে আন্দোলন
+2017-03-14T08:00:05.101Z : creation aborted, post title জাতীয় মোবাইল অ্যাপ্লিকেশন প্রতিযোগিতায় অংশগ্রহণের সময় বাড়লো
+2017-03-14T08:00:05.104Z : creation aborted, post title রাবির ভিসিসহ চারজনের বিরুদ্ধে তদন্ত নিয়ে রুল
+2017-03-14T08:00:05.104Z : creation aborted, post title মুমিনুলও মিস করছেন শততম টেস্ট!
+2017-03-14T08:00:05.106Z : creation aborted, post title ৫২৩৮ কোটি টাকা ব্যয়ে ৭ প্রকল্পের অনুমোদন
+2017-03-14T08:00:05.109Z : creation aborted, post title আটঘরিয়ায় ১৬ বসতঘরে আগুন লেগে নিহত ১, আহত ৬
+2017-03-14T08:00:05.113Z : creation aborted, post title খ্যাতির মরিচে স্বপ্ন বুনছেন চরাঞ্চলের মানুষ
+2017-03-14T08:00:05.118Z : creation aborted, post title বৈশাখে আনন্দদিনে ‘বেগমজান’ বিদ্যা
+2017-03-14T08:00:05.123Z : creation aborted, post title আরো দুই অঞ্চলে প্রোগ্রামিং প্রতিযোগিতা অনুষ্ঠিত
+2017-03-14T08:00:05.127Z : creation aborted, post title বনবিভাগের জায়গায় অবৈধ বসতি!
+2017-03-14T08:00:05.133Z : creation aborted, post title খালেদার ১১ মামলার চার্জ গঠন ২৮ মার্চ
+2017-03-14T08:00:05.141Z : creation aborted, post title খুলনায় ১০ হাজার কেজি জাটকা জব্দ
+2017-03-14T08:00:05.141Z : creation aborted, post title দুপুরে লক্ষ্মীপুরে যাচ্ছেন প্রধানমন্ত্রী
+2017-03-14T08:00:05.145Z : creation aborted, post title ভাঙ্গা হচ্ছে যুক্তরাষ্ট্র দূতাবাস লাগোয়া পুলিশ-বক্স
+2017-03-14T08:00:05.150Z : creation aborted, post title নড়াইলে ৭ মাদক ব্যবসায়ীসহ গ্রেফতার ৩৬ 
+2017-03-14T08:00:05.150Z : Finished bdnews24 parser
+2017-03-14T08:59:06.470Z : Started bdnews24 parsing
+2017-03-14T08:59:06.922Z : Received RSS feed. 30 news found.
+2017-03-14T08:59:07.960Z : creation aborted, post title বাংলাদেশকে জঙ্গিরাষ্ট্র বানানোর ষড়যন্ত্র শুরু হয়েছে
+2017-03-14T08:59:07.960Z : creation aborted, post title 'আন্তর্জাতিক কোন সংগঠনের জঙ্গি বাংলাদেশে নেই'
+2017-03-14T08:59:07.960Z : creation aborted, post title বিচারকদের বিধিমালার গেজেট প্রকাশে আরও সময়
+2017-03-14T08:59:07.960Z : creation aborted, post title বিএনপির রাজনীতি স্টেটমেন্ট-ফেসবুকেই সীমাবদ্ধ
+2017-03-14T08:59:07.960Z : creation aborted, post title লক্ষ্মীপুর পৌঁছেছেন প্রধানমন্ত্রী
+2017-03-14T08:59:07.960Z : creation aborted, post title বড়াইগ্রামে ট্রাকচাপায় কিশোর নিহত
+2017-03-14T08:59:07.960Z : creation aborted, post title চতুর্থ রাউন্ডে ভেনাস-কেরবার
+2017-03-14T08:59:07.960Z : creation aborted, post title বাঙালি মেয়েরা খুব পজিটিভ মাইন্ডেড: আলিয়া ভাট
+2017-03-14T08:59:07.960Z : creation aborted, post title খালেদা জিয়ার কারণে ডিএসসিসির অভিযান স্থগিত
+2017-03-14T08:59:07.976Z : creation aborted, post title টিআইবির প্রতিবেদন সত্য নয়, দাবি প্রবাসী কল্যাণ মন্ত্রীর
+2017-03-14T08:59:08.261Z : creation aborted, post title নাগরিকত্ব আইন দেশকে ব্যর্থ রাষ্ট্রে পরিণত করবে
+2017-03-14T08:59:08.261Z : creation aborted, post title ২য় দিনের মতো গার্হস্থ্য অর্থনীতির শিক্ষার্থীদের অবরোধ
+2017-03-14T08:59:08.261Z : creation aborted, post title মানিকগঞ্জে গাড়িচাপায় পথচারী নিহত
+2017-03-14T08:59:08.261Z : creation aborted, post title রাজশাহীতে রবি’র ‘খোঁজ দ্য নাম্বার ১ স্পিনার’ হান্ট
+2017-03-14T08:59:08.261Z : creation aborted, post title সাহস নিয়ে কর ফাঁকিবাজদের মোকাবেলা করতে হবে
+2017-03-14T08:59:08.261Z : creation aborted, post title জাতীয় মোবাইল অ্যাপ্লিকেশন প্রতিযোগিতায় অংশগ্রহণের সময় বাড়লো
+2017-03-14T08:59:08.261Z : creation aborted, post title ১৮ মার্চের মধ্যে নবম ওয়েজবোর্ড, নইলে আন্দোলন
+2017-03-14T08:59:08.277Z : creation aborted, post title রাবির ভিসিসহ চারজনের বিরুদ্ধে তদন্ত নিয়ে রুল
+2017-03-14T08:59:08.277Z : creation aborted, post title মুমিনুলও মিস করছেন শততম টেস্ট!
+2017-03-14T08:59:08.293Z : creation success, post title জঙ্গিবাদ ও আন্তঃদেশীয় অপরাধ দমনে যৌথ ঘোষণা
+2017-03-14T08:59:08.293Z : creation success, post title সেমিতে মুখোমুখি আর্সেনাল-ম্যানসিটি
+2017-03-14T08:59:08.293Z : creation success, post title এলপিজিতে চালাতে হবে সাভারের ট্যানারি
+2017-03-14T08:59:08.293Z : creation success, post title মন্ত্রীর স্ত্রীসহ দু’জনকে আত্মসমর্পণের নির্দেশ
+2017-03-14T08:59:08.293Z : creation success, post title কলকাতায় অপু বিশ্বাসের ছবি
+2017-03-14T08:59:08.293Z : creation success, post title গাজীপুর প্রেসক্লাবের নির্বাচন চলছে
+2017-03-14T08:59:08.293Z : creation success, post title 'চট্টগ্রামের নতুন জঙ্গি সমন্বয়ক মুছা'
+2017-03-14T08:59:08.293Z : creation success, post title বরিশালে ২টি আগ্নেয়াস্ত্র  ও ৪টি রাউন্ড গুলিসহ আটক ১
+2017-03-14T08:59:08.293Z : creation success, post title আজিজ উল্লাহ ওয়াকফ অ্যাস্টে���ের ভূমি দখলের অভিযোগ 
+2017-03-14T08:59:08.293Z : Finished bdnews24 parser
+2017-03-14T08:59:08.293Z : creation success, post title তরুণ সমাজের জন্য প্লাটফর্ম গড়ার আহবান
+2017-03-14T08:59:08.293Z : creation success, post title ‘পিরিয়ডের সময় চাই সচেতনতা, নয়তো বড় ঝুঁকি’
+2017-03-14T09:00:03.310Z : Started bdnews24 parsing
+2017-03-14T09:00:03.720Z : Received RSS feed. 30 news found.
+2017-03-14T09:00:04.066Z : creation aborted, post title জঙ্গিবাদ ও আন্তঃদেশীয় অপরাধ দমনে যৌথ ঘোষণা
+2017-03-14T09:00:04.082Z : creation aborted, post title কলকাতায় অপু বিশ্বাসের ছবি
+2017-03-14T09:00:04.082Z : creation aborted, post title মন্ত্রীর স্ত্রীসহ দু’জনকে আত্মসমর্পণের নির্দেশ
+2017-03-14T09:00:04.082Z : creation aborted, post title এলপিজিতে চালাতে হবে সাভারের ট্যানারি
+2017-03-14T09:00:04.082Z : creation aborted, post title সেমিতে মুখোমুখি আর্সেনাল-ম্যানসিটি
+2017-03-14T09:00:04.082Z : creation aborted, post title 'চট্টগ্রামের নতুন জঙ্গি সমন্বয়ক মুছা'
+2017-03-14T09:00:04.082Z : creation aborted, post title গাজীপুর প্রেসক্লাবের নির্বাচন চলছে
+2017-03-14T09:00:04.082Z : creation aborted, post title বরিশালে ২টি আগ্নেয়াস্ত্র  ও ৪টি রাউন্ড গুলিসহ আটক ১
+2017-03-14T09:00:04.082Z : creation aborted, post title তরুণ সমাজের জন্য প্লাটফর্ম গড়ার আহবান
+2017-03-14T09:00:05.320Z : creation aborted, post title ‘পিরিয়ডের সময় চাই সচেতনতা, নয়তো বড় ঝুঁকি’
+2017-03-14T09:00:05.320Z : creation aborted, post title আজিজ উল্লাহ ওয়াকফ অ্যাস্টে���ের ভূমি দখলের অভিযোগ 
+2017-03-14T09:00:05.336Z : creation aborted, post title বাংলাদেশকে জঙ্গিরাষ্ট্র বানানোর ষড়যন্ত্র শুরু হয়েছে
+2017-03-14T09:00:05.336Z : creation aborted, post title 'আন্তর্জাতিক কোন সংগঠনের জঙ্গি বাংলাদেশে নেই'
+2017-03-14T09:00:05.336Z : creation aborted, post title লক্ষ্মীপুর পৌঁছেছেন প্রধানমন্ত্রী
+2017-03-14T09:00:05.336Z : creation aborted, post title বিএনপির রাজনীতি স্টেটমেন্ট-ফেসবুকেই সীমাবদ্ধ
+2017-03-14T09:00:05.336Z : creation aborted, post title বিচারকদের বিধিমালার গেজেট প্রকাশে আরও সময়
+2017-03-14T09:00:05.336Z : creation aborted, post title চতুর্থ রাউন্ডে ভেনাস-কেরবার
+2017-03-14T09:00:05.640Z : creation aborted, post title বড়াইগ্রামে ট্রাকচাপায় কিশোর নিহত
+2017-03-14T09:00:05.640Z : creation aborted, post title বাঙালি মেয়েরা খুব পজিটিভ মাইন্ডেড: আলিয়া ভাট
+2017-03-14T09:00:05.640Z : creation aborted, post title টিআইবির প্রতিবেদন সত্য নয়, দাবি প্রবাসী কল্যাণ মন্ত্রীর
+2017-03-14T09:00:05.640Z : creation aborted, post title খালেদা জিয়ার কারণে ডিএসসিসির অভিযান স্থগিত
+2017-03-14T09:00:05.640Z : creation aborted, post title নাগরিকত্ব আইন দেশকে ব্যর্থ রাষ্ট্রে পরিণত করবে
+2017-03-14T09:00:05.655Z : creation aborted, post title মানিকগঞ্জে গাড়িচাপায় পথচারী নিহত
+2017-03-14T09:00:05.655Z : creation aborted, post title ২য় দিনের মতো গার্হস্থ্য অর্থনীতির শিক্ষার্থীদের অবরোধ
+2017-03-14T09:00:05.655Z : creation aborted, post title রাজশাহীতে রবি’র ‘খোঁজ দ্য নাম্বার ১ স্পিনার’ হান্ট
+2017-03-14T09:00:05.671Z : creation aborted, post title সাহস নিয়ে কর ফাঁকিবাজদের মোকাবেলা করতে হবে
+2017-03-14T09:00:05.671Z : creation aborted, post title জাতীয় মোবাইল অ্যাপ্লিকেশন প্রতিযোগিতায় অংশগ্রহণের সময় বাড়লো
+2017-03-14T09:00:05.671Z : creation aborted, post title ১৮ মার্চের মধ্যে নবম ওয়েজবোর্ড, নইলে আন্দোলন
+2017-03-14T09:00:05.671Z : creation aborted, post title রাবির ভিসিসহ চারজনের বিরুদ্ধে তদন্ত নিয়ে রুল
+2017-03-14T09:00:05.686Z : creation aborted, post title মুমিনুলও মিস করছেন শততম টেস্ট!
+2017-03-14T09:00:05.686Z : Finished bdnews24 parser

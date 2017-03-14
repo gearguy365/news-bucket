@@ -11879,3 +11879,3337 @@
 2017-03-13T10:05:43.890Z : creation success, post title :
 রাহুলকে মোদির টুইট
 
+2017-03-14T07:59:17.752Z : started parsing prothom alo
+2017-03-14T07:59:26.339Z : creation aborted, post title :
+ট্রাম্পের নতুন ভ্রমণ নিষেধাজ্ঞা	সমালোচনায় মুখর ১৩৪ পররাষ্ট্রনীতি বিশেষজ্ঞ
+
+2017-03-14T07:59:26.340Z : creation aborted, post title :
+ভারারা বরখাস্ত
+
+2017-03-14T07:59:26.341Z : creation aborted, post title :
+পদত্যাগ না করায় বরখাস্ত মার্কিন অ্যাটর্নি
+
+2017-03-14T07:59:26.354Z : creation aborted, post title :
+হোয়াইট হাউসে অনুপ্রবেশকারী
+
+2017-03-14T07:59:26.654Z : creation aborted, post title :
+ট্রাম্পের নতুন নিষেধাজ্ঞায় আদালতের প্রথম বাধা
+
+2017-03-14T07:59:27.016Z : creation aborted, post title :
+অনলাইনে নারী সেনাদের নগ্ন ছবি	পূর্ণ তদন্তের প্রতিশ্রুতি দিল পেন্টাগন
+
+2017-03-14T07:59:27.021Z : creation aborted, post title :
+মাহমুদ আব্বাসকে ট্রাম্পের আমন্ত্রণ
+
+2017-03-14T07:59:27.027Z : creation aborted, post title :
+ভারত–পাকিস্তান সম্পর্ক নিয়ে মার্কিন জেনারেল	পাকিস্তানকে ‘একঘরে করার নীতি’ সম্পর্কোন্নয়নে বাধা
+
+2017-03-14T07:59:27.500Z : creation aborted, post title :
+সংক্ষেপ	সাহায্যকারীরা আশ্রয় চেয়েছে
+
+2017-03-14T07:59:28.119Z : creation aborted, post title :
+আব্বাসকে হোয়াইট হাউসে আমন্ত্রণ ট্রাম্পের
+
+2017-03-14T07:59:28.119Z : creation aborted, post title :
+নারী সদস্যদের নগ্ন ছবি শেয়ার, তদন্তে পেন্টাগন
+
+2017-03-14T07:59:28.119Z : creation aborted, post title :
+ট্রাম্পের আদেশের বিরুদ্ধে আরও মামলা	অভিবাসন মামলার দ্রুত নিষ্পত্তিতে বাড়তি বিচারক
+
+2017-03-14T07:59:28.119Z : creation aborted, post title :
+জাতীয়তাবাদী উত্থানে পরিচয় সংকটে যুক্তরাষ্ট্র: ক্লিনটন
+
+2017-03-14T07:59:28.121Z : creation aborted, post title :
+ট্রাম্পের নতুন ভ্রমণ নিষেধাজ্ঞা	মামলা করল হাওয়াই
+
+2017-03-14T07:59:28.120Z : creation aborted, post title :
+সংক্ষেপ	আবার বাবা হচ্ছেন মার্ক জাকারবার্গ
+
+2017-03-14T07:59:28.119Z : creation aborted, post title :
+বিমানবন্দরে ফের জেরার মুখে আলী জুনিয়র
+
+2017-03-14T07:59:28.122Z : creation aborted, post title :
+কোরীয় উপদ্বীপে উত্তেজনা	চীনা সমঝোতা প্রস্তাবে যুক্তরাষ্ট্রের ‘না’
+
+2017-03-14T07:59:28.150Z : creation aborted, post title :
+‘সবখানেই খুঁজছে তারা’
+
+2017-03-14T07:59:28.162Z : creation success, post title :
+বিচিত্র	বরফে ঢাকা পড়ল নিউইয়র্কের বাড়ি
+
+2017-03-14T07:59:28.162Z : creation success, post title :
+রুশ রাষ্ট্রদূতের সঙ্গে দেখা করেছিল হিলারির নির্বাচনী দল
+
+2017-03-14T07:59:28.169Z : extraction completed from : http://www.prothom-alo.com/international-usa
+2017-03-14T07:59:28.169Z : creation aborted, post title :
+সংক্ষেপ	কম্বলের জন্য...
+
+2017-03-14T07:59:28.171Z : creation aborted, post title :
+কাল দেশে ফিরছেন মাহমুদউল্লাহ
+
+2017-03-14T07:59:28.171Z : creation aborted, post title :
+বাংলাদেশের সমস্যা আসলে কোথায়?
+
+2017-03-14T07:59:28.445Z : creation aborted, post title :
+৭ বছর ২২ দিন পেরিয়েছে সেঞ্চুরি নেই মাহমুদউল্লাহর
+
+2017-03-14T07:59:28.445Z : creation aborted, post title :
+ইমার্জিং কাপ ক্রিকেট	নাসির-নুরুলরাও প্রাথমিক দলে
+
+2017-03-14T07:59:28.445Z : creation aborted, post title :
+নতুন চ্যাম্পিয়ন উত্তরাঞ্চল
+
+2017-03-14T07:59:28.446Z : creation aborted, post title :
+৭ এপ্রিল থেকে ঢাকা প্রিমিয়ার ক্রিকেট
+
+2017-03-14T07:59:28.452Z : creation aborted, post title :
+আবারও সাকিব ‘নাম্বার ওয়ান’
+
+2017-03-14T07:59:28.460Z : creation aborted, post title :
+প্রিমিয়ার লিগ শুরু ৭ এপ্রিল
+
+2017-03-14T07:59:28.463Z : creation aborted, post title :
+তুষারের পর শাহরিয়ারের ডাবল সেঞ্চুরি
+
+2017-03-14T07:59:28.463Z : creation aborted, post title :
+তুষার-আলো জ্বলছেই
+
+2017-03-14T07:59:28.499Z : creation aborted, post title :
+ফিজিও কনওয়ের চুক্তি বাতিল করল বিসিবি
+
+2017-03-14T07:59:28.505Z : creation aborted, post title :
+মাশরাফি–মুশফিকদের নতুন ফিজিও
+
+2017-03-14T07:59:28.511Z : creation aborted, post title :
+৩ ম্যাচে ২ ডাবল সেঞ্চুরি তুষারের
+
+2017-03-14T07:59:28.803Z : creation aborted, post title :
+তুষারের আরেকটি সেঞ্চুরি
+
+2017-03-14T07:59:28.803Z : creation aborted, post title :
+গলে ঘাম ঝরাল বাংলাদেশ
+
+2017-03-14T07:59:29.115Z : creation aborted, post title :
+শ্রীলঙ্কায় যাচ্ছেন ইমরুল
+
+2017-03-14T07:59:29.127Z : creation aborted, post title :
+এনামুল যাচ্ছেন লাহোরে
+
+2017-03-14T07:59:29.223Z : creation aborted, post title :
+বোলিং প্রস্তুতিটা ভালো হলো না সাকিবদের
+
+2017-03-14T07:59:29.816Z : creation aborted, post title :
+১১ মামলায় কাল আদালতে যাবেন খালেদা
+
+2017-03-14T07:59:29.816Z : creation aborted, post title :
+মেয়র আরিফুলের সাময়িক বরখাস্তের আদেশ স্থগিত
+
+2017-03-14T07:59:29.816Z : creation aborted, post title :
+অনূর্ধ্ব-১৮ ফুটবল	এমন আয়োজনেও ওয়াকওভার!
+
+2017-03-14T07:59:29.816Z : creation aborted, post title :
+অনূর্ধ্ব-১৮ জাতীয় ফুটবল
+
+2017-03-14T07:59:29.816Z : creation aborted, post title :
+জয়-শান্তর হ্যাটট্রিক
+
+2017-03-14T07:59:29.816Z : creation aborted, post title :
+এএফসি কাপ যেন দক্ষিণ এশিয়ার ক্লাব ফুটবল লড়াই	আবাহনী তৈরি
+
+2017-03-14T07:59:29.816Z : creation aborted, post title :
+জাতীয় যুব ফুটবল
+
+2017-03-14T07:59:29.816Z : creation aborted, post title :
+অনূর্ধ্ব-১৮ জাতীয় ফুটবল	যুব ফুটবল ঘিরে নতুন স্বপ্ন
+
+2017-03-14T07:59:29.816Z : creation aborted, post title :
+অন্যকলাম	পুরস্কারের টানে...
+
+2017-03-14T07:59:29.816Z : creation aborted, post title :
+বঙ্গবন্ধু ও বঙ্গমাতা গোল্ডকাপ ফুটবল	যে দিনটি ওরা ভুলবে না
+
+2017-03-14T07:59:29.816Z : creation aborted, post title :
+আজ ফাইনাল	পোচন, না টিসি স্পোর্টস?
+
+2017-03-14T07:59:29.816Z : creation aborted, post title :
+বঙ্গবন্ধু স্টেডিয়ামে আজ দুটি ফাইনাল
+
+2017-03-14T07:59:29.816Z : creation aborted, post title :
+পোচন সিটিজেন ২: ১ চট্টগ্রাম আবাহনী	ফাইনালে নেই বাংলাদেশ!
+
+2017-03-14T07:59:29.816Z : creation aborted, post title :
+‘হাস্যকর ভুলে গোল খেয়েছি’
+
+2017-03-14T07:59:29.816Z : creation aborted, post title :
+চ্যাম্পিয়নস ট্রফি করবে বাফুফে?
+
+2017-03-14T07:59:29.816Z : creation aborted, post title :
+চট্ট. আবাহনী-পোচন সেমিফাইনাল	জ্বলে উঠতেই হবে চ্যাম্পিয়নদের
+
+2017-03-14T07:59:29.817Z : creation aborted, post title :
+‘আমি এখন ক্রিকেট নিয়েই আছি’
+
+2017-03-14T07:59:29.817Z : creation aborted, post title :
+অল্পস্বল্প	‘আমাদের বেসিকই এখন দুর্বল’
+
+2017-03-14T07:59:30.024Z : creation aborted, post title :
+টিসি স্পোর্টস ১: ০ মানাং মার্সিয়াংদি	টিসিকে ফাইনালে তুললেন নাফিউ
+
+2017-03-14T07:59:30.042Z : creation aborted, post title :
+ভাগ্যের ছোঁয়ায় ফাইনালে টিসি স্পোর্টস
+
+2017-03-14T07:59:30.048Z : creation aborted, post title :
+বর্ষসেরা নারী ক্রীড়াবিদ	কৃষ্ণার মুখে চাঁদের হাসি
+
+2017-03-14T07:59:30.104Z : creation aborted, post title :
+শেখ কামাল কাপের সেমিফাইনাল পর্ব	চট্টগ্রাম আবাহনীর দিকেই চোখ
+
+2017-03-14T07:59:30.109Z : creation aborted, post title :
+বঙ্গবন্ধু–বঙ্গমাতা ফুটবল
+
+2017-03-14T07:59:30.134Z : creation aborted, post title :
+‘মোস্তাফিজ আমাকে অনুপ্রাণিত করেছে’
+
+2017-03-14T07:59:30.140Z : creation aborted, post title :
+‘কুম্বলের চেয়ে ১ উইকেটও বেশি পেতে চাই না’
+
+2017-03-14T07:59:30.147Z : creation aborted, post title :
+‘আউটটার কথা অনেক দিনই মনে পড়বে’
+
+2017-03-14T07:59:30.147Z : creation aborted, post title :
+অল্পস্বল্প	স্বপ্ন, একদিন জাতীয় দলে খেলব
+
+2017-03-14T07:59:30.528Z : creation aborted, post title :
+ড্র করে শেষ চারে চ্যাম্পিয়নরা
+
+2017-03-14T07:59:30.528Z : creation aborted, post title :
+‘আইএসের সঙ্গে ভার্চ্যুয়াল ওয়ার্ল্ডে “হোম গ্রোন”দের যোগাযোগ থাকতে পারে’
+
+2017-03-14T07:59:30.528Z : creation aborted, post title :
+ওজনে অনিয়মে বাড়ছে জরিমানা
+
+2017-03-14T07:59:30.529Z : creation aborted, post title :
+গুণারত্নের বক্তব্য পুলিশ সমর্থন করে না: আইজিপি
+
+2017-03-14T07:59:30.536Z : creation aborted, post title :
+‘কমিশন না হলে কাজ হবে না—এসব দুর্নীতি আমার সময়ে চলবে না’	চট্টগ্রামের রাস্তার দুরবস্থা দেখে প্রধানমন্ত্রীর ক্ষোভ
+
+2017-03-14T07:59:30.542Z : creation aborted, post title :
+বাংলাদেশের প্রথম সাবমেরিন	আক্রান্ত হলে সমুচিত জবাব দেওয়া হবে: প্রধানমন্ত্রী
+
+2017-03-14T07:59:30.672Z : creation aborted, post title :
+অল্পস্বল্প	‘ইংল্যান্ডের ম্যাচ হলেই টিভির সামনে’
+
+2017-03-14T07:59:30.672Z : creation aborted, post title :
+‘আবেগ আটকাতে পারিনি’
+
+2017-03-14T07:59:30.672Z : creation aborted, post title :
+‘বাংলাদেশকে হালকাভাবে নিতে পারি না’
+
+2017-03-14T07:59:30.677Z : creation aborted, post title :
+মনে পড়ে না শেষ কবে ভালো বলে আউট হয়েছি
+
+2017-03-14T07:59:30.678Z : creation success, post title :
+আবাহনীর ‘মালদ্বীপ–চ্যালেঞ্জ’
+
+2017-03-14T07:59:30.678Z : extraction completed from : http://www.prothom-alo.com/sports-nationalfootball
+2017-03-14T07:59:30.813Z : creation aborted, post title :
+ইসির সঙ্গে নরডিক রাষ্ট্রদূতদের বৈঠক	অংশগ্রহণমূলক নির্বাচনে জোর দিচ্ছেন কূটনীতিকেরা
+
+2017-03-14T07:59:30.830Z : creation aborted, post title :
+সংক্ষেপ	স্পিকার লন্ডন গেছেন
+
+2017-03-14T07:59:30.837Z : creation aborted, post title :
+প্রতিরক্ষা, তিস্তার পানি ও গঙ্গা ব্যারাজ গুরুত্ব পাবে	শেখ হাসিনা–মোদি বৈঠক হতে পারে ৮ এপ্রিল
+
+2017-03-14T07:59:30.844Z : creation aborted, post title :
+মিঠামইনে জনপ্রতিনিধিদের প্রতি রাষ্ট্রপতি	মানুষকে উন্নত সেবা দিন, ঠকাবেন না
+
+2017-03-14T07:59:30.848Z : creation aborted, post title :
+শ্রমিক লীগের সমাবেশে ওবায়দুল কাদের	আমাদের ভারতপ্রীতিও নেই ভারতভীতিও নেই
+
+2017-03-14T07:59:30.863Z : creation success, post title :
+স্বাস্থ্যমন্ত্রী বললেন	দেশের স্বার্থবিরোধী চুক্তি করবেন না প্রধানমন্ত্রী
+
+2017-03-14T07:59:30.871Z : creation success, post title :
+প্রধানমন্ত্রী লক্ষ্মীপুরে যাচ্ছেন আজ
+
+2017-03-14T07:59:31.139Z : creation aborted, post title :
+শিশুর লাশ উদ্ধার, বিষপানে অসুস্থ মা হাসপাতালে
+
+2017-03-14T07:59:31.355Z : creation aborted, post title :
+ভুয়া খবর রুখতে চান ওয়েবের প্রতিষ্ঠাতা
+
+2017-03-14T07:59:31.356Z : creation aborted, post title :
+সংক্ষেপ	কৃত্রিম ভ্রূণ
+
+2017-03-14T07:59:31.408Z : creation aborted, post title :
+‘ভার্চ্যুয়াল’ জগতে জঙ্গিদের আনাগোনা আছে: স্বরাষ্ট্রমন্ত্রী
+
+2017-03-14T07:59:31.439Z : creation success, post title :
+ব্যাটসম্যানদের ওপর বিরক্ত নাজমুল
+
+2017-03-14T07:59:31.440Z : creation success, post title :
+পাঁচ দিনেই শেষ সাকিবের রাজত্ব
+
+2017-03-14T07:59:31.440Z : creation success, post title :
+মালিবাগ রেলগেটে গার্ডার পড়ে একজন নিহত, আহত ২	নিরাপত্তা ছাড়াই উড়ালসড়ক নির্মাণ
+
+2017-03-14T07:59:31.439Z : creation success, post title :
+মাহমুদউল্লাহ আছেন ওয়ানডে দলে
+
+2017-03-14T07:59:31.440Z : creation success, post title :
+সাংবাদিকদের আইজিপি	আইএসের সঙ্গে দেশীয় জঙ্গিদের যোগাযোগ নেই
+
+2017-03-14T07:59:31.440Z : creation success, post title :
+একাত্তরের গণহত্যা	ব্রহ্মপুত্রের পারে হত্যা করা হয় শত শত মানুষ
+
+2017-03-14T07:59:31.440Z : creation success, post title :
+কিশোরগঞ্জে রাষ্ট্রপতি	তরুণেরা বিভ্রান্ত হয়ে জঙ্গিবাদে যেন না জড়ায়
+
+2017-03-14T07:59:31.440Z : creation success, post title :
+মা ও প্রতিবেশীকে কুপিয়ে মারলেন ‘নেশাগ্রস্ত’ যুবক
+
+2017-03-14T07:59:31.440Z : creation success, post title :
+মহিলা ডিগ্রি কলেজের রজতজয়ন্তী
+
+2017-03-14T07:59:31.440Z : creation success, post title :
+সাভারে ওয়ার্কশপে আগুন পুড়ে গেছে চারটি বাস
+
+2017-03-14T07:59:31.440Z : creation success, post title :
+বিলের বাঁধ কাটায় ভেসে গেছে ১২ লাখ টাকার মাছ?
+
+2017-03-14T07:59:31.440Z : creation success, post title :
+আজ পল্লিকবি জসীমউদ্দীনের মৃত্যুবার্ষিকী
+
+2017-03-14T07:59:31.440Z : creation success, post title :
+সরিষাবাড়ী-তারাকান্দি–ঢাকা মহাসড়ক	ভাঙাচোরা সড়কে ভোগান্তি
+
+2017-03-14T07:59:31.440Z : creation success, post title :
+নকশিকাঁথাকে জামালপুরের ব্র্যান্ড ঘোষণা
+
+2017-03-14T07:59:31.440Z : creation success, post title :
+অজ্ঞান পার্টির সদস্য নিজেই অচেতন?
+
+2017-03-14T07:59:31.440Z : creation success, post title :
+নিজের শরীরে ব্যাটারির পানি ঢেলে প্রতিপক্ষের বিরুদ্ধে অ্যাসিড মামলা
+
+2017-03-14T07:59:31.440Z : creation success, post title :
+প্রিসাইডিং কর্মকর্তাকে লাঞ্ছনার মামলা	পরাজিত চেয়ারম্যান প্রার্থী কারাগারে
+
+2017-03-14T07:59:31.440Z : creation success, post title :
+খাল ভরাট করার উদ্যোগের প্রতিবাদে বিক্ষোভ সমাবেশ
+
+2017-03-14T07:59:31.440Z : creation success, post title :
+বিনা মূল্যে চিকিৎসা
+
+2017-03-14T07:59:31.440Z : creation success, post title :
+রাজবাড়ীর কালুখালীর পাটকলে ভয়াবহ অগ্নিকাণ্ড
+
+2017-03-14T07:59:31.440Z : creation success, post title :
+সৎমাকে হত্যার দায়ে যাবজ্জীবন
+
+2017-03-14T07:59:31.440Z : creation success, post title :
+বিছানায় মেয়ের লাশ, পাশে ছটফট করছেন মা
+
+2017-03-14T07:59:31.440Z : creation success, post title :
+অজ্ঞান পার্টির সদস্য নিজেই খেলেন ধরা!
+
+2017-03-14T07:59:31.440Z : creation success, post title :
+উপাচার্যসহ চারজনের বিরুদ্ধে অভিযোগ তদন্তে রুল
+
+2017-03-14T07:59:31.440Z : creation success, post title :
+খালেদা জিয়ার শুনানির দিন পেছাল
+
+2017-03-14T07:59:31.440Z : creation success, post title :
+শিশুর লাশ উদ্ধার, বিষপানে অসুস্থ মা হাসপাতালে
+
+2017-03-14T07:59:31.442Z : creation aborted, post title :
+সড়কের দুরবস্থা কেন, চট্টগ্রামে প্রধানমন্ত্রী
+
+2017-03-14T07:59:31.442Z : creation aborted, post title :
+অনেক জনপ্রতিনিধি জমিদারের মনোভাব দেখান: রাষ্ট্রপতি
+
+2017-03-14T07:59:31.442Z : creation aborted, post title :
+শেখ হাসিনা স্বার্থকে বিকিয়ে চুক্তি করবেন না: কাদের
+
+2017-03-14T07:59:31.440Z : extraction completed from : http://www.prothom-alo.com/sports-nationalcricket
+2017-03-14T07:59:31.442Z : creation aborted, post title :
+স্বার্থ বিকিয়ে ভারতের সঙ্গে চুক্তি নয়: কাদের
+
+2017-03-14T07:59:31.442Z : creation aborted, post title :
+আক্রান্ত হলে জবাব দেওয়ার প্রস্তুতি থাকবে: প্রধানমন্ত্রী
+
+2017-03-14T07:59:31.440Z : extraction completed from : http://www.prothom-alo.com/bangladesh-divisions
+2017-03-14T07:59:31.442Z : creation aborted, post title :
+কাজে অবহেলায় কেউ ছাড় পাবে না: প্রধানমন্ত্রী
+
+2017-03-14T07:59:31.459Z : creation aborted, post title :
+পাকিস্তান সেনাবাহিনীতে যোগ দেবেন স্যামুয়েলস!
+
+2017-03-14T07:59:31.465Z : creation success, post title :
+আসামিকে ডান্ডাবেড়ি পরিয়ে আদালতে হাজির নয়: হাইকোর্ট
+
+2017-03-14T07:59:31.464Z : creation success, post title :
+প্রথম আলোর সাংবাদিকসহ চারজনকে মারধর	অধিকতর তদন্তের আদেশ আদালতের
+
+2017-03-14T07:59:31.465Z : creation success, post title :
+দুই বিচারকের কাছে ব্যাখ্যা চেয়েছেন হাইকোর্ট
+
+2017-03-14T07:59:31.465Z : creation success, post title :
+‘গৃহকর্মীকে গুম’	গৃহকর্তা রাজউক প্রকৌশলীকে তলব
+
+2017-03-14T07:59:31.465Z : creation success, post title :
+কুষ্টিয়ায় সেই হোটেলমালিক কারাগারে
+
+2017-03-14T07:59:31.465Z : creation success, post title :
+ফিটনেসবিহীন যানবাহনের বিরুদ্ধে অভিযান
+
+2017-03-14T07:59:31.466Z : creation success, post title :
+খান চানাচুরকে ৬ লাখ টাকা জরিমানা
+
+2017-03-14T07:59:31.466Z : creation failed, post title :
+প্রিসাইডিং কর্মকর্তাকে লাঞ্ছনার মামলা	পরাজিত চেয়ারম্যান প্রার্থী কারাগারে
+
+2017-03-14T07:59:31.466Z : creation success, post title :
+সাংসদের কারখানাকে জরিমানা
+
+2017-03-14T07:59:31.467Z : creation aborted, post title :
+গল টেস্টের ময়নাতদন্তে হাথুরু
+
+2017-03-14T07:59:31.467Z : creation aborted, post title :
+আইসিসিকে ডু প্লেসির তির
+
+2017-03-14T07:59:31.469Z : creation success, post title :
+মেয়র আরিফুলের সাময়িক বরখাস্তের আদেশ স্থগিত
+
+2017-03-14T07:59:31.470Z : creation success, post title :
+সাংসদের কারখানাকে তিন লাখ টাকা জরিমানা
+
+2017-03-14T07:59:31.470Z : creation success, post title :
+লক্ষ্মীপুরে স্ত্রী হত্যার দায়ে স্বামীর মৃত্যুদণ্ড
+
+2017-03-14T07:59:31.470Z : creation success, post title :
+বিএনপির সাবেক সাংসদ হাফিজ ইব্রাহীমের বিরুদ্ধে মামলা
+
+2017-03-14T07:59:31.470Z : creation success, post title :
+কুমিল্লা সিটি করপোরেশন নির্বাচন	প্রার্থী হতে পারবেন মামুনুর
+
+2017-03-14T07:59:31.470Z : creation success, post title :
+ডান্ডাবেড়ি পরিয়ে আসামিকে আদালতে নয়: হাইকোর্ট
+
+2017-03-14T07:59:31.470Z : creation failed, post title :
+সৎমাকে হত্যার দায়ে যাবজ্জীবন
+
+2017-03-14T07:59:31.470Z : extraction completed from : http://www.prothom-alo.com/bangladesh-justice
+2017-03-14T07:59:31.470Z : creation success, post title :
+গৃহকর্মী নিখোঁজ: গৃহকর্তাকে তলব
+
+2017-03-14T07:59:31.478Z : creation aborted, post title :
+‘নির্বাচকেরা যদি এর প্রতিদান দিতেন...’
+
+2017-03-14T07:59:31.496Z : creation aborted, post title :
+রেকর্ডের ম্যাচে আফগানিস্তানের জয়
+
+2017-03-14T07:59:31.496Z : creation aborted, post title :
+ডানেডিন টেস্ট	ডানেডিনের উত্তাপে বৃষ্টির জল
+
+2017-03-14T07:59:31.734Z : creation aborted, post title :
+গাড়ি চালানোর সময় ফোনে কথা বলার শাস্তি দ্বিগুণ
+
+2017-03-14T07:59:31.734Z : creation aborted, post title :
+ব্রিটিশ পার্লামেন্টে ট্রাম্পের ভাষণ এড়ানোর জন্য...
+
+2017-03-14T07:59:31.734Z : creation aborted, post title :
+যুক্তরাজ্যে পারিবারিক ভিসার কঠোর নিয়ম টিকে গেল সুপ্রিম কোর্টে
+
+2017-03-14T07:59:31.734Z : creation aborted, post title :
+৫ সেনা নিহত
+
+2017-03-14T07:59:31.734Z : creation aborted, post title :
+এরপর​ও বেঁচে আছে শিশুটি!
+
+2017-03-14T07:59:31.734Z : creation aborted, post title :
+গাড়ি চালানোর সময় মোবাইল ব্যবহারে শাস্তি দ্বিগুণ
+
+2017-03-14T07:59:31.734Z : creation aborted, post title :
+অদূর ভবিষ্যতে প্রত্যাশিত আয়ু ৯০ ছাড়াবে
+
+2017-03-14T07:59:31.740Z : creation aborted, post title :
+ট্রাম্পের মতোই আচরণ করছেন থেরেসা মে!
+
+2017-03-14T07:59:31.780Z : creation aborted, post title :
+নতুন আইনেও পুরোনো ওয়ার্নার?
+
+2017-03-14T07:59:31.780Z : creation aborted, post title :
+সংক্ষেপ	ব্লু হাউস ছাড়লেন গিউন হে
+
+2017-03-14T07:59:31.782Z : creation aborted, post title :
+সংক্ষেপ	আলোচনা হবে
+
+2017-03-14T07:59:31.784Z : creation aborted, post title :
+এক কুকুরছানার জন্য এত কিছু?
+
+2017-03-14T07:59:31.792Z : creation aborted, post title :
+সংক্ষেপ	দুই মেয়ে বিরুদ্ধে
+
+2017-03-14T07:59:31.796Z : creation aborted, post title :
+লাহোরে শক্তিশালী বিস্ফোরণ, নিহত ৮
+
+2017-03-14T07:59:31.817Z : creation aborted, post title :
+রাখাইনে মানবতাবিরোধী অপরাধ: জাতিসংঘ দূত
+
+2017-03-14T07:59:31.818Z : creation aborted, post title :
+বিবৃতিতে নাজিব রাজাক	উত্তর কোরিয়ার সঙ্গে সম্পর্ক ছিন্ন করব না
+
+2017-03-14T07:59:31.868Z : creation aborted, post title :
+কাবুলে জঙ্গি হামলার ঘটনায় নিহত বেড়ে ৪৯
+
+2017-03-14T07:59:32.024Z : creation aborted, post title :
+পাকিস্তানে মাজারে আত্মঘাতী হামলা, নিহত ৭২
+
+2017-03-14T07:59:32.026Z : creation success, post title :
+ছিনতাইকারীর হামলায় পুলিশ আহত
+
+2017-03-14T07:59:32.026Z : creation success, post title :
+শিক্ষার নামে ব্যবসা কিন্ডারগার্টেনগুলোর
+
+2017-03-14T07:59:32.033Z : creation aborted, post title :
+লাহোরে মিছিলে আত্মঘাতী বোমায় ১৩ জন নিহত
+
+2017-03-14T07:59:32.034Z : creation aborted, post title :
+সাটুরিয়ায় ছাত্রলীগের দুই পক্ষের সংঘর্ষ
+
+2017-03-14T07:59:32.040Z : creation aborted, post title :
+তিন উপজেলায় বিদ্রোহীদের বহিষ্কার করল আ.লীগ
+
+2017-03-14T07:59:32.054Z : creation success, post title :
+ব্রেক্সিট	বিচ্ছেদের আনুষ্ঠানিক ঘোষণার অপেক্ষা?
+
+2017-03-14T07:59:32.085Z : creation aborted, post title :
+ভারতের পাঁচ রাজ্যের বিধানসভায় আসন ভাগাভাগি	মণিপুর ও গোয়াতেও সরকার গড়তে মরিয়া বিজেপি
+
+2017-03-14T07:59:32.089Z : creation aborted, post title :
+অল্পস্বল্প	‘স্বপ্ন তো সব সময়ই দেখি’
+
+2017-03-14T07:59:32.119Z : creation aborted, post title :
+ভারতে আইএসের প্রথম হানা?	উত্তর প্রদেশে জঙ্গি ডেরায় অভিযানে নিহত এক
+
+2017-03-14T07:59:32.119Z : creation aborted, post title :
+৩০ জনের বেশি নিহত	কাবুলে চিকিৎসক সেজে হাসপাতালে জঙ্গি হামলা
+
+2017-03-14T07:59:32.125Z : creation aborted, post title :
+নামের ছেলে দাবি করে ভিডিও প্রকাশ!
+
+2017-03-14T07:59:32.131Z : creation success, post title :
+ওজনে ঠকানোর শাস্তি আরও বাড়ছে
+
+2017-03-14T07:59:32.140Z : creation aborted, post title :
+চিকিৎসকের বেশে হাসপাতালে হামলা, নিহত ৩০
+
+2017-03-14T07:59:32.141Z : creation success, post title :
+রেকর্ড কর্নার	টি-টোয়েন্টিতে ব্যাটিং–ঝড়
+
+2017-03-14T07:59:32.150Z : creation aborted, post title :
+শান্তিনিকেতনে বসন্ত উৎসব
+
+2017-03-14T07:59:32.150Z : creation aborted, post title :
+রাহুলকে মোদির টুইট
+
+2017-03-14T07:59:32.151Z : creation aborted, post title :
+ভারতের বিধানসভা নির্বাচন: টুকরো খবর	জন্মদিনের উপহার!
+
+2017-03-14T07:59:32.153Z : creation aborted, post title :
+অল্পস্বল্প	‘বেশি আগে টেস্ট খেলে ফেলেছি’
+
+2017-03-14T07:59:32.153Z : creation aborted, post title :
+অল্পস্বল্প	‘এটাকে চ্যালেঞ্জ হিসেবে নিয়েছি’
+
+2017-03-14T07:59:32.153Z : creation aborted, post title :
+মোহাম্মদ আজহারউদ্দিনের একান্ত সাক্ষাৎকার	‘কপালে লেখা ছিল, আমি ৯৯টা টেস্ট খেলব’
+
+2017-03-14T07:59:32.153Z : creation aborted, post title :
+জো রুটই সবচেয়ে বড় দাবিদার
+
+2017-03-14T07:59:32.154Z : creation aborted, post title :
+অল্পস্বল্প	‘অবশ্যই আমরা জিততে চাই’
+
+2017-03-14T07:59:32.165Z : creation aborted, post title :
+পারমাণবিক অস্ত্রে রাশিয়ার চেয়ে যুক্তরাষ্ট্র পিছিয়ে
+
+2017-03-14T07:59:32.189Z : creation aborted, post title :
+সাহসী সাংবাদিকতার জয় হবেই
+
+2017-03-14T07:59:32.190Z : creation aborted, post title :
+লন্ডন পুলিশের নেতৃত্বে প্রথম নারী
+
+2017-03-14T07:59:32.257Z : creation aborted, post title :
+উত্তর প্রদেশে মোদি ঝড় : আশায় পশ্চিমবঙ্গের বিজেপি
+
+2017-03-14T07:59:32.258Z : creation aborted, post title :
+বিজেপির জয়ধ্বনি মণিপুরেও
+
+2017-03-14T07:59:32.359Z : creation success, post title :
+সংক্ষেপ	প্রার্থী হতে পারবেন মামুনুর রশীদ
+
+2017-03-14T07:59:32.387Z : creation aborted, post title :
+অল্পস্বল্প	‘লক্ষ্য থাকবে কোহলির উইকেট’
+
+2017-03-14T07:59:32.387Z : creation aborted, post title :
+অল্পস্বল্প	‘এবার ভেতরে জেদ এনেছি’
+
+2017-03-14T07:59:32.394Z : creation aborted, post title :
+নেতাদের সঙ্গে বিলাওয়ালের বৈঠক	চার দফা দাবিতে আবার সোচ্চার হচ্ছে পিপিপি
+
+2017-03-14T07:59:32.394Z : creation aborted, post title :
+পাকিস্তান সীমান্তে ‘সন্ত্রাসী হামলায়’ ৫ সেনা নিহত
+
+2017-03-14T07:59:32.394Z : creation aborted, post title :
+যে কারণে নাচের ক্লাসে তাঁরা
+
+2017-03-14T07:59:32.409Z : creation success, post title :
+মণিপুরে হোলির রং ফিকে
+
+2017-03-14T07:59:32.420Z : creation aborted, post title :
+মাজারে হামলায় নিহত ব্যক্তির সংখ্যা বেড়ে ৮০	পাকিস্তানে সাঁড়াশি অভিযান, নিহত ৩১
+
+2017-03-14T07:59:32.422Z : creation success, post title :
+বরিশালে আগ্নেয়াস্ত্রসহ আটক ১
+
+2017-03-14T07:59:32.422Z : creation success, post title :
+দিনাজপুরে খানকায় কথিত পীরসহ দুজন খুন
+
+2017-03-14T07:59:32.422Z : creation success, post title :
+নাঙ্গলকোটে কৃষককে ‘অ্যাসিড’ নিক্ষেপ
+
+2017-03-14T07:59:32.426Z : creation aborted, post title :
+পাকিস্তানে মাজারে আত্মঘাতী হামলা, নিহত ৫০
+
+2017-03-14T07:59:32.427Z : creation aborted, post title :
+প্রধানমন্ত্রীর বক্তব্যের জবাব দিলেন মির্জা ফখরুল
+
+2017-03-14T07:59:32.427Z : creation aborted, post title :
+বালিয়াডাঙ্গী উপজেলা বিএনপি	সাত বছর পর সম্মেলন হলেও হয়নি কমিটি
+
+2017-03-14T07:59:32.429Z : creation success, post title :
+ধোনির ভবিষ্যৎ ঠিক করে দেবে চ্যাম্পিয়নস ট্রফি
+
+2017-03-14T07:59:32.429Z : creation success, post title :
+অল্পস্বল্প	‘খেলোয়াড়েরা যেন খেলার মধ্যে থাকে’
+
+2017-03-14T07:59:32.429Z : creation success, post title :
+পাকিস্তানে ১৯ বছরে প্রথম আদমশুমারি
+
+2017-03-14T07:59:32.434Z : creation aborted, post title :
+আলোচনা সভায় গয়েশ্বর	ভারতের সঙ্গে শেখ হাসিনার মান অভিমান চলছে
+
+2017-03-14T07:59:32.434Z : creation aborted, post title :
+মণিপুরে বেহাল কংগ্রেস
+
+2017-03-14T07:59:32.434Z : creation aborted, post title :
+উজ্জ্বল মোদি, বিবর্ণ রাহুল
+
+2017-03-14T07:59:32.441Z : creation aborted, post title :
+‘ঠান্ডাজনিত সমস্যা মুক্তি দিতে পারে’ ভিটামিন ডি বড়ি
+
+2017-03-14T07:59:32.446Z : creation aborted, post title :
+সংশোধনী ছাড়াই ব্রেক্সিট বিল পাস
+
+2017-03-14T07:59:32.459Z : extraction completed from : http://www.prothom-alo.com/sports-interview
+2017-03-14T07:59:32.458Z : creation aborted, post title :
+অল্পস্বল্প	‘দলের জয়টাই শেষ কথা’
+
+2017-03-14T07:59:32.469Z : creation success, post title :
+ব্রিটিশ পার্লামেন্টে ব্রেক্সিট বিল পাস
+
+2017-03-14T07:59:32.478Z : creation success, post title :
+গোয়ায় সরকার গঠনে প্রস্তুত বিজেপি, আদালতে কংগ্রেস
+
+2017-03-14T07:59:32.486Z : creation aborted, post title :
+সুখের খোঁজে...
+
+2017-03-14T07:59:32.487Z : creation aborted, post title :
+পার্লামেন্টে মতৈক্য	পাকিস্তানে বিতর্কিত সামরিক আদালতের মেয়াদ বাড়ছে?
+
+2017-03-14T07:59:32.510Z : creation aborted, post title :
+উড়োজাহাজ যেন লোকাল বাস!
+
+2017-03-14T07:59:32.511Z : creation aborted, post title :
+আইএসের দায় স্বীকার	পাকিস্তানে মাজারে আত্মঘাতী হামলায় নিহত অন্তত ৭০
+
+2017-03-14T07:59:32.517Z : creation aborted, post title :
+মা ও প্রতিবেশীকে কুপিয়ে মারলেন ‘নেশাগ্রস্ত’ যুবক
+
+2017-03-14T07:59:32.688Z : creation aborted, post title :
+বিলের বাঁধ কাটায় ভেসে গেছে ১২ লাখ টাকার মাছ?
+
+2017-03-14T07:59:32.689Z : creation aborted, post title :
+শততম টেস্টে নেই মাহমুদউল্লাহ!
+
+2017-03-14T07:59:32.752Z : creation success, post title :
+চট্টগ্রামে বিএনপির সমাবেশে অভিযোগ	‘কমিশন ছাড়া কিছু হয় না’
+
+2017-03-14T07:59:32.759Z : creation success, post title :
+উত্তর প্রদেশে জয়ী প্রার্থীদের ৮০ শতাংশ কোটিপতি
+
+2017-03-14T07:59:32.765Z : creation success, post title :
+গলাচিপায় ব্যবসায়ীকে গলা কেটে হত্যা
+
+2017-03-14T07:59:32.765Z : creation aborted, post title :
+বোমা নিষ্ক্রিয় করার সময় প্রাণ গেল ২ জনের
+
+2017-03-14T07:59:32.765Z : creation success, post title :
+জঙ্গি সন্দেহে ৩ জন গ্রেপ্তার
+
+2017-03-14T07:59:32.766Z : creation success, post title :
+কালিকাপ্রসাদের ভাড়া গাড়ির চালক গ্রেপ্তার
+
+2017-03-14T07:59:32.781Z : creation aborted, post title :
+খালেদা জিয়ার শুনানির দিন পেছাল
+
+2017-03-14T07:59:32.782Z : creation aborted, post title :
+গাজীপুরের মৌচাক ইউপি নির্বাচনের তফসিল ঘোষণা
+
+2017-03-14T07:59:32.784Z : creation success, post title :
+রাতভর তুলকালাম ছাত্রলীগের
+
+2017-03-14T07:59:32.793Z : creation success, post title :
+পুরান ঢাকার ইংলিশ রোডের ‘নগরে নিসর্গ’	পার্ক ধ্বংস করে ডিজিটাল বিলবোর্ড স্থাপন
+
+2017-03-14T07:59:32.803Z : creation success, post title :
+চট্টগ্রামে অটোরিকশা থামিয়ে প্রকাশ্যে ছিনতাই
+
+2017-03-14T07:59:32.809Z : creation aborted, post title :
+কুম্বলের জায়গা নেবেন দ্রাবিড়?
+
+2017-03-14T07:59:32.810Z : creation aborted, post title :
+অস্ট্রেলিয়ার ভাবনায় রাঁচির উইকেটও
+
+2017-03-14T07:59:32.813Z : creation aborted, post title :
+সংক্ষেপ	আইনশৃঙ্খলা কমিটির সভা
+
+2017-03-14T07:59:32.814Z : creation success, post title :
+দাবি নাথান লায়নের	এখনো চাপে ভারত!
+
+2017-03-14T07:59:32.815Z : creation aborted, post title :
+সিলেটে আ.লীগের বিভাগীয় প্রতিনিধি সম্মেলন	তোরণে স্থানীয় নেতাদের ছবি নয়
+
+2017-03-14T07:59:32.816Z : creation aborted, post title :
+রেকর্ড কর্নার	সেরা ‘বুড়ো’ বোলার
+
+2017-03-14T07:59:32.833Z : creation aborted, post title :
+পশ্চিমবঙ্গ দ্বিতীয়
+
+2017-03-14T07:59:32.881Z : creation aborted, post title :
+উত্তর প্রদেশে মুসলিম বিধায়ক ছিলেন ৬৯, এবার ২৪
+
+2017-03-14T07:59:32.882Z : creation success, post title :
+জয়াকে সমর্থন দিয়ে সরে দাঁড়ালেন দুই প্রার্থী
+
+2017-03-14T07:59:32.882Z : creation success, post title :
+জেএমবির ‘আঞ্চলিক কমান্ডার’ গ্রেপ্তার
+
+2017-03-14T07:59:32.882Z : creation success, post title :
+২৬ মার্চ বিএনপির শোভাযাত্রা কর্মসূচি
+
+2017-03-14T07:59:32.882Z : creation aborted, post title :
+ভারতের বিধানসভা নির্বাচন: টুকরো খবর	কেজরিওয়ালের সংকল্প ছিল না: সিধু
+
+2017-03-14T07:59:32.988Z : creation aborted, post title :
+শততম টেস্টে ঘুরে দাঁড়াবে বাংলাদেশ?
+
+2017-03-14T07:59:32.997Z : creation aborted, post title :
+গিউন-হেকে গ্রেপ্তারের দাবি
+
+2017-03-14T07:59:33.011Z : creation success, post title :
+সিলেট থেকে অপহৃত শিশু লালমনিরহাট থেকে উদ্ধার	মুক্তিপণের টাকাসহ ২ অপহরণকারী গ্রেপ্তার
+
+2017-03-14T07:59:33.014Z : creation success, post title :
+সৈয়দপুরে দুজনের ডিলারশিপ বাতিল
+
+2017-03-14T07:59:33.015Z : creation success, post title :
+ভূমি অফিসে চুরি
+
+2017-03-14T07:59:33.024Z : creation success, post title :
+যুবরাজ শিখেছেন ১০ বছরে, কোহলির লেগেছে ৩-৪ বছর
+
+2017-03-14T07:59:33.036Z : creation success, post title :
+টেস্ট-শ্রেষ্ঠত্ব হারালেন সাকিব
+
+2017-03-14T07:59:33.084Z : creation success, post title :
+গর্বের মুহূর্তে লিটনের আক্ষেপ
+
+2017-03-14T07:59:33.106Z : creation success, post title :
+সুনামগঞ্জ-২ আসনের উপনির্বাচন	দুই প্রার্থীর মনোনয়নপত্র প্রত্যাহার
+
+2017-03-14T07:59:33.107Z : creation aborted, post title :
+হঠাৎ বাড়ির ছাদে গাড়ি
+
+2017-03-14T07:59:33.155Z : creation success, post title :
+রাষ্ট্রপতি নির্বাচনে প্রভাব ফেলবে বিজেপির জয়
+
+2017-03-14T07:59:33.162Z : creation aborted, post title :
+সাংবিধানিক আদালতের রায়	দক্ষিণ কোরিয়ার প্রেসিডেন্ট পার্ক গিউন-হে বরখাস্ত
+
+2017-03-14T07:59:33.163Z : creation aborted, post title :
+দক্ষিণ কোরিয়ার প্রেসিডেন্ট বরখাস্ত
+
+2017-03-14T07:59:33.295Z : creation aborted, post title :
+মিয়ানমারের ২০ হাজার মানুষ চীন সীমান্তে
+
+2017-03-14T07:59:33.313Z : creation success, post title :
+পাতায়া যেভাবে ‘যৌনতার রাজধানী’
+
+2017-03-14T07:59:33.459Z : creation aborted, post title :
+উত্তর কোরিয়ার সঙ্গে সম্পর্ক ছিন্ন হবে না: মালয়েশিয়া
+
+2017-03-14T07:59:33.460Z : creation aborted, post title :
+উ. কোরিয়াকে ক্ষেপণাস্ত্র পরীক্ষা স্থগিত রাখার আহ্বান চীনের
+
+2017-03-14T07:59:33.591Z : creation aborted, post title :
+কিম জং-নাম হত্যাকাণ্ড	এবার সরাসরি উত্তর কোরিয়াকে দায়ী করলেন রাজাক
+
+2017-03-14T07:59:33.592Z : creation aborted, post title :
+‘হামলাকারীরা হাসপাতালের ভেতরে, দোয়া করবেন’
+
+2017-03-14T07:59:33.593Z : creation success, post title :
+সোনারগাঁয়ে অবৈধ গ্যাস সংযোগ আবার বিচ্ছিন্ন
+
+2017-03-14T07:59:33.593Z : extraction completed from : http://www.prothom-alo.com/bangladesh-government
+2017-03-14T07:59:33.594Z : creation aborted, post title :
+মেলবোর্নে ট্রাফিক বাতিতে নারীমূর্তি
+
+2017-03-14T07:59:33.594Z : extraction completed from : http://www.prothom-alo.com/international-asia
+2017-03-14T07:59:33.757Z : creation aborted, post title :
+আরও একটি সংশোধনী চায় লর্ড সভা	ব্রেক্সিট বিল নিয়ে আবারও সরকারের পরাজয়
+
+2017-03-14T07:59:33.758Z : creation aborted, post title :
+ব্রেক্সিট বিলে সংশোধনী চায় লর্ডস সভা
+
+2017-03-14T07:59:33.890Z : creation aborted, post title :
+যুক্তরাজ্যে ২৭ বছর থাকার পরও...
+
+2017-03-14T07:59:33.890Z : creation aborted, post title :
+বায়ুদূষণকারী গাড়ির মালিককে কর দিতে হবে
+
+2017-03-14T07:59:33.892Z : creation aborted, post title :
+হাউস অব কমন্সের প্রতিবেদন	প্রত্যাশা পূরণে ব্যর্থ সু চি
+
+2017-03-14T07:59:33.892Z : extraction completed from : http://www.prothom-alo.com/international-uk
+2017-03-14T07:59:34.057Z : creation aborted, post title :
+পাকিস্তানে কিশোরী ‘অনার কিলিং’–এর শিকার!
+
+2017-03-14T07:59:34.058Z : creation aborted, post title :
+মূলধারায় ফাতা
+
+2017-03-14T07:59:34.186Z : creation aborted, post title :
+পিআইএ ফ্লাইট অন্য পথে
+
+2017-03-14T07:59:34.187Z : creation aborted, post title :
+পাকিস্তানে জঙ্গিবিরোধী অভিযানে নিহত শতাধিক
+
+2017-03-14T07:59:34.204Z : creation success, post title :
+বাগমারায় আরও এক জেএমজেবি সদস্য আটক
+
+2017-03-14T07:59:34.204Z : creation aborted, post title :
+সংক্ষেপ	নিষেধাজ্ঞা তুলে নিচ্ছে পাকিস্তান
+
+2017-03-14T07:59:34.206Z : creation success, post title :
+নীতিনির্ধারকদের দায় নেই!	জাতীয় বিশ্ববিদ্যালয়ে কনিষ্ঠ কর্মকর্তারাই গ্রেপ্তার হচ্ছেন
+
+2017-03-14T07:59:34.205Z : extraction completed from : http://www.prothom-alo.com/international-pakistan
+2017-03-14T07:59:34.207Z : creation success, post title :
+সোবার্স, পতৌদি, জয়াসুরিয়াদের পথ ধরে মুশফিক
+
+2017-03-14T07:59:34.352Z : creation aborted, post title :
+স্বাধীনতা দিবসে কর্মসূচি দিল বিএনপি
+
+2017-03-14T07:59:34.352Z : creation aborted, post title :
+আওয়ামী লীগ চ্যালেঞ্জের মুখে, বিএনপি নির্ভার	ইউপিডিএফের লক্ষ্য সংসদে নিজেদের প্রতিনিধি পাঠানো
+
+2017-03-14T07:59:34.485Z : creation success, post title :
+ওয়ানডে দলে সানজামুল
+
+2017-03-14T07:59:34.487Z : creation aborted, post title :
+আ.লীগের বরিশাল বিভাগীয় তৃণমূল সমাবেশ ৮ এপ্রিল
+
+2017-03-14T07:59:34.514Z : creation aborted, post title :
+১৩ বছরেও কবিগুরুর নোবেল পদক চুরির কিনারা হয়নি
+
+2017-03-14T07:59:34.520Z : creation aborted, post title :
+হেরে রাজনীতি থেকেই বিদায়
+
+2017-03-14T07:59:34.527Z : creation success, post title :
+রোগী কল্যাণ সমিতির কার্যক্রম বাড়ানোর আহ্বান মেয়রের
+
+2017-03-14T07:59:34.527Z : creation success, post title :
+নারী বিধায়কের সংখ্যা বেশি, খুশি মোদি
+
+2017-03-14T07:59:34.527Z : creation success, post title :
+দিনাজপুরে কথিত পীরসহ দুজন হত্যার কারণ খুঁজছে পুলিশ
+
+2017-03-14T07:59:34.527Z : creation success, post title :
+‘এমপি পোস্টেও নির্বাচন করার ইচ্ছা আছে’
+
+2017-03-14T07:59:34.527Z : creation success, post title :
+বগুড়ায় ‘বন্দুকযুদ্ধে’ একজন গুলিবিদ্ধ	রাজশাহীতে পুলিশের গুলিতে যুবক নিহত
+
+2017-03-14T07:59:34.527Z : extraction completed from : http://www.prothom-alo.com/bangladesh-crime
+2017-03-14T07:59:34.527Z : creation success, post title :
+মাহমুদউল্লাহকে নিয়ে দিনভর নাটক
+
+2017-03-14T07:59:34.528Z : creation aborted, post title :
+ভারতের বিধানসভা নির্বাচন: টুকরো খবর	ইভিএমে জালিয়াতি?
+
+2017-03-14T07:59:34.536Z : creation success, post title :
+জয়া সেনগুপ্তাকে সমর্থন দিয়ে সরে দাঁড়ালেন জাপা-জাসদের প্রার্থী
+
+2017-03-14T07:59:34.785Z : extraction completed from : http://www.prothom-alo.com/international-india
+2017-03-14T07:59:34.785Z : creation success, post title :
+বিষয় গোয়া ও মণিপুরে সরকার গঠন	নির্বাচন ‘হাতিয়ে নেওয়ার’ অভিযোগ কংগ্রেসের
+
+2017-03-14T07:59:34.859Z : creation success, post title :
+শততম টেস্টে শিষ্যদের কাছে সেরাটা চান ওয়ালশ
+
+2017-03-14T07:59:34.859Z : extraction completed from : http://www.prothom-alo.com/sports-internationalcricket
+2017-03-14T07:59:34.860Z : creation success, post title :
+গাইবান্ধা-১ আসনে উপনির্বাচন	সুষ্ঠু নির্বাচন না হওয়ার শঙ্কা জাপা প্রার্থীর
+
+2017-03-14T07:59:34.860Z : extraction completed from : http://www.prothom-alo.com/bangladesh-politics
+2017-03-14T07:59:36.337Z : creation aborted, post title :
+যমজ সন্তানের বাবা হচ্ছেন রোনালদো
+
+2017-03-14T07:59:36.339Z : creation aborted, post title :
+অন্যকলাম	বউকে ‘না’
+
+2017-03-14T07:59:36.339Z : creation aborted, post title :
+চোটের কবলে নেইমার
+
+2017-03-14T07:59:36.339Z : creation aborted, post title :
+রামোসের মাথায় বাঁচল রিয়াল আর নাভাস
+
+2017-03-14T07:59:36.342Z : creation aborted, post title :
+বিচিত্রিতা	দুর্ভাগ্য
+
+2017-03-14T07:59:36.347Z : creation aborted, post title :
+নেইমারদের সুযোগ!
+
+2017-03-14T07:59:36.440Z : creation success, post title :
+‘বার্সা’ হতে পারবে পোর্তো?
+
+2017-03-14T07:59:36.463Z : creation success, post title :
+‘হেড মাস্টার’ রোনালদো!
+
+2017-03-14T07:59:36.788Z : creation aborted, post title :
+অন্যকলাম	‘রেইমার!’
+
+2017-03-14T07:59:36.789Z : creation success, post title :
+লাথি কষা প্রতিপক্ষে ক্ষোভ কন্তের
+
+2017-03-14T07:59:36.790Z : creation aborted, post title :
+খেলার খুচরো	সেমিতে আর্সেনাল
+
+2017-03-14T07:59:36.790Z : creation aborted, post title :
+দোনারুমা বনাম জুভেন্টাস
+
+2017-03-14T07:59:37.179Z : creation aborted, post title :
+এএফসি কাপ	ঢাকায় এসে যানজটে বিরক্ত মাজিয়া
+
+2017-03-14T07:59:37.180Z : creation aborted, post title :
+খেলার খুচরো	লেভার ১০০
+
+2017-03-14T07:59:37.181Z : creation aborted, post title :
+বার্সা-রিয়ালের দুই রকম যাত্রা
+
+2017-03-14T07:59:37.181Z : creation success, post title :
+রামোসের ‘মাথা’য় শীর্ষে রিয়াল
+
+2017-03-14T07:59:37.310Z : creation aborted, post title :
+রামোসের মুখে বার্সার প্রশংসা
+
+2017-03-14T07:59:37.311Z : creation aborted, post title :
+রূপকথার পরের ম্যাচেই হোঁচট বার্সেলোনার
+
+2017-03-14T07:59:37.311Z : creation aborted, post title :
+অন্যকলাম	মেসির ছবিতে
+
+2017-03-14T07:59:37.312Z : creation aborted, post title :
+বেলকে মনে পড়ে জোনাথনের
+
+2017-03-14T07:59:37.316Z : creation success, post title :
+আসছে রোনালদোর যমজ ছেলে
+
+2017-03-14T07:59:37.316Z : extraction completed from : http://www.prothom-alo.com/sports-internationalfootball
+2017-03-14T07:59:37.316Z : prothom alo parsing completed
+2017-03-14T08:00:10.707Z : started parsing prothom alo
+2017-03-14T08:00:20.614Z : creation aborted, post title :
+গোয়ায় সরকার গঠনে প্রস্তুত বিজেপি, আদালতে কংগ্রেস
+
+2017-03-14T08:00:20.614Z : creation aborted, post title :
+উত্তর প্রদেশে জয়ী প্রার্থীদের ৮০ শতাংশ কোটিপতি
+
+2017-03-14T08:00:20.615Z : creation aborted, post title :
+মণিপুরে হোলির রং ফিকে
+
+2017-03-14T08:00:20.616Z : creation aborted, post title :
+বিষয় গোয়া ও মণিপুরে সরকার গঠন	নির্বাচন ‘হাতিয়ে নেওয়ার’ অভিযোগ কংগ্রেসের
+
+2017-03-14T08:00:20.624Z : creation aborted, post title :
+রাষ্ট্রপতি নির্বাচনে প্রভাব ফেলবে বিজেপির জয়
+
+2017-03-14T08:00:20.912Z : creation aborted, post title :
+নারী বিধায়কের সংখ্যা বেশি, খুশি মোদি
+
+2017-03-14T08:00:20.919Z : creation aborted, post title :
+কালিকাপ্রসাদের ভাড়া গাড়ির চালক গ্রেপ্তার
+
+2017-03-14T08:00:20.925Z : creation aborted, post title :
+ভারতের পাঁচ রাজ্যের বিধানসভায় আসন ভাগাভাগি	মণিপুর ও গোয়াতেও সরকার গড়তে মরিয়া বিজেপি
+
+2017-03-14T08:00:21.883Z : creation aborted, post title :
+১৩ বছরেও কবিগুরুর নোবেল পদক চুরির কিনারা হয়নি
+
+2017-03-14T08:00:21.883Z : creation aborted, post title :
+মণিপুরে বেহাল কংগ্রেস
+
+2017-03-14T08:00:21.883Z : creation aborted, post title :
+উত্তর প্রদেশে মোদি ঝড় : আশায় পশ্চিমবঙ্গের বিজেপি
+
+2017-03-14T08:00:21.883Z : creation aborted, post title :
+শান্তিনিকেতনে বসন্ত উৎসব
+
+2017-03-14T08:00:21.883Z : creation aborted, post title :
+পশ্চিমবঙ্গ দ্বিতীয়
+
+2017-03-14T08:00:21.888Z : creation aborted, post title :
+হেরে রাজনীতি থেকেই বিদায়
+
+2017-03-14T08:00:21.894Z : creation aborted, post title :
+উত্তর প্রদেশে মুসলিম বিধায়ক ছিলেন ৬৯, এবার ২৪
+
+2017-03-14T08:00:21.894Z : creation aborted, post title :
+উজ্জ্বল মোদি, বিবর্ণ রাহুল
+
+2017-03-14T08:00:21.894Z : creation aborted, post title :
+রাহুলকে মোদির টুইট
+
+2017-03-14T08:00:21.894Z : creation aborted, post title :
+বিজেপির জয়ধ্বনি মণিপুরেও
+
+2017-03-14T08:00:21.894Z : creation aborted, post title :
+ভারতের বিধানসভা নির্বাচন: টুকরো খবর	কেজরিওয়ালের সংকল্প ছিল না: সিধু
+
+2017-03-14T08:00:21.894Z : creation aborted, post title :
+ভারতের বিধানসভা নির্বাচন: টুকরো খবর	ইভিএমে জালিয়াতি?
+
+2017-03-14T08:00:21.894Z : creation aborted, post title :
+খালেদা জিয়ার শুনানির দিন পেছাল
+
+2017-03-14T08:00:21.894Z : creation aborted, post title :
+ভারতের বিধানসভা নির্বাচন: টুকরো খবর	জন্মদিনের উপহার!
+
+2017-03-14T08:00:21.894Z : creation aborted, post title :
+সংক্ষেপ	প্রার্থী হতে পারবেন মামুনুর রশীদ
+
+2017-03-14T08:00:21.894Z : extraction completed from : http://www.prothom-alo.com/international-india
+2017-03-14T08:00:21.895Z : creation aborted, post title :
+২৬ মার্চ বিএনপির শোভাযাত্রা কর্মসূচি
+
+2017-03-14T08:00:21.895Z : creation aborted, post title :
+গাইবান্ধা-১ আসনে উপনির্বাচন	সুষ্ঠু নির্বাচন না হওয়ার শঙ্কা জাপা প্রার্থীর
+
+2017-03-14T08:00:22.204Z : creation aborted, post title :
+সুনামগঞ্জ-২ আসনের উপনির্বাচন	দুই প্রার্থীর মনোনয়নপত্র প্রত্যাহার
+
+2017-03-14T08:00:22.214Z : creation aborted, post title :
+রোগী কল্যাণ সমিতির কার্যক্রম বাড়ানোর আহ্বান মেয়রের
+
+2017-03-14T08:00:22.223Z : creation aborted, post title :
+চট্টগ্রামে বিএনপির সমাবেশে অভিযোগ	‘কমিশন ছাড়া কিছু হয় না’
+
+2017-03-14T08:00:22.732Z : creation aborted, post title :
+খালেদা জিয়ার শুনানির দিন পেছাল
+
+2017-03-14T08:00:22.733Z : creation aborted, post title :
+আসামিকে ডান্ডাবেড়ি পরিয়ে আদালতে হাজির নয়: হাইকোর্ট
+
+2017-03-14T08:00:22.736Z : creation aborted, post title :
+কুষ্টিয়ায় সেই হোটেলমালিক কারাগারে
+
+2017-03-14T08:00:22.831Z : creation aborted, post title :
+ফিটনেসবিহীন যানবাহনের বিরুদ্ধে অভিযান
+
+2017-03-14T08:00:22.831Z : creation aborted, post title :
+জয়া সেনগুপ্তাকে সমর্থন দিয়ে সরে দাঁড়ালেন জাপা-জাসদের প্রার্থী
+
+2017-03-14T08:00:22.831Z : creation aborted, post title :
+জয়াকে সমর্থন দিয়ে সরে দাঁড়ালেন দুই প্রার্থী
+
+2017-03-14T08:00:22.831Z : creation aborted, post title :
+‘এমপি পোস্টেও নির্বাচন করার ইচ্ছা আছে’
+
+2017-03-14T08:00:22.831Z : creation aborted, post title :
+প্রধানমন্ত্রীর বক্তব্যের জবাব দিলেন মির্জা ফখরুল
+
+2017-03-14T08:00:22.831Z : creation aborted, post title :
+স্বাধীনতা দিবসে কর্মসূচি দিল বিএনপি
+
+2017-03-14T08:00:22.833Z : creation aborted, post title :
+গাজীপুরের মৌচাক ইউপি নির্বাচনের তফসিল ঘোষণা
+
+2017-03-14T08:00:22.833Z : creation aborted, post title :
+আওয়ামী লীগ চ্যালেঞ্জের মুখে, বিএনপি নির্ভার	ইউপিডিএফের লক্ষ্য সংসদে নিজেদের প্রতিনিধি পাঠানো
+
+2017-03-14T08:00:22.833Z : creation aborted, post title :
+সংক্ষেপ	আইনশৃঙ্খলা কমিটির সভা
+
+2017-03-14T08:00:22.833Z : creation aborted, post title :
+তিন উপজেলায় বিদ্রোহীদের বহিষ্কার করল আ.লীগ
+
+2017-03-14T08:00:22.833Z : creation aborted, post title :
+বালিয়াডাঙ্গী উপজেলা বিএনপি	সাত বছর পর সম্মেলন হলেও হয়নি কমিটি
+
+2017-03-14T08:00:22.833Z : creation aborted, post title :
+সাটুরিয়ায় ছাত্রলীগের দুই পক্ষের সংঘর্ষ
+
+2017-03-14T08:00:22.998Z : creation aborted, post title :
+আলোচনা সভায় গয়েশ্বর	ভারতের সঙ্গে শেখ হাসিনার মান অভিমান চলছে
+
+2017-03-14T08:00:23.054Z : creation aborted, post title :
+আ.লীগের বরিশাল বিভাগীয় তৃণমূল সমাবেশ ৮ এপ্রিল
+
+2017-03-14T08:00:23.055Z : creation aborted, post title :
+সিলেটে আ.লীগের বিভাগীয় প্রতিনিধি সম্মেলন	তোরণে স্থানীয় নেতাদের ছবি নয়
+
+2017-03-14T08:00:23.055Z : extraction completed from : http://www.prothom-alo.com/bangladesh-politics
+2017-03-14T08:00:23.071Z : creation aborted, post title :
+ব্রিটিশ পার্লামেন্টে ব্রেক্সিট বিল পাস
+
+2017-03-14T08:00:23.083Z : creation aborted, post title :
+ব্রেক্সিট	বিচ্ছেদের আনুষ্ঠানিক ঘোষণার অপেক্ষা?
+
+2017-03-14T08:00:23.106Z : creation aborted, post title :
+ভুয়া খবর রুখতে চান ওয়েবের প্রতিষ্ঠাতা
+
+2017-03-14T08:00:23.115Z : creation aborted, post title :
+আরও একটি সংশোধনী চায় লর্ড সভা	ব্রেক্সিট বিল নিয়ে আবারও সরকারের পরাজয়
+
+2017-03-14T08:00:23.122Z : creation aborted, post title :
+পারমাণবিক অস্ত্রে রাশিয়ার চেয়ে যুক্তরাষ্ট্র পিছিয়ে
+
+2017-03-14T08:00:23.233Z : creation aborted, post title :
+ধোনির ভবিষ্যৎ ঠিক করে দেবে চ্যাম্পিয়নস ট্রফি
+
+2017-03-14T08:00:23.335Z : creation aborted, post title :
+সংক্ষেপ	কৃত্রিম ভ্রূণ
+
+2017-03-14T08:00:23.336Z : creation aborted, post title :
+এরপর​ও বেঁচে আছে শিশুটি!
+
+2017-03-14T08:00:23.337Z : creation aborted, post title :
+ব্রেক্সিট বিলে সংশোধনী চায় লর্ডস সভা
+
+2017-03-14T08:00:23.353Z : creation aborted, post title :
+সাহসী সাংবাদিকতার জয় হবেই
+
+2017-03-14T08:00:23.400Z : creation aborted, post title :
+গাড়ি চালানোর সময় ফোনে কথা বলার শাস্তি দ্বিগুণ
+
+2017-03-14T08:00:23.401Z : creation aborted, post title :
+গাড়ি চালানোর সময় মোবাইল ব্যবহারে শাস্তি দ্বিগুণ
+
+2017-03-14T08:00:23.411Z : creation aborted, post title :
+যুক্তরাজ্যে ২৭ বছর থাকার পরও...
+
+2017-03-14T08:00:23.415Z : creation aborted, post title :
+লন্ডন পুলিশের নেতৃত্বে প্রথম নারী
+
+2017-03-14T08:00:23.441Z : creation aborted, post title :
+খান চানাচুরকে ৬ লাখ টাকা জরিমানা
+
+2017-03-14T08:00:23.444Z : creation aborted, post title :
+সৎমাকে হত্যার দায়ে যাবজ্জীবন
+
+2017-03-14T08:00:23.620Z : creation aborted, post title :
+যুক্তরাজ্যে পারিবারিক ভিসার কঠোর নিয়ম টিকে গেল সুপ্রিম কোর্টে
+
+2017-03-14T08:00:23.634Z : creation aborted, post title :
+অদূর ভবিষ্যতে প্রত্যাশিত আয়ু ৯০ ছাড়াবে
+
+2017-03-14T08:00:23.636Z : creation aborted, post title :
+বায়ুদূষণকারী গাড়ির মালিককে কর দিতে হবে
+
+2017-03-14T08:00:23.699Z : creation aborted, post title :
+‘ঠান্ডাজনিত সমস্যা মুক্তি দিতে পারে’ ভিটামিন ডি বড়ি
+
+2017-03-14T08:00:23.703Z : creation aborted, post title :
+ব্রিটিশ পার্লামেন্টে ট্রাম্পের ভাষণ এড়ানোর জন্য...
+
+2017-03-14T08:00:23.716Z : creation aborted, post title :
+ট্রাম্পের মতোই আচরণ করছেন থেরেসা মে!
+
+2017-03-14T08:00:23.759Z : creation aborted, post title :
+সাংসদের কারখানাকে তিন লাখ টাকা জরিমানা
+
+2017-03-14T08:00:23.792Z : creation aborted, post title :
+যুবরাজ শিখেছেন ১০ বছরে, কোহলির লেগেছে ৩-৪ বছর
+
+2017-03-14T08:00:23.793Z : creation aborted, post title :
+শততম টেস্টে শিষ্যদের কাছে সেরাটা চান ওয়ালশ
+
+2017-03-14T08:00:23.793Z : creation aborted, post title :
+গর্বের মুহূর্তে লিটনের আক্ষেপ
+
+2017-03-14T08:00:23.793Z : creation aborted, post title :
+কুম্বলের জায়গা নেবেন দ্রাবিড়?
+
+2017-03-14T08:00:23.793Z : creation aborted, post title :
+রেকর্ড কর্নার	সেরা ‘বুড়ো’ বোলার
+
+2017-03-14T08:00:23.803Z : creation aborted, post title :
+হাউস অব কমন্সের প্রতিবেদন	প্রত্যাশা পূরণে ব্যর্থ সু চি
+
+2017-03-14T08:00:23.825Z : creation aborted, post title :
+বিএনপির সাবেক সাংসদ হাফিজ ইব্রাহীমের বিরুদ্ধে মামলা
+
+2017-03-14T08:00:23.905Z : creation aborted, post title :
+দাবি নাথান লায়নের	এখনো চাপে ভারত!
+
+2017-03-14T08:00:23.905Z : creation aborted, post title :
+পাকিস্তান সেনাবাহিনীতে যোগ দেবেন স্যামুয়েলস!
+
+2017-03-14T08:00:23.905Z : creation aborted, post title :
+আইসিসিকে ডু প্লেসির তির
+
+2017-03-14T08:00:23.905Z : creation aborted, post title :
+গৃহকর্মী নিখোঁজ: গৃহকর্তাকে তলব
+
+2017-03-14T08:00:23.905Z : creation aborted, post title :
+ডানেডিন টেস্ট	ডানেডিনের উত্তাপে বৃষ্টির জল
+
+2017-03-14T08:00:23.909Z : creation aborted, post title :
+সংশোধনী ছাড়াই ব্রেক্সিট বিল পাস
+
+2017-03-14T08:00:23.909Z : extraction completed from : http://www.prothom-alo.com/international-uk
+2017-03-14T08:00:23.921Z : creation aborted, post title :
+উপাচার্যসহ চারজনের বিরুদ্ধে অভিযোগ তদন্তে রুল
+
+2017-03-14T08:00:23.931Z : creation aborted, post title :
+প্রথম আলোর সাংবাদিকসহ চারজনকে মারধর	অধিকতর তদন্তের আদেশ আদালতের
+
+2017-03-14T08:00:23.932Z : creation aborted, post title :
+দুই বিচারকের কাছে ব্যাখ্যা চেয়েছেন হাইকোর্ট
+
+2017-03-14T08:00:23.979Z : creation aborted, post title :
+‘গৃহকর্মীকে গুম’	গৃহকর্তা রাজউক প্রকৌশলীকে তলব
+
+2017-03-14T08:00:23.991Z : creation aborted, post title :
+সাংসদের কারখানাকে জরিমানা
+
+2017-03-14T08:00:23.992Z : creation aborted, post title :
+প্রিসাইডিং কর্মকর্তাকে লাঞ্ছনার মামলা	পরাজিত চেয়ারম্যান প্রার্থী কারাগারে
+
+2017-03-14T08:00:23.997Z : creation aborted, post title :
+মেয়র আরিফুলের সাময়িক বরখাস্তের আদেশ স্থগিত
+
+2017-03-14T08:00:23.998Z : creation aborted, post title :
+লক্ষ্মীপুরে স্ত্রী হত্যার দায়ে স্বামীর মৃত্যুদণ্ড
+
+2017-03-14T08:00:24.050Z : creation aborted, post title :
+মেয়র আরিফুলের সাময়িক বরখাস্তের আদেশ স্থগিত
+
+2017-03-14T08:00:24.050Z : creation aborted, post title :
+সোবার্স, পতৌদি, জয়াসুরিয়াদের পথ ধরে মুশফিক
+
+2017-03-14T08:00:24.050Z : creation aborted, post title :
+রেকর্ড কর্নার	টি-টোয়েন্টিতে ব্যাটিং–ঝড়
+
+2017-03-14T08:00:24.051Z : creation aborted, post title :
+গল টেস্টের ময়নাতদন্তে হাথুরু
+
+2017-03-14T08:00:24.050Z : creation aborted, post title :
+ওয়ানডে দলে সানজামুল
+
+2017-03-14T08:00:24.051Z : creation aborted, post title :
+রেকর্ডের ম্যাচে আফগানিস্তানের জয়
+
+2017-03-14T08:00:24.055Z : creation aborted, post title :
+নতুন আইনেও পুরোনো ওয়ার্নার?
+
+2017-03-14T08:00:24.061Z : creation aborted, post title :
+অল্পস্বল্প	‘আমাদের বেসিকই এখন দুর্বল’
+
+2017-03-14T08:00:24.066Z : creation aborted, post title :
+‘কুম্বলের চেয়ে ১ উইকেটও বেশি পেতে চাই না’
+
+2017-03-14T08:00:24.072Z : creation aborted, post title :
+অল্পস্বল্প	স্বপ্ন, একদিন জাতীয় দলে খেলব
+
+2017-03-14T08:00:24.101Z : creation aborted, post title :
+কুমিল্লা সিটি করপোরেশন নির্বাচন	প্রার্থী হতে পারবেন মামুনুর
+
+2017-03-14T08:00:24.159Z : creation aborted, post title :
+‘আবেগ আটকাতে পারিনি’
+
+2017-03-14T08:00:24.165Z : creation aborted, post title :
+মনে পড়ে না শেষ কবে ভালো বলে আউট হয়েছি
+
+2017-03-14T08:00:24.179Z : creation aborted, post title :
+অনূর্ধ্ব-১৮ ফুটবল	এমন আয়োজনেও ওয়াকওভার!
+
+2017-03-14T08:00:24.184Z : creation aborted, post title :
+অনূর্ধ্ব-১৮ জাতীয় ফুটবল	যুব ফুটবল ঘিরে নতুন স্বপ্ন
+
+2017-03-14T08:00:24.200Z : creation aborted, post title :
+ডান্ডাবেড়ি পরিয়ে আসামিকে আদালতে নয়: হাইকোর্ট
+
+2017-03-14T08:00:24.219Z : creation aborted, post title :
+১১ মামলায় কাল আদালতে যাবেন খালেদা
+
+2017-03-14T08:00:24.219Z : extraction completed from : http://www.prothom-alo.com/bangladesh-justice
+2017-03-14T08:00:24.225Z : creation aborted, post title :
+মাহমুদউল্লাহকে নিয়ে দিনভর নাটক
+
+2017-03-14T08:00:24.231Z : creation aborted, post title :
+টেস্ট-শ্রেষ্ঠত্ব হারালেন সাকিব
+
+2017-03-14T08:00:24.261Z : creation aborted, post title :
+শততম টেস্টে নেই মাহমুদউল্লাহ!
+
+2017-03-14T08:00:24.261Z : creation aborted, post title :
+অস্ট্রেলিয়ার ভাবনায় রাঁচির উইকেটও
+
+2017-03-14T08:00:24.272Z : creation aborted, post title :
+শততম টেস্টে ঘুরে দাঁড়াবে বাংলাদেশ?
+
+2017-03-14T08:00:24.272Z : extraction completed from : http://www.prothom-alo.com/sports-internationalcricket
+2017-03-14T08:00:24.273Z : creation aborted, post title :
+‘নির্বাচকেরা যদি এর প্রতিদান দিতেন...’
+
+2017-03-14T08:00:24.279Z : creation aborted, post title :
+অল্পস্বল্প	‘বেশি আগে টেস্ট খেলে ফেলেছি’
+
+2017-03-14T08:00:24.285Z : creation aborted, post title :
+মোহাম্মদ আজহারউদ্দিনের একান্ত সাক্ষাৎকার	‘কপালে লেখা ছিল, আমি ৯৯টা টেস্ট খেলব’
+
+2017-03-14T08:00:24.331Z : creation aborted, post title :
+অল্পস্বল্প	‘এবার ভেতরে জেদ এনেছি’
+
+2017-03-14T08:00:24.331Z : creation aborted, post title :
+অল্পস্বল্প	‘অবশ্যই আমরা জিততে চাই’
+
+2017-03-14T08:00:24.332Z : creation aborted, post title :
+অনূর্ধ্ব-১৮ জাতীয় ফুটবল
+
+2017-03-14T08:00:24.339Z : creation aborted, post title :
+বঙ্গবন্ধু স্টেডিয়ামে আজ দুটি ফাইনাল
+
+2017-03-14T08:00:24.344Z : creation aborted, post title :
+চট্ট. আবাহনী-পোচন সেমিফাইনাল	জ্বলে উঠতেই হবে চ্যাম্পিয়নদের
+
+2017-03-14T08:00:24.365Z : creation aborted, post title :
+শেখ কামাল কাপের সেমিফাইনাল পর্ব	চট্টগ্রাম আবাহনীর দিকেই চোখ
+
+2017-03-14T08:00:24.365Z : creation aborted, post title :
+মাহমুদউল্লাহ আছেন ওয়ানডে দলে
+
+2017-03-14T08:00:24.419Z : creation aborted, post title :
+জাতীয় যুব ফুটবল
+
+2017-03-14T08:00:24.420Z : creation aborted, post title :
+অল্পস্বল্প	‘খেলোয়াড়েরা যেন খেলার মধ্যে থাকে’
+
+2017-03-14T08:00:24.439Z : creation aborted, post title :
+অল্পস্বল্প	‘স্বপ্ন তো সব সময়ই দেখি’
+
+2017-03-14T08:00:24.441Z : creation aborted, post title :
+অল্পস্বল্প	‘এটাকে চ্যালেঞ্জ হিসেবে নিয়েছি’
+
+2017-03-14T08:00:24.442Z : creation aborted, post title :
+জো রুটই সবচেয়ে বড় দাবিদার
+
+2017-03-14T08:00:24.442Z : creation aborted, post title :
+অল্পস্বল্প	‘লক্ষ্য থাকবে কোহলির উইকেট’
+
+2017-03-14T08:00:24.506Z : creation aborted, post title :
+আজ ফাইনাল	পোচন, না টিসি স্পোর্টস?
+
+2017-03-14T08:00:24.544Z : creation aborted, post title :
+চ্যাম্পিয়নস ট্রফি করবে বাফুফে?
+
+2017-03-14T08:00:24.550Z : creation aborted, post title :
+বর্ষসেরা নারী ক্রীড়াবিদ	কৃষ্ণার মুখে চাঁদের হাসি
+
+2017-03-14T08:00:24.558Z : creation aborted, post title :
+ব্যাটসম্যানদের ওপর বিরক্ত নাজমুল
+
+2017-03-14T08:00:24.562Z : creation aborted, post title :
+বাংলাদেশের সমস্যা আসলে কোথায়?
+
+2017-03-14T08:00:24.567Z : creation aborted, post title :
+৭ এপ্রিল থেকে ঢাকা প্রিমিয়ার ক্রিকেট
+
+2017-03-14T08:00:24.573Z : creation aborted, post title :
+তুষার-আলো জ্বলছেই
+
+2017-03-14T08:00:24.579Z : creation aborted, post title :
+‘আমি এখন ক্রিকেট নিয়েই আছি’
+
+2017-03-14T08:00:24.580Z : creation aborted, post title :
+‘আউটটার কথা অনেক দিনই মনে পড়বে’
+
+2017-03-14T08:00:24.580Z : creation aborted, post title :
+‘মোস্তাফিজ আমাকে অনুপ্রাণিত করেছে’
+
+2017-03-14T08:00:24.615Z : creation aborted, post title :
+তুষারের আরেকটি সেঞ্চুরি
+
+2017-03-14T08:00:24.616Z : creation aborted, post title :
+বোলিং প্রস্তুতিটা ভালো হলো না সাকিবদের
+
+2017-03-14T08:00:24.663Z : creation aborted, post title :
+ভারারা বরখাস্ত
+
+2017-03-14T08:00:24.707Z : creation aborted, post title :
+অনলাইনে নারী সেনাদের নগ্ন ছবি	পূর্ণ তদন্তের প্রতিশ্রুতি দিল পেন্টাগন
+
+2017-03-14T08:00:24.713Z : creation aborted, post title :
+বিমানবন্দরে ফের জেরার মুখে আলী জুনিয়র
+
+2017-03-14T08:00:24.725Z : creation aborted, post title :
+অল্পস্বল্প	‘দলের জয়টাই শেষ কথা’
+
+2017-03-14T08:00:24.730Z : creation aborted, post title :
+জয়-শান্তর হ্যাটট্রিক
+
+2017-03-14T08:00:24.835Z : creation aborted, post title :
+ট্রাম্পের আদেশের বিরুদ্ধে আরও মামলা	অভিবাসন মামলার দ্রুত নিষ্পত্তিতে বাড়তি বিচারক
+
+2017-03-14T08:00:24.835Z : creation aborted, post title :
+‘সবখানেই খুঁজছে তারা’
+
+2017-03-14T08:00:25.119Z : creation aborted, post title :
+বাগমারায় আরও এক জেএমজেবি সদস্য আটক
+
+2017-03-14T08:00:25.162Z : creation aborted, post title :
+জেএমবির ‘আঞ্চলিক কমান্ডার’ গ্রেপ্তার
+
+2017-03-14T08:00:25.184Z : creation aborted, post title :
+‘বাংলাদেশকে হালকাভাবে নিতে পারি না’
+
+2017-03-14T08:00:25.184Z : creation aborted, post title :
+অল্পস্বল্প	‘ইংল্যান্ডের ম্যাচ হলেই টিভির সামনে’
+
+2017-03-14T08:00:25.185Z : creation aborted, post title :
+এএফসি কাপ যেন দক্ষিণ এশিয়ার ক্লাব ফুটবল লড়াই	আবাহনী তৈরি
+
+2017-03-14T08:00:25.185Z : creation aborted, post title :
+আবাহনীর ‘মালদ্বীপ–চ্যালেঞ্জ’
+
+2017-03-14T08:00:25.185Z : creation aborted, post title :
+বঙ্গবন্ধু ও বঙ্গমাতা গোল্ডকাপ ফুটবল	যে দিনটি ওরা ভুলবে না
+
+2017-03-14T08:00:25.185Z : creation aborted, post title :
+‘হাস্যকর ভুলে গোল খেয়েছি’
+
+2017-03-14T08:00:25.185Z : creation aborted, post title :
+ভাগ্যের ছোঁয়ায় ফাইনালে টিসি স্পোর্টস
+
+2017-03-14T08:00:25.185Z : extraction completed from : http://www.prothom-alo.com/sports-interview
+2017-03-14T08:00:25.185Z : creation aborted, post title :
+ড্র করে শেষ চারে চ্যাম্পিয়নরা
+
+2017-03-14T08:00:25.187Z : creation aborted, post title :
+কাল দেশে ফিরছেন মাহমুদউল্লাহ
+
+2017-03-14T08:00:25.228Z : creation aborted, post title :
+নতুন চ্যাম্পিয়ন উত্তরাঞ্চল
+
+2017-03-14T08:00:25.277Z : creation aborted, post title :
+ইমার্জিং কাপ ক্রিকেট	নাসির-নুরুলরাও প্রাথমিক দলে
+
+2017-03-14T08:00:25.279Z : creation aborted, post title :
+আবারও সাকিব ‘নাম্বার ওয়ান’
+
+2017-03-14T08:00:25.290Z : creation aborted, post title :
+ফিজিও কনওয়ের চুক্তি বাতিল করল বিসিবি
+
+2017-03-14T08:00:25.292Z : creation aborted, post title :
+গলে ঘাম ঝরাল বাংলাদেশ
+
+2017-03-14T08:00:25.302Z : creation aborted, post title :
+বিচিত্র	বরফে ঢাকা পড়ল নিউইয়র্কের বাড়ি
+
+2017-03-14T08:00:25.310Z : creation aborted, post title :
+পদত্যাগ না করায় বরখাস্ত মার্কিন অ্যাটর্নি
+
+2017-03-14T08:00:25.312Z : creation aborted, post title :
+অন্যকলাম	পুরস্কারের টানে...
+
+2017-03-14T08:00:25.316Z : creation aborted, post title :
+পোচন সিটিজেন ২: ১ চট্টগ্রাম আবাহনী	ফাইনালে নেই বাংলাদেশ!
+
+2017-03-14T08:00:25.510Z : creation aborted, post title :
+তুষারের পর শাহরিয়ারের ডাবল সেঞ্চুরি
+
+2017-03-14T08:00:25.511Z : creation aborted, post title :
+৩ ম্যাচে ২ ডাবল সেঞ্চুরি তুষারের
+
+2017-03-14T08:00:25.552Z : creation aborted, post title :
+এনামুল যাচ্ছেন লাহোরে
+
+2017-03-14T08:00:25.575Z : creation aborted, post title :
+মাহমুদ আব্বাসকে ট্রাম্পের আমন্ত্রণ
+
+2017-03-14T08:00:25.576Z : creation aborted, post title :
+নারী সদস্যদের নগ্ন ছবি শেয়ার, তদন্তে পেন্টাগন
+
+2017-03-14T08:00:25.576Z : creation aborted, post title :
+সংক্ষেপ	আবার বাবা হচ্ছেন মার্ক জাকারবার্গ
+
+2017-03-14T08:00:25.581Z : creation aborted, post title :
+সংক্ষেপ	কম্বলের জন্য...
+
+2017-03-14T08:00:25.587Z : creation aborted, post title :
+রাতভর তুলকালাম ছাত্রলীগের
+
+2017-03-14T08:00:25.593Z : creation aborted, post title :
+দিনাজপুরে খানকায় কথিত পীরসহ দুজন খুন
+
+2017-03-14T08:00:25.599Z : creation aborted, post title :
+বিলের বাঁধ কাটায় ভেসে গেছে ১২ লাখ টাকার মাছ?
+
+2017-03-14T08:00:25.604Z : creation aborted, post title :
+নাঙ্গলকোটে কৃষককে ‘অ্যাসিড’ নিক্ষেপ
+
+2017-03-14T08:00:25.723Z : creation aborted, post title :
+চট্টগ্রামে অটোরিকশা থামিয়ে প্রকাশ্যে ছিনতাই
+
+2017-03-14T08:00:25.723Z : creation aborted, post title :
+জঙ্গি সন্দেহে ৩ জন গ্রেপ্তার
+
+2017-03-14T08:00:25.723Z : creation aborted, post title :
+সৈয়দপুরে দুজনের ডিলারশিপ বাতিল
+
+2017-03-14T08:00:25.730Z : creation aborted, post title :
+সাংবাদিকদের আইজিপি	আইএসের সঙ্গে দেশীয় জঙ্গিদের যোগাযোগ নেই
+
+2017-03-14T08:00:25.746Z : creation aborted, post title :
+মা ও প্রতিবেশীকে কুপিয়ে মারলেন ‘নেশাগ্রস্ত’ যুবক
+
+2017-03-14T08:00:25.833Z : creation aborted, post title :
+ট্রাম্পের নতুন ভ্রমণ নিষেধাজ্ঞা	সমালোচনায় মুখর ১৩৪ পররাষ্ট্রনীতি বিশেষজ্ঞ
+
+2017-03-14T08:00:25.834Z : creation aborted, post title :
+ট্রাম্পের নতুন নিষেধাজ্ঞায় আদালতের প্রথম বাধা
+
+2017-03-14T08:00:25.876Z : creation aborted, post title :
+সংক্ষেপ	সাহায্যকারীরা আশ্রয় চেয়েছে
+
+2017-03-14T08:00:25.910Z : creation aborted, post title :
+টিসি স্পোর্টস ১: ০ মানাং মার্সিয়াংদি	টিসিকে ফাইনালে তুললেন নাফিউ
+
+2017-03-14T08:00:26.114Z : creation aborted, post title :
+ছিনতাইকারীর হামলায় পুলিশ আহত
+
+2017-03-14T08:00:26.123Z : creation aborted, post title :
+বগুড়ায় ‘বন্দুকযুদ্ধে’ একজন গুলিবিদ্ধ	রাজশাহীতে পুলিশের গুলিতে যুবক নিহত
+
+2017-03-14T08:00:26.158Z : creation aborted, post title :
+জাতীয়তাবাদী উত্থানে পরিচয় সংকটে যুক্তরাষ্ট্র: ক্লিনটন
+
+2017-03-14T08:00:26.159Z : creation aborted, post title :
+কোরীয় উপদ্বীপে উত্তেজনা	চীনা সমঝোতা প্রস্তাবে যুক্তরাষ্ট্রের ‘না’
+
+2017-03-14T08:00:26.203Z : creation aborted, post title :
+বঙ্গবন্ধু–বঙ্গমাতা ফুটবল
+
+2017-03-14T08:00:26.204Z : extraction completed from : http://www.prothom-alo.com/sports-nationalfootball
+2017-03-14T08:00:26.206Z : creation aborted, post title :
+পাঁচ দিনেই শেষ সাকিবের রাজত্ব
+
+2017-03-14T08:00:26.206Z : creation aborted, post title :
+৭ বছর ২২ দিন পেরিয়েছে সেঞ্চুরি নেই মাহমুদউল্লাহর
+
+2017-03-14T08:00:26.206Z : creation aborted, post title :
+শ্রীলঙ্কায় যাচ্ছেন ইমরুল
+
+2017-03-14T08:00:26.206Z : creation aborted, post title :
+মাশরাফি–মুশফিকদের নতুন ফিজিও
+
+2017-03-14T08:00:26.206Z : extraction completed from : http://www.prothom-alo.com/sports-nationalcricket
+2017-03-14T08:00:26.206Z : creation aborted, post title :
+প্রিমিয়ার লিগ শুরু ৭ এপ্রিল
+
+2017-03-14T08:00:26.210Z : creation aborted, post title :
+রুশ রাষ্ট্রদূতের সঙ্গে দেখা করেছিল হিলারির নির্বাচনী দল
+
+2017-03-14T08:00:26.289Z : creation aborted, post title :
+মহিলা ডিগ্রি কলেজের রজতজয়ন্তী
+
+2017-03-14T08:00:26.290Z : creation aborted, post title :
+নিজের শরীরে ব্যাটারির পানি ঢেলে প্রতিপক্ষের বিরুদ্ধে অ্যাসিড মামলা
+
+2017-03-14T08:00:26.291Z : creation aborted, post title :
+সৎমাকে হত্যার দায়ে যাবজ্জীবন
+
+2017-03-14T08:00:26.297Z : creation aborted, post title :
+লাথি কষা প্রতিপক্ষে ক্ষোভ কন্তের
+
+2017-03-14T08:00:26.355Z : creation aborted, post title :
+বরিশালে আগ্নেয়াস্ত্রসহ আটক ১
+
+2017-03-14T08:00:26.356Z : creation aborted, post title :
+পুরান ঢাকার ইংলিশ রোডের ‘নগরে নিসর্গ’	পার্ক ধ্বংস করে ডিজিটাল বিলবোর্ড স্থাপন
+
+2017-03-14T08:00:26.438Z : creation aborted, post title :
+শিক্ষার নামে ব্যবসা কিন্ডারগার্টেনগুলোর
+
+2017-03-14T08:00:26.440Z : creation aborted, post title :
+মালিবাগ রেলগেটে গার্ডার পড়ে একজন নিহত, আহত ২	নিরাপত্তা ছাড়াই উড়ালসড়ক নির্মাণ
+
+2017-03-14T08:00:26.440Z : creation aborted, post title :
+নকশিকাঁথাকে জামালপুরের ব্র্যান্ড ঘোষণা
+
+2017-03-14T08:00:26.440Z : creation aborted, post title :
+সাভারে ওয়ার্কশপে আগুন পুড়ে গেছে চারটি বাস
+
+2017-03-14T08:00:26.445Z : creation aborted, post title :
+প্রিসাইডিং কর্মকর্তাকে লাঞ্ছনার মামলা	পরাজিত চেয়ারম্যান প্রার্থী কারাগারে
+
+2017-03-14T08:00:26.451Z : creation aborted, post title :
+অজ্ঞান পার্টির সদস্য নিজেই খেলেন ধরা!
+
+2017-03-14T08:00:26.483Z : creation aborted, post title :
+নীতিনির্ধারকদের দায় নেই!	জাতীয় বিশ্ববিদ্যালয়ে কনিষ্ঠ কর্মকর্তারাই গ্রেপ্তার হচ্ছেন
+
+2017-03-14T08:00:26.556Z : creation aborted, post title :
+ভারত–পাকিস্তান সম্পর্ক নিয়ে মার্কিন জেনারেল	পাকিস্তানকে ‘একঘরে করার নীতি’ সম্পর্কোন্নয়নে বাধা
+
+2017-03-14T08:00:26.556Z : creation aborted, post title :
+হোয়াইট হাউসে অনুপ্রবেশকারী
+
+2017-03-14T08:00:26.556Z : creation aborted, post title :
+ট্রাম্পের নতুন ভ্রমণ নিষেধাজ্ঞা	মামলা করল হাওয়াই
+
+2017-03-14T08:00:26.556Z : creation aborted, post title :
+আব্বাসকে হোয়াইট হাউসে আমন্ত্রণ ট্রাম্পের
+
+2017-03-14T08:00:26.556Z : creation aborted, post title :
+‘হেড মাস্টার’ রোনালদো!
+
+2017-03-14T08:00:26.556Z : creation aborted, post title :
+অন্যকলাম	‘রেইমার!’
+
+2017-03-14T08:00:26.556Z : extraction completed from : http://www.prothom-alo.com/international-usa
+2017-03-14T08:00:26.682Z : creation aborted, post title :
+সিলেট থেকে অপহৃত শিশু লালমনিরহাট থেকে উদ্ধার	মুক্তিপণের টাকাসহ ২ অপহরণকারী গ্রেপ্তার
+
+2017-03-14T08:00:26.688Z : creation aborted, post title :
+একাত্তরের গণহত্যা	ব্রহ্মপুত্রের পারে হত্যা করা হয় শত শত মানুষ
+
+2017-03-14T08:00:26.694Z : creation aborted, post title :
+বিলের বাঁধ কাটায় ভেসে গেছে ১২ লাখ টাকার মাছ?
+
+2017-03-14T08:00:26.813Z : creation aborted, post title :
+দোনারুমা বনাম জুভেন্টাস
+
+2017-03-14T08:00:26.813Z : creation aborted, post title :
+গলাচিপায় ব্যবসায়ীকে গলা কেটে হত্যা
+
+2017-03-14T08:00:26.813Z : creation aborted, post title :
+খেলার খুচরো	সেমিতে আর্সেনাল
+
+2017-03-14T08:00:26.813Z : creation aborted, post title :
+দিনাজপুরে কথিত পীরসহ দুজন হত্যার কারণ খুঁজছে পুলিশ
+
+2017-03-14T08:00:26.814Z : creation aborted, post title :
+শিশুর লাশ উদ্ধার, বিষপানে অসুস্থ মা হাসপাতালে
+
+2017-03-14T08:00:26.814Z : creation aborted, post title :
+বিছানায় মেয়ের লাশ, পাশে ছটফট করছেন মা
+
+2017-03-14T08:00:26.815Z : creation aborted, post title :
+মা ও প্রতিবেশীকে কুপিয়ে মারলেন ‘নেশাগ্রস্ত’ যুবক
+
+2017-03-14T08:00:26.850Z : creation aborted, post title :
+ভূমি অফিসে চুরি
+
+2017-03-14T08:00:26.850Z : creation aborted, post title :
+শিশুর লাশ উদ্ধার, বিষপানে অসুস্থ মা হাসপাতালে
+
+2017-03-14T08:00:26.850Z : extraction completed from : http://www.prothom-alo.com/bangladesh-crime
+2017-03-14T08:00:26.880Z : creation aborted, post title :
+‘বার্সা’ হতে পারবে পোর্তো?
+
+2017-03-14T08:00:26.881Z : creation aborted, post title :
+সোনারগাঁয়ে অবৈধ গ্যাস সংযোগ আবার বিচ্ছিন্ন
+
+2017-03-14T08:00:26.924Z : creation aborted, post title :
+রামোসের মুখে বার্সার প্রশংসা
+
+2017-03-14T08:00:26.925Z : creation aborted, post title :
+অন্যকলাম	মেসির ছবিতে
+
+2017-03-14T08:00:26.925Z : creation aborted, post title :
+রূপকথার পরের ম্যাচেই হোঁচট বার্সেলোনার
+
+2017-03-14T08:00:26.926Z : creation aborted, post title :
+বেলকে মনে পড়ে জোনাথনের
+
+2017-03-14T08:00:26.936Z : creation aborted, post title :
+‘আইএসের সঙ্গে ভার্চ্যুয়াল ওয়ার্ল্ডে “হোম গ্রোন”দের যোগাযোগ থাকতে পারে’
+
+2017-03-14T08:00:27.007Z : creation aborted, post title :
+এএফসি কাপ	ঢাকায় এসে যানজটে বিরক্ত মাজিয়া
+
+2017-03-14T08:00:27.017Z : creation aborted, post title :
+খেলার খুচরো	লেভার ১০০
+
+2017-03-14T08:00:27.018Z : creation aborted, post title :
+বার্সা-রিয়ালের দুই রকম যাত্রা
+
+2017-03-14T08:00:27.019Z : creation aborted, post title :
+প্রধানমন্ত্রী লক্ষ্মীপুরে যাচ্ছেন আজ
+
+2017-03-14T08:00:27.084Z : creation aborted, post title :
+আজ পল্লিকবি জসীমউদ্দীনের মৃত্যুবার্ষিকী
+
+2017-03-14T08:00:27.090Z : creation aborted, post title :
+খাল ভরাট করার উদ্যোগের প্রতিবাদে বিক্ষোভ সমাবেশ
+
+2017-03-14T08:00:27.092Z : creation aborted, post title :
+বিনা মূল্যে চিকিৎসা
+
+2017-03-14T08:00:27.103Z : creation aborted, post title :
+আসছে রোনালদোর যমজ ছেলে
+
+2017-03-14T08:00:27.104Z : creation aborted, post title :
+কিশোরগঞ্জে রাষ্ট্রপতি	তরুণেরা বিভ্রান্ত হয়ে জঙ্গিবাদে যেন না জড়ায়
+
+2017-03-14T08:00:27.110Z : creation aborted, post title :
+সরিষাবাড়ী-তারাকান্দি–ঢাকা মহাসড়ক	ভাঙাচোরা সড়কে ভোগান্তি
+
+2017-03-14T08:00:27.116Z : creation aborted, post title :
+অজ্ঞান পার্টির সদস্য নিজেই অচেতন?
+
+2017-03-14T08:00:27.123Z : creation aborted, post title :
+রাজবাড়ীর কালুখালীর পাটকলে ভয়াবহ অগ্নিকাণ্ড
+
+2017-03-14T08:00:27.123Z : extraction completed from : http://www.prothom-alo.com/bangladesh-divisions
+2017-03-14T08:00:27.206Z : creation aborted, post title :
+ইসির সঙ্গে নরডিক রাষ্ট্রদূতদের বৈঠক	অংশগ্রহণমূলক নির্বাচনে জোর দিচ্ছেন কূটনীতিকেরা
+
+2017-03-14T08:00:27.207Z : creation aborted, post title :
+‘ভার্চ্যুয়াল’ জগতে জঙ্গিদের আনাগোনা আছে: স্বরাষ্ট্রমন্ত্রী
+
+2017-03-14T08:00:27.210Z : creation aborted, post title :
+আক্রান্ত হলে জবাব দেওয়ার প্রস্তুতি থাকবে: প্রধানমন্ত্রী
+
+2017-03-14T08:00:27.211Z : creation aborted, post title :
+সংক্ষেপ	আলোচনা হবে
+
+2017-03-14T08:00:27.223Z : creation aborted, post title :
+দক্ষিণ কোরিয়ার প্রেসিডেন্ট বরখাস্ত
+
+2017-03-14T08:00:27.229Z : creation aborted, post title :
+ভারতে আইএসের প্রথম হানা?	উত্তর প্রদেশে জঙ্গি ডেরায় অভিযানে নিহত এক
+
+2017-03-14T08:00:27.234Z : creation aborted, post title :
+‘হামলাকারীরা হাসপাতালের ভেতরে, দোয়া করবেন’
+
+2017-03-14T08:00:27.411Z : creation aborted, post title :
+রামোসের ‘মাথা’য় শীর্ষে রিয়াল
+
+2017-03-14T08:00:27.417Z : creation aborted, post title :
+রামোসের মাথায় বাঁচল রিয়াল আর নাভাস
+
+2017-03-14T08:00:27.424Z : creation aborted, post title :
+বিচিত্রিতা	দুর্ভাগ্য
+
+2017-03-14T08:00:27.429Z : creation aborted, post title :
+নেইমারদের সুযোগ!
+
+2017-03-14T08:00:27.511Z : creation aborted, post title :
+‘কমিশন না হলে কাজ হবে না—এসব দুর্নীতি আমার সময়ে চলবে না’	চট্টগ্রামের রাস্তার দুরবস্থা দেখে প্রধানমন্ত্রীর ক্ষোভ
+
+2017-03-14T08:00:27.611Z : creation aborted, post title :
+স্বাস্থ্যমন্ত্রী বললেন	দেশের স্বার্থবিরোধী চুক্তি করবেন না প্রধানমন্ত্রী
+
+2017-03-14T08:00:27.713Z : creation aborted, post title :
+যমজ সন্তানের বাবা হচ্ছেন রোনালদো
+
+2017-03-14T08:00:27.713Z : creation aborted, post title :
+চোটের কবলে নেইমার
+
+2017-03-14T08:00:27.713Z : creation aborted, post title :
+অন্যকলাম	বউকে ‘না’
+
+2017-03-14T08:00:27.713Z : creation aborted, post title :
+ওজনে ঠকানোর শাস্তি আরও বাড়ছে
+
+2017-03-14T08:00:27.713Z : creation aborted, post title :
+সংক্ষেপ	স্পিকার লন্ডন গেছেন
+
+2017-03-14T08:00:27.713Z : creation aborted, post title :
+সড়কের দুরবস্থা কেন, চট্টগ্রামে প্রধানমন্ত্রী
+
+2017-03-14T08:00:27.713Z : creation aborted, post title :
+হঠাৎ বাড়ির ছাদে গাড়ি
+
+2017-03-14T08:00:27.713Z : creation aborted, post title :
+বিবৃতিতে নাজিব রাজাক	উত্তর কোরিয়ার সঙ্গে সম্পর্ক ছিন্ন করব না
+
+2017-03-14T08:00:27.713Z : creation aborted, post title :
+উ. কোরিয়াকে ক্ষেপণাস্ত্র পরীক্ষা স্থগিত রাখার আহ্বান চীনের
+
+2017-03-14T08:00:27.713Z : creation aborted, post title :
+ওজনে অনিয়মে বাড়ছে জরিমানা
+
+2017-03-14T08:00:27.713Z : creation aborted, post title :
+কাজে অবহেলায় কেউ ছাড় পাবে না: প্রধানমন্ত্রী
+
+2017-03-14T08:00:27.713Z : creation aborted, post title :
+চিকিৎসকের বেশে হাসপাতালে হামলা, নিহত ৩০
+
+2017-03-14T08:00:27.713Z : extraction completed from : http://www.prothom-alo.com/sports-internationalfootball
+2017-03-14T08:00:27.714Z : creation aborted, post title :
+গুণারত্নের বক্তব্য পুলিশ সমর্থন করে না: আইজিপি
+
+2017-03-14T08:00:27.720Z : creation aborted, post title :
+প্রতিরক্ষা, তিস্তার পানি ও গঙ্গা ব্যারাজ গুরুত্ব পাবে	শেখ হাসিনা–মোদি বৈঠক হতে পারে ৮ এপ্রিল
+
+2017-03-14T08:00:27.960Z : creation aborted, post title :
+অনেক জনপ্রতিনিধি জমিদারের মনোভাব দেখান: রাষ্ট্রপতি
+
+2017-03-14T08:00:27.961Z : creation aborted, post title :
+পাতায়া যেভাবে ‘যৌনতার রাজধানী’
+
+2017-03-14T08:00:27.998Z : creation aborted, post title :
+পাকিস্তানে কিশোরী ‘অনার কিলিং’–এর শিকার!
+
+2017-03-14T08:00:28.012Z : creation aborted, post title :
+সুখের খোঁজে...
+
+2017-03-14T08:00:28.013Z : creation aborted, post title :
+এক কুকুরছানার জন্য এত কিছু?
+
+2017-03-14T08:00:28.160Z : creation aborted, post title :
+মিঠামইনে জনপ্রতিনিধিদের প্রতি রাষ্ট্রপতি	মানুষকে উন্নত সেবা দিন, ঠকাবেন না
+
+2017-03-14T08:00:28.161Z : creation aborted, post title :
+শেখ হাসিনা স্বার্থকে বিকিয়ে চুক্তি করবেন না: কাদের
+
+2017-03-14T08:00:28.346Z : creation aborted, post title :
+বাংলাদেশের প্রথম সাবমেরিন	আক্রান্ত হলে সমুচিত জবাব দেওয়া হবে: প্রধানমন্ত্রী
+
+2017-03-14T08:00:28.347Z : creation aborted, post title :
+শ্রমিক লীগের সমাবেশে ওবায়দুল কাদের	আমাদের ভারতপ্রীতিও নেই ভারতভীতিও নেই
+
+2017-03-14T08:00:28.364Z : creation aborted, post title :
+সংক্ষেপ	ব্লু হাউস ছাড়লেন গিউন হে
+
+2017-03-14T08:00:28.364Z : creation aborted, post title :
+সাংবিধানিক আদালতের রায়	দক্ষিণ কোরিয়ার প্রেসিডেন্ট পার্ক গিউন-হে বরখাস্ত
+
+2017-03-14T08:00:28.364Z : creation aborted, post title :
+কাবুলে জঙ্গি হামলার ঘটনায় নিহত বেড়ে ৪৯
+
+2017-03-14T08:00:28.483Z : creation aborted, post title :
+কিম জং-নাম হত্যাকাণ্ড	এবার সরাসরি উত্তর কোরিয়াকে দায়ী করলেন রাজাক
+
+2017-03-14T08:00:28.484Z : creation aborted, post title :
+পাকিস্তানে ১৯ বছরে প্রথম আদমশুমারি
+
+2017-03-14T08:00:28.670Z : creation aborted, post title :
+স্বার্থ বিকিয়ে ভারতের সঙ্গে চুক্তি নয়: কাদের
+
+2017-03-14T08:00:28.670Z : extraction completed from : http://www.prothom-alo.com/bangladesh-government
+2017-03-14T08:00:28.671Z : creation aborted, post title :
+গিউন-হেকে গ্রেপ্তারের দাবি
+
+2017-03-14T08:00:28.672Z : creation aborted, post title :
+রাখাইনে মানবতাবিরোধী অপরাধ: জাতিসংঘ দূত
+
+2017-03-14T08:00:28.678Z : creation aborted, post title :
+উত্তর কোরিয়ার সঙ্গে সম্পর্ক ছিন্ন হবে না: মালয়েশিয়া
+
+2017-03-14T08:00:28.679Z : creation aborted, post title :
+নামের ছেলে দাবি করে ভিডিও প্রকাশ!
+
+2017-03-14T08:00:28.697Z : creation aborted, post title :
+মিয়ানমারের ২০ হাজার মানুষ চীন সীমান্তে
+
+2017-03-14T08:00:28.704Z : creation aborted, post title :
+৩০ জনের বেশি নিহত	কাবুলে চিকিৎসক সেজে হাসপাতালে জঙ্গি হামলা
+
+2017-03-14T08:00:28.712Z : creation aborted, post title :
+মেলবোর্নে ট্রাফিক বাতিতে নারীমূর্তি
+
+2017-03-14T08:00:28.712Z : extraction completed from : http://www.prothom-alo.com/international-asia
+2017-03-14T08:00:28.714Z : creation aborted, post title :
+৫ সেনা নিহত
+
+2017-03-14T08:00:28.718Z : creation aborted, post title :
+যে কারণে নাচের ক্লাসে তাঁরা
+
+2017-03-14T08:00:28.724Z : creation aborted, post title :
+সংক্ষেপ	দুই মেয়ে বিরুদ্ধে
+
+2017-03-14T08:00:28.734Z : creation aborted, post title :
+মাজারে হামলায় নিহত ব্যক্তির সংখ্যা বেড়ে ৮০	পাকিস্তানে সাঁড়াশি অভিযান, নিহত ৩১
+
+2017-03-14T08:00:28.741Z : creation aborted, post title :
+সংক্ষেপ	নিষেধাজ্ঞা তুলে নিচ্ছে পাকিস্তান
+
+2017-03-14T08:00:28.934Z : creation aborted, post title :
+পার্লামেন্টে মতৈক্য	পাকিস্তানে বিতর্কিত সামরিক আদালতের মেয়াদ বাড়ছে?
+
+2017-03-14T08:00:28.935Z : creation aborted, post title :
+লাহোরে শক্তিশালী বিস্ফোরণ, নিহত ৮
+
+2017-03-14T08:00:28.937Z : creation aborted, post title :
+পাকিস্তানে মাজারে আত্মঘাতী হামলা, নিহত ৫০
+
+2017-03-14T08:00:28.994Z : creation aborted, post title :
+পাকিস্তানে জঙ্গিবিরোধী অভিযানে নিহত শতাধিক
+
+2017-03-14T08:00:28.995Z : creation aborted, post title :
+বোমা নিষ্ক্রিয় করার সময় প্রাণ গেল ২ জনের
+
+2017-03-14T08:00:28.995Z : creation aborted, post title :
+নেতাদের সঙ্গে বিলাওয়ালের বৈঠক	চার দফা দাবিতে আবার সোচ্চার হচ্ছে পিপিপি
+
+2017-03-14T08:00:28.997Z : creation aborted, post title :
+মূলধারায় ফাতা
+
+2017-03-14T08:00:29.004Z : creation aborted, post title :
+উড়োজাহাজ যেন লোকাল বাস!
+
+2017-03-14T08:00:29.009Z : creation aborted, post title :
+পাকিস্তানে মাজারে আত্মঘাতী হামলা, নিহত ৭২
+
+2017-03-14T08:00:29.441Z : creation aborted, post title :
+পাকিস্তান সীমান্তে ‘সন্ত্রাসী হামলায়’ ৫ সেনা নিহত
+
+2017-03-14T08:00:29.441Z : creation aborted, post title :
+পিআইএ ফ্লাইট অন্য পথে
+
+2017-03-14T08:00:29.444Z : creation aborted, post title :
+আইএসের দায় স্বীকার	পাকিস্তানে মাজারে আত্মঘাতী হামলায় নিহত অন্তত ৭০
+
+2017-03-14T08:00:29.766Z : creation aborted, post title :
+লাহোরে মিছিলে আত্মঘাতী বোমায় ১৩ জন নিহত
+
+2017-03-14T08:00:29.766Z : extraction completed from : http://www.prothom-alo.com/international-pakistan
+2017-03-14T08:00:29.766Z : prothom alo parsing completed
+2017-03-14T08:59:13.819Z : started parsing prothom alo
+2017-03-14T08:59:28.252Z : creation aborted, post title :
+বিচিত্র	বরফে ঢাকা পড়ল নিউইয়র্কের বাড়ি
+
+2017-03-14T08:59:28.268Z : creation aborted, post title :
+রুশ রাষ্ট্রদূতের সঙ্গে দেখা করেছিল হিলারির নির্বাচনী দল
+
+2017-03-14T08:59:28.869Z : creation aborted, post title :
+ট্রাম্পের নতুন ভ্রমণ নিষেধাজ্ঞা	সমালোচনায় মুখর ১৩৪ পররাষ্ট্রনীতি বিশেষজ্ঞ
+
+2017-03-14T08:59:28.885Z : creation aborted, post title :
+ভারারা বরখাস্ত
+
+2017-03-14T08:59:29.057Z : creation aborted, post title :
+পদত্যাগ না করায় বরখাস্ত মার্কিন অ্যাটর্নি
+
+2017-03-14T08:59:29.057Z : creation aborted, post title :
+হোয়াইট হাউসে অনুপ্রবেশকারী
+
+2017-03-14T08:59:29.137Z : creation aborted, post title :
+ট্রাম্পের নতুন নিষেধাজ্ঞায় আদালতের প্রথম বাধা
+
+2017-03-14T08:59:29.153Z : creation aborted, post title :
+অনলাইনে নারী সেনাদের নগ্ন ছবি	পূর্ণ তদন্তের প্রতিশ্রুতি দিল পেন্টাগন
+
+2017-03-14T08:59:29.468Z : creation aborted, post title :
+মাহমুদ আব্বাসকে ট্রাম্পের আমন্ত্রণ
+
+2017-03-14T08:59:29.468Z : creation aborted, post title :
+ভারত–পাকিস্তান সম্পর্ক নিয়ে মার্কিন জেনারেল	পাকিস্তানকে ‘একঘরে করার নীতি’ সম্পর্কোন্নয়নে বাধা
+
+2017-03-14T08:59:29.468Z : creation aborted, post title :
+বিমানবন্দরে ফের জেরার মুখে আলী জুনিয়র
+
+2017-03-14T08:59:29.468Z : creation aborted, post title :
+আব্বাসকে হোয়াইট হাউসে আমন্ত্রণ ট্রাম্পের
+
+2017-03-14T08:59:29.468Z : creation aborted, post title :
+জাতীয়তাবাদী উত্থানে পরিচয় সংকটে যুক্তরাষ্ট্র: ক্লিনটন
+
+2017-03-14T08:59:29.468Z : creation aborted, post title :
+ট্রাম্পের আদেশের বিরুদ্ধে আরও মামলা	অভিবাসন মামলার দ্রুত নিষ্পত্তিতে বাড়তি বিচারক
+
+2017-03-14T08:59:29.468Z : creation aborted, post title :
+সংক্ষেপ	সাহায্যকারীরা আশ্রয় চেয়েছে
+
+2017-03-14T08:59:29.468Z : creation aborted, post title :
+নারী সদস্যদের নগ্ন ছবি শেয়ার, তদন্তে পেন্টাগন
+
+2017-03-14T08:59:29.468Z : creation aborted, post title :
+সংক্ষেপ	আবার বাবা হচ্ছেন মার্ক জাকারবার্গ
+
+2017-03-14T08:59:29.468Z : creation aborted, post title :
+ট্রাম্পের নতুন ভ্রমণ নিষেধাজ্ঞা	মামলা করল হাওয়াই
+
+2017-03-14T08:59:29.611Z : creation aborted, post title :
+কোরীয় উপদ্বীপে উত্তেজনা	চীনা সমঝোতা প্রস্তাবে যুক্তরাষ্ট্রের ‘না’
+
+2017-03-14T08:59:29.611Z : creation aborted, post title :
+‘সবখানেই খুঁজছে তারা’
+
+2017-03-14T08:59:29.781Z : creation aborted, post title :
+খালেদা জিয়ার শুনানির দিন পেছাল
+
+2017-03-14T08:59:29.781Z : creation aborted, post title :
+সংক্ষেপ	প্রার্থী হতে পারবেন মামুনুর রশীদ
+
+2017-03-14T08:59:29.781Z : creation aborted, post title :
+গাইবান্ধা-১ আসনে উপনির্বাচন	সুষ্ঠু নির্বাচন না হওয়ার শঙ্কা জাপা প্রার্থীর
+
+2017-03-14T08:59:29.781Z : creation aborted, post title :
+সংক্ষেপ	কম্বলের জন্য...
+
+2017-03-14T08:59:29.781Z : extraction completed from : http://www.prothom-alo.com/international-usa
+2017-03-14T08:59:29.781Z : creation aborted, post title :
+২৬ মার্চ বিএনপির শোভাযাত্রা কর্মসূচি
+
+2017-03-14T08:59:29.812Z : creation aborted, post title :
+সুনামগঞ্জ-২ আসনের উপনির্বাচন	দুই প্রার্থীর মনোনয়নপত্র প্রত্যাহার
+
+2017-03-14T08:59:30.081Z : creation aborted, post title :
+জয়-শান্তর হ্যাটট্রিক
+
+2017-03-14T08:59:30.081Z : creation aborted, post title :
+এএফসি কাপ যেন দক্ষিণ এশিয়ার ক্লাব ফুটবল লড়াই	আবাহনী তৈরি
+
+2017-03-14T08:59:30.081Z : creation aborted, post title :
+বঙ্গবন্ধু ও বঙ্গমাতা গোল্ডকাপ ফুটবল	যে দিনটি ওরা ভুলবে না
+
+2017-03-14T08:59:30.081Z : creation aborted, post title :
+চ্যাম্পিয়নস ট্রফি করবে বাফুফে?
+
+2017-03-14T08:59:30.081Z : creation aborted, post title :
+আজ ফাইনাল	পোচন, না টিসি স্পোর্টস?
+
+2017-03-14T08:59:30.081Z : creation aborted, post title :
+চট্ট. আবাহনী-পোচন সেমিফাইনাল	জ্বলে উঠতেই হবে চ্যাম্পিয়নদের
+
+2017-03-14T08:59:30.096Z : creation aborted, post title :
+বঙ্গবন্ধু–বঙ্গমাতা ফুটবল
+
+2017-03-14T08:59:30.112Z : creation aborted, post title :
+অনূর্ধ্ব-১৮ জাতীয় ফুটবল
+
+2017-03-14T08:59:30.112Z : creation aborted, post title :
+আবাহনীর ‘মালদ্বীপ–চ্যালেঞ্জ’
+
+2017-03-14T08:59:30.112Z : creation aborted, post title :
+জাতীয় যুব ফুটবল
+
+2017-03-14T08:59:30.112Z : creation aborted, post title :
+অনূর্ধ্ব-১৮ জাতীয় ফুটবল	যুব ফুটবল ঘিরে নতুন স্বপ্ন
+
+2017-03-14T08:59:30.128Z : creation aborted, post title :
+বঙ্গবন্ধু স্টেডিয়ামে আজ দুটি ফাইনাল
+
+2017-03-14T08:59:30.128Z : creation aborted, post title :
+পোচন সিটিজেন ২: ১ চট্টগ্রাম আবাহনী	ফাইনালে নেই বাংলাদেশ!
+
+2017-03-14T08:59:30.128Z : creation aborted, post title :
+টিসি স্পোর্টস ১: ০ মানাং মার্সিয়াংদি	টিসিকে ফাইনালে তুললেন নাফিউ
+
+2017-03-14T08:59:30.143Z : creation aborted, post title :
+রোগী কল্যাণ সমিতির কার্যক্রম বাড়ানোর আহ্বান মেয়রের
+
+2017-03-14T08:59:30.143Z : creation aborted, post title :
+চট্টগ্রামে বিএনপির সমাবেশে অভিযোগ	‘কমিশন ছাড়া কিছু হয় না’
+
+2017-03-14T08:59:30.440Z : creation aborted, post title :
+জয়া সেনগুপ্তাকে সমর্থন দিয়ে সরে দাঁড়ালেন জাপা-জাসদের প্রার্থী
+
+2017-03-14T08:59:30.440Z : creation aborted, post title :
+‘এমপি পোস্টেও নির্বাচন করার ইচ্ছা আছে’
+
+2017-03-14T08:59:30.440Z : creation aborted, post title :
+জয়াকে সমর্থন দিয়ে সরে দাঁড়ালেন দুই প্রার্থী
+
+2017-03-14T08:59:30.709Z : creation aborted, post title :
+প্রধানমন্ত্রীর বক্তব্যের জবাব দিলেন মির্জা ফখরুল
+
+2017-03-14T08:59:30.709Z : creation aborted, post title :
+স্বাধীনতা দিবসে কর্মসূচি দিল বিএনপি
+
+2017-03-14T08:59:30.709Z : creation aborted, post title :
+গাজীপুরের মৌচাক ইউপি নির্বাচনের তফসিল ঘোষণা
+
+2017-03-14T08:59:30.709Z : creation aborted, post title :
+সাটুরিয়ায় ছাত্রলীগের দুই পক্ষের সংঘর্ষ
+
+2017-03-14T08:59:30.709Z : creation aborted, post title :
+বালিয়াডাঙ্গী উপজেলা বিএনপি	সাত বছর পর সম্মেলন হলেও হয়নি কমিটি
+
+2017-03-14T08:59:30.709Z : creation aborted, post title :
+সংক্ষেপ	আইনশৃঙ্খলা কমিটির সভা
+
+2017-03-14T08:59:30.709Z : creation aborted, post title :
+আওয়ামী লীগ চ্যালেঞ্জের মুখে, বিএনপি নির্ভার	ইউপিডিএফের লক্ষ্য সংসদে নিজেদের প্রতিনিধি পাঠানো
+
+2017-03-14T08:59:30.724Z : creation aborted, post title :
+তিন উপজেলায় বিদ্রোহীদের বহিষ্কার করল আ.লীগ
+
+2017-03-14T08:59:30.825Z : creation aborted, post title :
+মা ও প্রতিবেশীকে কুপিয়ে মারলেন ‘নেশাগ্রস্ত’ যুবক
+
+2017-03-14T08:59:30.984Z : creation aborted, post title :
+আলোচনা সভায় গয়েশ্বর	ভারতের সঙ্গে শেখ হাসিনার মান অভিমান চলছে
+
+2017-03-14T08:59:30.984Z : creation aborted, post title :
+আ.লীগের বরিশাল বিভাগীয় তৃণমূল সমাবেশ ৮ এপ্রিল
+
+2017-03-14T08:59:31.000Z : creation aborted, post title :
+সিলেটে আ.লীগের বিভাগীয় প্রতিনিধি সম্মেলন	তোরণে স্থানীয় নেতাদের ছবি নয়
+
+2017-03-14T08:59:31.000Z : extraction completed from : http://www.prothom-alo.com/bangladesh-politics
+2017-03-14T08:59:31.029Z : creation aborted, post title :
+ওজনে ঠকানোর শাস্তি আরও বাড়ছে
+
+2017-03-14T08:59:31.031Z : creation aborted, post title :
+স্বাস্থ্যমন্ত্রী বললেন	দেশের স্বার্থবিরোধী চুক্তি করবেন না প্রধানমন্ত্রী
+
+2017-03-14T08:59:31.031Z : creation aborted, post title :
+প্রধানমন্ত্রী লক্ষ্মীপুরে যাচ্ছেন আজ
+
+2017-03-14T08:59:31.336Z : creation aborted, post title :
+‘আইএসের সঙ্গে ভার্চ্যুয়াল ওয়ার্ল্ডে “হোম গ্রোন”দের যোগাযোগ থাকতে পারে’
+
+2017-03-14T08:59:31.336Z : creation aborted, post title :
+ওজনে অনিয়মে বাড়ছে জরিমানা
+
+2017-03-14T08:59:31.336Z : creation aborted, post title :
+সোনারগাঁয়ে অবৈধ গ্যাস সংযোগ আবার বিচ্ছিন্ন
+
+2017-03-14T08:59:31.336Z : creation aborted, post title :
+গুণারত্নের বক্তব্য পুলিশ সমর্থন করে না: আইজিপি
+
+2017-03-14T08:59:31.336Z : creation aborted, post title :
+‘কমিশন না হলে কাজ হবে না—এসব দুর্নীতি আমার সময়ে চলবে না’	চট্টগ্রামের রাস্তার দুরবস্থা দেখে প্রধানমন্ত্রীর ক্ষোভ
+
+2017-03-14T08:59:31.336Z : creation aborted, post title :
+বাংলাদেশের প্রথম সাবমেরিন	আক্রান্ত হলে সমুচিত জবাব দেওয়া হবে: প্রধানমন্ত্রী
+
+2017-03-14T08:59:31.336Z : creation aborted, post title :
+ড্র করে শেষ চারে চ্যাম্পিয়নরা
+
+2017-03-14T08:59:31.336Z : creation aborted, post title :
+কিশোরগঞ্জে রাষ্ট্রপতি	তরুণেরা বিভ্রান্ত হয়ে জঙ্গিবাদে যেন না জড়ায়
+
+2017-03-14T08:59:31.417Z : creation aborted, post title :
+ইসির সঙ্গে নরডিক রাষ্ট্রদূতদের বৈঠক	অংশগ্রহণমূলক নির্বাচনে জোর দিচ্ছেন কূটনীতিকেরা
+
+2017-03-14T08:59:31.529Z : creation aborted, post title :
+শেখ কামাল কাপের সেমিফাইনাল পর্ব	চট্টগ্রাম আবাহনীর দিকেই চোখ
+
+2017-03-14T08:59:31.529Z : creation aborted, post title :
+সাংবাদিকদের আইজিপি	আইএসের সঙ্গে দেশীয় জঙ্গিদের যোগাযোগ নেই
+
+2017-03-14T08:59:31.529Z : creation aborted, post title :
+মহিলা ডিগ্রি কলেজের রজতজয়ন্তী
+
+2017-03-14T08:59:31.545Z : creation aborted, post title :
+নিজের শরীরে ব্যাটারির পানি ঢেলে প্রতিপক্ষের বিরুদ্ধে অ্যাসিড মামলা
+
+2017-03-14T08:59:31.545Z : creation aborted, post title :
+সৎমাকে হত্যার দায়ে যাবজ্জীবন
+
+2017-03-14T08:59:31.560Z : creation aborted, post title :
+সংক্ষেপ	স্পিকার লন্ডন গেছেন
+
+2017-03-14T08:59:31.560Z : creation aborted, post title :
+প্রতিরক্ষা, তিস্তার পানি ও গঙ্গা ব্যারাজ গুরুত্ব পাবে	শেখ হাসিনা–মোদি বৈঠক হতে পারে ৮ এপ্রিল
+
+2017-03-14T08:59:31.576Z : creation aborted, post title :
+মিঠামইনে জনপ্রতিনিধিদের প্রতি রাষ্ট্রপতি	মানুষকে উন্নত সেবা দিন, ঠকাবেন না
+
+2017-03-14T08:59:31.592Z : creation aborted, post title :
+শ্রমিক লীগের সমাবেশে ওবায়দুল কাদের	আমাদের ভারতপ্রীতিও নেই ভারতভীতিও নেই
+
+2017-03-14T08:59:31.592Z : creation aborted, post title :
+‘ভার্চ্যুয়াল’ জগতে জঙ্গিদের আনাগোনা আছে: স্বরাষ্ট্রমন্ত্রী
+
+2017-03-14T08:59:31.632Z : creation aborted, post title :
+ভাগ্যের ছোঁয়ায় ফাইনালে টিসি স্পোর্টস
+
+2017-03-14T08:59:31.679Z : creation aborted, post title :
+বিছানায় মেয়ের লাশ, পাশে ছটফট করছেন মা
+
+2017-03-14T08:59:31.679Z : creation aborted, post title :
+একাত্তরের গণহত্যা	ব্রহ্মপুত্রের পারে হত্যা করা হয় শত শত মানুষ
+
+2017-03-14T08:59:31.679Z : creation aborted, post title :
+বিলের বাঁধ কাটায় ভেসে গেছে ১২ লাখ টাকার মাছ?
+
+2017-03-14T08:59:31.679Z : creation aborted, post title :
+শিশুর লাশ উদ্ধার, বিষপানে অসুস্থ মা হাসপাতালে
+
+2017-03-14T08:59:31.809Z : creation aborted, post title :
+সড়কের দুরবস্থা কেন, চট্টগ্রামে প্রধানমন্ত্রী
+
+2017-03-14T08:59:31.824Z : creation aborted, post title :
+নেতাদের সঙ্গে বিলাওয়ালের বৈঠক	চার দফা দাবিতে আবার সোচ্চার হচ্ছে পিপিপি
+
+2017-03-14T08:59:31.824Z : creation aborted, post title :
+মূলধারায় ফাতা
+
+2017-03-14T08:59:31.824Z : creation aborted, post title :
+উড়োজাহাজ যেন লোকাল বাস!
+
+2017-03-14T08:59:31.824Z : creation aborted, post title :
+পাকিস্তানে মাজারে আত্মঘাতী হামলা, নিহত ৭২
+
+2017-03-14T08:59:31.942Z : creation aborted, post title :
+আজ পল্লিকবি জসীমউদ্দীনের মৃত্যুবার্ষিকী
+
+2017-03-14T08:59:31.958Z : creation aborted, post title :
+খাল ভরাট করার উদ্যোগের প্রতিবাদে বিক্ষোভ সমাবেশ
+
+2017-03-14T08:59:31.958Z : creation aborted, post title :
+বিনা মূল্যে চিকিৎসা
+
+2017-03-14T08:59:31.973Z : creation aborted, post title :
+পাকিস্তানে কিশোরী ‘অনার কিলিং’–এর শিকার!
+
+2017-03-14T08:59:31.973Z : creation aborted, post title :
+৫ সেনা নিহত
+
+2017-03-14T08:59:31.989Z : creation aborted, post title :
+যে কারণে নাচের ক্লাসে তাঁরা
+
+2017-03-14T08:59:31.989Z : creation aborted, post title :
+পাকিস্তানে জঙ্গিবিরোধী অভিযানে নিহত শতাধিক
+
+2017-03-14T08:59:32.008Z : creation aborted, post title :
+বোমা নিষ্ক্রিয় করার সময় প্রাণ গেল ২ জনের
+
+2017-03-14T08:59:32.026Z : creation success, post title :
+গার্হস্থ্য অর্থনীতি কলেজ	ফের নীলক্ষেত-নিউমার্কেট মোড় অবরোধ
+
+2017-03-14T08:59:32.026Z : creation aborted, post title :
+সরিষাবাড়ী-তারাকান্দি–ঢাকা মহাসড়ক	ভাঙাচোরা সড়কে ভোগান্তি
+
+2017-03-14T08:59:32.088Z : creation aborted, post title :
+অনেক জনপ্রতিনিধি জমিদারের মনোভাব দেখান: রাষ্ট্রপতি
+
+2017-03-14T08:59:32.088Z : creation aborted, post title :
+শেখ হাসিনা স্বার্থকে বিকিয়ে চুক্তি করবেন না: কাদের
+
+2017-03-14T08:59:32.088Z : creation aborted, post title :
+স্বার্থ বিকিয়ে ভারতের সঙ্গে চুক্তি নয়: কাদের
+
+2017-03-14T08:59:32.104Z : creation aborted, post title :
+আক্রান্ত হলে জবাব দেওয়ার প্রস্তুতি থাকবে: প্রধানমন্ত্রী
+
+2017-03-14T08:59:32.119Z : creation aborted, post title :
+কাজে অবহেলায় কেউ ছাড় পাবে না: প্রধানমন্ত্রী
+
+2017-03-14T08:59:32.119Z : extraction completed from : http://www.prothom-alo.com/bangladesh-government
+2017-03-14T08:59:32.372Z : creation aborted, post title :
+ব্রিটিশ পার্লামেন্টে ব্রেক্সিট বিল পাস
+
+2017-03-14T08:59:32.372Z : creation aborted, post title :
+ব্রেক্সিট	বিচ্ছেদের আনুষ্ঠানিক ঘোষণার অপেক্ষা?
+
+2017-03-14T08:59:32.388Z : creation aborted, post title :
+ভুয়া খবর রুখতে চান ওয়েবের প্রতিষ্ঠাতা
+
+2017-03-14T08:59:32.388Z : creation aborted, post title :
+আরও একটি সংশোধনী চায় লর্ড সভা	ব্রেক্সিট বিল নিয়ে আবারও সরকারের পরাজয়
+
+2017-03-14T08:59:32.403Z : creation aborted, post title :
+পারমাণবিক অস্ত্রে রাশিয়ার চেয়ে যুক্তরাষ্ট্র পিছিয়ে
+
+2017-03-14T08:59:32.403Z : creation aborted, post title :
+সংক্ষেপ	কৃত্রিম ভ্রূণ
+
+2017-03-14T08:59:32.403Z : creation aborted, post title :
+এরপর​ও বেঁচে আছে শিশুটি!
+
+2017-03-14T08:59:32.549Z : creation aborted, post title :
+পার্লামেন্টে মতৈক্য	পাকিস্তানে বিতর্কিত সামরিক আদালতের মেয়াদ বাড়ছে?
+
+2017-03-14T08:59:32.549Z : creation aborted, post title :
+লাহোরে শক্তিশালী বিস্ফোরণ, নিহত ৮
+
+2017-03-14T08:59:32.549Z : creation aborted, post title :
+পাকিস্তানে মাজারে আত্মঘাতী হামলা, নিহত ৫০
+
+2017-03-14T08:59:32.661Z : creation aborted, post title :
+ব্রেক্সিট বিলে সংশোধনী চায় লর্ডস সভা
+
+2017-03-14T08:59:32.661Z : creation aborted, post title :
+সাহসী সাংবাদিকতার জয় হবেই
+
+2017-03-14T08:59:32.677Z : creation aborted, post title :
+গাড়ি চালানোর সময় ফোনে কথা বলার শাস্তি দ্বিগুণ
+
+2017-03-14T08:59:32.692Z : creation aborted, post title :
+গাড়ি চালানোর সময় মোবাইল ব্যবহারে শাস্তি দ্বিগুণ
+
+2017-03-14T08:59:32.708Z : creation aborted, post title :
+যুক্তরাজ্যে ২৭ বছর থাকার পরও...
+
+2017-03-14T08:59:32.771Z : creation aborted, post title :
+লন্ডন পুলিশের নেতৃত্বে প্রথম নারী
+
+2017-03-14T08:59:32.771Z : creation aborted, post title :
+যুক্তরাজ্যে পারিবারিক ভিসার কঠোর নিয়ম টিকে গেল সুপ্রিম কোর্টে
+
+2017-03-14T08:59:32.771Z : creation aborted, post title :
+অজ্ঞান পার্টির সদস্য নিজেই অচেতন?
+
+2017-03-14T08:59:32.771Z : creation aborted, post title :
+রাজবাড়ীর কালুখালীর পাটকলে ভয়াবহ অগ্নিকাণ্ড
+
+2017-03-14T08:59:32.833Z : creation aborted, post title :
+পাতায়া যেভাবে ‘যৌনতার রাজধানী’
+
+2017-03-14T08:59:32.833Z : creation aborted, post title :
+হঠাৎ বাড়ির ছাদে গাড়ি
+
+2017-03-14T08:59:32.864Z : creation aborted, post title :
+গিউন-হেকে গ্রেপ্তারের দাবি
+
+2017-03-14T08:59:32.945Z : creation aborted, post title :
+অদূর ভবিষ্যতে প্রত্যাশিত আয়ু ৯০ ছাড়াবে
+
+2017-03-14T08:59:32.961Z : creation aborted, post title :
+বায়ুদূষণকারী গাড়ির মালিককে কর দিতে হবে
+
+2017-03-14T08:59:32.961Z : creation aborted, post title :
+‘ঠান্ডাজনিত সমস্যা মুক্তি দিতে পারে’ ভিটামিন ডি বড়ি
+
+2017-03-14T08:59:32.992Z : creation aborted, post title :
+ব্রিটিশ পার্লামেন্টে ট্রাম্পের ভাষণ এড়ানোর জন্য...
+
+2017-03-14T08:59:32.992Z : creation aborted, post title :
+ট্রাম্পের মতোই আচরণ করছেন থেরেসা মে!
+
+2017-03-14T08:59:32.992Z : creation aborted, post title :
+হাউস অব কমন্সের প্রতিবেদন	প্রত্যাশা পূরণে ব্যর্থ সু চি
+
+2017-03-14T08:59:33.044Z : creation aborted, post title :
+সংশোধনী ছাড়াই ব্রেক্সিট বিল পাস
+
+2017-03-14T08:59:33.044Z : extraction completed from : http://www.prothom-alo.com/international-uk
+2017-03-14T08:59:33.060Z : creation aborted, post title :
+সুখের খোঁজে...
+
+2017-03-14T08:59:33.076Z : creation aborted, post title :
+সংক্ষেপ	দুই মেয়ে বিরুদ্ধে
+
+2017-03-14T08:59:33.076Z : creation aborted, post title :
+মাজারে হামলায় নিহত ব্যক্তির সংখ্যা বেড়ে ৮০	পাকিস্তানে সাঁড়াশি অভিযান, নিহত ৩১
+
+2017-03-14T08:59:33.076Z : creation aborted, post title :
+সংক্ষেপ	ব্লু হাউস ছাড়লেন গিউন হে
+
+2017-03-14T08:59:33.076Z : creation aborted, post title :
+সংক্ষেপ	নিষেধাজ্ঞা তুলে নিচ্ছে পাকিস্তান
+
+2017-03-14T08:59:33.281Z : creation aborted, post title :
+অনূর্ধ্ব-১৮ ফুটবল	এমন আয়োজনেও ওয়াকওভার!
+
+2017-03-14T08:59:33.281Z : creation aborted, post title :
+‘হাস্যকর ভুলে গোল খেয়েছি’
+
+2017-03-14T08:59:33.281Z : creation aborted, post title :
+অন্যকলাম	পুরস্কারের টানে...
+
+2017-03-14T08:59:33.281Z : creation aborted, post title :
+বর্ষসেরা নারী ক্রীড়াবিদ	কৃষ্ণার মুখে চাঁদের হাসি
+
+2017-03-14T08:59:33.281Z : extraction completed from : http://www.prothom-alo.com/sports-nationalfootball
+2017-03-14T08:59:33.281Z : creation aborted, post title :
+মালিবাগ রেলগেটে গার্ডার পড়ে একজন নিহত, আহত ২	নিরাপত্তা ছাড়াই উড়ালসড়ক নির্মাণ
+
+2017-03-14T08:59:33.410Z : creation aborted, post title :
+সাংবিধানিক আদালতের রায়	দক্ষিণ কোরিয়ার প্রেসিডেন্ট পার্ক গিউন-হে বরখাস্ত
+
+2017-03-14T08:59:33.410Z : creation aborted, post title :
+কাবুলে জঙ্গি হামলার ঘটনায় নিহত বেড়ে ৪৯
+
+2017-03-14T08:59:33.437Z : creation aborted, post title :
+সাভারে ওয়ার্কশপে আগুন পুড়ে গেছে চারটি বাস
+
+2017-03-14T08:59:33.509Z : creation aborted, post title :
+নকশিকাঁথাকে জামালপুরের ব্র্যান্ড ঘোষণা
+
+2017-03-14T08:59:33.555Z : creation aborted, post title :
+প্রিসাইডিং কর্মকর্তাকে লাঞ্ছনার মামলা	পরাজিত চেয়ারম্যান প্রার্থী কারাগারে
+
+2017-03-14T08:59:33.555Z : extraction completed from : http://www.prothom-alo.com/bangladesh-divisions
+2017-03-14T08:59:33.555Z : creation aborted, post title :
+পাকিস্তানে ১৯ বছরে প্রথম আদমশুমারি
+
+2017-03-14T08:59:33.555Z : creation aborted, post title :
+পাকিস্তান সীমান্তে ‘সন্ত্রাসী হামলায়’ ৫ সেনা নিহত
+
+2017-03-14T08:59:33.730Z : creation aborted, post title :
+কিম জং-নাম হত্যাকাণ্ড	এবার সরাসরি উত্তর কোরিয়াকে দায়ী করলেন রাজাক
+
+2017-03-14T08:59:33.730Z : creation aborted, post title :
+উপাচার্যসহ চারজনের বিরুদ্ধে অভিযোগ তদন্তে রুল
+
+2017-03-14T08:59:33.730Z : creation aborted, post title :
+কুষ্টিয়ায় সেই হোটেলমালিক কারাগারে
+
+2017-03-14T08:59:33.730Z : creation aborted, post title :
+প্রিসাইডিং কর্মকর্তাকে লাঞ্ছনার মামলা	পরাজিত চেয়ারম্যান প্রার্থী কারাগারে
+
+2017-03-14T08:59:33.761Z : creation aborted, post title :
+পিআইএ ফ্লাইট অন্য পথে
+
+2017-03-14T08:59:33.793Z : creation aborted, post title :
+বিএনপির সাবেক সাংসদ হাফিজ ইব্রাহীমের বিরুদ্ধে মামলা
+
+2017-03-14T08:59:33.793Z : creation aborted, post title :
+আইএসের দায় স্বীকার	পাকিস্তানে মাজারে আত্মঘাতী হামলায় নিহত অন্তত ৭০
+
+2017-03-14T08:59:33.793Z : creation aborted, post title :
+লাহোরে মিছিলে আত্মঘাতী বোমায় ১৩ জন নিহত
+
+2017-03-14T08:59:33.793Z : extraction completed from : http://www.prothom-alo.com/international-pakistan
+2017-03-14T08:59:33.824Z : creation aborted, post title :
+সংক্ষেপ	আলোচনা হবে
+
+2017-03-14T08:59:33.824Z : creation aborted, post title :
+দক্ষিণ কোরিয়ার প্রেসিডেন্ট বরখাস্ত
+
+2017-03-14T08:59:33.840Z : creation aborted, post title :
+ভারতে আইএসের প্রথম হানা?	উত্তর প্রদেশে জঙ্গি ডেরায় অভিযানে নিহত এক
+
+2017-03-14T08:59:33.871Z : creation aborted, post title :
+বিবৃতিতে নাজিব রাজাক	উত্তর কোরিয়ার সঙ্গে সম্পর্ক ছিন্ন করব না
+
+2017-03-14T08:59:33.871Z : creation aborted, post title :
+এক কুকুরছানার জন্য এত কিছু?
+
+2017-03-14T08:59:33.886Z : creation aborted, post title :
+উ. কোরিয়াকে ক্ষেপণাস্ত্র পরীক্ষা স্থগিত রাখার আহ্বান চীনের
+
+2017-03-14T08:59:33.886Z : creation aborted, post title :
+মিয়ানমারের ২০ হাজার মানুষ চীন সীমান্তে
+
+2017-03-14T08:59:33.902Z : creation aborted, post title :
+চিকিৎসকের বেশে হাসপাতালে হামলা, নিহত ৩০
+
+2017-03-14T08:59:33.902Z : creation aborted, post title :
+আসামিকে ডান্ডাবেড়ি পরিয়ে আদালতে হাজির নয়: হাইকোর্ট
+
+2017-03-14T08:59:33.918Z : creation aborted, post title :
+৩০ জনের বেশি নিহত	কাবুলে চিকিৎসক সেজে হাসপাতালে জঙ্গি হামলা
+
+2017-03-14T08:59:33.933Z : creation aborted, post title :
+রাখাইনে মানবতাবিরোধী অপরাধ: জাতিসংঘ দূত
+
+2017-03-14T08:59:33.933Z : creation aborted, post title :
+উত্তর কোরিয়ার সঙ্গে সম্পর্ক ছিন্ন হবে না: মালয়েশিয়া
+
+2017-03-14T08:59:33.933Z : creation aborted, post title :
+নামের ছেলে দাবি করে ভিডিও প্রকাশ!
+
+2017-03-14T08:59:33.949Z : creation aborted, post title :
+খালেদা জিয়ার শুনানির দিন পেছাল
+
+2017-03-14T08:59:34.046Z : creation aborted, post title :
+১১ মামলায় কাল আদালতে যাবেন খালেদা
+
+2017-03-14T08:59:34.046Z : creation aborted, post title :
+বিষয় গোয়া ও মণিপুরে সরকার গঠন	নির্বাচন ‘হাতিয়ে নেওয়ার’ অভিযোগ কংগ্রেসের
+
+2017-03-14T08:59:34.046Z : creation aborted, post title :
+১৩ বছরেও কবিগুরুর নোবেল পদক চুরির কিনারা হয়নি
+
+2017-03-14T08:59:34.077Z : creation aborted, post title :
+‘হামলাকারীরা হাসপাতালের ভেতরে, দোয়া করবেন’
+
+2017-03-14T08:59:34.077Z : creation aborted, post title :
+প্রথম আলোর সাংবাদিকসহ চারজনকে মারধর	অধিকতর তদন্তের আদেশ আদালতের
+
+2017-03-14T08:59:34.077Z : creation aborted, post title :
+ফিটনেসবিহীন যানবাহনের বিরুদ্ধে অভিযান
+
+2017-03-14T08:59:34.108Z : creation aborted, post title :
+হেরে রাজনীতি থেকেই বিদায়
+
+2017-03-14T08:59:34.108Z : creation aborted, post title :
+ভারতের বিধানসভা নির্বাচন: টুকরো খবর	ইভিএমে জালিয়াতি?
+
+2017-03-14T08:59:34.108Z : creation aborted, post title :
+মেয়র আরিফুলের সাময়িক বরখাস্তের আদেশ স্থগিত
+
+2017-03-14T08:59:34.108Z : creation aborted, post title :
+গৃহকর্মী নিখোঁজ: গৃহকর্তাকে তলব
+
+2017-03-14T08:59:34.108Z : creation aborted, post title :
+গোয়ায় সরকার গঠনে প্রস্তুত বিজেপি, আদালতে কংগ্রেস
+
+2017-03-14T08:59:34.171Z : creation aborted, post title :
+সাংসদের কারখানাকে জরিমানা
+
+2017-03-14T08:59:34.186Z : creation aborted, post title :
+সাংসদের কারখানাকে তিন লাখ টাকা জরিমানা
+
+2017-03-14T08:59:34.186Z : creation aborted, post title :
+ডান্ডাবেড়ি পরিয়ে আসামিকে আদালতে নয়: হাইকোর্ট
+
+2017-03-14T08:59:34.186Z : creation aborted, post title :
+উত্তর প্রদেশে জয়ী প্রার্থীদের ৮০ শতাংশ কোটিপতি
+
+2017-03-14T08:59:34.218Z : creation aborted, post title :
+কালিকাপ্রসাদের ভাড়া গাড়ির চালক গ্রেপ্তার
+
+2017-03-14T08:59:34.233Z : creation aborted, post title :
+মণিপুরে বেহাল কংগ্রেস
+
+2017-03-14T08:59:34.233Z : creation aborted, post title :
+উজ্জ্বল মোদি, বিবর্ণ রাহুল
+
+2017-03-14T08:59:34.361Z : creation aborted, post title :
+নারী বিধায়কের সংখ্যা বেশি, খুশি মোদি
+
+2017-03-14T08:59:34.361Z : creation aborted, post title :
+শান্তিনিকেতনে বসন্ত উৎসব
+
+2017-03-14T08:59:34.361Z : creation aborted, post title :
+রাহুলকে মোদির টুইট
+
+2017-03-14T08:59:34.504Z : creation aborted, post title :
+মেলবোর্নে ট্রাফিক বাতিতে নারীমূর্তি
+
+2017-03-14T08:59:34.504Z : creation aborted, post title :
+দুই বিচারকের কাছে ব্যাখ্যা চেয়েছেন হাইকোর্ট
+
+2017-03-14T08:59:34.504Z : creation aborted, post title :
+খান চানাচুরকে ৬ লাখ টাকা জরিমানা
+
+2017-03-14T08:59:34.504Z : creation aborted, post title :
+লক্ষ্মীপুরে স্ত্রী হত্যার দায়ে স্বামীর মৃত্যুদণ্ড
+
+2017-03-14T08:59:34.504Z : creation aborted, post title :
+মণিপুরে হোলির রং ফিকে
+
+2017-03-14T08:59:34.504Z : creation aborted, post title :
+মেয়র আরিফুলের সাময়িক বরখাস্তের আদেশ স্থগিত
+
+2017-03-14T08:59:34.504Z : creation aborted, post title :
+উত্তর প্রদেশে মোদি ঝড় : আশায় পশ্চিমবঙ্গের বিজেপি
+
+2017-03-14T08:59:34.504Z : creation aborted, post title :
+ভারতের পাঁচ রাজ্যের বিধানসভায় আসন ভাগাভাগি	মণিপুর ও গোয়াতেও সরকার গড়তে মরিয়া বিজেপি
+
+2017-03-14T08:59:34.504Z : creation aborted, post title :
+বিজেপির জয়ধ্বনি মণিপুরেও
+
+2017-03-14T08:59:34.504Z : extraction completed from : http://www.prothom-alo.com/international-asia
+2017-03-14T08:59:34.647Z : creation aborted, post title :
+‘গৃহকর্মীকে গুম’	গৃহকর্তা রাজউক প্রকৌশলীকে তলব
+
+2017-03-14T08:59:34.663Z : creation aborted, post title :
+সৎমাকে হত্যার দায়ে যাবজ্জীবন
+
+2017-03-14T08:59:34.663Z : creation aborted, post title :
+কুমিল্লা সিটি করপোরেশন নির্বাচন	প্রার্থী হতে পারবেন মামুনুর
+
+2017-03-14T08:59:34.663Z : creation aborted, post title :
+রাষ্ট্রপতি নির্বাচনে প্রভাব ফেলবে বিজেপির জয়
+
+2017-03-14T08:59:34.663Z : creation aborted, post title :
+উত্তর প্রদেশে মুসলিম বিধায়ক ছিলেন ৬৯, এবার ২৪
+
+2017-03-14T08:59:34.663Z : creation aborted, post title :
+পশ্চিমবঙ্গ দ্বিতীয়
+
+2017-03-14T08:59:34.663Z : creation aborted, post title :
+ভারতের বিধানসভা নির্বাচন: টুকরো খবর	কেজরিওয়ালের সংকল্প ছিল না: সিধু
+
+2017-03-14T08:59:34.663Z : extraction completed from : http://www.prothom-alo.com/bangladesh-justice
+2017-03-14T08:59:34.939Z : creation success, post title :
+গোয়ায় সরকার গড়তে ১৬ মার্চ আস্থা ভোটের নির্দেশ
+
+2017-03-14T08:59:34.939Z : extraction completed from : http://www.prothom-alo.com/international-india
+2017-03-14T09:00:11.210Z : started parsing prothom alo
+2017-03-14T09:00:26.215Z : creation aborted, post title :
+দিনাজপুরে কথিত পীরসহ দুজন হত্যার কারণ খুঁজছে পুলিশ
+
+2017-03-14T09:00:26.215Z : creation aborted, post title :
+বরিশালে আগ্নেয়াস্ত্রসহ আটক ১
+
+2017-03-14T09:00:26.780Z : creation aborted, post title :
+জেএমবির ‘আঞ্চলিক কমান্ডার’ গ্রেপ্তার
+
+2017-03-14T09:00:26.796Z : creation aborted, post title :
+বাগমারায় আরও এক জেএমজেবি সদস্য আটক
+
+2017-03-14T09:00:26.796Z : creation aborted, post title :
+রাতভর তুলকালাম ছাত্রলীগের
+
+2017-03-14T09:00:26.999Z : creation aborted, post title :
+গলাচিপায় ব্যবসায়ীকে গলা কেটে হত্যা
+
+2017-03-14T09:00:26.999Z : creation aborted, post title :
+পুরান ঢাকার ইংলিশ রোডের ‘নগরে নিসর্গ’	পার্ক ধ্বংস করে ডিজিটাল বিলবোর্ড স্থাপন
+
+2017-03-14T09:00:26.999Z : creation aborted, post title :
+চট্টগ্রামে অটোরিকশা থামিয়ে প্রকাশ্যে ছিনতাই
+
+2017-03-14T09:00:26.999Z : creation aborted, post title :
+ছিনতাইকারীর হামলায় পুলিশ আহত
+
+2017-03-14T09:00:26.999Z : creation aborted, post title :
+দিনাজপুরে খানকায় কথিত পীরসহ দুজন খুন
+
+2017-03-14T09:00:27.094Z : creation aborted, post title :
+মা ও প্রতিবেশীকে কুপিয়ে মারলেন ‘নেশাগ্রস্ত’ যুবক
+
+2017-03-14T09:00:27.094Z : creation aborted, post title :
+নীতিনির্ধারকদের দায় নেই!	জাতীয় বিশ্ববিদ্যালয়ে কনিষ্ঠ কর্মকর্তারাই গ্রেপ্তার হচ্ছেন
+
+2017-03-14T09:00:27.094Z : creation aborted, post title :
+জঙ্গি সন্দেহে ৩ জন গ্রেপ্তার
+
+2017-03-14T09:00:27.094Z : creation aborted, post title :
+বগুড়ায় ‘বন্দুকযুদ্ধে’ একজন গুলিবিদ্ধ	রাজশাহীতে পুলিশের গুলিতে যুবক নিহত
+
+2017-03-14T09:00:27.094Z : creation aborted, post title :
+বিলের বাঁধ কাটায় ভেসে গেছে ১২ লাখ টাকার মাছ?
+
+2017-03-14T09:00:27.094Z : creation aborted, post title :
+শিশুর লাশ উদ্ধার, বিষপানে অসুস্থ মা হাসপাতালে
+
+2017-03-14T09:00:27.284Z : creation aborted, post title :
+সিলেট থেকে অপহৃত শিশু লালমনিরহাট থেকে উদ্ধার	মুক্তিপণের টাকাসহ ২ অপহরণকারী গ্রেপ্তার
+
+2017-03-14T09:00:27.365Z : creation aborted, post title :
+সৈয়দপুরে দুজনের ডিলারশিপ বাতিল
+
+2017-03-14T09:00:27.365Z : creation aborted, post title :
+শিক্ষার নামে ব্যবসা কিন্ডারগার্টেনগুলোর
+
+2017-03-14T09:00:27.365Z : creation aborted, post title :
+নাঙ্গলকোটে কৃষককে ‘অ্যাসিড’ নিক্ষেপ
+
+2017-03-14T09:00:27.365Z : creation aborted, post title :
+আবাহনীর ‘মালদ্বীপ–চ্যালেঞ্জ’
+
+2017-03-14T09:00:27.381Z : creation aborted, post title :
+অনূর্ধ্ব-১৮ জাতীয় ফুটবল
+
+2017-03-14T09:00:27.397Z : creation aborted, post title :
+অনূর্ধ্ব-১৮ ফুটবল	এমন আয়োজনেও ওয়াকওভার!
+
+2017-03-14T09:00:27.412Z : creation aborted, post title :
+জয়-শান্তর হ্যাটট্রিক
+
+2017-03-14T09:00:27.412Z : creation aborted, post title :
+এএফসি কাপ যেন দক্ষিণ এশিয়ার ক্লাব ফুটবল লড়াই	আবাহনী তৈরি
+
+2017-03-14T09:00:27.428Z : creation aborted, post title :
+জাতীয় যুব ফুটবল
+
+2017-03-14T09:00:27.428Z : creation aborted, post title :
+অনূর্ধ্ব-১৮ জাতীয় ফুটবল	যুব ফুটবল ঘিরে নতুন স্বপ্ন
+
+2017-03-14T09:00:27.696Z : creation aborted, post title :
+অন্যকলাম	পুরস্কারের টানে...
+
+2017-03-14T09:00:27.696Z : creation aborted, post title :
+বঙ্গবন্ধু ও বঙ্গমাতা গোল্ডকাপ ফুটবল	যে দিনটি ওরা ভুলবে না
+
+2017-03-14T09:00:27.696Z : creation aborted, post title :
+আজ ফাইনাল	পোচন, না টিসি স্পোর্টস?
+
+2017-03-14T09:00:27.696Z : creation aborted, post title :
+বঙ্গবন্ধু স্টেডিয়ামে আজ দুটি ফাইনাল
+
+2017-03-14T09:00:27.696Z : creation aborted, post title :
+পোচন সিটিজেন ২: ১ চট্টগ্রাম আবাহনী	ফাইনালে নেই বাংলাদেশ!
+
+2017-03-14T09:00:27.696Z : creation aborted, post title :
+‘হাস্যকর ভুলে গোল খেয়েছি’
+
+2017-03-14T09:00:27.696Z : creation aborted, post title :
+চ্যাম্পিয়নস ট্রফি করবে বাফুফে?
+
+2017-03-14T09:00:27.696Z : creation aborted, post title :
+চট্ট. আবাহনী-পোচন সেমিফাইনাল	জ্বলে উঠতেই হবে চ্যাম্পিয়নদের
+
+2017-03-14T09:00:27.712Z : creation aborted, post title :
+টিসি স্পোর্টস ১: ০ মানাং মার্সিয়াংদি	টিসিকে ফাইনালে তুললেন নাফিউ
+
+2017-03-14T09:00:27.727Z : creation aborted, post title :
+ভাগ্যের ছোঁয়ায় ফাইনালে টিসি স্পোর্টস
+
+2017-03-14T09:00:27.727Z : creation aborted, post title :
+বর্ষসেরা নারী ক্রীড়াবিদ	কৃষ্ণার মুখে চাঁদের হাসি
+
+2017-03-14T09:00:27.949Z : creation aborted, post title :
+শেখ কামাল কাপের সেমিফাইনাল পর্ব	চট্টগ্রাম আবাহনীর দিকেই চোখ
+
+2017-03-14T09:00:27.949Z : creation aborted, post title :
+বঙ্গবন্ধু–বঙ্গমাতা ফুটবল
+
+2017-03-14T09:00:27.965Z : creation success, post title :
+বিনয় কৃষ্ণের মুক্তি চেয়ে সাংবাদিকদের অবস্থান
+
+2017-03-14T09:00:27.965Z : extraction completed from : http://www.prothom-alo.com/bangladesh-crime
+2017-03-14T09:00:27.980Z : creation aborted, post title :
+ড্র করে শেষ চারে চ্যাম্পিয়নরা
+
+2017-03-14T09:00:27.980Z : extraction completed from : http://www.prothom-alo.com/sports-nationalfootball
+2017-03-14T09:00:27.980Z : creation aborted, post title :
+রুশ রাষ্ট্রদূতের সঙ্গে দেখা করেছিল হিলারির নির্বাচনী দল
+
+2017-03-14T09:00:27.996Z : creation aborted, post title :
+পদত্যাগ না করায় বরখাস্ত মার্কিন অ্যাটর্নি
+
+2017-03-14T09:00:27.996Z : creation aborted, post title :
+সোবার্স, পতৌদি, জয়াসুরিয়াদের পথ ধরে মুশফিক
+
+2017-03-14T09:00:27.996Z : creation aborted, post title :
+যুবরাজ শিখেছেন ১০ বছরে, কোহলির লেগেছে ৩-৪ বছর
+
+2017-03-14T09:00:28.301Z : creation aborted, post title :
+ধোনির ভবিষ্যৎ ঠিক করে দেবে চ্যাম্পিয়নস ট্রফি
+
+2017-03-14T09:00:28.317Z : creation aborted, post title :
+অনলাইনে নারী সেনাদের নগ্ন ছবি	পূর্ণ তদন্তের প্রতিশ্রুতি দিল পেন্টাগন
+
+2017-03-14T09:00:28.317Z : creation aborted, post title :
+সংক্ষেপ	সাহায্যকারীরা আশ্রয় চেয়েছে
+
+2017-03-14T09:00:28.332Z : creation aborted, post title :
+আব্বাসকে হোয়াইট হাউসে আমন্ত্রণ ট্রাম্পের
+
+2017-03-14T09:00:28.332Z : creation aborted, post title :
+সংক্ষেপ	আবার বাবা হচ্ছেন মার্ক জাকারবার্গ
+
+2017-03-14T09:00:28.348Z : creation aborted, post title :
+‘সবখানেই খুঁজছে তারা’
+
+2017-03-14T09:00:28.538Z : creation aborted, post title :
+মাহমুদউল্লাহকে নিয়ে দিনভর নাটক
+
+2017-03-14T09:00:28.538Z : creation aborted, post title :
+ওয়ানডে দলে সানজামুল
+
+2017-03-14T09:00:28.538Z : creation aborted, post title :
+গর্বের মুহূর্তে লিটনের আক্ষেপ
+
+2017-03-14T09:00:28.538Z : creation aborted, post title :
+দাবি নাথান লায়নের	এখনো চাপে ভারত!
+
+2017-03-14T09:00:28.538Z : creation aborted, post title :
+শততম টেস্টে শিষ্যদের কাছে সেরাটা চান ওয়ালশ
+
+2017-03-14T09:00:28.538Z : creation aborted, post title :
+টেস্ট-শ্রেষ্ঠত্ব হারালেন সাকিব
+
+2017-03-14T09:00:28.538Z : creation aborted, post title :
+পাকিস্তান সেনাবাহিনীতে যোগ দেবেন স্যামুয়েলস!
+
+2017-03-14T09:00:28.538Z : creation aborted, post title :
+শততম টেস্টে নেই মাহমুদউল্লাহ!
+
+2017-03-14T09:00:28.538Z : creation aborted, post title :
+গল টেস্টের ময়নাতদন্তে হাথুরু
+
+2017-03-14T09:00:28.538Z : creation aborted, post title :
+কুম্বলের জায়গা নেবেন দ্রাবিড়?
+
+2017-03-14T09:00:28.538Z : creation aborted, post title :
+রেকর্ড কর্নার	টি-টোয়েন্টিতে ব্যাটিং–ঝড়
+
+2017-03-14T09:00:28.632Z : creation aborted, post title :
+আইসিসিকে ডু প্লেসির তির
+
+2017-03-14T09:00:28.632Z : creation aborted, post title :
+অস্ট্রেলিয়ার ভাবনায় রাঁচির উইকেটও
+
+2017-03-14T09:00:28.632Z : creation aborted, post title :
+রেকর্ডের ম্যাচে আফগানিস্তানের জয়
+
+2017-03-14T09:00:28.632Z : creation aborted, post title :
+রেকর্ড কর্নার	সেরা ‘বুড়ো’ বোলার
+
+2017-03-14T09:00:28.632Z : creation aborted, post title :
+ডানেডিন টেস্ট	ডানেডিনের উত্তাপে বৃষ্টির জল
+
+2017-03-14T09:00:28.632Z : creation aborted, post title :
+শততম টেস্টে ঘুরে দাঁড়াবে বাংলাদেশ?
+
+2017-03-14T09:00:28.710Z : creation aborted, post title :
+পাকিস্তানে ১৯ বছরে প্রথম আদমশুমারি
+
+2017-03-14T09:00:28.854Z : creation aborted, post title :
+নেতাদের সঙ্গে বিলাওয়ালের বৈঠক	চার দফা দাবিতে আবার সোচ্চার হচ্ছে পিপিপি
+
+2017-03-14T09:00:28.870Z : creation aborted, post title :
+পাকিস্তানে কিশোরী ‘অনার কিলিং’–এর শিকার!
+
+2017-03-14T09:00:28.870Z : creation aborted, post title :
+সুখের খোঁজে...
+
+2017-03-14T09:00:28.885Z : creation aborted, post title :
+৫ সেনা নিহত
+
+2017-03-14T09:00:28.901Z : creation aborted, post title :
+পাকিস্তান সীমান্তে ‘সন্ত্রাসী হামলায়’ ৫ সেনা নিহত
+
+2017-03-14T09:00:28.901Z : creation aborted, post title :
+মূলধারায় ফাতা
+
+2017-03-14T09:00:28.917Z : creation aborted, post title :
+পার্লামেন্টে মতৈক্য	পাকিস্তানে বিতর্কিত সামরিক আদালতের মেয়াদ বাড়ছে?
+
+2017-03-14T09:00:28.917Z : creation aborted, post title :
+সংক্ষেপ	দুই মেয়ে বিরুদ্ধে
+
+2017-03-14T09:00:28.917Z : creation aborted, post title :
+ব্যাটসম্যানদের ওপর বিরক্ত নাজমুল
+
+2017-03-14T09:00:28.979Z : creation aborted, post title :
+ট্রাম্পের নতুন ভ্রমণ নিষেধাজ্ঞা	সমালোচনায় মুখর ১৩৪ পররাষ্ট্রনীতি বিশেষজ্ঞ
+
+2017-03-14T09:00:28.979Z : creation aborted, post title :
+হোয়াইট হাউসে অনুপ্রবেশকারী
+
+2017-03-14T09:00:28.979Z : creation aborted, post title :
+মাহমুদ আব্বাসকে ট্রাম্পের আমন্ত্রণ
+
+2017-03-14T09:00:28.979Z : creation aborted, post title :
+বিমানবন্দরে ফের জেরার মুখে আলী জুনিয়র
+
+2017-03-14T09:00:28.995Z : creation aborted, post title :
+যে কারণে নাচের ক্লাসে তাঁরা
+
+2017-03-14T09:00:29.048Z : creation aborted, post title :
+পিআইএ ফ্লাইট অন্য পথে
+
+2017-03-14T09:00:29.169Z : creation aborted, post title :
+উড়োজাহাজ যেন লোকাল বাস!
+
+2017-03-14T09:00:29.170Z : creation aborted, post title :
+লাহোরে শক্তিশালী বিস্ফোরণ, নিহত ৮
+
+2017-03-14T09:00:29.170Z : creation aborted, post title :
+মাজারে হামলায় নিহত ব্যক্তির সংখ্যা বেড়ে ৮০	পাকিস্তানে সাঁড়াশি অভিযান, নিহত ৩১
+
+2017-03-14T09:00:29.170Z : creation aborted, post title :
+পাকিস্তানে জঙ্গিবিরোধী অভিযানে নিহত শতাধিক
+
+2017-03-14T09:00:29.186Z : creation aborted, post title :
+আইএসের দায় স্বীকার	পাকিস্তানে মাজারে আত্মঘাতী হামলায় নিহত অন্তত ৭০
+
+2017-03-14T09:00:29.186Z : creation aborted, post title :
+পাকিস্তানে মাজারে আত্মঘাতী হামলা, নিহত ৭২
+
+2017-03-14T09:00:29.201Z : creation aborted, post title :
+পাকিস্তানে মাজারে আত্মঘাতী হামলা, নিহত ৫০
+
+2017-03-14T09:00:29.201Z : creation aborted, post title :
+সংক্ষেপ	নিষেধাজ্ঞা তুলে নিচ্ছে পাকিস্তান
+
+2017-03-14T09:00:29.280Z : creation aborted, post title :
+জাতীয়তাবাদী উত্থানে পরিচয় সংকটে যুক্তরাষ্ট্র: ক্লিনটন
+
+2017-03-14T09:00:29.295Z : creation aborted, post title :
+ট্রাম্পের নতুন ভ্রমণ নিষেধাজ্ঞা	মামলা করল হাওয়াই
+
+2017-03-14T09:00:29.295Z : creation aborted, post title :
+সংক্ষেপ	কম্বলের জন্য...
+
+2017-03-14T09:00:29.295Z : creation aborted, post title :
+২৬ মার্চ বিএনপির শোভাযাত্রা কর্মসূচি
+
+2017-03-14T09:00:29.295Z : creation aborted, post title :
+রোগী কল্যাণ সমিতির কার্যক্রম বাড়ানোর আহ্বান মেয়রের
+
+2017-03-14T09:00:29.295Z : creation aborted, post title :
+‘এমপি পোস্টেও নির্বাচন করার ইচ্ছা আছে’
+
+2017-03-14T09:00:29.295Z : creation aborted, post title :
+স্বাধীনতা দিবসে কর্মসূচি দিল বিএনপি
+
+2017-03-14T09:00:29.342Z : creation aborted, post title :
+বোমা নিষ্ক্রিয় করার সময় প্রাণ গেল ২ জনের
+
+2017-03-14T09:00:29.342Z : creation aborted, post title :
+লাহোরে মিছিলে আত্মঘাতী বোমায় ১৩ জন নিহত
+
+2017-03-14T09:00:29.342Z : extraction completed from : http://www.prothom-alo.com/international-pakistan
+2017-03-14T09:00:29.423Z : creation aborted, post title :
+বালিয়াডাঙ্গী উপজেলা বিএনপি	সাত বছর পর সম্মেলন হলেও হয়নি কমিটি
+
+2017-03-14T09:00:29.423Z : creation aborted, post title :
+ইমার্জিং কাপ ক্রিকেট	নাসির-নুরুলরাও প্রাথমিক দলে
+
+2017-03-14T09:00:29.423Z : creation aborted, post title :
+প্রিমিয়ার লিগ শুরু ৭ এপ্রিল
+
+2017-03-14T09:00:29.423Z : creation aborted, post title :
+৩ ম্যাচে ২ ডাবল সেঞ্চুরি তুষারের
+
+2017-03-14T09:00:29.438Z : creation aborted, post title :
+ব্রিটিশ পার্লামেন্টে ব্রেক্সিট বিল পাস
+
+2017-03-14T09:00:29.438Z : creation aborted, post title :
+বাংলাদেশের সমস্যা আসলে কোথায়?
+
+2017-03-14T09:00:29.438Z : creation aborted, post title :
+আবারও সাকিব ‘নাম্বার ওয়ান’
+
+2017-03-14T09:00:29.454Z : creation aborted, post title :
+মাশরাফি–মুশফিকদের নতুন ফিজিও
+
+2017-03-14T09:00:29.566Z : creation aborted, post title :
+উত্তর প্রদেশে জয়ী প্রার্থীদের ৮০ শতাংশ কোটিপতি
+
+2017-03-14T09:00:29.566Z : creation aborted, post title :
+গোয়ায় সরকার গঠনে প্রস্তুত বিজেপি, আদালতে কংগ্রেস
+
+2017-03-14T09:00:29.566Z : creation aborted, post title :
+বিষয় গোয়া ও মণিপুরে সরকার গঠন	নির্বাচন ‘হাতিয়ে নেওয়ার’ অভিযোগ কংগ্রেসের
+
+2017-03-14T09:00:29.566Z : creation aborted, post title :
+রাষ্ট্রপতি নির্বাচনে প্রভাব ফেলবে বিজেপির জয়
+
+2017-03-14T09:00:29.566Z : creation aborted, post title :
+নারী বিধায়কের সংখ্যা বেশি, খুশি মোদি
+
+2017-03-14T09:00:29.566Z : creation aborted, post title :
+গোয়ায় সরকার গড়তে ১৬ মার্চ আস্থা ভোটের নির্দেশ
+
+2017-03-14T09:00:29.566Z : creation aborted, post title :
+কালিকাপ্রসাদের ভাড়া গাড়ির চালক গ্রেপ্তার
+
+2017-03-14T09:00:29.566Z : creation aborted, post title :
+মণিপুরে হোলির রং ফিকে
+
+2017-03-14T09:00:29.566Z : creation aborted, post title :
+সংক্ষেপ	প্রার্থী হতে পারবেন মামুনুর রশীদ
+
+2017-03-14T09:00:29.566Z : creation aborted, post title :
+জয়া সেনগুপ্তাকে সমর্থন দিয়ে সরে দাঁড়ালেন জাপা-জাসদের প্রার্থী
+
+2017-03-14T09:00:29.566Z : creation aborted, post title :
+সুনামগঞ্জ-২ আসনের উপনির্বাচন	দুই প্রার্থীর মনোনয়নপত্র প্রত্যাহার
+
+2017-03-14T09:00:29.566Z : creation aborted, post title :
+সংক্ষেপ	আইনশৃঙ্খলা কমিটির সভা
+
+2017-03-14T09:00:29.566Z : creation aborted, post title :
+সাটুরিয়ায় ছাত্রলীগের দুই পক্ষের সংঘর্ষ
+
+2017-03-14T09:00:29.566Z : creation aborted, post title :
+পাঁচ দিনেই শেষ সাকিবের রাজত্ব
+
+2017-03-14T09:00:29.566Z : creation aborted, post title :
+আ.লীগের বরিশাল বিভাগীয় তৃণমূল সমাবেশ ৮ এপ্রিল
+
+2017-03-14T09:00:29.566Z : creation aborted, post title :
+প্রধানমন্ত্রীর বক্তব্যের জবাব দিলেন মির্জা ফখরুল
+
+2017-03-14T09:00:29.566Z : creation aborted, post title :
+নতুন চ্যাম্পিয়ন উত্তরাঞ্চল
+
+2017-03-14T09:00:29.566Z : creation aborted, post title :
+তুষার-আলো জ্বলছেই
+
+2017-03-14T09:00:29.566Z : creation aborted, post title :
+গলে ঘাম ঝরাল বাংলাদেশ
+
+2017-03-14T09:00:29.599Z : creation aborted, post title :
+তিন উপজেলায় বিদ্রোহীদের বহিষ্কার করল আ.লীগ
+
+2017-03-14T09:00:29.599Z : creation success, post title :
+১২ হাজার নিরাপত্তারক্ষীকেও বুড়ো আঙুল!
+
+2017-03-14T09:00:29.599Z : extraction completed from : http://www.prothom-alo.com/sports-internationalcricket
+2017-03-14T09:00:29.599Z : creation aborted, post title :
+সিলেটে আ.লীগের বিভাগীয় প্রতিনিধি সম্মেলন	তোরণে স্থানীয় নেতাদের ছবি নয়
+
+2017-03-14T09:00:29.599Z : creation aborted, post title :
+কাল দেশে ফিরছেন মাহমুদউল্লাহ
+
+2017-03-14T09:00:29.615Z : creation aborted, post title :
+৭ এপ্রিল থেকে ঢাকা প্রিমিয়ার ক্রিকেট
+
+2017-03-14T09:00:29.630Z : creation aborted, post title :
+ভারতের পাঁচ রাজ্যের বিধানসভায় আসন ভাগাভাগি	মণিপুর ও গোয়াতেও সরকার গড়তে মরিয়া বিজেপি
+
+2017-03-14T09:00:29.630Z : creation aborted, post title :
+ভুয়া খবর রুখতে চান ওয়েবের প্রতিষ্ঠাতা
+
+2017-03-14T09:00:29.677Z : creation aborted, post title :
+ফিজিও কনওয়ের চুক্তি বাতিল করল বিসিবি
+
+2017-03-14T09:00:29.677Z : creation aborted, post title :
+শ্রীলঙ্কায় যাচ্ছেন ইমরুল
+
+2017-03-14T09:00:29.789Z : creation aborted, post title :
+১৩ বছরেও কবিগুরুর নোবেল পদক চুরির কিনারা হয়নি
+
+2017-03-14T09:00:29.805Z : creation aborted, post title :
+পশ্চিমবঙ্গ দ্বিতীয়
+
+2017-03-14T09:00:29.805Z : creation aborted, post title :
+শান্তিনিকেতনে বসন্ত উৎসব
+
+2017-03-14T09:00:29.805Z : creation aborted, post title :
+মণিপুরে বেহাল কংগ্রেস
+
+2017-03-14T09:00:29.820Z : creation aborted, post title :
+উত্তর প্রদেশে মোদি ঝড় : আশায় পশ্চিমবঙ্গের বিজেপি
+
+2017-03-14T09:00:29.820Z : creation aborted, post title :
+হেরে রাজনীতি থেকেই বিদায়
+
+2017-03-14T09:00:29.820Z : creation aborted, post title :
+উত্তর প্রদেশে মুসলিম বিধায়ক ছিলেন ৬৯, এবার ২৪
+
+2017-03-14T09:00:29.820Z : creation aborted, post title :
+রাহুলকে মোদির টুইট
+
+2017-03-14T09:00:29.836Z : creation aborted, post title :
+উজ্জ্বল মোদি, বিবর্ণ রাহুল
+
+2017-03-14T09:00:29.836Z : creation aborted, post title :
+বিজেপির জয়ধ্বনি মণিপুরেও
+
+2017-03-14T09:00:29.836Z : creation aborted, post title :
+ভারতের বিধানসভা নির্বাচন: টুকরো খবর	ইভিএমে জালিয়াতি?
+
+2017-03-14T09:00:29.836Z : creation aborted, post title :
+ভারতের বিধানসভা নির্বাচন: টুকরো খবর	কেজরিওয়ালের সংকল্প ছিল না: সিধু
+
+2017-03-14T09:00:29.852Z : extraction completed from : http://www.prothom-alo.com/international-india
+2017-03-14T09:00:29.930Z : creation aborted, post title :
+আরও একটি সংশোধনী চায় লর্ড সভা	ব্রেক্সিট বিল নিয়ে আবারও সরকারের পরাজয়
+
+2017-03-14T09:00:29.933Z : creation aborted, post title :
+বিচিত্র	বরফে ঢাকা পড়ল নিউইয়র্কের বাড়ি
+
+2017-03-14T09:00:30.090Z : creation aborted, post title :
+ভারারা বরখাস্ত
+
+2017-03-14T09:00:30.090Z : creation aborted, post title :
+ট্রাম্পের নতুন নিষেধাজ্ঞায় আদালতের প্রথম বাধা
+
+2017-03-14T09:00:30.090Z : creation aborted, post title :
+ভারত–পাকিস্তান সম্পর্ক নিয়ে মার্কিন জেনারেল	পাকিস্তানকে ‘একঘরে করার নীতি’ সম্পর্কোন্নয়নে বাধা
+
+2017-03-14T09:00:30.105Z : creation aborted, post title :
+নারী সদস্যদের নগ্ন ছবি শেয়ার, তদন্তে পেন্টাগন
+
+2017-03-14T09:00:30.105Z : creation aborted, post title :
+ট্রাম্পের আদেশের বিরুদ্ধে আরও মামলা	অভিবাসন মামলার দ্রুত নিষ্পত্তিতে বাড়তি বিচারক
+
+2017-03-14T09:00:30.105Z : creation aborted, post title :
+কোরীয় উপদ্বীপে উত্তেজনা	চীনা সমঝোতা প্রস্তাবে যুক্তরাষ্ট্রের ‘না’
+
+2017-03-14T09:00:30.105Z : extraction completed from : http://www.prothom-alo.com/international-usa
+2017-03-14T09:00:30.105Z : creation aborted, post title :
+খালেদা জিয়ার শুনানির দিন পেছাল
+
+2017-03-14T09:00:30.121Z : creation aborted, post title :
+গাইবান্ধা-১ আসনে উপনির্বাচন	সুষ্ঠু নির্বাচন না হওয়ার শঙ্কা জাপা প্রার্থীর
+
+2017-03-14T09:00:30.140Z : creation aborted, post title :
+চট্টগ্রামে বিএনপির সমাবেশে অভিযোগ	‘কমিশন ছাড়া কিছু হয় না’
+
+2017-03-14T09:00:30.141Z : creation aborted, post title :
+জয়াকে সমর্থন দিয়ে সরে দাঁড়ালেন দুই প্রার্থী
+
+2017-03-14T09:00:30.150Z : creation aborted, post title :
+এনামুল যাচ্ছেন লাহোরে
+
+2017-03-14T09:00:30.156Z : creation aborted, post title :
+পারমাণবিক অস্ত্রে রাশিয়ার চেয়ে যুক্তরাষ্ট্র পিছিয়ে
+
+2017-03-14T09:00:30.158Z : creation aborted, post title :
+গাড়ি চালানোর সময় ফোনে কথা বলার শাস্তি দ্বিগুণ
+
+2017-03-14T09:00:30.158Z : creation aborted, post title :
+অদূর ভবিষ্যতে প্রত্যাশিত আয়ু ৯০ ছাড়াবে
+
+2017-03-14T09:00:30.174Z : creation aborted, post title :
+ব্রেক্সিট বিলে সংশোধনী চায় লর্ডস সভা
+
+2017-03-14T09:00:30.174Z : creation aborted, post title :
+লন্ডন পুলিশের নেতৃত্বে প্রথম নারী
+
+2017-03-14T09:00:30.190Z : creation aborted, post title :
+ব্রিটিশ পার্লামেন্টে ট্রাম্পের ভাষণ এড়ানোর জন্য...
+
+2017-03-14T09:00:30.190Z : creation aborted, post title :
+উপাচার্যসহ চারজনের বিরুদ্ধে অভিযোগ তদন্তে রুল
+
+2017-03-14T09:00:30.221Z : creation aborted, post title :
+গাজীপুরের মৌচাক ইউপি নির্বাচনের তফসিল ঘোষণা
+
+2017-03-14T09:00:30.380Z : creation aborted, post title :
+আওয়ামী লীগ চ্যালেঞ্জের মুখে, বিএনপি নির্ভার	ইউপিডিএফের লক্ষ্য সংসদে নিজেদের প্রতিনিধি পাঠানো
+
+2017-03-14T09:00:30.380Z : extraction completed from : http://www.prothom-alo.com/bangladesh-politics
+2017-03-14T09:00:30.380Z : creation aborted, post title :
+আলোচনা সভায় গয়েশ্বর	ভারতের সঙ্গে শেখ হাসিনার মান অভিমান চলছে
+
+2017-03-14T09:00:30.380Z : creation aborted, post title :
+মাহমুদউল্লাহ আছেন ওয়ানডে দলে
+
+2017-03-14T09:00:30.380Z : creation aborted, post title :
+৭ বছর ২২ দিন পেরিয়েছে সেঞ্চুরি নেই মাহমুদউল্লাহর
+
+2017-03-14T09:00:30.395Z : creation aborted, post title :
+তুষারের পর শাহরিয়ারের ডাবল সেঞ্চুরি
+
+2017-03-14T09:00:30.395Z : creation aborted, post title :
+তুষারের আরেকটি সেঞ্চুরি
+
+2017-03-14T09:00:30.395Z : creation aborted, post title :
+ব্রেক্সিট	বিচ্ছেদের আনুষ্ঠানিক ঘোষণার অপেক্ষা?
+
+2017-03-14T09:00:30.395Z : creation aborted, post title :
+এরপর​ও বেঁচে আছে শিশুটি!
+
+2017-03-14T09:00:30.411Z : creation aborted, post title :
+যুক্তরাজ্যে ২৭ বছর থাকার পরও...
+
+2017-03-14T09:00:30.411Z : extraction completed from : http://www.prothom-alo.com/sports-nationalcricket
+2017-03-14T09:00:30.411Z : creation success, post title :
+‌‘বাবা যদি দেখতে পেতেন!’
+
+2017-03-14T09:00:30.411Z : creation aborted, post title :
+‘ঠান্ডাজনিত সমস্যা মুক্তি দিতে পারে’ ভিটামিন ডি বড়ি
+
+2017-03-14T09:00:30.427Z : creation aborted, post title :
+দুই বিচারকের কাছে ব্যাখ্যা চেয়েছেন হাইকোর্ট
+
+2017-03-14T09:00:30.442Z : creation aborted, post title :
+হাউস অব কমন্সের প্রতিবেদন	প্রত্যাশা পূরণে ব্যর্থ সু চি
+
+2017-03-14T09:00:30.442Z : creation aborted, post title :
+প্রথম আলোর সাংবাদিকসহ চারজনকে মারধর	অধিকতর তদন্তের আদেশ আদালতের
+
+2017-03-14T09:00:30.458Z : creation aborted, post title :
+ফিটনেসবিহীন যানবাহনের বিরুদ্ধে অভিযান
+
+2017-03-14T09:00:30.458Z : creation aborted, post title :
+মেয়র আরিফুলের সাময়িক বরখাস্তের আদেশ স্থগিত
+
+2017-03-14T09:00:30.474Z : creation aborted, post title :
+গৃহকর্মী নিখোঁজ: গৃহকর্তাকে তলব
+
+2017-03-14T09:00:30.851Z : creation aborted, post title :
+খান চানাচুরকে ৬ লাখ টাকা জরিমানা
+
+2017-03-14T09:00:30.851Z : creation aborted, post title :
+লক্ষ্মীপুরে স্ত্রী হত্যার দায়ে স্বামীর মৃত্যুদণ্ড
+
+2017-03-14T09:00:30.851Z : creation aborted, post title :
+মেয়র আরিফুলের সাময়িক বরখাস্তের আদেশ স্থগিত
+
+2017-03-14T09:00:30.867Z : creation aborted, post title :
+সংক্ষেপ	কৃত্রিম ভ্রূণ
+
+2017-03-14T09:00:30.867Z : creation aborted, post title :
+গাড়ি চালানোর সময় মোবাইল ব্যবহারে শাস্তি দ্বিগুণ
+
+2017-03-14T09:00:30.883Z : creation aborted, post title :
+বায়ুদূষণকারী গাড়ির মালিককে কর দিতে হবে
+
+2017-03-14T09:00:30.883Z : creation aborted, post title :
+সংশোধনী ছাড়াই ব্রেক্সিট বিল পাস
+
+2017-03-14T09:00:31.003Z : creation aborted, post title :
+সাহসী সাংবাদিকতার জয় হবেই
+
+2017-03-14T09:00:31.018Z : creation aborted, post title :
+যুক্তরাজ্যে পারিবারিক ভিসার কঠোর নিয়ম টিকে গেল সুপ্রিম কোর্টে
+
+2017-03-14T09:00:31.018Z : creation aborted, post title :
+ট্রাম্পের মতোই আচরণ করছেন থেরেসা মে!
+
+2017-03-14T09:00:31.018Z : extraction completed from : http://www.prothom-alo.com/international-uk
+2017-03-14T09:00:31.018Z : creation aborted, post title :
+খালেদা জিয়ার শুনানির দিন পেছাল
+
+2017-03-14T09:00:31.034Z : creation aborted, post title :
+‘গৃহকর্মীকে গুম’	গৃহকর্তা রাজউক প্রকৌশলীকে তলব
+
+2017-03-14T09:00:31.049Z : creation aborted, post title :
+কুষ্টিয়ায় সেই হোটেলমালিক কারাগারে
+
+2017-03-14T09:00:31.049Z : creation aborted, post title :
+প্রিসাইডিং কর্মকর্তাকে লাঞ্ছনার মামলা	পরাজিত চেয়ারম্যান প্রার্থী কারাগারে
+
+2017-03-14T09:00:31.049Z : creation aborted, post title :
+বিএনপির সাবেক সাংসদ হাফিজ ইব্রাহীমের বিরুদ্ধে মামলা
+
+2017-03-14T09:00:31.065Z : creation aborted, post title :
+১১ মামলায় কাল আদালতে যাবেন খালেদা
+
+2017-03-14T09:00:31.154Z : creation aborted, post title :
+আসামিকে ডান্ডাবেড়ি পরিয়ে আদালতে হাজির নয়: হাইকোর্ট
+
+2017-03-14T09:00:31.154Z : creation aborted, post title :
+সাংসদের কারখানাকে জরিমানা
+
+2017-03-14T09:00:31.170Z : creation aborted, post title :
+সাংসদের কারখানাকে তিন লাখ টাকা জরিমানা
+
+2017-03-14T09:00:31.170Z : creation aborted, post title :
+ডান্ডাবেড়ি পরিয়ে আসামিকে আদালতে নয়: হাইকোর্ট
+
+2017-03-14T09:00:31.330Z : creation aborted, post title :
+সৎমাকে হত্যার দায়ে যাবজ্জীবন
+
+2017-03-14T09:00:31.330Z : creation aborted, post title :
+কুমিল্লা সিটি করপোরেশন নির্বাচন	প্রার্থী হতে পারবেন মামুনুর
+
+2017-03-14T09:00:31.330Z : extraction completed from : http://www.prothom-alo.com/bangladesh-justice
+2017-03-14T09:00:31.932Z : creation aborted, post title :
+‘আমি এখন ক্রিকেট নিয়েই আছি’
+
+2017-03-14T09:00:31.932Z : creation aborted, post title :
+অল্পস্বল্প	‘আমাদের বেসিকই এখন দুর্বল’
+
+2017-03-14T09:00:31.932Z : creation aborted, post title :
+‘নির্বাচকেরা যদি এর প্রতিদান দিতেন...’
+
+2017-03-14T09:00:31.932Z : creation aborted, post title :
+অল্পস্বল্প	‘স্বপ্ন তো সব সময়ই দেখি’
+
+2017-03-14T09:00:31.963Z : creation aborted, post title :
+অল্পস্বল্প	‘খেলোয়াড়েরা যেন খেলার মধ্যে থাকে’
+
+2017-03-14T09:00:32.527Z : creation aborted, post title :
+অল্পস্বল্প	‘এটাকে চ্যালেঞ্জ হিসেবে নিয়েছি’
+
+2017-03-14T09:00:32.527Z : creation aborted, post title :
+অল্পস্বল্প	‘ইংল্যান্ডের ম্যাচ হলেই টিভির সামনে’
+
+2017-03-14T09:00:32.527Z : creation aborted, post title :
+অল্পস্বল্প	‘এবার ভেতরে জেদ এনেছি’
+
+2017-03-14T09:00:32.679Z : creation aborted, post title :
+অল্পস্বল্প	‘বেশি আগে টেস্ট খেলে ফেলেছি’
+
+2017-03-14T09:00:32.679Z : creation aborted, post title :
+অল্পস্বল্প	স্বপ্ন, একদিন জাতীয় দলে খেলব
+
+2017-03-14T09:00:32.679Z : creation aborted, post title :
+অল্পস্বল্প	‘লক্ষ্য থাকবে কোহলির উইকেট’
+
+2017-03-14T09:00:32.710Z : creation aborted, post title :
+‘কুম্বলের চেয়ে ১ উইকেটও বেশি পেতে চাই না’
+
+2017-03-14T09:00:32.710Z : creation aborted, post title :
+জো রুটই সবচেয়ে বড় দাবিদার
+
+2017-03-14T09:00:32.710Z : creation aborted, post title :
+‘বাংলাদেশকে হালকাভাবে নিতে পারি না’
+
+2017-03-14T09:00:32.736Z : creation aborted, post title :
+‘আউটটার কথা অনেক দিনই মনে পড়বে’
+
+2017-03-14T09:00:32.737Z : creation aborted, post title :
+অল্পস্বল্প	‘অবশ্যই আমরা জিততে চাই’
+
+2017-03-14T09:00:32.737Z : creation aborted, post title :
+মনে পড়ে না শেষ কবে ভালো বলে আউট হয়েছি
+
+2017-03-14T09:00:33.372Z : creation aborted, post title :
+‘মোস্তাফিজ আমাকে অনুপ্রাণিত করেছে’
+
+2017-03-14T09:00:33.372Z : creation aborted, post title :
+মোহাম্মদ আজহারউদ্দিনের একান্ত সাক্ষাৎকার	‘কপালে লেখা ছিল, আমি ৯৯টা টেস্ট খেলব’
+
+2017-03-14T09:00:33.372Z : creation aborted, post title :
+‘আবেগ আটকাতে পারিনি’
+
+2017-03-14T09:00:33.388Z : creation aborted, post title :
+অল্পস্বল্প	‘দলের জয়টাই শেষ কথা’
+
+2017-03-14T09:00:33.388Z : extraction completed from : http://www.prothom-alo.com/sports-interview
+2017-03-14T09:00:35.008Z : creation aborted, post title :
+মালিবাগ রেলগেটে গার্ডার পড়ে একজন নিহত, আহত ২	নিরাপত্তা ছাড়াই উড়ালসড়ক নির্মাণ
+
+2017-03-14T09:00:35.008Z : creation aborted, post title :
+গার্হস্থ্য অর্থনীতি কলেজ	ফের নীলক্ষেত-নিউমার্কেট মোড় অবরোধ
+
+2017-03-14T09:00:35.008Z : creation aborted, post title :
+কিশোরগঞ্জে রাষ্ট্রপতি	তরুণেরা বিভ্রান্ত হয়ে জঙ্গিবাদে যেন না জড়ায়
+
+2017-03-14T09:00:35.024Z : creation aborted, post title :
+সাংবাদিকদের আইজিপি	আইএসের সঙ্গে দেশীয় জঙ্গিদের যোগাযোগ নেই
+
+2017-03-14T09:00:35.039Z : creation aborted, post title :
+মা ও প্রতিবেশীকে কুপিয়ে মারলেন ‘নেশাগ্রস্ত’ যুবক
+
+2017-03-14T09:00:35.692Z : creation aborted, post title :
+সরিষাবাড়ী-তারাকান্দি–ঢাকা মহাসড়ক	ভাঙাচোরা সড়কে ভোগান্তি
+
+2017-03-14T09:00:35.692Z : creation aborted, post title :
+অজ্ঞান পার্টির সদস্য নিজেই অচেতন?
+
+2017-03-14T09:00:35.692Z : creation aborted, post title :
+রাজবাড়ীর কালুখালীর পাটকলে ভয়াবহ অগ্নিকাণ্ড
+
+2017-03-14T09:00:35.773Z : creation aborted, post title :
+মহিলা ডিগ্রি কলেজের রজতজয়ন্তী
+
+2017-03-14T09:00:35.773Z : creation aborted, post title :
+নিজের শরীরে ব্যাটারির পানি ঢেলে প্রতিপক্ষের বিরুদ্ধে অ্যাসিড মামলা
+
+2017-03-14T09:00:35.773Z : creation aborted, post title :
+সৎমাকে হত্যার দায়ে যাবজ্জীবন
+
+2017-03-14T09:00:35.839Z : creation aborted, post title :
+আজ পল্লিকবি জসীমউদ্দীনের মৃত্যুবার্ষিকী
+
+2017-03-14T09:00:35.839Z : creation aborted, post title :
+খাল ভরাট করার উদ্যোগের প্রতিবাদে বিক্ষোভ সমাবেশ
+
+2017-03-14T09:00:35.839Z : creation aborted, post title :
+বিনা মূল্যে চিকিৎসা
+
+2017-03-14T09:00:35.998Z : creation aborted, post title :
+সাভারে ওয়ার্কশপে আগুন পুড়ে গেছে চারটি বাস
+
+2017-03-14T09:00:36.288Z : creation aborted, post title :
+একাত্তরের গণহত্যা	ব্রহ্মপুত্রের পারে হত্যা করা হয় শত শত মানুষ
+
+2017-03-14T09:00:36.288Z : creation aborted, post title :
+বিলের বাঁধ কাটায় ভেসে গেছে ১২ লাখ টাকার মাছ?
+
+2017-03-14T09:00:36.288Z : creation aborted, post title :
+শিশুর লাশ উদ্ধার, বিষপানে অসুস্থ মা হাসপাতালে
+
+2017-03-14T09:00:36.288Z : creation aborted, post title :
+বিছানায় মেয়ের লাশ, পাশে ছটফট করছেন মা
+
+2017-03-14T09:00:36.304Z : creation aborted, post title :
+নকশিকাঁথাকে জামালপুরের ব্র্যান্ড ঘোষণা
+
+2017-03-14T09:00:36.588Z : creation aborted, post title :
+প্রিসাইডিং কর্মকর্তাকে লাঞ্ছনার মামলা	পরাজিত চেয়ারম্যান প্রার্থী কারাগারে
+
+2017-03-14T09:00:36.588Z : extraction completed from : http://www.prothom-alo.com/bangladesh-divisions

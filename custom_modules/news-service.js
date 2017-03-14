@@ -6,8 +6,8 @@ function getNewsDBObject(callback) {
         server: { socketOptions: { keepAlive: 300000, connectTimeoutMS: 30000 } },
         replset: { socketOptions: { keepAlive: 300000, connectTimeoutMS: 30000 } }
     };
-    // mongoose.connect('mongodb://admin:admin@ds143539.mlab.com:43539/news', options);
-    mongoose.connect('mongodb://localhost:27017/news', options);
+    mongoose.connect('mongodb://admin:admin@ds143539.mlab.com:43539/news', options);
+    // mongoose.connect('mongodb://localhost:27017/news', options);
     var connection = mongoose.connection;
     connection.once('open', function () {
         callback(new newsDb());
@@ -68,13 +68,6 @@ var newsDb = function () {
     }
 
     newsDb.prototype.getPostByProperty = function (searchObj, skip, limit, success, failure) {
-        // Post.find(searchObj, {}, { skip: skip, limit: limit , sort: {PubDate : -1}}, function (err, post) {
-        //     if (!err) {
-        //         success(post);
-        //     } else {
-        //         failure(err);
-        //     }
-        // });
         Post.find(searchObj)
             .skip(skip)
             .limit(limit)
