@@ -250,7 +250,7 @@ app.get('/news/:id', function (req, res) {
     newsDb.getPostByProperty({ _id: req.params.id }, 0, 5, function (response) {
         var newsObject = response[0];
 
-        if (newsObject.DetailedDesc) {
+        if (newsObject._doc.DescChunks.length != 0) {
             res.type('json');
             console.log('sending response');
             res.send(JSON.stringify(response));
@@ -259,9 +259,20 @@ app.get('/news/:id', function (req, res) {
                 var $ = cheerio.load(html);
                 switch (newsObject.Source) {
                     case 'prothomalo':
-                        newsObject.DetailedDesc = $('article').find('p').text();
-                        // newsObject.DetailedDesc = newsObject.DetailedDesc.slice(0, newsObject.DetailedDesc.length/2);
-                        newsDb.updatePost(newsObject._id, {DetailedDesc : newsObject.DetailedDesc});
+                        // newsObject.DetailedDesc = $('article').find('p').text();
+                        // // newsObject.DetailedDesc = newsObject.DetailedDesc.slice(0, newsObject.DetailedDesc.length/2);
+                        // newsDb.updatePost(newsObject._id, {DetailedDesc : newsObject.DetailedDesc});
+                        var desc = $('article').find('p').text();
+                        var descChunkArray = desc.match(/.{1,200}/g);
+                        newsObject._doc.DescChunks = descChunkArray;
+                        
+
+                        descChunkArray.forEach(function (chunk) {
+                            newsDb.createChunk({
+                                Text : chunk,
+                                PostId : newsObject._id
+                            });
+                        });
                         break;
                     case 'kalerkontho':
                         

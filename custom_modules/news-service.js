@@ -6,8 +6,8 @@ function getNewsDBObject(callback) {
         server: { socketOptions: { keepAlive: 300000, connectTimeoutMS: 30000 } },
         replset: { socketOptions: { keepAlive: 300000, connectTimeoutMS: 30000 } }
     };
-    mongoose.connect('mongodb://admin:admin@ds143539.mlab.com:43539/news', options);
-    // mongoose.connect('mongodb://localhost:27017/news', options);
+    //mongoose.connect('mongodb://admin:admin@ds143539.mlab.com:43539/news', options);
+    mongoose.connect('mongodb://localhost:27017/news', options);
     var connection = mongoose.connection;
     connection.once('open', function () {
         callback(new newsDb());
@@ -27,7 +27,13 @@ var newsDb = function () {
         Status: { type: String, unique: false },
         DetailedDesc: { type: String, unique: false, index: false, maxlength : 2000 }
     });
+
+    var descChunkSchema = new mongoose.Schema({
+        Text: { type: String, unique: false },
+        PostId: { type: String, unique: false }
+    });
     var Post = mongoose.model('Post', postSchema);
+    var Chunk = mongoose.model('Chunk', descChunkSchema);
 
     newsDb.prototype.createPost = function (post, callback) {
         var newPost = new Post(post);
@@ -72,6 +78,40 @@ var newsDb = function () {
             .skip(skip)
             .limit(limit)
             .sort('-PubDate')
+            .exec(function (err, data) {
+                if (!err) {
+                    if (data.length == 0) {
+                        success(data);
+                    }
+                    data.forEach(function (post, count) {
+                        newsDb.prototype.getChunkByProperty({PostId : post.id}, function (chunks) {
+                            post._doc.DescChunks = chunks;
+                            if (count == data.length - 1) {
+                                success(data);
+                            }
+                        }); 
+                    });
+                } else {
+                    failure(err);
+                }
+            });
+    }
+
+    newsDb.prototype.createChunk = function (chunk, callback) {
+        var newChunk = new Chunk(chunk);
+        newChunk.save(function (err, chunk) {
+            if (callback) {
+                if (!err) {
+                    callback('success');
+                } else {
+                    callback('failed');
+                }
+            }
+        });
+    }
+
+    newsDb.prototype.getChunkByProperty = function (searchObj, success, failure) {
+        Chunk.find(searchObj)
             .exec(function (err, data) {
                 if (!err) {
                     success(data);
