@@ -1,5 +1,5 @@
 var express = require('express');
-var kue = require('kue');
+// var kue = require('kue');
 var child_process = require('child_process');
 var fs = require('fs');
 var scheduler = require('node-schedule');
@@ -17,64 +17,64 @@ news_service.getNewsDBObject(function (obj) {
     newsDb = obj;
 });
 
-var queue = kue.createQueue();
+// var queue = kue.createQueue();
 
 //sample long running calcualtion process================
-queue.process('calculation', function (job, done) {
-    var degree = job.data.degree;
+// queue.process('calculation', function (job, done) {
+//     var degree = job.data.degree;
 
-    var worker = child_process.fork('calculation_runner.js', [degree]);
+//     var worker = child_process.fork('calculation_runner.js', [degree]);
 
-    worker.on('message', function (message) {
-        console.log(message);
-    })
+//     worker.on('message', function (message) {
+//         console.log(message);
+//     })
 
-    worker.on('close', function () {
-        done();
-    });
-});
+//     worker.on('close', function () {
+//         done();
+//     });
+// });
 //======================================================
 
 //bdnews24 parser process===============================
-queue.process('parse-bdnews24-rss', function (job, done) {
-    var worker = child_process.fork('bdnews24RSSParser.js', []);
+// queue.process('parse-bdnews24-rss', function (job, done) {
+//     var worker = child_process.fork('bdnews24RSSParser.js', []);
 
-    worker.on('message', function (message) {
-        console.log(message);
-    });
+//     worker.on('message', function (message) {
+//         console.log(message);
+//     });
 
-    worker.on('close', function () {
-        done();
-    });
-});
+//     worker.on('close', function () {
+//         done();
+//     });
+// });
 //=======================================================
 
 //prothomalo parser process===============================
-queue.process('parse-prothomalo-scrape', function (job, done) {
-    var worker = child_process.fork('prothomaloParser.js', []);
+// queue.process('parse-prothomalo-scrape', function (job, done) {
+//     var worker = child_process.fork('prothomaloParser.js', []);
 
-    worker.on('message', function (message) {
-        console.log(message);
-    });
+//     worker.on('message', function (message) {
+//         console.log(message);
+//     });
 
-    worker.on('close', function () {
-        done();
-    });
-});
+//     worker.on('close', function () {
+//         done();
+//     });
+// });
 //=======================================================
 
 //kalerkontho parser process===============================
-queue.process('parse-kalerkontho-scrape', function (job, done) {
-    var worker = child_process.fork('kalerkonthoParser.js', []);
+// queue.process('parse-kalerkontho-scrape', function (job, done) {
+//     var worker = child_process.fork('kalerkonthoParser.js', []);
 
-    worker.on('message', function (message) {
-        console.log(message);
-    });
+//     worker.on('message', function (message) {
+//         console.log(message);
+//     });
 
-    worker.on('close', function () {
-        done();
-    });
-});
+//     worker.on('close', function () {
+//         done();
+//     });
+// });
 //=======================================================
 
 //run queue in a series of processes every 1 mins=======
