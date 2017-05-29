@@ -1154,3 +1154,1331 @@
 2017-03-14T09:00:05.671Z : creation aborted, post title রাবির ভিসিসহ চারজনের বিরুদ্ধে তদন্ত নিয়ে রুল
 2017-03-14T09:00:05.686Z : creation aborted, post title মুমিনুলও মিস করছেন শততম টেস্ট!
 2017-03-14T09:00:05.686Z : Finished bdnews24 parser
+2017-03-17T08:59:08.796Z : Started bdnews24 parsing
+2017-03-17T08:59:09.497Z : Received RSS feed. 30 news found.
+2017-03-17T08:59:12.182Z : creation success, post title সাঘাটায় আ. লীগের দু’গ্রুপের সংঘর্ষ, আহত ৬
+2017-03-17T08:59:12.182Z : creation success, post title শততম টেস্টে সাকিবের সেঞ্চুরি
+2017-03-17T08:59:12.182Z : creation success, post title শততম টেস্টে অভিষিক্ত মোসাদ্দেকের অর্ধশতক
+2017-03-17T08:59:12.182Z : creation success, post title নারীর প্রতি সহিংসতা রোধে হাইকোর্টের রায় বাস্তবায়ন বিষয়ক সেমিনার
+2017-03-17T08:59:12.296Z : creation success, post title উত্তরায় র‍্যাব ক্যাম্পের পাশে বোমা বিস্ফোরণে বহনকারী নিহত
+2017-03-17T08:59:12.296Z : creation success, post title কেরানীগঞ্জে দুস্থ নারীদের জন্য সেলাই মেশিন
+2017-03-17T08:59:12.456Z : creation success, post title ৩৮ হাজার টাকায় বিক্রি হলো কৈ কোরালটি
+2017-03-17T08:59:12.456Z : creation success, post title শ্রীলঙ্কার ৩৩৮ পেরিয়ে টাইগারদের লিড
+2017-03-17T08:59:12.616Z : creation success, post title ঢাকা-ময়মনসিংহ রুটে ট্রেন চলাচল স্বাভাবিক
+2017-03-17T08:59:12.847Z : creation success, post title কসবায় অজ্ঞাতপরিচয় এক ব্যক্তির মরদেহ উদ্ধার
+2017-03-17T08:59:12.848Z : creation success, post title তামিম-ইমরুলকে জরিমানা
+2017-03-17T08:59:13.046Z : creation success, post title উন্নয়নে শেখ হাসিনার বিকল্প নেই: আরিফুর রহমান
+2017-03-17T08:59:13.143Z : creation success, post title নজরুল বিশ্ববিদ্যালয়ে শিক্ষক সমিতি নির্বাচনে নীল দল জয়ী
+2017-03-17T08:59:13.303Z : creation success, post title ‘সামরিক চুক্তির তথ্য না দেওয়ায় প্রশ্ন উঠছে’
+2017-03-17T08:59:13.304Z : creation success, post title ‘দেশি মাছের এত দাম, সাহস হলো না’
+2017-03-17T08:59:13.468Z : creation success, post title ছাত্রলীগের সব ইতিবাচক সংবাদ বর্জন করবে ঢাবিসাস
+2017-03-17T08:59:13.658Z : creation success, post title ছায়ানীড় ভবনে নিহতদের মরদেহ চমেক মর্গে
+2017-03-17T08:59:13.658Z : creation success, post title ‘প্রকৃত ক্ষতিগ্রস্তদের শনাক্ত করে পুনর্বাসন করা হবে’
+2017-03-17T08:59:13.722Z : creation success, post title পদ্মাপাড়ে পাঁচ দিনব্যাপী চলচ্চিত্র উৎসব শুরু বিকেলে
+2017-03-17T08:59:13.873Z : creation success, post title ‘বঙ্গবন্���ুর জন্মদিন, বাংলাদেশের খুশির দিন’
+2017-03-17T08:59:13.958Z : creation success, post title ভারতের বিপক্ষে বড় সংগ্রহের দিকে অস্ট্রেলিয়া
+2017-03-17T08:59:14.055Z : creation success, post title জঙ্গি ধরিয়ে দিয়ে জীবন শংকায় তারা 
+2017-03-17T08:59:14.055Z : creation success, post title জয়পুরহাটে জামায়াত-শিবিরের ৪ নেতাকর্মী আটক
+2017-03-17T08:59:14.164Z : creation success, post title দ্বিতীয় দিন প্রোটিয়াদের লিড
+2017-03-17T08:59:14.164Z : creation success, post title কলকাতায় নানা আয়োজনে বঙ্গবন্ধুর জন্মবার্ষিকী উদযাপন
+2017-03-17T08:59:14.448Z : creation success, post title গুজরাটে চলন্ত গাড়িতে বাবার সামনে দুই মেয়েকে গণধর্ষণ
+2017-03-17T08:59:14.625Z : creation success, post title লিডের অপেক্ষায় টাইগাররা
+2017-03-17T08:59:14.625Z : creation success, post title বঙ্গবন্ধুর স্বপ্ন ���াস্তবায়নে কাজ করে যাচ্ছেন চিকিৎসকরা (ভিডিও)
+2017-03-17T08:59:14.938Z : creation success, post title বঙ্গবন্ধুর জন্মদিন উদযাপন ডিএসসিসি’র
+2017-03-17T08:59:15.011Z : creation success, post title ���ীপিকার পোশাক ফারিয়ার গায়ে (ভিডিও)
+2017-03-17T08:59:15.012Z : Finished bdnews24 parser
+2017-03-17T09:00:08.392Z : Started bdnews24 parsing
+2017-03-17T09:00:09.676Z : Received RSS feed. 30 news found.
+2017-03-17T09:00:14.860Z : creation aborted, post title কসবায় অজ্ঞাতপরিচয় এক ব্যক্তির মরদেহ উদ্ধার
+2017-03-17T09:00:14.999Z : creation aborted, post title তামিম-ইমরুলকে জরিমানা
+2017-03-17T09:00:15.070Z : creation aborted, post title ‘দেশি মাছের এত দাম, সাহস হলো না’
+2017-03-17T09:00:15.110Z : creation aborted, post title ছাত্রলীগের সব ইতিবাচক সংবাদ বর্জন করবে ঢাবিসাস
+2017-03-17T09:00:15.140Z : creation aborted, post title ছায়ানীড় ভবনে নিহতদের মরদেহ চমেক মর্গে
+2017-03-17T09:00:16.507Z : creation aborted, post title সাঘাটায় আ. লীগের দু’গ্রুপের সংঘর্ষ, আহত ৬
+2017-03-17T09:00:16.508Z : creation aborted, post title শততম টেস্টে সাকিবের সেঞ্চুরি
+2017-03-17T09:00:16.509Z : creation aborted, post title শততম টেস্টে অভিষিক্ত মোসাদ্দেকের অর্ধশতক
+2017-03-17T09:00:16.509Z : creation aborted, post title নারীর প্রতি সহিংসতা রোধে হাইকোর্টের রায় বাস্তবায়ন বিষয়ক সেমিনার
+2017-03-17T09:00:16.509Z : creation aborted, post title উত্তরায় র‍্যাব ক্যাম্পের পাশে বোমা বিস্ফোরণে বহনকারী নিহত
+2017-03-17T09:00:16.510Z : creation aborted, post title কেরানীগঞ্জে দুস্থ নারীদের জন্য সেলাই মেশিন
+2017-03-17T09:00:16.510Z : creation aborted, post title ৩৮ হাজার টাকায় বিক্রি হলো কৈ কোরালটি
+2017-03-17T09:00:16.510Z : creation aborted, post title শ্রীলঙ্কার ৩৩৮ পেরিয়ে টাইগারদের লিড
+2017-03-17T09:00:16.750Z : creation aborted, post title ঢাকা-ময়মনসিংহ রুটে ট্রেন চলাচল স্বাভাবিক
+2017-03-17T09:00:16.750Z : creation aborted, post title ‘সামরিক চুক্তির তথ্য না দেওয়ায় প্রশ্ন উঠছে’
+2017-03-17T09:00:16.750Z : creation aborted, post title ‘প্রকৃত ক্ষতিগ্রস্তদের শনাক্ত করে পুনর্বাসন করা হবে’
+2017-03-17T09:00:17.627Z : creation aborted, post title পদ্মাপাড়ে পাঁচ দিনব্যাপী চলচ্চিত্র উৎসব শুরু বিকেলে
+2017-03-17T09:00:17.627Z : creation aborted, post title গুজরাটে চলন্ত গাড়িতে বাবার সামনে দুই মেয়েকে গণধর্ষণ
+2017-03-17T09:00:17.627Z : creation aborted, post title জঙ্গি ধরিয়ে দিয়ে জীবন শংকায় তারা 
+2017-03-17T09:00:17.627Z : creation aborted, post title বঙ্গবন্ধুর জন্মদিন উদযাপন ডিএসসিসি’র
+2017-03-17T09:00:17.629Z : creation aborted, post title দীপিকার পোশাক ফারিয়ার গায়ে (ভিডিও)
+2017-03-17T09:00:17.656Z : creation aborted, post title ‘বঙ্গবন্ধুর জন্মদিন, বাংলাদেশের খুশির দিন’
+2017-03-17T09:00:17.656Z : creation aborted, post title লিডের অপেক্ষায় টাইগাররা
+2017-03-17T09:00:17.656Z : creation aborted, post title দ্বিতীয় দিন প্রোটিয়াদের লিড
+2017-03-17T09:00:17.656Z : creation aborted, post title কলকাতায় নানা আয়োজনে বঙ্গবন্ধুর জন্মবার্ষিকী উদযাপন
+2017-03-17T09:00:22.660Z : creation aborted, post title ভারতের বিপক্ষে বড় সংগ্রহের দিকে অস্ট্রেলিয়া
+2017-03-17T09:00:22.660Z : creation aborted, post title জয়পুরহাটে জামায়াত-শিবিরের ৪ নেতাকর্মী আটক
+2017-03-17T09:00:22.660Z : creation aborted, post title বঙ্গবন্ধুর স্বপ্ন বাস্তবায়নে কাজ করে যাচ্ছেন চিকিৎসকরা (ভিডিও)
+2017-03-17T09:00:22.665Z : creation aborted, post title উন্নয়নে শেখ হাসিনার বিকল্প নেই: আরিফুর রহমান
+2017-03-17T09:00:22.667Z : Finished bdnews24 parser
+2017-03-17T09:00:22.667Z : creation aborted, post title নজরুল বিশ্ববিদ্যালয়ে শিক্ষক সমিতি নির্বাচনে নীল দল জয়ী
+2017-03-17T09:10:04.648Z : Started bdnews24 parsing
+2017-03-17T09:10:05.730Z : Received RSS feed. 30 news found.
+2017-03-17T09:10:07.201Z : creation aborted, post title ঢাকা-ময়মনসিংহ রুটে ট্রেন চলাচল স্বাভাবিক
+2017-03-17T09:10:07.224Z : creation aborted, post title তামিম-ইমরুলকে জরিমানা
+2017-03-17T09:10:07.245Z : creation aborted, post title ‘দেশি মাছের এত দাম, সাহস হলো না’
+2017-03-17T09:10:08.113Z : creation success, post title শততম টেস্টে সেঞ্চুরি করে ফিরলেন সাকিব
+2017-03-17T09:10:08.114Z : creation success, post title টাকাওয়ালা বুঝলেই পিছু নেয় নুরুল আবছার !
+2017-03-17T09:10:08.115Z : creation aborted, post title সাঘাটায় আ. লীগের দু’গ্রুপের সংঘর্ষ, আহত ৬
+2017-03-17T09:10:08.115Z : creation aborted, post title শততম টেস্টে সাকিবের সেঞ্চুরি
+2017-03-17T09:10:08.115Z : creation aborted, post title শততম টেস্টে অভিষিক্ত মোসাদ্দেকের অর্ধশতক
+2017-03-17T09:10:08.115Z : creation aborted, post title উত্তরায় র‍্যাব ক্যাম্পের পাশে বোমা বিস্ফোরণে বহনকারী নিহত
+2017-03-17T09:10:08.115Z : creation aborted, post title নারীর প্রতি সহিংসতা রোধে হাইকোর্টের রায় বাস্তবায়ন বিষয়ক সেমিনার
+2017-03-17T09:10:08.115Z : creation aborted, post title ৩৮ হাজার টাকায় বিক্রি হলো কৈ কোরালটি
+2017-03-17T09:10:08.115Z : creation aborted, post title শ্রীলঙ্কার ৩৩৮ পেরিয়ে টাইগারদের লিড
+2017-03-17T09:10:08.115Z : creation aborted, post title ‘সামরিক চুক্তির তথ্য না দেওয়ায় প্রশ্ন উঠছে’
+2017-03-17T09:10:08.115Z : creation aborted, post title ছাত্রলীগের সব ইতিবাচক সংবাদ বর্জন করবে ঢাবিসাস
+2017-03-17T09:10:08.115Z : creation aborted, post title কেরানীগঞ্জে দুস্থ নারীদের জন্য সেলাই মেশিন
+2017-03-17T09:10:08.115Z : creation aborted, post title কসবায় অজ্ঞাতপরিচয় এক ব্যক্তির মরদেহ উদ্ধার
+2017-03-17T09:10:08.138Z : creation aborted, post title ‘প্রকৃত ক্ষতিগ্রস্তদের শনাক্ত করে পুনর্বাসন করা হবে’
+2017-03-17T09:10:08.148Z : creation aborted, post title ছায়ানীড় ভবনে নিহতদের মরদেহ চমেক মর্গে
+2017-03-17T09:10:08.153Z : creation aborted, post title পদ্মাপাড়ে পাঁচ দিনব্যাপী চলচ্চিত্র উৎসব শুরু বিকেলে
+2017-03-17T09:10:08.173Z : creation aborted, post title ভারতের বিপক্ষে বড় সংগ্রহের দিকে অস্ট্রেলিয়া
+2017-03-17T09:10:08.196Z : creation aborted, post title গুজরাটে চলন্ত গাড়িতে বাবার সামনে দুই মেয়েকে গণধর্ষণ
+2017-03-17T09:10:08.207Z : creation aborted, post title ‘বঙ্গবন্ধুর জন্মদিন, বাংলাদেশের খুশির দিন’
+2017-03-17T09:10:08.214Z : creation aborted, post title জয়পুরহাটে জামায়াত-শিবিরের ৪ নেতাকর্মী আটক
+2017-03-17T09:10:08.218Z : creation aborted, post title লিডের অপেক্ষায় টাইগাররা
+2017-03-17T09:10:08.226Z : creation aborted, post title জঙ্গি ধরিয়ে দিয়ে জীবন শংকায় তারা 
+2017-03-17T09:10:08.258Z : creation aborted, post title দ্বিতীয় দিন প্রোটিয়াদের লিড
+2017-03-17T09:10:08.258Z : creation aborted, post title বঙ্গবন্ধুর স্বপ্ন বাস্তবায়নে কাজ করে যাচ্ছেন চিকিৎসকরা (ভিডিও)
+2017-03-17T09:10:08.258Z : creation aborted, post title বঙ্গবন্ধুর জন্মদিন উদযাপন ডিএসসিসি’র
+2017-03-17T09:10:08.279Z : creation aborted, post title উন্নয়নে শেখ হাসিনার বিকল্প নেই: আরিফুর রহমান
+2017-03-17T09:10:08.293Z : creation aborted, post title কলকাতায় নানা আয়োজনে বঙ্গবন্ধুর জন্মবার্ষিকী উদযাপন
+2017-03-17T09:10:08.294Z : Finished bdnews24 parser
+2017-03-17T13:59:04.200Z : Started bdnews24 parsing
+2017-03-17T13:59:04.921Z : Received RSS feed. 30 news found.
+2017-03-17T14:00:04.039Z : Started bdnews24 parsing
+2017-03-17T14:00:04.695Z : Received RSS feed. 30 news found.
+2017-03-17T14:59:05.296Z : Started bdnews24 parsing
+2017-03-17T14:59:05.968Z : Received RSS feed. 30 news found.
+2017-03-17T14:59:08.876Z : creation success, post title দল পাচ্ছে না সাকিব-মোস্তাফিজ!
+2017-03-17T14:59:08.876Z : creation success, post title শেখ হাসিনার কল্যাণে বাংলাদেশের মানচিত্র বদলে গেছে
+2017-03-17T14:59:08.876Z : creation success, post title বোয়ালখালীতে বঙ্গবন্ধুর জন্মদিনের অনুষ্ঠানে হট্টগোল
+2017-03-17T14:59:08.876Z : creation success, post title কালীগঞ্জে গাঁজাসহ বিক্রেতা আটক
+2017-03-17T14:59:08.876Z : creation success, post title ‘জঙ্গিবিরোধী’ ব্লক রেইডে আটক জামায়াত নেতা
+2017-03-17T14:59:08.922Z : creation success, post title মাশরাফির চোখে টেস্টের ফলাফল
+2017-03-17T14:59:08.922Z : creation success, post title শ্যামনগরে মেম্বারের বিরুদ্ধে প্রতিপক্ষের ঘরে আগুন দেওয়ার অভিযোগ
+2017-03-17T14:59:08.977Z : creation success, post title কসবায় উদ্ধার নিহতের বিরুদ্ধে ১১ মামলা
+2017-03-17T14:59:09.052Z : creation success, post title নানা কর্মসূচিতে দেশব্যাপী বঙ্গবন্ধুর জন্মবার্ষিকী উদযাপন
+2017-03-17T14:59:09.127Z : creation success, post title স্পট ফিক্সিংয়ে পঞ্চম পাকিস্তানি নিষিদ্ধ
+2017-03-17T14:59:09.203Z : creation success, post title নির্বাচন স্বচ্ছ করতে বিএনপিকে প্রস্তাব দেওয়ার আহ্বান
+2017-03-17T14:59:09.203Z : creation success, post title বোমা বহনকারীর মরদেহ ঢামেকে
+2017-03-17T14:59:09.355Z : creation success, post title সেনবাগে ইউপি কার্যালয় থেকে ককটেল উদ্ধার
+2017-03-17T14:59:09.458Z : creation success, post title ছুটির দিনের অজুহাতে গণপরিবহনে নেয়া হচ্ছে বাড়তি ভাড়া!
+2017-03-17T14:59:09.593Z : creation success, post title বাচ্চু, সামিনা, অমিতাভ, পিয়া, শিরোনামহীন একমঞ্চে
+2017-03-17T14:59:09.792Z : creation success, post title রুম দখল নিয়ে রোকেয়া হলে সাধারণ ছাত্রীদের ওপর ছাত্রলীগের হামলা
+2017-03-17T14:59:10.088Z : creation success, post title জাবিতে বঙ্গবন্ধু শেখ মুজিবুর রহমানের ৯৭তম জন্মবার্ষিকী উদযাপন
+2017-03-17T14:59:10.231Z : creation success, post title রাজ্জাকের কাঁধে আত্মবিশ্বাসী শেখ জামাল
+2017-03-17T14:59:10.442Z : creation success, post title হিন্দু ফাউন্ডেশনের বার্ষিক সাধারণ সভা ‍অনুষ্ঠিত
+2017-03-17T14:59:10.624Z : creation success, post title রাজশাহীতে প্রচার-প্রচারণা ছাড়াই আন্তর্জাতিক বাণিজ্য মেলা শুরু
+2017-03-17T14:59:10.824Z : creation success, post title ফরিদপুরে বিদ্যুৎস্পৃষ্ট হয়ে নির্মাণ শ্রমিকের মৃত্যু
+2017-03-17T14:59:11.920Z : creation success, post title গাংনীতে ১০ পিস ইয়াবাসহ মাদক ব্যবসায়ী গ্রেফতার
+2017-03-17T14:59:11.920Z : creation success, post title প্রতি উপজেলায় বঙ্গবন্ধুর প্রতিকৃতি চাই: সাহাবউদ্দিন 
+2017-03-17T14:59:12.540Z : creation success, post title এ কোন জয়া! (ভিডিও)
+2017-03-17T14:59:12.548Z : creation success, post title ঠাকুরগাঁওয়ে ফেনসিডিলসহ মাদক ব্যবসায়ী গ্রেফতার
+2017-03-17T14:59:12.855Z : creation success, post title ৬ কোচিং সেন্টার ও ৩ রেস্টুরেন্টকে জরিমানা
+2017-03-17T14:59:13.624Z : creation success, post title যুবলীগ চেয়ারম্যান চট্টগ্রামে আসছেন শনিবার  
+2017-03-17T14:59:14.323Z : creation success, post title ঢামেকে নেওয়া হচ্ছে বোমা বহনকারীর মরদেহ 
+2017-03-17T14:59:14.323Z : creation success, post title তামিম-রিয়াদ আবাহনীতে, রূপগঞ্জে মাশরাফি-মুশফিক
+2017-03-17T14:59:14.328Z : creation success, post title বার্সার প্রতিপক্ষ জুভেন্টাস, রিয়ালের বায়ার্ন
+2017-03-17T14:59:14.328Z : Finished bdnews24 parser
+2017-03-17T15:00:13.547Z : Started bdnews24 parsing
+2017-03-17T15:00:15.094Z : Received RSS feed. 30 news found.
+2017-03-17T15:00:22.113Z : creation success, post title ‘তুমি আমি এক’
+2017-03-17T15:00:22.114Z : creation aborted, post title কালীগঞ্জে গাঁজাসহ বিক্রেতা আটক
+2017-03-17T15:00:22.114Z : creation aborted, post title দল পাচ্ছে না সাকিব-মোস্তাফিজ!
+2017-03-17T15:00:22.120Z : creation aborted, post title শেখ হাসিনার কল্যাণে বাংলাদেশের মানচিত্র বদলে গেছে
+2017-03-17T15:00:22.120Z : creation aborted, post title বোয়ালখালীতে বঙ্গবন্ধুর জন্মদিনের অনুষ্ঠানে হট্টগোল
+2017-03-17T15:00:22.120Z : creation aborted, post title মাশরাফির চোখে টেস্টের ফলাফল
+2017-03-17T15:00:22.120Z : creation aborted, post title স্পট ফিক্সিংয়ে পঞ্চম পাকিস্তানি নিষিদ্ধ
+2017-03-17T15:00:22.120Z : creation aborted, post title কসবায় উদ্ধার নিহতের বিরুদ্ধে ১১ মামলা
+2017-03-17T15:00:22.120Z : creation aborted, post title নির্বাচন স্বচ্ছ করতে বিএনপিকে প্রস্তাব দেওয়ার আহ্বান
+2017-03-17T15:00:22.120Z : creation aborted, post title হিন্দু ফাউন্ডেশনের বার্ষিক সাধারণ সভা ‍অনুষ্ঠিত
+2017-03-17T15:00:22.120Z : creation aborted, post title রাজশাহীতে প্রচার-প্রচারণা ছাড়াই আন্তর্জাতিক বাণিজ্য মেলা শুরু
+2017-03-17T15:00:22.120Z : creation aborted, post title ‘জঙ্গিবিরোধী’ ব্লক রেইডে আটক জামায়াত নেতা
+2017-03-17T15:00:22.120Z : creation aborted, post title রাজ্জাকের কাঁধে আত্মবিশ্বাসী শেখ জামাল
+2017-03-17T15:00:22.660Z : creation aborted, post title ফরিদপুরে বিদ্যু���স্পৃষ্ট হয়ে নির্মাণ শ্রমিকের মৃত্যু
+2017-03-17T15:00:22.661Z : creation aborted, post title ঢামেকে নেওয়া হচ্ছে বোমা বহনকারীর মরদেহ 
+2017-03-17T15:00:22.661Z : creation aborted, post title তামিম-রিয়াদ আবাহনীতে, রূপগঞ্জে মাশরাফি-মুশফিক
+2017-03-17T15:00:23.240Z : creation aborted, post title বার্সার প্রতিপক্ষ জুভেন্টাস, রিয়ালের বায়ার্ন
+2017-03-17T15:00:26.547Z : creation aborted, post title ছুটির দিনের অজুহাতে গণপরিবহনে নেয়া হচ্ছে বাড়তি ভাড়া!
+2017-03-17T15:00:26.555Z : creation aborted, post title যুবলীগ চেয়ারম্যান চট্টগ্রামে আসছেন শনিবার  
+2017-03-17T15:00:36.734Z : creation aborted, post title শ্যামনগরে মেম্বারের বিরুদ্ধে প্রতিপক্ষের ঘরে আগুন দেওয়ার অভিযোগ
+2017-03-17T15:00:36.734Z : creation aborted, post title নানা কর্মসূচিতে দেশব্যাপী বঙ্গবন্ধুর জন্মবার্ষিকী উদযাপন
+2017-03-17T15:00:36.735Z : creation aborted, post title বোমা বহনকারীর মরদেহ ঢামেকে
+2017-03-17T15:00:36.735Z : creation aborted, post title গাংনীতে ১০ পিস ইয়াবাসহ মাদক ব্যবসায়ী গ্রেফতার
+2017-03-17T15:00:36.736Z : creation aborted, post title প্রতি উপজেলায় বঙ্গবন্ধুর প্রতিকৃতি চাই: সাহাবউদ্দিন 
+2017-03-17T15:00:36.735Z : creation aborted, post title জাবিতে বঙ্গবন্ধু শেখ মুজিবুর রহমানের ৯৭তম জন্মবার্ষিকী উদযাপন
+2017-03-17T15:00:36.736Z : creation aborted, post title এ কোন জয়া! (ভিডিও)
+2017-03-17T15:00:37.305Z : creation aborted, post title ঠাকুরগাঁওয়ে ফেনসিডিলসহ মাদক ব্যবসায়ী গ্রেফতার
+2017-03-17T15:00:37.305Z : creation aborted, post title ৬ কোচিং সেন্টার ও ৩ রেস্টুরেন্টকে জরিমানা
+2017-03-17T15:00:37.306Z : creation aborted, post title বাচ্চু, সামিনা, অমিতাভ, পিয়া, শিরোনামহীন একমঞ্চে
+2017-03-17T15:00:37.306Z : Finished bdnews24 parser
+2017-03-17T15:00:37.305Z : creation aborted, post title সেনবাগে ইউপি কার্যালয় থেকে ককটেল উদ্ধার
+2017-03-17T15:59:06.037Z : Started bdnews24 parsing
+2017-03-17T15:59:06.872Z : Received RSS feed. 30 news found.
+2017-03-17T15:59:09.758Z : creation aborted, post title নানা কর্মসূচিতে দেশব্যাপী বঙ্গবন্ধুর জন্মবার্ষিকী উদযাপন
+2017-03-17T15:59:10.315Z : creation success, post title আগরতলায় বঙ্গবন্ধুর জন্মবার্ষিকী ও শিশু দিবসে আলোচনা সভা
+2017-03-17T15:59:10.315Z : creation success, post title কদমতলিতে বিদ্যুৎস্পৃষ্টে নিহত ১
+2017-03-17T15:59:10.315Z : creation success, post title রাজশাহীতে পাঁচ দিনব্যাপী আন্তর্জাতিক চলচ্চিত্র উৎসব শুরু
+2017-03-17T15:59:10.316Z : creation success, post title ‘বাঁশফুল’ চালের ভাত আর ‘অমরি’ চালের খিচুড়ি  
+2017-03-17T15:59:10.316Z : creation success, post title র‌্যাব ক্যাম্পের পাশে বোমা বিস্ফোরণে খালেদার ইন্ধন রয়েছে
+2017-03-17T15:59:10.334Z : creation aborted, post title কালীগঞ্জে গাঁজাসহ বিক্রেতা আটক
+2017-03-17T15:59:10.316Z : creation success, post title মিরসরাইয়ে ট্রাকচাপায় মোটরসাইকেলের ২ আরোহী নিহত
+2017-03-17T15:59:10.316Z : creation failed, post title ‘বঙ্গবন্ধু মানুষের কথা ভেবেছেন বলেই তিনি জাতির পিতা’
+2017-03-17T15:59:10.316Z : creation success, post title ফানুসের আলোয় বঙ্গবন্ধুকে স্মরণ
+2017-03-17T15:59:10.334Z : creation aborted, post title দল পাচ্ছে না সাকিব-মোস্তাফিজ!
+2017-03-17T15:59:10.334Z : creation aborted, post title ‘তুমি আমি এক’
+2017-03-17T15:59:10.334Z : creation aborted, post title শেখ হাসিনার কল্যাণে বাংলাদেশের মানচিত্র বদলে গেছে
+2017-03-17T15:59:10.334Z : creation aborted, post title বোয়ালখালীতে বঙ্গবন্ধুর জন্মদিনের অনুষ্ঠানে হট্টগোল
+2017-03-17T15:59:10.334Z : creation aborted, post title ‘জঙ্গিবিরোধী’ ব্লক রেইডে আটক জামায়াত নেতা
+2017-03-17T15:59:10.334Z : creation aborted, post title মাশরাফির চোখে টেস্টের ফলাফল
+2017-03-17T15:59:10.334Z : creation aborted, post title কসবায় উদ্ধার নিহতের বিরুদ্ধে ১১ মামলা
+2017-03-17T15:59:10.334Z : creation aborted, post title শ্যামনগরে মেম্বারের বিরুদ্ধে প্রতিপক্ষের ঘরে আগুন দেওয়ার অভিযোগ
+2017-03-17T15:59:10.334Z : creation aborted, post title স্পট ফিক্সিংয়ে পঞ্চম পাকিস্তানি নিষিদ্ধ
+2017-03-17T15:59:10.821Z : creation aborted, post title বোমা বহনকারীর মরদেহ ঢামেকে
+2017-03-17T15:59:10.836Z : creation aborted, post title নির্বাচন স্বচ্ছ করতে বিএনপিকে প্রস্তাব দেওয়ার আহ্বান
+2017-03-17T15:59:10.872Z : creation aborted, post title জাবিতে বঙ্গবন্ধু শেখ মুজিবুর রহমানের ৯৭তম জন্মবার্ষিকী উদযাপন
+2017-03-17T15:59:10.892Z : creation aborted, post title গাংনীতে ১০ পিস ইয়াবাসহ মাদক ব্যবসায়ী গ্রেফতার
+2017-03-17T15:59:10.893Z : creation aborted, post title রাজ্জাকের কাঁধে আত্মবিশ্বাসী শেখ জামাল
+2017-03-17T15:59:10.922Z : creation aborted, post title হিন্দু ফাউন্ডেশনের বার্ষিক সাধারণ সভা ‍অনুষ্ঠিত
+2017-03-17T15:59:10.926Z : creation aborted, post title প্রতি উপজেলায় বঙ্গবন্ধুর প্রতিকৃতি চাই: সাহাবউদ্দিন 
+2017-03-17T15:59:10.936Z : creation aborted, post title রাজশাহীতে প্রচার-প্রচারণা ছাড়াই আন্তর্জাতিক বাণিজ্য মেলা শুরু
+2017-03-17T15:59:10.966Z : creation aborted, post title এ কোন জয়া! (ভিডিও)
+2017-03-17T15:59:10.971Z : creation aborted, post title ফরিদপুরে বিদ্যুৎস্পৃষ্ট হয়ে নির্মাণ শ্রমিকের মৃত্যু
+2017-03-17T15:59:10.992Z : creation aborted, post title ঠাকুরগাঁওয়ে ফেনসিডিলসহ মাদক ব্যবসায়ী গ্রেফতার
+2017-03-17T15:59:10.992Z : Finished bdnews24 parser
+2017-03-17T16:00:04.633Z : Started bdnews24 parsing
+2017-03-17T16:00:06.111Z : Received RSS feed. 30 news found.
+2017-03-17T16:00:09.228Z : creation failed, post title ‘বঙ্গবন্ধু মানুষের কথা ভেবেছেন বলেই তিনি জাতির পিতা’
+2017-03-17T16:00:09.230Z : creation aborted, post title আগরতলায় বঙ্গবন্ধুর জন্মবার্ষিকী ও শিশু দিবসে আলোচনা সভা
+2017-03-17T16:00:09.232Z : creation aborted, post title রাজশাহীতে পাঁচ দিনব্যাপী আন্তর্জাতিক চলচ্চিত্র উৎসব শুরু
+2017-03-17T16:00:09.232Z : creation aborted, post title কদমতলিতে বিদ্যুৎস্পৃষ্টে নিহত ১
+2017-03-17T16:00:09.232Z : creation aborted, post title ফানুসের আলোয় বঙ্গবন্ধুকে স্মরণ
+2017-03-17T16:00:09.232Z : creation aborted, post title র‌্যাব ক্যাম্পের পাশে বোমা বিস্ফোরণে খালেদার ইন্ধন রয়েছে
+2017-03-17T16:00:09.233Z : creation aborted, post title মিরসরাইয়ে ট্রাকচাপায় মোটরসাইকেলের ২ আরোহী নিহত
+2017-03-17T16:00:09.235Z : creation aborted, post title ‘বাঁশফুল’ চালের ভাত আর ‘অমরি’ চালের খিচুড়ি  
+2017-03-17T16:00:09.236Z : creation aborted, post title ‘তুমি আমি এক’
+2017-03-17T16:00:09.236Z : creation aborted, post title কালীগঞ্জে গাঁজাসহ বিক্রেতা আটক
+2017-03-17T16:00:09.236Z : creation aborted, post title দল পাচ্ছে না সাকিব-মোস্তাফিজ!
+2017-03-17T16:00:09.237Z : creation aborted, post title শেখ হাসিনার কল্যাণে বাংলাদেশের মানচিত্র বদলে গেছে
+2017-03-17T16:00:09.237Z : creation aborted, post title বোয়ালখালীতে বঙ্গবন্ধুর জন্মদিনের অনুষ্ঠানে হট্টগোল
+2017-03-17T16:00:09.237Z : creation aborted, post title ‘জঙ্গিবিরোধী’ ব্লক রেইডে আটক জামায়াত নেতা
+2017-03-17T16:00:09.238Z : creation aborted, post title মাশরাফির চোখে টেস্টের ফলাফল
+2017-03-17T16:00:09.255Z : creation aborted, post title শ্যামনগরে মেম্বারের বিরুদ্ধে প্রতিপক্ষের ঘরে আগুন দেওয়ার অভিযোগ
+2017-03-17T16:00:09.256Z : creation aborted, post title কসবায় উদ্ধার নিহতের বিরুদ্ধে ১১ মামলা
+2017-03-17T16:00:09.256Z : creation aborted, post title নানা কর্মসূচিতে দেশব্যাপী বঙ্গবন্ধুর জন্মবার্ষিকী উদযাপন
+2017-03-17T16:00:09.256Z : creation aborted, post title স্পট ফিক্সিংয়ে পঞ্চম পাকিস্তানি নিষিদ্ধ
+2017-03-17T16:00:09.256Z : creation aborted, post title বোমা বহনকারীর মরদেহ ঢামেকে
+2017-03-17T16:00:09.257Z : creation aborted, post title নির্বাচন স্বচ্ছ করতে বিএনপিকে প্রস্তাব দেওয়ার আহ্বান
+2017-03-17T16:00:09.266Z : creation aborted, post title জাবিতে বঙ্গবন্ধু শেখ মুজিবুর রহমানের ৯৭তম জন্মবার্ষিকী উদযাপন
+2017-03-17T16:00:09.267Z : creation aborted, post title রাজ্জাকের কাঁধে আত্মবিশ্বাসী শেখ জামাল
+2017-03-17T16:00:09.751Z : creation aborted, post title হিন্দু ফাউন্ডেশনের বার্ষিক সাধারণ সভা ‍অনুষ্ঠিত
+2017-03-17T16:00:09.752Z : creation aborted, post title রাজশাহীতে প্রচার-প্রচারণা ছাড়াই আন্তর্জাতিক বাণিজ্য মেলা শুরু
+2017-03-17T16:00:09.752Z : creation aborted, post title ফরিদপুরে বিদ্যুৎস্পৃষ্ট হয়ে নির্মাণ শ্রমিকের মৃত্যু
+2017-03-17T16:00:11.223Z : creation aborted, post title গাংনীতে ১০ পিস ইয়াবাসহ মাদক ব্যবসায়ী গ্রেফতার
+2017-03-17T16:00:11.224Z : creation aborted, post title প্রতি উপজেলায় বঙ্গবন্ধুর প্রত���কৃতি চাই: সাহাবউদ্দিন 
+2017-03-17T16:00:11.225Z : creation aborted, post title এ কোন জয়া! (ভিডিও)
+2017-03-17T16:00:11.225Z : creation aborted, post title ঠাকুরগাঁওয়ে ফেনসিডিলসহ মাদক ব্যবসায়ী গ্রেফতার
+2017-03-17T16:00:11.226Z : Finished bdnews24 parser
+2017-03-17T16:59:07.627Z : Started bdnews24 parsing
+2017-03-17T16:59:08.431Z : Received RSS feed. 30 news found.
+2017-03-17T16:59:11.946Z : creation success, post title ইউএস-বাংলার মাধ্যমে বাংলাদেশকে চিনবে বিশ্ব
+2017-03-17T16:59:11.946Z : creation success, post title সিডনিতে বঙ্গবন্ধুর জন্মদিন উদযাপন
+2017-03-17T16:59:11.946Z : creation success, post title জঙ্গি দম্পতি ১২ দিনের রিমান্ডে 
+2017-03-17T16:59:11.946Z : creation success, post title ‘বাসন্তী বানানোর দিন শেষ’ 
+2017-03-17T16:59:11.951Z : creation failed, post title ‘বঙ্গবন্ধু মানুষের কথা ভেবেছেন বলেই তিনি জাতির পিতা’
+2017-03-17T16:59:11.952Z : creation aborted, post title কদমতলিতে বিদ্যুৎস্পৃষ্টে নিহত ১
+2017-03-17T16:59:11.952Z : creation aborted, post title আগরতলায় বঙ্গবন্ধুর জন্মবার্ষিকী ও শিশু দিবসে আলোচনা সভা
+2017-03-17T16:59:12.035Z : creation aborted, post title বোয়ালখ���লীতে বঙ্গবন্ধুর জন্মদিনের অনুষ্ঠানে হট্টগোল
+2017-03-17T16:59:12.834Z : creation aborted, post title রাজশাহীতে পাঁচ দিনব্যাপী আন্তর্জাতিক চলচ্চিত্র উৎসব শুরু
+2017-03-17T16:59:12.834Z : creation aborted, post title র‌্যাব ক্যাম্পের পাশে বোমা বিস্ফোরণে খালেদার ইন্ধন রয়েছে
+2017-03-17T16:59:12.834Z : creation aborted, post title মিরসরাইয়ে ট্রাকচাপায় মোটরসাইকেলের ২ আরোহী নিহত
+2017-03-17T16:59:12.834Z : creation aborted, post title ‘বাঁশফুল’ চালের ভাত আর ‘অমরি’ চালের খিচুড়ি  
+2017-03-17T16:59:12.834Z : creation aborted, post title ফানুসের আলোয় বঙ্গবন্ধুকে স্মরণ
+2017-03-17T16:59:12.834Z : creation aborted, post title ‘তুমি আমি এক’
+2017-03-17T16:59:12.834Z : creation aborted, post title কালীগঞ্জে গাঁজাসহ বিক্রেতা আটক
+2017-03-17T16:59:12.834Z : creation aborted, post title দল পাচ্ছে না সাকিব-মোস্তাফিজ!
+2017-03-17T16:59:12.834Z : creation aborted, post title শেখ হাসিনার কল্যাণে বাংলাদেশের মানচিত্র বদলে গেছে
+2017-03-17T16:59:12.856Z : creation aborted, post title হিন্দু ফাউন্ডেশনের বার্ষিক সাধারণ সভা ‍অনুষ্ঠিত
+2017-03-17T16:59:13.364Z : creation aborted, post title মাশরাফির চোখে টেস্টের ফলাফল
+2017-03-17T16:59:13.365Z : creation aborted, post title কসবায় উদ্ধার নিহতের বিরুদ্ধে ১১ মামলা
+2017-03-17T16:59:13.365Z : creation aborted, post title স্পট ফিক্সিংয়ে পঞ্চম পাকিস্তানি নিষিদ্ধ
+2017-03-17T16:59:13.365Z : creation aborted, post title নির্বাচন স্বচ্ছ করতে বিএনপিকে প্রস্তাব দেওয়ার আহ্বান
+2017-03-17T16:59:13.365Z : creation aborted, post title গাংনীতে ১০ পিস ইয়াবাসহ মা���ক ব্যবসায়ী গ্রেফতার
+2017-03-17T16:59:13.365Z : creation aborted, post title প্রতি উপজেলায় বঙ্গবন্ধুর প্রতিকৃতি চাই: সাহাবউদ্দিন 
+2017-03-17T16:59:13.543Z : creation aborted, post title ‘জঙ্গিবিরোধী’ ব্লক রেইডে আটক জামায়াত নেতা
+2017-03-17T16:59:13.543Z : creation aborted, post title শ্যামনগরে মেম্বারের বিরুদ্ধে প্রতিপক্ষের ঘরে আগুন দেওয়ার অভিযোগ
+2017-03-17T16:59:13.543Z : creation aborted, post title নানা কর্মসূচিতে দেশব্যাপী বঙ্গবন্ধুর জন্মবার্ষিকী উদযাপন
+2017-03-17T16:59:13.543Z : creation aborted, post title বোমা বহনকারীর মরদেহ ঢামেকে
+2017-03-17T16:59:13.543Z : creation aborted, post title জাবিতে বঙ্গবন্ধু শেখ মুজিবুর রহমানের ৯৭তম জন্মবার্ষিকী উদযাপন
+2017-03-17T16:59:13.544Z : creation aborted, post title রাজ্জাকের কাঁধে আত্মবিশ্বাসী শেখ জামাল
+2017-03-17T16:59:13.544Z : Finished bdnews24 parser
+2017-03-17T17:00:04.844Z : Started bdnews24 parsing
+2017-03-17T17:59:08.638Z : Started bdnews24 parsing
+2017-03-17T17:59:09.888Z : Received RSS feed. 30 news found.
+2017-03-17T17:59:11.358Z : creation aborted, post title র‌্যাব ক্যাম্পের পাশে বোমা বিস্ফোরণে খালেদার ইন্ধন রয়েছে
+2017-03-17T17:59:11.385Z : creation aborted, post title ‘বাঁশফুল’ চালের ভাত আর ‘অমরি’ চালের খিচুড়ি  
+2017-03-17T17:59:11.397Z : creation aborted, post title কালীগঞ্জে গাঁজাসহ বিক্রেতা আটক
+2017-03-17T17:59:13.242Z : creation success, post title ইউএস-বাংলার মাধ্যমে বাংলাদেশকে চিনবে বিশ্ব
+2017-03-17T17:59:13.242Z : creation success, post title রায়পুরে বিদ্যুৎস্পৃষ্ট হয়ে দিন মজুরের মৃত্যু
+2017-03-17T17:59:13.242Z : creation failed, post title ‘বঙ্গবন্ধু মানুষের কথা ভেবেছেন বলেই তিনি জাতির পিতা’
+2017-03-17T17:59:13.246Z : creation aborted, post title জঙ্গি দম্পতি ১২ দিনের রিমান্ডে 
+2017-03-17T17:59:13.246Z : creation aborted, post title সিডনিতে বঙ্গবন্ধুর জন্মদিন উদযাপন
+2017-03-17T17:59:13.246Z : creation aborted, post title আগরতলায় বঙ্গবন্ধুর জন্মবার্ষিকী ও শিশু দিবসে আলোচনা সভা
+2017-03-17T17:59:13.246Z : creation aborted, post title ‘বাসন্তী বানানোর দিন শেষ’ 
+2017-03-17T17:59:13.246Z : creation aborted, post title রাজশাহীতে পাঁচ দিনব্যাপী আন্তর্জাতিক চলচ্চিত্র উৎসব শুরু
+2017-03-17T17:59:13.246Z : creation aborted, post title ফানুসের আলোয় বঙ্গবন্ধুকে স্মরণ
+2017-03-17T17:59:13.246Z : creation aborted, post title মিরসরাইয়ে ট্রাকচাপায় মোটরসাইকেলের ২ আরোহী নিহত
+2017-03-17T17:59:13.246Z : creation aborted, post title কদমতলিতে বিদ্যুৎস্পৃষ্টে নিহত ১
+2017-03-17T17:59:13.247Z : creation aborted, post title ‘তুমি আমি এক’
+2017-03-17T17:59:13.247Z : creation aborted, post title দল পাচ্ছে না সাকিব-মোস্তাফিজ!
+2017-03-17T17:59:13.364Z : creation aborted, post title বোয়ালখালীতে বঙ্গবন্ধুর জন্মদিনের অনুষ্ঠানে হট্টগোল
+2017-03-17T17:59:13.365Z : creation aborted, post title শ্যামনগরে মেম্বারের বিরুদ্ধে প্রতিপক্ষের ঘরে আগুন দেওয়ার অভিযোগ
+2017-03-17T17:59:13.382Z : creation aborted, post title ‘জঙ্গিবিরোধী’ ব্লক রেইডে আটক জামায়াত নেতা
+2017-03-17T17:59:13.382Z : creation aborted, post title কসবায় উদ্ধার নিহতের বিরুদ্ধে ১১ মামলা
+2017-03-17T17:59:13.382Z : creation aborted, post title শেখ হাসিনার কল্যাণে বাংলাদেশের মানচিত্র বদলে গেছে
+2017-03-17T17:59:13.383Z : creation aborted, post title নানা কর্মসূচিতে দেশব্যাপী বঙ্গবন্ধুর জন্মবার্ষিকী উদযাপন
+2017-03-17T17:59:13.383Z : creation aborted, post title মাশরাফির চোখে টেস্টের ফলাফল
+2017-03-17T17:59:13.463Z : creation aborted, post title স্পট ফিক্সিংয়ে পঞ্চম পাকিস্তানি নিষিদ্ধ
+2017-03-17T17:59:13.548Z : creation aborted, post title নির্বাচন স্বচ্ছ করতে বিএনপিকে প্রস্তাব দেওয়ার আহ্বান
+2017-03-17T17:59:13.549Z : creation aborted, post title বোমা বহনকারীর মরদেহ ঢামেকে
+2017-03-17T17:59:13.592Z : creation aborted, post title জাবিতে বঙ্গবন্ধু শেখ মুজিবুর রহমানের ৯৭তম জন্মবার্ষিকী উদযাপন
+2017-03-17T17:59:13.655Z : creation aborted, post title রাজ্জাকের কাঁধে আত্মবিশ্বাসী শেখ জামাল
+2017-03-17T17:59:13.665Z : creation aborted, post title গাংনীতে ১০ পিস ইয়াবাসহ মাদক ব্যবসায়ী গ্রেফতার
+2017-03-17T17:59:13.691Z : creation aborted, post title হিন্দু ফাউন্ডেশনের বার্ষিক সাধারণ সভা ‍অনুষ্ঠিত
+2017-03-17T17:59:13.692Z : Finished bdnews24 parser
+2017-03-17T18:00:11.253Z : Started bdnews24 parsing
+2017-03-17T18:00:12.584Z : Received RSS feed. 30 news found.
+2017-03-17T18:00:18.793Z : creation aborted, post title ‘বাঁশফুল’ চালের ভাত আর ‘অমরি’ চালের খিচুড়ি  
+2017-03-17T18:00:20.997Z : creation aborted, post title রায়পুরে বিদ্যুৎস্পৃষ্ট হয়ে দিন মজুরের মৃত্যু
+2017-03-17T18:00:20.997Z : creation aborted, post title সিডনিতে বঙ্গবন্ধুর জন্মদিন উদযাপন
+2017-03-17T18:00:20.998Z : creation aborted, post title ইউএস-বাংলার মাধ্যমে বাংলাদেশকে চিনবে বিশ্ব
+2017-03-17T18:00:21.002Z : creation aborted, post title জঙ্গি দম্পতি ১২ দিনের রিমান্ডে 
+2017-03-17T18:00:21.002Z : creation aborted, post title ‘বাসন্তী বানানোর দিন শেষ’ 
+2017-03-17T18:00:21.568Z : creation aborted, post title বোয়ালখালীতে বঙ্গবন্ধুর জন্মদিনের অনুষ্ঠানে হট্টগোল
+2017-03-17T18:00:21.568Z : creation aborted, post title কালীগঞ্জে গাঁজাসহ বিক্রেতা আটক
+2017-03-17T18:00:21.568Z : creation aborted, post title শ্যামনগরে মেম্বারের বিরুদ্ধে প্রতিপক্ষের ঘরে আগুন দেওয়ার অভিযোগ
+2017-03-17T18:00:21.666Z : creation failed, post title ‘বঙ্গবন্ধু মানুষের কথা ভেবেছেন বলেই তিনি জাতির পিতা’
+2017-03-17T18:00:21.667Z : creation aborted, post title আগরতলায় বঙ্গবন্ধুর জন্মবার্ষিকী ও শিশু দিবসে আলোচনা সভা
+2017-03-17T18:00:21.667Z : creation aborted, post title কদমতলিতে বিদ্যুৎস্পৃষ্টে নিহত ১
+2017-03-17T18:00:21.667Z : creation aborted, post title রাজশাহীতে পাঁচ দিনব্যাপী আন্তর্জাতিক চলচ্চিত্র উৎসব শুরু
+2017-03-17T18:00:21.669Z : creation aborted, post title ফানুসের আলোয় বঙ্গবন্ধুকে স্মরণ
+2017-03-17T18:00:21.669Z : creation aborted, post title র‌্যাব ক্যাম্পের পাশে বোমা বিস্ফোরণে খালেদার ইন্ধন রয়েছে
+2017-03-17T18:00:21.669Z : creation aborted, post title মিরসরাইয়ে ট্রাকচাপায় মোটরসাইকেলের ২ আরোহী নিহত
+2017-03-17T18:00:21.669Z : creation aborted, post title ‘তুমি আমি এক’
+2017-03-17T18:00:21.669Z : creation aborted, post title শেখ হাসিনার কল্যাণে বাংলাদ���শের মানচিত্র বদলে গেছে
+2017-03-17T18:00:21.669Z : creation aborted, post title মাশরাফির চোখে টেস্টের ফলাফল
+2017-03-17T18:00:21.900Z : creation aborted, post title নানা কর্মসূচিতে দেশব্যাপী বঙ্গবন্ধুর জন্মবার্ষিকী উদযাপন
+2017-03-17T18:00:21.901Z : creation aborted, post title স্পট ফিক্সিংয়ে পঞ্চম পাকিস্তানি নিষিদ্ধ
+2017-03-17T18:00:21.909Z : creation aborted, post title নির্বাচন স্বচ্ছ করতে বিএনপিকে প্রস্তাব দেওয়ার আহ্বান
+2017-03-17T18:00:21.953Z : creation aborted, post title রাজ্জাকের কাঁধে আত্মবিশ্বাসী শেখ জামাল
+2017-03-17T18:00:21.953Z : creation aborted, post title জাবিতে বঙ্গবন্ধু শেখ মুজিবুর রহমানের ৯৭তম জন্মবার্ষিকী উদযাপন
+2017-03-17T18:00:22.511Z : creation aborted, post title দল পাচ্ছে না সাকিব-মোস্তাফিজ!
+2017-03-17T18:00:22.512Z : creation aborted, post title ‘জঙ্গিবিরোধী’ ব্লক রেইডে আটক জামায়াত নেতা
+2017-03-17T18:00:22.514Z : creation aborted, post title হিন্দু ফাউন্ডেশনে��� বার্ষিক সাধারণ সভা ‍অনুষ্ঠিত
+2017-03-17T18:00:22.514Z : creation aborted, post title কসবায় উদ্ধার নিহতের বিরুদ্ধে ১১ মামলা
+2017-03-17T18:00:23.001Z : creation aborted, post title বোমা বহনকারীর মরদেহ ঢামেকে
+2017-03-17T18:00:23.002Z : creation aborted, post title গাংনীতে ১০ পিস ইয়াবাসহ মাদক ব্যবসায়ী গ্রেফতার
+2017-03-17T18:00:23.002Z : Finished bdnews24 parser
+2017-03-18T09:32:34.092Z : Started bdnews24 parsing
+2017-03-18T09:32:35.182Z : Received RSS feed. 30 news found.
+2017-03-18T09:32:35.547Z : creation success, post title বঙ্গবন্ধুর মতো দেশ গড়ার শিক্ষায় শিক্ষিত করতে হবে
+2017-03-18T09:32:35.547Z : creation success, post title লামায় মাতামুহুরী ডিগ্রি কলেজের ৩০ বছর পূর্তি উৎসব
+2017-03-18T09:32:35.547Z : creation success, post title বরিশালে কারেন্ট ও পাই জাল জব্দ
+2017-03-18T09:32:35.547Z : creation success, post title লঙ্কানদের চেপে ধরেছে বাংলাদেশ
+2017-03-18T09:32:35.547Z : creation success, post title কাঁপছে লঙ্কানরা, জ্বলছেন মোস্তাফিজ
+2017-03-18T09:32:35.547Z : creation success, post title প্যারিসে বিমানবন্দরে অস্ত্র ছিনতাইকারী গুলিতে নিহত
+2017-03-18T09:32:35.547Z : creation success, post title ঢাকায় জ্বলজ্বল করছে চ্যাম্পিয়নস ট্রফি
+2017-03-18T09:32:35.547Z : creation success, post title কী কারণে ভিনদেশে কনসার্ট করেনি অবসকিওর?
+2017-03-18T09:32:35.547Z : creation success, post title দ্বিতীয় সেশনে উজ্জ্বল বাংলাদেশ
+2017-03-18T09:32:35.547Z : creation success, post title ওয়ানডে অভিযানে শুভাগত-সোহানরা
+2017-03-18T09:32:35.547Z : creation success, post title উইকেটে কামিন্স ঝড়, টানা ব্যর্থ কোহলি
+2017-03-18T09:32:35.547Z : creation success, post title সিরিজ জয়ের স্বপ্ন নিয়ে দেশ ছাড়লেন মাশরাফি
+2017-03-18T09:32:35.547Z : creation success, post title হোসেনপুরে ১৭টি দোকান পুড়ে ছাই
+2017-03-18T09:32:35.548Z : creation success, post title জ্বলে উঠছেন কাটার মাস্টার
+2017-03-18T09:32:35.548Z : creation success, post title ‘জঙ্গি ইস্যুতে মিডিয়ার নিরপেক্ষ থাকার সুযোগ নেই’
+2017-03-18T09:32:35.551Z : creation success, post title সাভারে সড়ক দুর্ঘটনায় নারী শ্রমিক নিহত
+2017-03-18T09:32:35.551Z : creation success, post title নাটোরে বাসচাপায় অটোরিকশা যাত্রী নিহত
+2017-03-18T09:32:35.551Z : creation success, post title বেঙ্গালুরু বিস্ফোরণে আগরতলায় যুবক গ্রেফতার
+2017-03-18T09:32:35.551Z : creation success, post title হাসিনার সফরে দ্বিপাক্ষিক সম্পর্কে নতুন অধ্যায়
+2017-03-18T09:32:35.551Z : creation success, post title  ক্ষুদ্র ঋণ ও সামাজিক সুরক্ষার পরিধি বাড়াতে হবে  
+2017-03-18T09:32:35.551Z : creation success, post title সিলেটের প্রবীণ ব্যক্তিত্ব মোতওয়াল্লী মাহমুদের ইন্তেকাল
+2017-03-18T09:32:35.551Z : creation success, post title শাবি’র পরিসংখ্যান বিভাগের পুনর্মিলনী
+2017-03-18T09:32:35.551Z : creation success, post title কপি পেস্ট গান করলেন প্রীতম আহমেদ! (ভিডিও)
+2017-03-18T09:32:35.552Z : creation success, post title রাজধানীতে গাড়ির ধাক্কায় একজনের মৃত্যু
+2017-03-18T09:32:35.552Z : creation success, post title ব্যাংকের টাকা চুরির দায়ও আমাদের নিতে হয়: বিজিএমইএ
+2017-03-18T09:32:35.552Z : creation success, post title বাসা-বাড়িতে নতুন গ্যাস সংযোগ দেয়া হবে না
+2017-03-18T09:32:35.552Z : creation success, post title এই মার্চে সাবিনা ইয়াসমিন
+2017-03-18T09:32:35.552Z : creation success, post title মোস্তাফিজের পর শিকারে সাকিব
+2017-03-18T09:32:35.552Z : creation success, post title আগ্রায় তাজমহলের পাশে জোড়া বিস্ফোরণ
+2017-03-18T09:32:35.552Z : Finished bdnews24 parser
+2017-03-18T09:32:35.552Z : creation success, post title প্রথম ঢাকা আসছেন মক্কা-মদিনার প্রধান দুই ইমাম
+2017-03-18T11:59:02.668Z : Started bdnews24 parsing
+2017-03-18T11:59:03.533Z : Received RSS feed. 30 news found.
+2017-03-18T11:59:03.707Z : creation success, post title জঙ্গিদের তথ্য পেলে আইন-শৃঙ্খলা বাহিনীকে জানান
+2017-03-18T11:59:03.707Z : creation success, post title ইউরোপের প্রথম পরিবেশবান্ধব মসজিদ হচ্ছে ক্যামব্রিজে
+2017-03-18T11:59:03.707Z : creation success, post title জঙ্গিবাদের মাধ্যমে কখনও দেশের উন্নয়ন হতে পারে না
+2017-03-18T11:59:03.707Z : creation success, post title সাতক্ষীরায় আম উৎপাদন ও বিপণন বিষয়ক কর্মশালা
+2017-03-18T11:59:03.707Z : creation success, post title তাইজুলের প্রথম, টাইগারদের অষ্টম শিকার
+2017-03-18T11:59:03.707Z : creation success, post title জিপিএইচ গলফ টুর্নামেন্ট সম্পন্ন 
+2017-03-18T11:59:03.707Z : creation success, post title তৃতীয় দিন শেষেও ব্যাকফুটে কোহলির ভারত
+2017-03-18T11:59:03.707Z : creation success, post title শেষ বেলায় শিকারের অপেক্ষায় টাইগাররা
+2017-03-18T11:59:03.707Z : creation success, post title নাটোরে পিস্তল-গুলিসহ আটক যুবক কারাগারে
+2017-03-18T11:59:03.707Z : creation success, post title ব্যস্তসড়কে নিত্যঝুঁকির এপার-ওপার (ফটোস্টোরি)
+2017-03-18T11:59:03.707Z : creation success, post title ভালুকায় কাঁঠাল গাছে মিললো তরুণীর মরদেহ
+2017-03-18T11:59:03.707Z : creation success, post title রহস্য দ্বীপ (পর্ব-৩১)
+2017-03-18T11:59:03.707Z : creation success, post title ম্যাক, উইন্ডোজ, লিনাক্সে  ‘ক্রোম ৫৭’
+2017-03-18T11:59:03.710Z : creation success, post title গুলিতে মৃত্যু খিলগাঁওয়ের জঙ্গির
+2017-03-18T11:59:03.711Z : creation success, post title ‘সরকার প্রধানের কাছে ভুল তথ্য সরবরাহ নয়’
+2017-03-18T11:59:03.711Z : creation success, post title সুবর্ণচরে বজ্রপাতে কৃষকের মৃত্যু
+2017-03-18T11:59:03.711Z : creation success, post title আত্মঘাতী একা নয়, সঙ্গে ছিল ৭-৮ জন!
+2017-03-18T11:59:03.707Z : creation success, post title ট্রেলার বানাতে সময় লাগলো দুই মাস!
+2017-03-18T11:59:03.711Z : creation success, post title আকাশ থেকে দেখুন মালাক্কা শহর (ভিডিও)
+2017-03-18T11:59:03.711Z : creation success, post title কাতার কেরাত প্রতিযোগিতায় বাংলাদেশি কিশোর দ্বিতীয়
+2017-03-18T11:59:03.711Z : creation success, post title ফুলবাড়িয়ায় তুচ্ছ ঘটনায় ইটভাটা শ্রমিকের মৃত্যু
+2017-03-18T11:59:03.711Z : creation success, post title নান্দাইলে মাদক বিক্রেতা কারাগারে
+2017-03-18T11:59:03.711Z : creation success, post title দলীয় সরকারের অধীনে নির্বাচনে যাবে না বিএনপি
+2017-03-18T11:59:03.711Z : creation success, post title বঙ্গবন্ধু ছিলেন বিশ্বের বঞ্চিত মানুষের নেতা
+2017-03-18T11:59:03.711Z : creation success, post title শহুরে দরিদ্রদের আবাসন নিশ্চিত করতে হবে
+2017-03-18T11:59:03.711Z : creation success, post title আশার ফুল ফোটাতে চান আশরাফুল
+2017-03-18T11:59:03.711Z : creation success, post title বঙ্গবন্ধুর জন্ম না হলে বাংলাদেশ হতো না
+2017-03-18T11:59:03.711Z : creation success, post title সাকিব ফেরালেন গলার কাঁটা করুণারত্নেকে
+2017-03-18T11:59:03.707Z : creation success, post title নৌবাহিনীতে ২৯ জনের চাকরির সুযোগ
+2017-03-18T11:59:03.711Z : creation success, post title শিল্পকলা একাডেমিতে নিয়োগ
+2017-03-18T11:59:03.712Z : Finished bdnews24 parser
+2017-03-18T12:00:02.066Z : Started bdnews24 parsing
+2017-03-18T12:00:04.561Z : Received RSS feed. 30 news found.
+2017-03-18T12:00:04.690Z : creation aborted, post title জঙ্গিদের তথ্য পেলে আইন-শৃঙ্খলা বাহিনীকে জানান
+2017-03-18T12:00:04.690Z : creation aborted, post title সাতক্ষীরায় আম উৎপাদন ও বিপণন বিষয়ক কর্মশালা
+2017-03-18T12:00:04.690Z : creation aborted, post title জিপিএইচ গলফ টুর্নামেন্ট সম্পন্ন 
+2017-03-18T12:00:04.690Z : creation aborted, post title তৃতীয় দিন শেষেও ব্যাকফুটে কোহলির ভারত
+2017-03-18T12:00:04.690Z : creation aborted, post title ইউরোপের প্রথম পরিবেশবান্ধব মসজিদ হচ্ছে ক্যামব্রিজে
+2017-03-18T12:00:04.690Z : creation aborted, post title জঙ্গিবাদের মাধ্যমে কখনও দেশের উন্নয়ন হতে পারে না
+2017-03-18T12:00:04.690Z : creation aborted, post title ব্যস্তসড়কে নিত্যঝুঁকির এপার-ওপার (ফটোস্টোরি)
+2017-03-18T12:00:04.690Z : creation aborted, post title দলীয় সরকারের অধীনে নির্বাচনে যাবে না বিএনপি
+2017-03-18T12:00:04.690Z : creation aborted, post title ফুলবাড়িয়ায় তুচ্ছ ঘটনায় ইটভাটা শ্রমিকের মৃত্যু
+2017-03-18T12:00:04.690Z : creation aborted, post title নান্দাইলে মাদক বিক্রেতা কারাগারে
+2017-03-18T12:00:04.690Z : creation aborted, post title বঙ্গবন্ধু ছিলেন বিশ্বের বঞ্চিত মানুষের নেতা
+2017-03-18T12:00:04.690Z : creation aborted, post title শহুরে দরিদ্রদের আবাসন নিশ্চিত করতে হবে
+2017-03-18T12:00:04.691Z : creation aborted, post title আশার ফুল ফোটাতে চান আশরাফুল
+2017-03-18T12:00:04.691Z : creation aborted, post title বঙ্গবন্ধুর জন্ম না হলে বাংলাদেশ হতো না
+2017-03-18T12:00:04.691Z : creation aborted, post title সাকিব ফেরালেন গলার কাঁটা করুণারত্নে���ে
+2017-03-18T12:00:04.695Z : creation aborted, post title গুলিতে মৃত্যু খিলগাঁওয়ের জঙ্গির
+2017-03-18T12:00:04.696Z : creation aborted, post title সুবর্ণচরে বজ্রপাতে কৃষকের মৃত্যু
+2017-03-18T12:00:04.696Z : creation aborted, post title শিল্পকলা একাডেমিতে নিয়োগ
+2017-03-18T12:00:04.696Z : creation aborted, post title আত্মঘাতী একা নয়, সঙ্গে ছিল ৭-৮ জন!
+2017-03-18T12:00:04.696Z : creation aborted, post title কাতার কেরাত প্রতিযোগিতায় বাংলাদেশি কিশোর দ্বিতীয়
+2017-03-18T12:00:04.696Z : creation aborted, post title শেষ বেলায় শিকারের অপেক্ষায় টাইগাররা
+2017-03-18T12:00:04.695Z : creation aborted, post title ‘সরকার প্রধানের কাছে ভুল তথ্য সরবরাহ নয়’
+2017-03-18T12:00:04.696Z : creation aborted, post title তাইজুলের প্রথম, টাইগারদের অষ্টম শিকার
+2017-03-18T12:00:04.696Z : creation aborted, post title নাটোরে পিস্তল-গুলিসহ আটক যুবক কারাগারে
+2017-03-18T12:00:04.696Z : creation aborted, post title আকাশ থেকে দেখুন মালাক্কা শহর (ভিডিও)
+2017-03-18T12:00:04.697Z : creation aborted, post title ভালুকায় কাঁঠাল গাছে মিললো তরুণীর মরদেহ
+2017-03-18T12:00:04.697Z : creation aborted, post title ম্যাক, উইন্ডোজ, লিনাক্সে  ‘ক্রোম ৫৭’
+2017-03-18T12:00:04.697Z : creation aborted, post title রহস্য দ্বীপ (পর্ব-৩১)
+2017-03-18T12:00:04.697Z : creation aborted, post title নৌবাহিনীতে ২৯ জনের চাকরির সুযোগ
+2017-03-18T12:00:04.697Z : creation aborted, post title ট্রেলার বানাতে সময় লাগলো দুই মাস!
+2017-03-18T12:00:04.698Z : Finished bdnews24 parser
+2017-03-18T12:59:02.366Z : Started bdnews24 parsing
+2017-03-18T12:59:03.307Z : Received RSS feed. 30 news found.
+2017-03-18T12:59:03.439Z : creation success, post title ত্রিপুরা জুড়ে শিলাবৃষ্টি
+2017-03-18T12:59:03.440Z : creation success, post title ৯টি স্কুল নিয়ে ট্যালেন্ট হান্ট দাবা প্রতিযোগিতা
+2017-03-18T12:59:03.440Z : creation success, post title কলাপাড়ায় থ্রি-হুইলার থেকে পড়ে মাদ্রাসা ছাত্র নিহত
+2017-03-18T12:59:03.440Z : creation success, post title ত্রিপুরা হাইকোর্ট প্রশাসনিক ভবনের ভিত্তিপ্রস্তর স্থাপন
+2017-03-18T12:59:03.440Z : creation success, post title ‘প্রি-মৌসুমে’ হঠাৎ বৃষ্টি-বজ্রবৃষ্টি, সতর্ক থাকতে হবে
+2017-03-18T12:59:03.440Z : creation success, post title রাজধানীর পান্থপথে বৈদ্যুতিক খুঁটিতে আগুন
+2017-03-18T12:59:03.440Z : creation success, post title কম্পিউটার প্রোগ্রামিংয়ে বিশ্বে সবাই নজর দিচ্ছে
+2017-03-18T12:59:03.440Z : creation success, post title দলীয় সরকারের অধীনে নির্বাচনে যাবে না বিএনপি
+2017-03-18T12:59:03.440Z : creation success, post title ঢাবিকে স্থিতিশীল রাখতে শিক্ষক সমিতির আহ্বান
+2017-03-18T12:59:03.442Z : creation success, post title বাকৃবিতে আন্তঃহল বার্ষিক ক্রীড়া প্রতিযোগিতা শুরু
+2017-03-18T12:59:03.442Z : creation success, post title প্রযুক্তিগত উত্তরণ সম্পর্কে সচেতন করতে বিবিএফ’র সেমিনার
+2017-03-18T12:59:03.442Z : creation success, post title মাগুরা প্রেসক্লাবের সভাপতি বুলু শরীফ আর নেই
+2017-03-18T12:59:03.442Z : creation success, post title ‘দেবী’র সেটে ‘না’
+2017-03-18T12:59:03.442Z : creation success, post title রাজধানীতে বাস নিয়ন্ত্রণ হারিয়ে খাদে, নিহত ১
+2017-03-18T12:59:03.442Z : creation success, post title সাধের সঞ্চয় শেষ!
+2017-03-18T12:59:03.442Z : creation success, post title শততম টেস্টে জয়ের স্বপ্ন দেখছে বাংলাদেশ
+2017-03-18T12:59:03.443Z : creation success, post title মুফতি ইজাহারের মাদ্রাসায় তল্লাশি চালাচ্ছে পুলিশ
+2017-03-18T12:59:03.444Z : creation aborted, post title ‘সরকার প্রধানের কাছে ভুল তথ্য সরবরাহ নয়’
+2017-03-18T12:59:03.444Z : creation aborted, post title গুলিতে মৃত্যু খিলগাঁওয়ের জঙ্গির
+2017-03-18T12:59:03.444Z : creation aborted, post title শেষ বেলায় শিকারের অপেক্ষায় টাইগাররা
+2017-03-18T12:59:03.444Z : creation aborted, post title সুবর্ণচরে বজ্রপাতে কৃষকের মৃত্যু
+2017-03-18T12:59:03.444Z : creation aborted, post title তাইজুলের প্রথম, টাইগারদের অষ্টম শিকার
+2017-03-18T12:59:03.445Z : creation aborted, post title নাটোরে পিস্তল-গুলিসহ আটক যুবক কারাগারে
+2017-03-18T12:59:03.445Z : creation aborted, post title জঙ্গিদের তথ্য পেলে আইন-শৃঙ্খলা বাহিনীকে জানান
+2017-03-18T12:59:03.445Z : creation aborted, post title সাতক্ষীরায় আম উৎপাদন ও বিপণন বিষয়ক কর্মশালা
+2017-03-18T12:59:03.445Z : creation aborted, post title জিপিএইচ গলফ টুর্নামেন্ট সম্পন্ন 
+2017-03-18T12:59:03.445Z : creation aborted, post title তৃতীয় দিন শেষেও ব্যাকফুটে কোহলির ভারত
+2017-03-18T12:59:03.445Z : creation aborted, post title ফুলবাড়িয়ায় তুচ্ছ ঘটনায় ইটভাটা শ্রমিকের মৃত্যু
+2017-03-18T12:59:03.445Z : creation aborted, post title নান্দাইলে মাদক বিক্রেতা কারাগারে
+2017-03-18T12:59:03.445Z : creation aborted, post title বঙ্গবন্ধু ছিলেন বিশ্বের বঞ্চিত মানুষের নেতা
+2017-03-18T12:59:03.445Z : Finished bdnews24 parser
+2017-03-18T13:00:02.274Z : Started bdnews24 parsing
+2017-03-18T13:00:03.100Z : Received RSS feed. 30 news found.
+2017-03-18T13:00:03.204Z : creation aborted, post title ত্রিপুরা জুড়ে শিলাবৃষ্টি
+2017-03-18T13:00:03.204Z : creation aborted, post title ৯টি স্কুল নিয়ে ট্যালেন্ট হান্ট দাবা প্রতিযোগিতা
+2017-03-18T13:00:03.204Z : creation aborted, post title জঙ্গিদের তথ্য পেলে আইন-শৃঙ্খলা বাহিনীকে জানান
+2017-03-18T13:00:03.204Z : creation aborted, post title ঢাবিকে স্থিতিশীল রাখতে শিক্ষক সমিতির আহ্বান
+2017-03-18T13:00:03.204Z : creation aborted, post title কম্পিউটার প্রোগ্রামিংয়ে বিশ্বে সবাই নজর দিচ্ছে
+2017-03-18T13:00:03.204Z : creation aborted, post title সাতক্ষীরায় আম উৎপাদন ও বিপণন বিষয়ক কর্মশালা
+2017-03-18T13:00:03.205Z : creation aborted, post title রাজধানীতে বাস নিয়ন্ত্রণ হারিয়ে খাদে, নিহত ১
+2017-03-18T13:00:03.204Z : creation aborted, post title জিপিএইচ গলফ টুর্নামেন্ট সম্পন্ন 
+2017-03-18T13:00:03.205Z : creation aborted, post title সাধের সঞ্চয় শেষ!
+2017-03-18T13:00:03.205Z : creation aborted, post title বাকৃবিতে আন্তঃহল বার্ষিক ক্রীড়া প্রতিযোগিতা শুরু
+2017-03-18T13:00:03.205Z : creation aborted, post title তৃতীয় দিন শেষেও ব্যাকফুটে কোহলির ভারত
+2017-03-18T13:00:03.205Z : creation aborted, post title প্রযুক্তিগত উত্তরণ সম্পর্কে সচেতন করতে বিবিএফ’র সেমিনার
+2017-03-18T13:00:03.205Z : creation aborted, post title মাগুরা প্রেসক্লাবের সভাপতি বুলু শরীফ আর নেই
+2017-03-18T13:00:03.205Z : creation aborted, post title ‘দেবী’র সেটে ‘না’
+2017-03-18T13:00:03.205Z : creation aborted, post title গুলিতে মৃত্যু খিলগাঁওয়ের জঙ্গির
+2017-03-18T13:00:03.205Z : creation aborted, post title ‘সরকার প্রধানের কাছে ভুল তথ্য সরবরাহ নয়’
+2017-03-18T13:00:03.205Z : creation aborted, post title সুবর্ণচরে বজ্রপাতে কৃষকের মৃত্যু
+2017-03-18T13:00:03.205Z : creation aborted, post title রাজধানীর পান্থপথে বৈদ্যুতিক খুঁটিতে আগুন
+2017-03-18T13:00:03.205Z : creation aborted, post title কলাপাড়ায় থ্রি-হুইলার থেকে পড়ে মাদ্রাসা ছাত্র নিহত
+2017-03-18T13:00:03.205Z : creation aborted, post title ত্রিপুরা হাইকোর্ট প্রশাসনিক ভবনের ভিত্তিপ্রস্তর স্থাপন
+2017-03-18T13:00:03.205Z : creation aborted, post title ‘প্রি-মৌসুমে’ হঠাৎ বৃষ্টি-বজ্রবৃষ্টি, সতর্ক থাকতে হবে
+2017-03-18T13:00:03.205Z : creation aborted, post title দলীয় সরকারের অধীনে নির্বাচনে যাবে না বিএনপি
+2017-03-18T13:00:03.205Z : creation aborted, post title ফুলবাড়িয়ায় তুচ্ছ ঘটনায় ইটভাটা শ্রমিকের মৃত্যু
+2017-03-18T13:00:03.205Z : creation aborted, post title নান্দাইলে মাদক বিক্রেতা কারাগারে
+2017-03-18T13:00:03.206Z : creation aborted, post title বঙ্গবন্ধু ছিলেন বিশ্বের বঞ্চিত মানুষের নেতা
+2017-03-18T13:00:03.207Z : creation aborted, post title শেষ বেলায় শিকারের অপেক্ষায় টাইগাররা
+2017-03-18T13:00:03.207Z : creation aborted, post title মুফতি ইজাহারের মাদ্রাসায় তল্লাশি চালাচ্ছে পুলিশ
+2017-03-18T13:00:03.208Z : creation aborted, post title নাটোরে পিস্তল-গুলিসহ আটক যুবক কারাগারে
+2017-03-18T13:00:03.207Z : creation aborted, post title তাইজুলের প্রথম, টাইগারদের অষ্টম শিকার
+2017-03-18T13:00:03.207Z : creation aborted, post title শততম টেস্টে জয়ের স্বপ্ন দেখছে বাংলাদেশ
+2017-03-18T13:00:03.208Z : Finished bdnews24 parser
+2017-03-18T13:59:05.005Z : Started bdnews24 parsing
+2017-03-18T13:59:05.696Z : Received RSS feed. 30 news found.
+2017-03-18T13:59:05.931Z : creation aborted, post title রাজধানীর পান্থপথে বৈদ্যুতিক খুঁটিতে আগুন
+2017-03-18T13:59:05.931Z : creation aborted, post title শততম টেস্টে জয়ের স্বপ্ন দেখছে বাংলাদেশ
+2017-03-18T13:59:05.931Z : creation aborted, post title ঢাবিকে স্থিতিশীল রাখতে শিক্ষক সমিতির আহ্বান
+2017-03-18T13:59:05.931Z : creation aborted, post title মাগুরা প্রেসক্লাবের সভাপতি বুলু শরীফ আর নেই
+2017-03-18T13:59:05.931Z : creation aborted, post title ৯টি স্কুল নিয়ে ট্যালেন্ট হান্ট দাবা প্রতিযোগিতা
+2017-03-18T13:59:05.931Z : creation aborted, post title কলাপাড়ায় থ্রি-হুইলার থেকে পড়ে মাদ্রাসা ছাত্র নিহত
+2017-03-18T13:59:05.931Z : creation aborted, post title সাধের সঞ্���য় শেষ!
+2017-03-18T13:59:05.931Z : creation aborted, post title রাজধানীতে বাস নিয়ন্ত্রণ হারিয়ে খাদে, নিহত ১
+2017-03-18T13:59:05.931Z : creation aborted, post title বাকৃবিতে আন্তঃহল বার্ষিক ক্রীড়া প্রতিযোগিতা শুরু
+2017-03-18T13:59:05.931Z : creation aborted, post title ত্রিপুরা জুড়ে শিলাবৃষ্টি
+2017-03-18T13:59:06.480Z : creation success, post title অনূর্ধ্ব-১৮ জাতীয় যুব ফুটবলে সাতক্ষীরা চ্যাম্পিয়ন
+2017-03-18T13:59:06.482Z : creation success, post title ঝিনাইদহে হত্যা মামলার আসামি গ্রেফতার
+2017-03-18T13:59:06.486Z : creation success, post title যশোরে জঙ্গি সন্দেহে নারীসহ আটক ৪
+2017-03-18T13:59:06.486Z : creation success, post title অনলাইনে ভ্যাট নিবন্ধন শুরু
+2017-03-18T13:59:06.491Z : creation success, post title নিভেছে পান্থপথের  বৈদ্যুতিক খুঁটির আগুন
+2017-03-18T13:59:06.492Z : creation aborted, post title ত্রিপুরা হাইকোর্ট প্রশাসনিক ভবনের ভিত্তিপ্রস্তর স্থাপন
+2017-03-18T13:59:06.492Z : creation aborted, post title প্রযুক্তিগত উত্তরণ সম্পর্কে সচেতন করতে বিবিএফ’র সেমিনার
+2017-03-18T13:59:06.498Z : creation success, post title ‘চাপে রাখতে’ ইজাহারের মাদ্রাসায় এক ঘন্টার অভিযান
+2017-03-18T13:59:06.505Z : creation success, post title ‘সন্তানদের পড়ানোর পাশাপাশি দুই ঘণ্টা রোদে রাখুন’
+2017-03-18T13:59:06.515Z : creation success, post title ছালেহ জহুর-লায়লা ক্রিকেট টুর্নামেন্টের উদ্বোধন
+2017-03-18T13:59:06.524Z : creation success, post title দৌলতপুরে পানিতে ডুবে শিশুর মৃত্যু
+2017-03-18T13:59:06.560Z : creation success, post title সৈয়দপুরে ইউপি সদস্য আটক
+2017-03-18T13:59:06.560Z : creation success, post title ‘তথ্য-উপাত্ত সংগ্রহ করে ঘরভাড়া দিতে হবে’
+2017-03-18T13:59:06.561Z : creation success, post title সাইফ-রাজুরা যাচ্ছেন শ্রীলঙ্কায়
+2017-03-18T13:59:06.602Z : creation success, post title শুভেচ্ছা দূত আফ্রিদি
+2017-03-18T13:59:06.604Z : creation success, post title প্রতিদিনের কেনাকাটায় নিত্য-পণ্যডটকম
+2017-03-18T13:59:06.605Z : creation success, post title ধর্ম কখনো জবরদস্তি শেখায় না
+2017-03-18T13:59:06.611Z : creation success, post title শখে-প্রয়োজনে স্কুটি 
+2017-03-18T13:59:06.613Z : creation success, post title জনগণের ওপর প্রতিশোধ নিতেই নাগরিক কালো আইন
+2017-03-18T13:59:06.628Z : creation success, post title রেলক্রসিং যেন মৃত্যুফাঁদ
+2017-03-18T13:59:06.628Z : Finished bdnews24 parser
+2017-03-18T14:00:01.913Z : Started bdnews24 parsing
+2017-03-18T14:00:03.849Z : Received RSS feed. 30 news found.
+2017-03-18T14:00:03.947Z : creation aborted, post title নিভেছে পান্থপথের  বৈদ্যুতিক খুঁটির আগুন
+2017-03-18T14:00:03.947Z : creation aborted, post title জনগণের ওপর প্রতিশোধ নিতেই নাগরিক কালো আইন
+2017-03-18T14:00:03.947Z : creation aborted, post title রেলক্রসিং যেন মৃত্যুফাঁদ
+2017-03-18T14:00:03.947Z : creation aborted, post title সাইফ-রাজুরা যাচ্ছেন শ্রীলঙ্কায়
+2017-03-18T14:00:03.948Z : creation aborted, post title দৌলতপুরে পানিতে ডুবে শিশুর মৃত্যু
+2017-03-18T14:00:03.947Z : creation aborted, post title অনূর্ধ্ব-১৮ জাতীয় যুব ফুটবল��� সাতক্ষীরা চ্যাম্পিয়ন
+2017-03-18T14:00:03.948Z : creation aborted, post title প্রতিদিনের কেনাকাটায় নিত্য-পণ্যডটকম
+2017-03-18T14:00:03.947Z : creation aborted, post title অনলাইনে ভ্যাট নিবন্ধন শুরু
+2017-03-18T14:00:03.948Z : creation aborted, post title ঝিনাইদহে হত্যা মামলার আসামি গ্রেফতার
+2017-03-18T14:00:03.948Z : creation aborted, post title ‘তথ্য-উপাত্ত সংগ্রহ করে ঘরভাড়া দিতে হবে’
+2017-03-18T14:00:03.948Z : creation aborted, post title রাজধানীতে বাস নিয়ন্ত্রণ হারিয়ে খাদে, নিহত ১
+2017-03-18T14:00:03.948Z : creation aborted, post title সাধের সঞ্���য় শেষ!
+2017-03-18T14:00:03.950Z : creation aborted, post title ‘চাপে রাখতে’ ইজাহারের মাদ্রাসায় এক ঘন্টার অভিযান
+2017-03-18T14:00:03.950Z : creation aborted, post title শুভেচ্ছা দূত আফ্রিদি
+2017-03-18T14:00:03.950Z : creation aborted, post title ধর্ম কখনো জবরদস্তি শেখায় না
+2017-03-18T14:00:03.950Z : creation aborted, post title ত্রিপুরা জুড়ে শিলাবৃষ্টি
+2017-03-18T14:00:03.950Z : creation aborted, post title ছালেহ জহুর-লায়লা ক্রিকেট টুর্নামেন্টের উদ্বোধন
+2017-03-18T14:00:03.950Z : creation aborted, post title সৈয়দপুরে ইউপি সদস্য আটক
+2017-03-18T14:00:03.950Z : creation aborted, post title ‘সন্তানদের পড়ানোর পাশাপাশি দুই ঘণ্টা রোদে রাখুন’
+2017-03-18T14:00:03.950Z : creation aborted, post title যশোরে জঙ্গি সন্দেহে নারীসহ আটক ৪
+2017-03-18T14:00:03.950Z : creation aborted, post title শখে-প্রয়োজনে স্কুটি 
+2017-03-18T14:00:03.950Z : creation aborted, post title রাজধানীর পান্থপথে বৈদ্যুতিক খুঁটিতে আগুন
+2017-03-18T14:00:03.951Z : creation aborted, post title কলাপাড়ায় থ্রি-হুইলার থেকে পড়ে মাদ্রাসা ছাত্র নিহত
+2017-03-18T14:00:03.951Z : creation aborted, post title ত্রিপুরা হাইকোর্ট প্রশাসনিক ভবনের ভিত্তিপ্রস্তর স্থাপন
+2017-03-18T14:00:03.951Z : creation aborted, post title ৯টি স্কুল নিয়ে ট্যালেন্ট হান্ট দাবা প্রতিযোগিতা
+2017-03-18T14:00:03.951Z : creation aborted, post title মাগুরা প্রেসক্লাবের সভাপতি বুলু শরীফ আর নেই
+2017-03-18T14:00:03.952Z : creation aborted, post title শততম টেস্টে জয়ের স্বপ্ন দেখছে বাংলাদেশ
+2017-03-18T14:00:03.952Z : creation aborted, post title প্রযুক্তিগত উত্তরণ সম্পর্কে সচেতন করতে বিবিএফ’র সেমিনার
+2017-03-18T14:00:03.952Z : creation aborted, post title ঢাবিকে স্থিতিশীল রাখতে শিক্ষক সমিতির আহ্বান
+2017-03-18T14:00:03.952Z : creation aborted, post title বাকৃবিতে আন্তঃহল বার্ষিক ক্রীড়া প্রতিযোগিতা শুরু
+2017-03-18T14:00:03.952Z : Finished bdnews24 parser
+2017-03-18T14:59:06.216Z : Started bdnews24 parsing
+2017-03-18T14:59:06.911Z : Received RSS feed. 30 news found.
+2017-03-18T14:59:08.526Z : creation success, post title গেইল-স্যামি ছাড়াই ক্যারিবীয়ান স্কোয়াড
+2017-03-18T14:59:08.527Z : creation success, post title ভৈরবে ২ শতাধিক দোকান পুড়ে ছাই
+2017-03-18T14:59:08.528Z : creation success, post title জয়পুরহাটে ট্রেনে কাটা পড়ে মা-মেয়ের মৃত্যু  
+2017-03-18T14:59:08.529Z : creation success, post title রোববার বিআরটিএ’তে যাচ্ছে ‘স্যাম’
+2017-03-18T14:59:08.533Z : creation success, post title ইতালিতে বঙ্গবন্ধুর জন্মদিন উদযাপন
+2017-03-18T14:59:08.600Z : creation success, post title রাজধানীর বিমানবন্দরে পালাতে গিয়ে যুবকের মৃত্যু
+2017-03-18T14:59:08.622Z : creation success, post title জঙ্গি বিস্তারে সোশ্যাল মিডিয়াকে দুষলেন আইজিপি
+2017-03-18T14:59:08.625Z : creation success, post title পুলিশি হামলায় টুর্নামেন্ট পণ্ড, আ’লীগের ক্ষোভ 
+2017-03-18T14:59:08.626Z : creation aborted, post title সৈয়দপুরে ইউপি সদস্য আটক
+2017-03-18T14:59:08.626Z : creation aborted, post title ঝিনাইদহে হত্যা মামলার আসামি গ্রেফতার
+2017-03-18T14:59:08.666Z : creation success, post title তথ্য-প্রযুক্তির প্রথম বেসরকারি বিশ্ববিদ্যালয় ইউআইটিএস
+2017-03-18T14:59:08.671Z : creation success, post title রাজনীতিতে সাময়িক বিরতি মুফতি ইজাহারের
+2017-03-18T14:59:08.701Z : creation success, post title গোপালগঞ্জে গলায় ওড়না পেঁচিয়ে ২ স্কুলছাত্রীর আত্মহত্যা
+2017-03-18T14:59:08.702Z : creation success, post title গোয়ালন্দে পাগলা কুকুরের কামড়ে ১১ জন আহত
+2017-03-18T14:59:08.703Z : creation success, post title ‘বিশ্ববিদ্যালয়ের গুরুত্বপূর্ণ শক্তি অ্যালামনাই’
+2017-03-18T14:59:08.855Z : creation success, post title নাকুগাঁও স্থলবন্দরে এনবিআর’র মতবিনিময়
+2017-03-18T14:59:08.917Z : creation success, post title ফতুল্লায় স্ত্রীর সঙ্গে অভিমান করে স্বামীর আত্মহত্যা
+2017-03-18T14:59:08.918Z : creation success, post title দেশের উন্নয়নে আওয়ামী লীগের কোনো বিকল্প নেই       
+2017-03-18T14:59:08.987Z : creation success, post title অমিত-নোশিন চ্যাম্পিয়ন
+2017-03-18T14:59:08.988Z : creation aborted, post title নিভেছে পান্থপথের  বৈদ্যুতিক খুঁটির আগুন
+2017-03-18T14:59:09.052Z : creation aborted, post title দৌলতপুরে পানিতে ডুবে শিশুর মৃত্যু
+2017-03-18T14:59:09.053Z : creation success, post title জনগণ-প্রশাসন চাইলে একটি জেলায় শিল্প প্রতিষ্ঠান গড়ে ওঠে
+2017-03-18T14:59:09.054Z : creation aborted, post title অনলাইনে ভ্যাট নিবন্ধন শুরু
+2017-03-18T14:59:09.054Z : creation aborted, post title জনগণের ওপর প্রতিশোধ নিতেই নাগরিক কালো আইন
+2017-03-18T14:59:09.065Z : creation success, post title ঘিওরে ঘরের নিচে চাপা পড়ে কৃষকের মৃত্যু
+2017-03-18T14:59:09.065Z : creation aborted, post title ‘চাপে রাখতে’ ইজাহারের মাদ্রাসায় এক ঘন্টার অভিযান
+2017-03-18T14:59:09.067Z : creation success, post title ইনিয়েস্তার অবসর ভাবনা, এনরিকের মন্তব্য
+2017-03-18T14:59:09.065Z : creation aborted, post title ‘সন্তানদের পড়ানোর পাশাপাশি দুই ঘণ্টা রোদে রাখুন’
+2017-03-18T14:59:09.067Z : creation aborted, post title অনূর্ধ্ব-১৮ জাতীয় যুব ফুটবলে সাতক্ষীরা চ্যাম্পিয়ন
+2017-03-18T14:59:09.067Z : creation aborted, post title শুভেচ্ছা দূত আফ্রিদি
+2017-03-18T14:59:09.068Z : Finished bdnews24 parser
+2017-03-18T15:00:01.875Z : Started bdnews24 parsing
+2017-03-18T15:00:04.515Z : Received RSS feed. 30 news found.
+2017-03-18T15:00:04.601Z : creation aborted, post title ভৈরবে ২ শতাধিক দোকান পুড়ে ছাই
+2017-03-18T15:00:04.601Z : creation aborted, post title জঙ্গি বিস্তারে সোশ্যাল মিডিয়াকে দুষলেন আইজিপি
+2017-03-18T15:00:04.601Z : creation aborted, post title দেশের উন্নয়নে আওয়ামী লীগের কোনো বিকল্প নেই       
+2017-03-18T15:00:04.601Z : creation aborted, post title জনগণ-প্রশাসন চাইলে একটি জেলায় শিল্প প্রতিষ্ঠান গড়ে ওঠে
+2017-03-18T15:00:04.601Z : creation aborted, post title ঘিওরে ঘরের নিচে চাপা পড়ে কৃষকের মৃত্যু
+2017-03-18T15:00:04.601Z : creation aborted, post title জয়পুরহাটে ট্রেনে কাটা পড়ে মা-মেয়ের মৃত্যু  
+2017-03-18T15:00:04.601Z : creation aborted, post title ‘বিশ্ববিদ্যালয়ের গুরুত্বপূর্ণ শক্তি অ্যালামনাই’
+2017-03-18T15:00:04.601Z : creation aborted, post title গোপালগঞ্জে গলায় ওড়না পেঁচিয়ে ২ স্কুলছাত্রীর আত্মহত্যা
+2017-03-18T15:00:04.601Z : creation aborted, post title ইতালিতে বঙ্গবন্ধুর জন্মদিন উদযাপন
+2017-03-18T15:00:04.601Z : creation aborted, post title ফতুল্লায় স্ত্রীর সঙ্গে অভিমান করে স্বামীর আত্মহত্যা
+2017-03-18T15:00:04.601Z : creation aborted, post title অনূর্ধ্ব-১৮ জাতীয় যুব ফুটবলে সাতক্ষীরা চ্যাম্পিয়ন
+2017-03-18T15:00:04.601Z : creation aborted, post title দৌলতপুরে পানিতে ডুবে শিশুর মৃত্যু
+2017-03-18T15:00:04.601Z : creation aborted, post title ঝিনাইদহে হত্যা মামলার আসামি গ্রেফতার
+2017-03-18T15:00:04.603Z : creation aborted, post title গোয়ালন্দে পাগলা কুকুরের কামড়ে ১১ জন আহত
+2017-03-18T15:00:04.603Z : creation aborted, post title অমিত-নোশিন চ্যাম্পিয়ন
+2017-03-18T15:00:04.603Z : creation aborted, post title ইনিয়েস্তার অবসর ভাবনা, এনরিকের মন্তব্য
+2017-03-18T15:00:04.603Z : creation aborted, post title তথ্য-প্রযুক্তির প্রথম বেসরকারি বিশ্ববিদ্যালয় ইউআইটিএস
+2017-03-18T15:00:04.603Z : creation aborted, post title গেইল-স্যামি ছাড়াই ক্যারিবীয়ান স্কোয়াড
+2017-03-18T15:00:04.603Z : creation aborted, post title পুলিশি হামলায় টুর্না���েন্ট পণ্ড, আ’লীগের ক্ষোভ 
+2017-03-18T15:00:04.603Z : creation aborted, post title রাজনীতিতে সাময়িক বিরতি মুফতি ইজাহারের
+2017-03-18T15:00:04.603Z : creation aborted, post title রাজধানীর বিমানবন্দরে পালাতে গিয়ে যুবকের মৃত্যু
+2017-03-18T15:00:04.603Z : creation aborted, post title নাকুগাঁও স্থলবন্দরে এনবিআর’র মতবিনিময়
+2017-03-18T15:00:04.603Z : creation aborted, post title রোববার বিআরটিএ’তে যাচ্ছে ‘স্যাম’
+2017-03-18T15:00:04.603Z : creation aborted, post title ‘সন্তানদের পড়ানোর পাশাপাশি দুই ঘণ্টা রোদে রাখুন’
+2017-03-18T15:00:04.604Z : creation aborted, post title অনলাইনে ভ্যাট নিবন্ধন শুরু
+2017-03-18T15:00:04.603Z : creation aborted, post title সৈয়দপুরে ইউপি সদস্য আটক
+2017-03-18T15:00:04.605Z : creation aborted, post title শুভেচ্ছা দূত আফ্রিদি
+2017-03-18T15:00:04.605Z : creation aborted, post title ‘চাপে রাখতে’ ইজাহারের মাদ্রাসায় এক ঘন্টার অভিযান
+2017-03-18T15:00:04.605Z : creation aborted, post title জনগণের ওপর প্রতিশোধ নিতেই নাগরিক কালো আইন
+2017-03-18T15:00:04.605Z : Finished bdnews24 parser
+2017-03-18T15:00:04.604Z : creation aborted, post title নিভেছে পান্থপথের  বৈদ্যুতিক খুঁটির আগুন
+2017-03-18T15:59:03.917Z : Started bdnews24 parsing
+2017-03-18T15:59:04.751Z : Received RSS feed. 30 news found.
+2017-03-18T15:59:04.963Z : creation aborted, post title রাজনীতিতে সাময়িক বিরতি মুফতি ইজাহারের
+2017-03-18T15:59:04.963Z : creation aborted, post title তথ্য-প্রযুক���তির প্রথম বেসরকারি বিশ্ববিদ্যালয় ইউআইটিএস
+2017-03-18T15:59:04.964Z : creation aborted, post title গেইল-স্যামি ছাড়াই ক্যারিবীয়ান স্কোয়াড
+2017-03-18T15:59:04.964Z : creation aborted, post title রাজধানীর বিমানবন্দরে পালাতে গিয়ে যুবকের মৃত্যু
+2017-03-18T15:59:04.964Z : creation aborted, post title জয়পুরহাটে ট্রেনে কাটা পড়ে মা-মেয়ের মৃত্যু  
+2017-03-18T15:59:04.963Z : creation aborted, post title রোববার বিআরটিএ’তে যাচ্ছে ‘স্যাম’
+2017-03-18T15:59:04.964Z : creation aborted, post title গোয়ালন্দে পাগলা কুকুরের কামড়ে ১১ জন আহত
+2017-03-18T15:59:04.964Z : creation aborted, post title গোপালগঞ্জে গলায় ওড়না পেঁচিয়ে ২ স্কুলছাত্রীর আত্মহত্যা
+2017-03-18T15:59:04.964Z : creation aborted, post title দেশের উন্নয়নে আওয়ামী লীগের কোনো বিকল্প নেই       
+2017-03-18T15:59:04.964Z : creation aborted, post title ‘বিশ্ববিদ্যালয়ের গুরুত্বপূর্ণ শক্তি অ্যালামনাই’
+2017-03-18T15:59:04.964Z : creation aborted, post title জঙ্গি বিস্তারে সোশ্যাল মিডিয়াকে দুষলেন আইজিপি
+2017-03-18T15:59:04.964Z : creation aborted, post title ভৈরবে ২ শতাধিক দোকান পুড়ে ছাই
+2017-03-18T15:59:04.964Z : creation aborted, post title ইতালিতে বঙ্গবন্ধুর জন্মদিন উদযাপন
+2017-03-18T15:59:04.964Z : creation aborted, post title অমিত-নোশিন চ্যাম্পিয়ন
+2017-03-18T15:59:04.965Z : creation aborted, post title জনগণ-প্রশাসন চাইলে একটি জেলায় শিল্প প্রতিষ্ঠান গড়ে ওঠে
+2017-03-18T15:59:05.146Z : creation success, post title ‘নিজেদের প্রতি অবিশ্বাস থেকেই তরুণরা জঙ্গি হচ্ছে’
+2017-03-18T15:59:05.156Z : creation success, post title নড়িয়ায় প্রতিপক্ষের হামলায় আহত যুবকের মৃত্যু
+2017-03-18T15:59:05.157Z : creation success, post title চবিতে বিদ্যুতের দাবিতে আবাসিক শিক্ষার্থীদের মিছিল
+2017-03-18T15:59:05.160Z : creation success, post title যৌতুকমুক্ত সমাজ গড়তে ম্যারেজ ফান্ড গঠনের দাবি 
+2017-03-18T15:59:05.160Z : creation success, post title খুলনায় উদ্যোক্তা কনফারেন্স ৭ এপ্রিল
+2017-03-18T15:59:05.160Z : creation success, post title ২৫ মার্চ গণহত্যা দিবস ঘোষণা বাঙালির সময়োচিত অর্জন 
+2017-03-18T15:59:05.160Z : creation success, post title বঙ্গবন্ধু শিশু কিশোর মেলার সাংস্কৃতিক প্রতিযোগিতা
+2017-03-18T15:59:05.191Z : creation success, post title বান্দরবানে ড এ সাং শেষকৃত্যানুষ্ঠান অনুষ্ঠিত
+2017-03-18T15:59:05.205Z : creation success, post title সুবর্ণচরে কৃষককে গলাটিপে হত্যা, আটক ১
+2017-03-18T15:59:05.215Z : creation success, post title ‘বিএনপির গণভিত্তি না থাকায় ভাড়ায় নেতা বানায়’
+2017-03-18T15:59:05.215Z : creation aborted, post title ঘিওরে ঘরের নিচে চাপা পড়ে কৃষকের মৃত্যু
+2017-03-18T15:59:05.235Z : creation success, post title দেশের পথে মিজারুল কায়েসের মরদেহ
+2017-03-18T15:59:05.235Z : creation success, post title জঙ্গিবাদ দমনে সরকার কঠোর থেকে কঠোরতর হবে
+2017-03-18T15:59:05.244Z : creation aborted, post title ইনিয়েস্তার অবসর ভাবনা, এনরিকের মন্তব্য
+2017-03-18T15:59:05.244Z : creation success, post title গুলশান-বনানীর হোটেল-রেস্টুরেন্টে ৩ স্তরের নিরাপত্তা
+2017-03-18T15:59:05.244Z : Finished bdnews24 parser
+2017-03-18T16:00:02.389Z : Started bdnews24 parsing
+2017-03-18T16:59:02.538Z : Started bdnews24 parsing
+2017-03-18T16:59:03.604Z : Received RSS feed. 30 news found.
+2017-03-18T16:59:03.710Z : creation success, post title আস্তানায় পাওয়া দলিলে ‘পুলিশকে নিয়েই মরার’ নির্দেশনা
+2017-03-18T16:59:03.711Z : creation success, post title কুসিক নির্বাচন নতুন নির্বাচন কমিশনের একটি পরীক্ষা
+2017-03-18T16:59:03.713Z : creation aborted, post title নড়িয়ায় প্রতিপক্ষের হামলায় আহত যুবকের মৃত্যু
+2017-03-18T16:59:03.713Z : creation aborted, post title যৌতুকমুক্ত সমাজ গড়তে ম্যারেজ ফান্ড গঠনের দাবি 
+2017-03-18T16:59:03.713Z : creation aborted, post title খুলনায় উদ্যোক্তা কনফারেন্স ৭ এপ্রিল
+2017-03-18T16:59:03.713Z : creation aborted, post title ২৫ মার্চ গণহত্যা দিবস ঘোষণা বাঙালির সময়োচিত অর্জন 
+2017-03-18T16:59:03.713Z : creation aborted, post title রোববার বিআরটিএ’তে যাচ্ছে ‘স্যাম’
+2017-03-18T16:59:03.713Z : creation aborted, post title তথ্য-প্রযুক্তির প্রথম বেসরকারি বিশ্ববিদ্যালয় ইউআইটিএস
+2017-03-18T16:59:03.713Z : creation aborted, post title রাজনীতিতে সাময়িক বিরতি মুফতি ইজাহারের
+2017-03-18T16:59:03.713Z : creation aborted, post title বঙ্গবন্ধু শিশু কিশোর মেলার সাংস্কৃতিক প্রতিযোগিতা
+2017-03-18T16:59:03.713Z : creation aborted, post title সুবর্ণচরে কৃষককে গলাটিপে হত্যা, আটক ১
+2017-03-18T16:59:03.713Z : creation aborted, post title ‘বিএনপির গণভিত্তি না থাকায় ভাড়ায় নেতা বানায়’
+2017-03-18T16:59:03.714Z : creation aborted, post title গোয়ালন্দে পাগলা কুকুরের কামড়ে ১১ জন আহত
+2017-03-18T16:59:03.714Z : creation aborted, post title গেইল-স্যামি ছাড়াই ক্যারিবীয়ান স্কোয়াড
+2017-03-18T16:59:03.714Z : creation aborted, post title অমিত-নোশিন চ্যাম্পিয়ন
+2017-03-18T16:59:03.714Z : creation aborted, post title ‘নিজেদের প্রতি অবিশ্বাস থেকেই তরুণরা জঙ্গি হচ্ছে’
+2017-03-18T16:59:03.714Z : creation aborted, post title চবিতে বিদ্যুতের দাবিতে আবাসিক শিক্ষার্থীদের মিছিল
+2017-03-18T16:59:03.714Z : creation aborted, post title বান্দরবানে ড এ সাং শেষকৃত্যানুষ্ঠান অনুষ্ঠিত
+2017-03-18T16:59:03.714Z : creation aborted, post title জয়পুরহাটে ট্রেনে কাটা পড়ে মা-মেয়ের মৃত্যু  
+2017-03-18T16:59:03.714Z : creation aborted, post title ইতালিতে বঙ্গবন্ধুর জন্মদিন উদযাপন
+2017-03-18T16:59:03.714Z : creation aborted, post title ‘বিশ্ববিদ্যালয়ের গুরুত্বপূর্ণ শক্তি অ্যালামনাই’
+2017-03-18T16:59:03.714Z : creation aborted, post title জঙ্গিবাদ দমনে সরকার কঠোর থেকে কঠোরতর হবে
+2017-03-18T16:59:03.714Z : creation aborted, post title দেশের পথে মিজারুল কায়েসের মরদেহ
+2017-03-18T16:59:03.714Z : creation aborted, post title গুলশান-বনানীর হোটেল-রেস্টুরেন্টে ৩ স্তরের নিরাপত্তা
+2017-03-18T16:59:03.714Z : creation aborted, post title দেশের উন্নয়নে আওয়ামী লীগের কোনো বিকল্প নেই       
+2017-03-18T16:59:03.714Z : creation aborted, post title জঙ্গি বিস্তারে সোশ্যাল মিডিয়াকে দুষলেন আইজিপি
+2017-03-18T16:59:03.714Z : creation aborted, post title ভৈরবে ২ শতাধিক দোকান পুড়ে ছাই
+2017-03-18T16:59:03.714Z : creation aborted, post title ঘিওরে ঘরের নিচে চাপা পড়ে কৃষকের মৃত্যু
+2017-03-18T16:59:03.765Z : creation success, post title খেলাঘর গাজীপুর জেলা সম্মেলন সম্পন্ন
+2017-03-18T16:59:03.766Z : creation success, post title বগুড়ায় জঙ্গিবিরোধী অভিযান বিষয়ে শিক্ষার্থীদের ডিসপ্লে
+2017-03-18T16:59:03.766Z : Finished bdnews24 parser
+2017-03-18T17:00:02.026Z : Started bdnews24 parsing
+2017-03-18T17:59:03.683Z : Started bdnews24 parsing
+2017-03-18T17:59:04.921Z : Received RSS feed. 30 news found.
+2017-03-18T17:59:05.031Z : creation aborted, post title কুসিক নির্বাচন নতুন নির্বাচন কমিশনের একটি পরীক্ষা
+2017-03-18T17:59:05.031Z : creation aborted, post title ‘নিজেদের প্রতি অবিশ্বাস থেকেই তরুণরা জঙ্গি হচ্ছে’
+2017-03-18T17:59:05.031Z : creation aborted, post title চবিতে বিদ্যুতের দাবিতে আবাসিক শিক্ষার্থীদের মিছিল
+2017-03-18T17:59:05.031Z : creation aborted, post title জয়পুরহাটে ট্রেনে কাটা পড়ে মা-মেয়ের মৃত্যু  
+2017-03-18T17:59:05.031Z : creation aborted, post title বান্দরবানে ড এ সাং শেষকৃত্যানুষ্ঠান অনুষ্ঠিত
+2017-03-18T17:59:05.031Z : creation aborted, post title ইতালিতে বঙ্গবন্ধুর জন্মদিন উদযাপন
+2017-03-18T17:59:05.031Z : creation aborted, post title ‘বিশ্ববিদ্যালয়ের গুরুত্বপূর্ণ শক্তি অ্যালামনাই’
+2017-03-18T17:59:05.031Z : creation aborted, post title বগুড়ায় জঙ্গিবিরোধী অভিযান বিষয়ে শিক্ষার্থীদের ডিসপ্লে
+2017-03-18T17:59:05.031Z : creation aborted, post title বঙ্গবন্ধু শিশু কিশোর মেলার সাংস্কৃতিক প্রতিযোগিতা
+2017-03-18T17:59:05.031Z : creation aborted, post title সুবর্ণচরে কৃষককে গলাটিপে হত্যা, আটক ১
+2017-03-18T17:59:05.032Z : creation aborted, post title ‘বিএনপির গণভিত্তি না থাকায় ভাড়ায় নেতা বানায়’
+2017-03-18T17:59:05.032Z : creation aborted, post title গেইল-স্যামি ছাড়াই ক্যারিবীয়ান স্কোয়াড
+2017-03-18T17:59:05.032Z : creation aborted, post title গোয়ালন্দে পাগলা কুকুরের কামড়ে ১১ জন আহত
+2017-03-18T17:59:05.032Z : creation aborted, post title অমিত-নোশিন চ্যাম্পিয়ন
+2017-03-18T17:59:05.032Z : creation aborted, post title আস্তানায় পাওয়া দলিলে ‘পুলিশকে নিয়েই মরার’ নির্দেশনা
+2017-03-18T17:59:05.080Z : creation aborted, post title নড়িয়ায় প্রতিপক্ষের হামলায় আহত যুবকের মৃত্যু
+2017-03-18T17:59:05.080Z : creation aborted, post title যৌতুকমুক্ত সমাজ গড়তে ম্যারেজ ফান্ড গঠনের দাবি 
+2017-03-18T17:59:05.080Z : creation aborted, post title খুলনায় উদ্যোক্তা কনফারেন্স ৭ এপ্রিল
+2017-03-18T17:59:05.080Z : creation aborted, post title ২৫ মার্চ গণহত্যা দিবস ঘোষণা বাঙালির সময়োচিত অর্জন 
+2017-03-18T17:59:05.080Z : creation aborted, post title রোববার বিআরটিএ’তে যাচ্ছে ‘স্যাম’
+2017-03-18T17:59:05.080Z : creation aborted, post title তথ্য-প্রযুক্তির প্রথম বেসরকারি বিশ্ববিদ্যালয় ইউআইটিএস
+2017-03-18T17:59:05.080Z : creation aborted, post title খেলাঘর গাজীপুর জেলা সম্মেলন সম্পন্ন
+2017-03-18T17:59:05.081Z : creation aborted, post title দেশের পথে মিজারুল কায়েসের ম���দেহ
+2017-03-18T17:59:05.081Z : creation aborted, post title জঙ্গিবাদ দমনে সরকার কঠোর থেকে কঠোরতর হবে
+2017-03-18T17:59:05.081Z : creation aborted, post title গুলশান-বনানীর হোটেল-রেস্টুরেন্টে ৩ স্তরের নিরাপত্তা
+2017-03-18T17:59:05.082Z : creation aborted, post title ভৈরবে ২ শতাধিক দোকান পুড়ে ছাই
+2017-03-18T17:59:05.082Z : creation aborted, post title দেশের উন্নয়নে আওয়ামী লীগের কোনো বিকল্প নেই       
+2017-03-18T17:59:05.082Z : creation aborted, post title জঙ্গি বিস্তারে সোশ্যাল মিডিয়াকে দুষলেন আইজিপি
+2017-03-18T17:59:05.090Z : creation success, post title লাল-সবুজ কোচ নিয়ে দক্ষিণের পথে ছুটবে কপোতাক্ষ
+2017-03-18T17:59:05.092Z : creation success, post title প্রমাণ লোপাট করতেই হোটেল কর্মচারী খুন, মনে করছে পুলিশ 
+2017-03-18T17:59:05.092Z : Finished bdnews24 parser
+2017-03-18T18:00:02.283Z : Started bdnews24 parsing
+2017-03-18T18:00:03.425Z : Received RSS feed. 30 news found.
+2017-03-18T18:00:03.514Z : creation aborted, post title লাল-সবুজ কোচ নিয়ে দক্ষিণের পথে ছুটবে কপোতাক্ষ
+2017-03-18T18:00:03.514Z : creation aborted, post title কুসিক নির্বাচন নতুন নির্বাচন কমিশনের একটি পরীক্ষা
+2017-03-18T18:00:03.514Z : creation aborted, post title ‘নিজেদের প্রতি অবিশ্বাস থেকেই তরুণরা জঙ্গি হচ্ছে’
+2017-03-18T18:00:03.514Z : creation aborted, post title চবিতে বিদ্যুতের দাবিতে আবাসিক শিক্ষার্থীদের মিছিল
+2017-03-18T18:00:03.514Z : creation aborted, post title বান্দরবানে ড এ সাং শেষকৃত্যানুষ্ঠান অনুষ্ঠিত
+2017-03-18T18:00:03.514Z : creation aborted, post title জয়পুরহাটে ট্রেনে কাটা পড়ে মা-মেয়ের মৃত্যু  
+2017-03-18T18:00:03.514Z : creation aborted, post title ইতালিতে বঙ্গবন্ধুর জন্মদিন উদযাপন
+2017-03-18T18:00:03.514Z : creation aborted, post title খেলাঘর গাজীপুর জেলা সম্মেলন সম্পন্ন
+2017-03-18T18:00:03.514Z : creation aborted, post title জঙ্গিবাদ দমনে সরকার কঠোর থেকে কঠোরতর হবে
+2017-03-18T18:00:03.514Z : creation aborted, post title দেশের পথে মিজারুল কায়েসের ম���দেহ
+2017-03-18T18:00:03.514Z : creation aborted, post title গুলশান-বনানীর হোটেল-রেস্টুরেন্টে ৩ স্তরের নিরাপত্তা
+2017-03-18T18:00:03.518Z : creation aborted, post title নড়িয়ায় প্রতিপক্ষের হামলায় আহত যুবকের মৃত্যু
+2017-03-18T18:00:03.518Z : creation aborted, post title যৌতুকমুক্ত সমাজ গড়তে ম্যারেজ ফান্ড গঠনের দাবি 
+2017-03-18T18:00:03.518Z : creation aborted, post title আস্তানায় পাওয়া দলিলে ‘পুলিশকে নিয়েই মরার’ নির্দেশনা
+2017-03-18T18:00:03.518Z : creation aborted, post title খুলনায় উদ্যোক্তা কনফারেন্স ৭ এপ্রিল
+2017-03-18T18:00:03.518Z : creation aborted, post title ২৫ মার্চ গণহত্যা দিবস ঘোষণা বাঙালির সময়োচিত অর্জন 
+2017-03-18T18:00:03.518Z : creation aborted, post title প্রমাণ লোপাট করতেই হোটেল কর্মচারী খুন, মনে করছে পুলিশ 
+2017-03-18T18:00:03.518Z : creation aborted, post title রোববার বিআরটিএ’তে যাচ্ছে ‘স্যাম’
+2017-03-18T18:00:03.518Z : creation aborted, post title বগুড়ায় জঙ্গিবিরোধী অভিযান বিষয়ে শিক্ষার্থীদের ডিসপ্লে
+2017-03-18T18:00:03.518Z : creation aborted, post title বঙ্গবন্ধু শিশু কিশোর মেলার সাংস্কৃতিক প্রতিযোগিতা
+2017-03-18T18:00:03.518Z : creation aborted, post title সুবর্ণচরে কৃষককে গলাটিপে হত্যা, আটক ১
+2017-03-18T18:00:03.518Z : creation aborted, post title ‘বিএনপির গণভিত্তি না থাকায় ভাড়ায় নেতা বানায়’
+2017-03-18T18:00:03.518Z : creation aborted, post title গেইল-স্যামি ছাড়াই ক্যারিবীয়ান স্কোয়াড
+2017-03-18T18:00:03.518Z : creation aborted, post title গোয়ালন্দে পাগলা কুকুরের কামড়ে ১১ জন আহত
+2017-03-18T18:00:03.519Z : creation aborted, post title অমিত-নোশিন চ্যাম্পিয়ন
+2017-03-18T18:00:03.520Z : creation aborted, post title ভৈরবে ২ শতাধিক দোকান পুড়ে ছাই
+2017-03-18T18:00:03.520Z : creation aborted, post title জঙ্গি বিস্তারে সোশ্যাল মিডিয়াকে দুষলেন আইজিপি
+2017-03-18T18:00:03.520Z : creation aborted, post title দেশের উন্নয়নে আওয়ামী লীগের কোনো বিকল্প নেই       
+2017-03-18T18:00:03.520Z : creation aborted, post title তথ্য-প্রযুক্তির প্রথম বেসরকারি বিশ্ববিদ্যালয় ইউআইটিএস
+2017-03-18T18:00:03.520Z : creation aborted, post title ‘বিশ্ববিদ্যালয়ের গুরুত্বপূর্ণ শক্তি অ্যালামনাই’
+2017-03-18T18:00:03.521Z : Finished bdnews24 parser
+2017-03-24T09:59:03.771Z : Started bdnews24 parsing
+2017-03-24T09:59:04.923Z : Received RSS feed. 30 news found.
+2017-03-24T09:59:05.464Z : creation success, post title উৎকণ্ঠায় ‘আতিয়া মহলে’ আটকে পড়াদের স্বজনরা
+2017-03-24T09:59:05.466Z : creation success, post title বীর সন্তানদের শ্রদ্ধা জানাতে সাভারে প্রস্তুতি
+2017-03-24T09:59:05.466Z : creation success, post title ক্রেসপোর মতে মেসিই বিশ্বসেরা
+2017-03-24T09:59:05.466Z : creation success, post title স্মৃতিস্তম্ভে রাতে নয়, ভোরে শ্রদ্ধাঞ্জলি
+2017-03-24T09:59:05.467Z : creation success, post title ট্রাম্পের নতুন স্বাস্থ্যসেবা বিল ইস্যুতে ভোট
+2017-03-24T09:59:05.467Z : creation success, post title জঙ্গি সংগঠনের সঙ্গে বিএনপির যোগস‍ূত্র রয়েছে
+2017-03-24T09:59:05.467Z : creation success, post title সন্ত্রাসবাদ মোকাবেলায় বাংলাদেশ নীতির প্রশংসা ব্রাসেলসে
+2017-03-24T09:59:05.467Z : creation success, post title রাজশাহীতে দমকল কর্মীদের অগ্নিনির্বাপণ মহড়া
+2017-03-24T09:59:05.469Z : creation success, post title শিবগঞ্জে অস্ত্রসহ এক ব্যক্তি আটক
+2017-03-24T09:59:05.469Z : creation success, post title বাংলা নাটকে ইংরেজি নাম কেন?
+2017-03-24T09:59:05.474Z : creation success, post title শহীদদের স্মরণে ‘লালযাত্রা’
+2017-03-24T09:59:05.474Z : creation success, post title লাউয়াছড়া থেকে প্রাণ গেল সেগুনের!
+2017-03-24T09:59:05.474Z : creation success, post title ২৫ মার্চ নয়, প্রয়োজন ৭১’র গণহত্যার আন্তর্জাতিক স্বীকৃতি
+2017-03-24T09:59:05.474Z : creation success, post title বাংলাদেশের প্রশংসা ব্রাসেলস সেমিনারে
+2017-03-24T09:59:05.474Z : creation success, post title আত্মসমর্পণে সাড়া দিচ্ছে না জঙ্গিরা
+2017-03-24T09:59:05.475Z : creation success, post title ঢাকা-টাঙ্গাইল মহাসড়কে গাড়ির গতি ধীর
+2017-03-24T09:59:05.477Z : creation success, post title চ্যাম্পিয়ন্স ট্রফির পর টাইগারদের ডেরায় জন্টি
+2017-03-24T09:59:05.477Z : creation success, post title পল্লবী, কাজীপাড়ায় স্মার্টকার্ড ১০ এপ্রিল থেকে
+2017-03-24T09:59:05.477Z : creation success, post title শিক্ষার্থী টানতে কোচিং সেন্টারের ‘প্রতিযোগিতার’ ফাঁদ 
+2017-03-24T09:59:05.477Z : creation success, post title বিশ্ব যক্ষ্মা দিবসে আগরতলায় বিভিন্ন কর্মসূচি
+2017-03-24T09:59:05.477Z : creation success, post title এবার আলোচনায় ‘উস্তার মিয়ার বাড়ি’
+2017-03-24T09:59:05.479Z : creation success, post title বরগুনায় নকলের দায়ে ৩ পরীক্ষার্থী বহিষ্কার
+2017-03-24T09:59:05.479Z : creation success, post title রানের খাতা খুললেই ১০ হাজার
+2017-03-24T09:59:05.479Z : creation success, post title নির্ধারিত সময়ের মধ্যেই তদন্ত প্রতিবেদন
+2017-03-24T09:59:05.479Z : creation success, post title সিরাজগঞ্জে ফেনসিডিলসহ চালক-হেলপার আটক
+2017-03-24T09:59:05.479Z : creation success, post title পর্যটন শিল্প বিকাশে মাউন্টেন বাইক প্রতিযোগিতা
+2017-03-24T09:59:05.584Z : creation failed, post title বাংলাদেশ প্রশ্নে মার্কিন সরকার ও জনগণের বিপরীত অবস্থান
+2017-03-24T09:59:05.587Z : creation success, post title অগ্নিকাণ্ডের ঘটনায় বাংলাদেশ ব্যাংকের জিডি
+2017-03-24T09:59:05.588Z : creation success, post title মুগদায় মরদেহ উদ্ধার
+2017-03-24T09:59:05.588Z : Finished bdnews24 parser
+2017-03-24T09:59:05.587Z : creation success, post title আবার ‘ধনধান্য পুষ্পভরা’ (ভিডিও)
+2017-03-24T10:00:01.884Z : Started bdnews24 parsing
+2017-03-24T10:00:06.830Z : Received RSS feed. 30 news found.
+2017-03-24T10:00:06.933Z : creation failed, post title বাংলাদেশ প্রশ্নে মার্কিন সরকার ও জনগণের বিপরীত অবস্থান
+2017-03-24T10:00:06.935Z : creation aborted, post title নির্ধারিত সময়ের মধ্যেই তদন্ত প্রতিবেদন
+2017-03-24T10:00:06.935Z : creation aborted, post title বিশ্ব যক্ষ্মা দিবসে আগরতলায় বিভিন্ন কর্মসূচি
+2017-03-24T10:00:06.935Z : creation aborted, post title বাংলাদেশের প্রশংসা ব্রাসেলস সেমিনারে
+2017-03-24T10:00:06.935Z : creation aborted, post title জঙ্গি সংগঠনের সঙ্গে বিএনপির যোগস‍ূত্র রয়েছে
+2017-03-24T10:00:06.935Z : creation aborted, post title অগ্নিকাণ্ডের ঘটনায় বাংলাদেশ ব্যাংকের জিডি
+2017-03-24T10:00:06.935Z : creation aborted, post title সিরাজগঞ্জে ফেনসিডিলসহ চালক-হেলপার আটক
+2017-03-24T10:00:06.935Z : creation aborted, post title ঢাকা-টাঙ্গাইল মহাসড়কে গাড়ির গতি ধীর
+2017-03-24T10:00:06.935Z : creation aborted, post title এবার আলোচনায় ‘উস্তার মিয়ার বাড়ি’
+2017-03-24T10:00:06.935Z : creation aborted, post title বীর সন্তানদের শ্রদ্ধা জানাতে সাভারে প্রস্তুতি
+2017-03-24T10:00:06.935Z : creation aborted, post title শিবগঞ্জে অস্ত্রসহ এক ব্যক্তি আটক
+2017-03-24T10:00:06.935Z : creation aborted, post title লাউয়াছড়া থেকে প্রাণ গেল সেগুনের!
+2017-03-24T10:00:06.935Z : creation aborted, post title বরগুনায় নকলের দায়ে ৩ পরীক্ষার্থী বহিষ্কার
+2017-03-24T10:00:06.936Z : creation aborted, post title চ্যাম্পিয়ন্স ট্রফির পর টাইগারদের ডেরায় জন্টি
+2017-03-24T10:00:06.936Z : creation aborted, post title স্মৃতিস্তম্ভে রাতে নয়, ভোরে শ্রদ্ধাঞ্জলি
+2017-03-24T10:00:06.936Z : creation aborted, post title পল্লবী, কাজীপাড়ায় স্মার্টকার্ড ১০ এপ্রিল থেকে
+2017-03-24T10:00:06.936Z : creation aborted, post title আবার ‘ধনধান্য পুষ্পভরা’ (ভিডিও)
+2017-03-24T10:00:06.936Z : creation aborted, post title ট্রাম্পের নতুন স্বাস্থ্যসেবা বিল ইস্যুতে ভোট
+2017-03-24T10:00:06.936Z : creation aborted, post title আত্মসমর্পণে সাড়া দিচ্ছে না জঙ্গিরা
+2017-03-24T10:00:06.936Z : creation aborted, post title পর্যটন শিল্প বিকাশে মাউন্টেন বাইক প্রতিযোগিতা
+2017-03-24T10:00:06.936Z : creation aborted, post title শিক্ষার্থী টানতে কোচিং সেন্টারের ‘প্রতিযোগিতার’ ফাঁদ 
+2017-03-24T10:00:06.936Z : creation aborted, post title সন্ত্রাসবাদ মোকাবেলায় বাংলাদেশ নীতির প্রশংসা ব্রাসেলসে
+2017-03-24T10:00:06.936Z : creation aborted, post title মুগদায় মরদেহ উদ্ধার
+2017-03-24T10:00:06.936Z : creation aborted, post title শহীদদের স্মরণে ‘লালযাত্রা’
+2017-03-24T10:00:06.936Z : creation aborted, post title রাজশাহীতে দমকল কর্মীদের অগ্নিনির্বাপণ মহড়া
+2017-03-24T10:00:06.936Z : creation aborted, post title উৎকণ্ঠায় ‘আতিয়া মহলে’ আটকে পড়াদের স্বজনরা
+2017-03-24T10:00:06.936Z : creation aborted, post title ক্রেসপোর মতে মেসিই বিশ্বসেরা
+2017-03-24T10:00:06.936Z : creation aborted, post title বাংলা নাটকে ইংরেজি নাম কেন?
+2017-03-24T10:00:06.936Z : creation aborted, post title ২৫ মার্চ নয়, প্রয়োজন ৭১’র গণহত্যার আন্তর্জাতিক স্বীকৃতি
+2017-03-24T10:00:06.937Z : creation aborted, post title রানের খাতা খুললেই ১০ হাজার
+2017-03-24T10:00:06.937Z : Finished bdnews24 parser
+2017-03-24T10:59:02.127Z : Started bdnews24 parsing
+2017-03-24T10:59:03.417Z : Received RSS feed. 30 news found.
+2017-03-24T10:59:03.545Z : creation success, post title না.গঞ্জে অপহৃত তিন নির্মাণ শ্রমিক উদ্ধার
+2017-03-24T10:59:03.545Z : creation success, post title মনোহরকে নিয়ে নতুন খবর
+2017-03-24T10:59:03.545Z : creation success, post title মাদ্রাসায় শুধু আলেম নয়, ডাক্তার- সচিবও তৈরি হবে
+2017-03-24T10:59:03.545Z : creation success, post title জঙ্গি আস্তানার চার পাশে অবস্থান সোয়াট টিমের
+2017-03-24T10:59:03.545Z : creation success, post title সিলেটে পৌঁছেছে সোয়াট টিম
+2017-03-24T10:59:03.545Z : creation success, post title সাকিবের জন্মদিনে জয় উপহার দিতে চান তাসকিন
+2017-03-24T10:59:03.545Z : creation success, post title ফেনীতে হত্যা মামলায় ইউপি সদস্য আটক
+2017-03-24T10:59:03.548Z : creation success, post title আরিফা হত্যার দায় স্বীকার রবিনের
+2017-03-24T10:59:03.548Z : creation success, post title ফুলবাড়িতে ১৪ কেজি গাঁজা জব্দ
+2017-03-24T10:59:03.548Z : creation success, post title নির্যাতন প্রতিরোধে হেল্পলাইনের পরিবর্তিত নম্বর ১০৯
+2017-03-24T10:59:03.548Z : creation success, post title বিএনপিতে স্বাধীনতাবিরোধীদের বিচার করতে হবে
+2017-03-24T10:59:03.548Z : creation success, post title একাকিত্বের ভয়ে যক্ষ্মা রোগ গোপন করছেন আক্রান্তরা
+2017-03-24T10:59:03.548Z : creation success, post title মিরসরাইয়ে ২ বসতবাড়ি পুড়ে ছাই
+2017-03-24T10:59:03.548Z : creation success, post title অ্যালবাম আসছে, সুনিশ্চিত: ন্যানসি
+2017-03-24T10:59:03.548Z : creation success, post title ‘নেইমারের হাতে পরবর্তী ব্যালন ডি অর’
+2017-03-24T10:59:03.548Z : creation failed, post title বিমানের ইন-ফ্লাইট সার্ভিসে নতুন মাত্রা
+2017-03-24T10:59:03.549Z : creation aborted, post title শহীদদের স্মরণে ‘লালযাত্রা’
+2017-03-24T10:59:03.549Z : creation aborted, post title রাজশাহীতে দমকল কর্মীদের অগ্নিনির্বাপণ মহড়া
+2017-03-24T10:59:03.549Z : creation aborted, post title বাংলাদেশের প্রশংসা ব্রাসেলস সেমিনারে
+2017-03-24T10:59:03.549Z : creation aborted, post title নির্ধারিত সময়ের মধ্যেই তদন্ত প্রতিবেদন
+2017-03-24T10:59:03.549Z : creation aborted, post title উৎকণ্ঠায় ‘আতিয়া মহলে’ আটকে পড়াদের স্বজনরা
+2017-03-24T10:59:03.549Z : creation aborted, post title বিশ্ব যক্ষ্মা দিবসে ���গরতলায় বিভিন্ন কর্মসূচি
+2017-03-24T10:59:03.549Z : creation aborted, post title বীর সন্তানদের শ্রদ্ধা জানাতে সাভারে প্রস্তুতি
+2017-03-24T10:59:03.549Z : creation aborted, post title জঙ্গি সংগঠনের সঙ্গে বিএনপির যোগস‍ূত্র রয়েছে
+2017-03-24T10:59:03.550Z : creation aborted, post title ট্রাম্পের নতুন স্বাস্থ্যসেবা বিল ইস্যুতে ভোট
+2017-03-24T10:59:03.550Z : creation aborted, post title শিবগঞ্জে অস্ত্রসহ এক ব্যক্তি আটক
+2017-03-24T10:59:03.550Z : creation aborted, post title আত্মসমর্পণে সাড়া দিচ্ছে না জঙ্গিরা
+2017-03-24T10:59:03.550Z : creation success, post title বাগমারায় বিপুল পরিমাণ মাদকসহ ব্যবসায়ী আটক
+2017-03-24T10:59:03.550Z : creation aborted, post title আবার ‘ধনধান্য পুষ্পভরা’ (ভিডিও)
+2017-03-24T10:59:03.550Z : creation aborted, post title লাউয়াছড়া থেকে প্রাণ গেল সেগুনের!
+2017-03-24T10:59:03.550Z : Finished bdnews24 parser
+2017-03-24T11:00:01.796Z : Started bdnews24 parsing
+2017-03-24T11:00:06.422Z : Received RSS feed. 30 news found.
+2017-03-24T11:00:06.546Z : creation aborted, post title আরিফা হত্যার দায় স্বীকার রবিনের
+2017-03-24T11:00:06.547Z : creation aborted, post title নির্যাতন প্রতিরোধে হেল্পলাইনের পরিবর্তিত নম্বর ১০৯
+2017-03-24T11:00:06.547Z : creation aborted, post title অ্যালবাম আসছে, সুনিশ্চিত: ন্যানসি
+2017-03-24T11:00:06.547Z : creation aborted, post title বীর সন্তানদের শ্রদ্ধা জানাতে সাভারে প্রস্তুতি
+2017-03-24T11:00:06.547Z : creation aborted, post title শিবগঞ্জে অস্ত্রসহ এক ব্যক্তি আটক
+2017-03-24T11:00:06.547Z : creation aborted, post title বিএনপিতে স্বাধীনতাবিরোধীদের বিচার করতে হবে
+2017-03-24T11:00:06.547Z : creation aborted, post title ফুলবাড়িতে ১৪ কেজি গাঁজা জব্দ
+2017-03-24T11:00:06.547Z : creation aborted, post title সাকিবের জন্মদিনে জয় উপহার দিতে চান তাসকিন
+2017-03-24T11:00:06.547Z : creation aborted, post title বাংলাদেশের প্রশংসা ব্রাসেলস সেমিনারে
+2017-03-24T11:00:06.547Z : creation aborted, post title বাগমারায় বিপুল পরিমাণ মাদকসহ ব্যবসায়ী আটক
+2017-03-24T11:00:06.547Z : creation aborted, post title বিশ্ব যক্ষ্মা দিবসে ���গরতলায় বিভিন্ন কর্মসূচি
+2017-03-24T11:00:06.547Z : creation aborted, post title নির্ধারিত সময়ের মধ্যেই তদন্ত প্রতিবেদন
+2017-03-24T11:00:06.547Z : creation aborted, post title জঙ্গি সংগঠনের সঙ্গে বিএনপির যোগস‍ূত্র রয়েছে
+2017-03-24T11:00:06.551Z : creation failed, post title বিমানের ইন-ফ্লাইট সার্ভিসে নতুন মাত্রা
+2017-03-24T11:00:06.547Z : creation aborted, post title ফেনীতে হত্যা মামলায় ইউপি সদস্য আটক
+2017-03-24T11:00:06.552Z : creation aborted, post title না.গঞ্জে অপহৃত তিন নির্মাণ শ্রমিক উদ্ধার
+2017-03-24T11:00:06.552Z : creation aborted, post title মাদ্রাসায় শুধু আলেম নয়, ডাক্তার- সচিবও তৈরি হবে
+2017-03-24T11:00:06.552Z : creation aborted, post title মনোহরকে নিয়ে নতুন খবর
+2017-03-24T11:00:06.552Z : creation aborted, post title জঙ্গি আস্তানার চার পাশে অবস্থান সোয়াট টিমের
+2017-03-24T11:00:06.552Z : creation aborted, post title রাজশাহীতে দমকল কর্মীদের অগ্নিনির্বাপণ মহড়া
+2017-03-24T11:00:06.552Z : creation aborted, post title একাকিত্বের ভয়ে যক্ষ্মা রোগ গোপন করছেন আক্রান্তরা
+2017-03-24T11:00:06.552Z : creation aborted, post title মিরসরাইয়ে ২ বসতবাড়ি পুড়ে ছাই
+2017-03-24T11:00:06.553Z : creation aborted, post title ‘নেইমারের হাতে পরবর্তী ব্যালন ডি অর’
+2017-03-24T11:00:06.553Z : creation aborted, post title ট্রাম্পের নতুন স্বাস্থ্যসেবা বিল ইস্যুতে ভোট
+2017-03-24T11:00:06.553Z : creation aborted, post title আবার ‘ধনধান্য পুষ্পভরা’ (ভিডিও)
+2017-03-24T11:00:06.553Z : creation aborted, post title আত্মসমর্পণে সাড়া দিচ্ছে না জঙ্গিরা
+2017-03-24T11:00:06.553Z : creation aborted, post title লাউয়াছড়া থেকে প্রাণ গেল সেগুনের!
+2017-03-24T11:00:06.552Z : creation aborted, post title শহীদদের স্মরণে ‘লালযাত্রা’
+2017-03-24T11:00:06.552Z : creation aborted, post title সিলেটে পৌঁছেছে সোয়াট টিম
+2017-03-24T11:00:06.554Z : creation aborted, post title উৎকণ্ঠায় ‘আতিয়া মহলে’ আটকে পড়াদের স্বজনরা
+2017-03-24T11:00:06.554Z : Finished bdnews24 parser
+2017-04-14T06:15:02.866Z : Started bdnews24 parsing
+2017-04-14T06:15:04.011Z : Received RSS feed. 30 news found.
+2017-04-14T06:15:04.267Z : creation success, post title চবিতে মঙ্গল শোভাযাত্রার মধ্য দিয়ে নতুন বছর বরণ
+2017-04-14T06:15:04.267Z : creation success, post title শ্রদ্ধেয় জাতির পিতা ক্ষমা করবেন...
+2017-04-14T06:15:04.267Z : creation success, post title সবার হাতে হাতে গোলাপ-বাতাসা, পুলিশের উপহার
+2017-04-14T06:15:04.267Z : creation success, post title নারায়ণগঞ্জে বর্ণাঢ্য মঙ্গল শোভাযাত্রা 
+2017-04-14T06:15:04.267Z : creation success, post title বগুড়ায় গানে গানে বর্ষবরণ
+2017-04-14T06:15:04.268Z : creation success, post title নতুনের আহ্বানে বর্ণিল আনন্দে নগরবাসী
+2017-04-14T06:15:04.272Z : creation success, post title সাম্প্রদায়িকতা রুখে দেওয়ার প্রত্যয়ে রাজশাহীতে বর্ষবরণ
+2017-04-14T06:15:04.272Z : creation success, post title বাংলা নববর্ষ এবং মাজদা গাড়ি কি ইসলাম সম্মত?
+2017-04-14T06:15:04.273Z : creation success, post title ঝিনাইদহে নানা আয়োজনে উদযাপিত হচ্ছে বর্ষবরণ
+2017-04-14T06:15:04.273Z : creation success, post title বর্ণাঢ্য আয়োজনে শেকৃবি’তে মঙ্গল শোভাযাত্রা
+2017-04-14T06:15:04.273Z : creation success, post title বর্ষবরণে ফেনীতে বর্ণিল শোভাযাত্রা
+2017-04-14T06:15:04.273Z : creation success, post title ‘ব্যর্থতা ঢাকতে মহিউদ্দিন চৌধুরীর বিরুদ্ধে মিথ্যাচার’
+2017-04-14T06:15:04.275Z : creation success, post title বর্ষবরণের উন্মাতাল উৎসবে রঙিন খুলনা
+2017-04-14T06:15:04.275Z : creation success, post title মঙ্গলশোভা যাত্রায় রঙ ছিটানোয় ফেনীতে আটক ৫
+2017-04-14T06:15:04.275Z : creation success, post title ডিসি হিলে ‘বিলাসখানী টোড়ী’ রাগে বর্ষবরণ
+2017-04-14T06:15:04.275Z : creation success, post title নানা আয়োজনে ধামরাইয়ে বর্ষবরণ
+2017-04-14T06:15:04.275Z : creation success, post title নওগাঁয় নানা আয়োজনে বর্ষবরণ
+2017-04-14T06:15:04.275Z : creation success, post title বর্ণাঢ্য আয়োজনে বগুড়ায় মঙ্গল শোভাযাত্রা
+2017-04-14T06:15:04.278Z : creation success, post title বর্ষবরণে রাঙ্গামাটিতে বর্ণাঢ্য শোভাযাত্রা
+2017-04-14T06:15:04.278Z : creation success, post title পাহাড়ে বর্ষবরণে বৈচিত্র্যের ছোঁয়া
+2017-04-14T06:15:04.278Z : creation success, post title বৈশাখ আনন্দ নেই যাদের জীবনে
+2017-04-14T06:15:04.278Z : creation success, post title ‘ভেরি কালারফুল ফেস্টিভাল’
+2017-04-14T06:15:04.278Z : creation success, post title পাঁচ তারকার পাতে পাতে ইলিশ!
+2017-04-14T06:15:04.278Z : creation success, post title হাজারো প্রাণের মিলনমেলায় অনুষ্ঠিত মঙ্গল শোভাযাত্রা
+2017-04-14T06:15:04.281Z : creation success, post title এবার সাংস্কৃতিক সংগ্রাম করতে হবে
+2017-04-14T06:15:04.281Z : creation success, post title সিলেটে মঙ্গল শোভাযাত্রায় প্রাণের উচ্ছ্বাস, চলছে বর্ষবরণ
+2017-04-14T06:15:04.281Z : creation success, post title কোয়ার্টারের প্রথম লেগে জয়বঞ্চিত ই‌উনাইটেড
+2017-04-14T06:15:04.281Z : creation success, post title জাসাস’র বর্ষবরণ প্রস্তুতি সম্পন্ন, যাচ্ছেন খালেদা
+2017-04-14T06:15:04.281Z : creation success, post title বেহালার সুরে বর্ষবরণ 
+2017-04-14T06:15:04.281Z : creation success, post title গুগলেও মঙ্গল শোভাযাত্রা
+2017-04-14T06:15:04.281Z : Finished bdnews24 parser
+2017-04-14T06:30:02.049Z : Started bdnews24 parsing
+2017-04-14T06:45:01.888Z : Started bdnews24 parsing
+2017-04-14T06:45:04.637Z : Received RSS feed. 30 news found.
+2017-04-14T06:45:04.757Z : creation success, post title বর্ণাঢ্য আয়োজনে ভোলায় বর্ষবরণ
+2017-04-14T06:45:04.757Z : creation failed, post title দূর হোক যতো অশুভের ছায়া...
+2017-04-14T06:45:04.773Z : creation aborted, post title জাসাস’র বর্ষবরণ প্রস্তুতি সম্পন্ন, যাচ্ছেন খালেদা
+2017-04-14T06:45:04.774Z : creation aborted, post title ‘ভেরি কালারফুল ফেস্টিভাল’
+2017-04-14T06:45:04.774Z : creation aborted, post title নারায়ণগঞ্জে বর্ণাঢ্য মঙ্গল শোভাযাত্রা 
+2017-04-14T06:45:04.774Z : creation aborted, post title সাম্প্রদায়িকতা রুখে দেওয়ার প্রত্যয়ে রাজশাহীতে বর্ষবরণ
+2017-04-14T06:45:04.774Z : creation aborted, post title বর্ষবরণের উন্মাতাল উৎসবে রঙিন খুলনা
+2017-04-14T06:45:04.774Z : creation aborted, post title সিলেটে মঙ্গল শোভাযাত্রায় প্রাণের উচ্ছ্বাস, চলছে বর্ষবরণ
+2017-04-14T06:45:04.774Z : creation aborted, post title পাহাড়ে বর্ষবরণে বৈচিত্র্যের ছোঁয়া
+2017-04-14T06:45:04.777Z : creation success, post title দেশবাসীকে প্রধানমন্ত্রীর নববর্ষের শুভেচ্ছা
+2017-04-14T06:45:04.777Z : creation success, post title কোহলির প্রত্যাবর্তনে জয়ে ফিরতে মরিয়া সানরাইজার্স
+2017-04-14T06:45:04.777Z : creation success, post title আগরতলায় অ্যাসিস্ট্যান্ট হ���ইকমিশনে নববর্ষ উদযাপিত
+2017-04-14T06:45:04.777Z : creation success, post title জবিতে মঙ্গল শোভাযাত্রায় বর্ষবরণ
+2017-04-14T06:45:04.777Z : creation success, post title বরগুনায় নানা আয়োজনে বর্ষবরণ উদযাপন
+2017-04-14T06:45:04.792Z : creation aborted, post title ‘ব্যর্থতা ঢাকতে মহিউদ্দিন চৌধুরীর বিরুদ্ধে মিথ্যাচার’
+2017-04-14T06:45:04.792Z : creation aborted, post title বর্ষবরণে রাঙ্গামাটিতে বর্ণাঢ্য শোভাযাত্রা
+2017-04-14T06:45:04.792Z : creation aborted, post title নানা আয়োজনে ধামরাইয়ে বর্ষবরণ
+2017-04-14T06:45:04.792Z : creation aborted, post title বাংলা নববর্ষ এবং মাজদা গাড়ি কি ইসলাম সম্মত?
+2017-04-14T06:45:04.792Z : creation aborted, post title চবিতে মঙ্গল শোভাযাত্রার মধ্য দিয়ে নতুন বছর বরণ
+2017-04-14T06:45:04.792Z : creation aborted, post title নওগাঁয় নানা আয়োজনে বর্ষবরণ
+2017-04-14T06:45:04.792Z : creation aborted, post title বর্ণাঢ্য আয়োজনে শেকৃবি’তে মঙ্গল শোভাযাত্রা
+2017-04-14T06:45:04.792Z : creation aborted, post title গুগলেও মঙ্গল শোভাযাত্রা
+2017-04-14T06:45:04.792Z : creation aborted, post title কোয়ার্টারের প্রথম লেগে জয়বঞ্চিত ই‌উনাইটেড
+2017-04-14T06:45:04.793Z : creation aborted, post title পাঁচ তারকার পাতে পাতে ইলিশ!
+2017-04-14T06:45:04.793Z : creation aborted, post title বগুড়ায় গানে গানে বর্ষবরণ
+2017-04-14T06:45:04.794Z : creation aborted, post title এবার সাংস্কৃতিক সংগ্রাম করতে হবে
+2017-04-14T06:45:04.795Z : creation aborted, post title মঙ্গলশোভা যাত্রায় রঙ ছিটানোয় ফেনীতে আটক ৫
+2017-04-14T06:45:04.795Z : creation aborted, post title শ্রদ্ধেয় জাতির পিতা ক্ষমা করবেন...
+2017-04-14T06:45:04.795Z : creation aborted, post title বৈশাখ আনন্দ নেই যাদের জীবনে
+2017-04-14T06:45:04.795Z : Finished bdnews24 parser
+2017-04-14T06:45:04.795Z : creation aborted, post title ঝিনাইদহে নানা আয়োজনে উদযাপিত হচ্ছে বর্ষবরণ
+2017-04-14T10:00:03.146Z : Started bdnews24 parsing
+2017-04-14T10:00:04.653Z : Received RSS feed. 30 news found.
+2017-04-14T10:00:04.756Z : creation success, post title ডিএসসিসিতে নববর্ষ উদযাপন
+2017-04-14T10:00:04.756Z : creation success, post title যাত্রাবাড়ীতে সড়ক দুর্ঘটনায় নিহত ১ 
+2017-04-14T10:00:04.757Z : creation success, post title মুখোশ কীভাবে মঙ্গল শোভাযাত্রার অংশ হলো
+2017-04-14T10:00:04.757Z : creation success, post title বাংলা কবিতায় বৈশাখ: সময়ের শিল্পিত পথ-ঘাট
+2017-04-14T10:00:04.757Z : creation success, post title ধোনির পাশে দাঁড়িয়েছেন স্মিথ
+2017-04-14T10:00:04.757Z : creation success, post title রাজনৈতিক নেতাদের বর্ষবরণ
+2017-04-14T10:00:04.800Z : creation success, post title প্রেসক্লাবে নববর্ষ উদযাপিত
+2017-04-14T10:00:04.801Z : creation success, post title লক্ষ্মীপুরে বর্ণাঢ্য বর্ষবরণ
+2017-04-14T10:00:04.839Z : creation success, post title সাভারে নানা আয়োজনে বর্ষবরণ
+2017-04-14T10:00:04.839Z : creation success, post title পুরোনো জঞ্জাল ফেলে এগিয়ে যাবে বাংলাদেশ
+2017-04-14T10:00:04.839Z : creation success, post title বর্ষবরণে নোয়াখালীতে মঙ্গল শোভাযাত্রা
+2017-04-14T10:00:04.845Z : creation success, post title কলারোয়ায় পুলিশের সোর্সকে লক্ষ্য করে গুলি
+2017-04-14T10:00:04.848Z : creation success, post title খুলনায় ৩ দিনব্যাপী বৈশাখী মেলা শুরু
+2017-04-14T10:00:04.848Z : creation success, post title দামুড়হুদায় ৩টি স্বর্ণের বারসহ আটক ১
+2017-04-14T10:00:04.848Z : creation success, post title মান্দায় বস্তাবন্দি মরদেহ উদ্ধার, আটক ৩
+2017-04-14T10:00:04.848Z : creation success, post title মন জয় করেছে লাঠি খেলা!
+2017-04-14T10:00:04.848Z : creation success, post title ঢাকের তালে বরিশালবাসীর বর্ষবরণ
+2017-04-14T10:00:04.848Z : creation success, post title ফেনীতে সপ্তাহব্যাপী বৈশাখী মেলা
+2017-04-14T10:00:04.858Z : creation success, post title নতুন বছরে নগর পুলিশের উপহার বাতাসা-পানি 
+2017-04-14T10:00:04.859Z : creation success, post title ধর্মের সঙ্গে বৈশাখী উৎসবের বিরোধ নেই
+2017-04-14T10:00:04.859Z : creation success, post title নিষেধাজ্ঞার পরেও ব্যাগ নিয়ে এসে বিড়ম্বনা
+2017-04-14T10:00:04.862Z : creation success, post title কামরাঙ্গীরচরে ছুরিকাঘাতে ব্যবসায়ী খুন
+2017-04-14T10:00:04.862Z : creation success, post title লালমনিরহাটে বর্ষবরণ অনুষ্ঠানে লাঠি খেলা
+2017-04-14T10:00:04.860Z : creation success, post title ঐতিহ্যবাহী ‘ক্যান্টন ফেয়ারে’ অংশ নিচ্ছে ওয়ালটন
+2017-04-14T10:00:04.863Z : creation success, post title পহেলা বৈশাখে মানিকগঞ্জে মঙ্গল শোভাযাত্রা
+2017-04-14T10:00:04.863Z : creation success, post title চবিতে মোটরসাইকেলের ধাক্কায় রিকশাচালক আহত
+2017-04-14T10:00:04.863Z : creation success, post title ডোপিং নিষেধাজ্ঞার মুখে শাহজাদ
+2017-04-14T10:00:04.864Z : creation success, post title বেনাপোল বন্দরে বর্ণাঢ্য আয়োজনে বর্ষবরণ
+2017-04-14T10:00:04.864Z : creation success, post title উৎসবের নিরাপত্তা নিশ্চিত করাই যাদের উৎসব
+2017-04-14T10:00:04.865Z : creation success, post title ১১৭ বছরে পা দিল হালখাতার দোকানটি
+2017-04-14T10:00:04.865Z : Finished bdnews24 parser
+2017-04-14T10:15:03.509Z : Started bdnews24 parsing
+2017-04-14T10:15:04.567Z : Received RSS feed. 30 news found.
+2017-04-14T10:15:04.742Z : creation aborted, post title লালমনিরহাটে বর্ষবরণ অনুষ্ঠানে লাঠি খেলা
+2017-04-14T10:15:04.742Z : creation aborted, post title ফেনীতে সপ্তাহব্যাপী বৈশাখী মেলা
+2017-04-14T10:15:04.742Z : creation aborted, post title উৎসবের নিরাপত্তা নিশ্চিত করাই যাদের উৎসব
+2017-04-14T10:15:04.745Z : creation success, post title মতিঝিলে যাত্রীবাহী বাস নিয়ন্ত্রণ হারিয়ে আহত ৬
+2017-04-14T10:15:04.746Z : creation success, post title মুন্সীগঞ্জে বর্ণাঢ্য আয়োজনে বর্ষবরণ
+2017-04-14T10:15:04.746Z : creation success, post title নববর্ষের আমেজে মুশফিক-সাব্বির-সৌম্যরা
+2017-04-14T10:15:04.747Z : creation aborted, post title ঢাকের তালে বরিশালবাসীর বর্ষবরণ
+2017-04-14T10:15:04.745Z : creation success, post title নিষিদ্ধ হয়েও বিক্রি হচ্ছে কান ফাটানো ভুভুজেলা
+2017-04-14T10:15:04.747Z : creation aborted, post title পহেলা বৈশাখে মানিকগঞ্জে মঙ্গল শোভাযাত্রা
+2017-04-14T10:15:04.747Z : creation aborted, post title কামরাঙ্গীরচরে ছুরিকাঘাতে ব্যবসায়ী খুন
+2017-04-14T10:15:04.747Z : creation aborted, post title বর্ষবরণে নোয়া���ালীতে মঙ্গল শোভাযাত্রা
+2017-04-14T10:15:04.747Z : creation aborted, post title ধোনির পাশে দাঁড়িয়েছেন স্মিথ
+2017-04-14T10:15:04.747Z : creation aborted, post title বেনাপোল বন্দরে বর্ণাঢ্য আয়োজনে বর্ষবরণ
+2017-04-14T10:15:04.747Z : creation aborted, post title সাভারে নানা আয়োজনে বর্ষবরণ
+2017-04-14T10:15:04.747Z : creation aborted, post title মুখোশ কীভাবে মঙ্গল শোভাযাত্রার অংশ হলো
+2017-04-14T10:15:04.747Z : creation aborted, post title দামুড়হুদায় ৩টি স্বর্ণের বারসহ আটক ১
+2017-04-14T10:15:04.747Z : creation aborted, post title চবিতে মোটরসাইকেলের ধাক্কায় রিকশাচালক আহত
+2017-04-14T10:15:04.747Z : creation aborted, post title লক্ষ্মীপুরে বর্ণাঢ্য বর্ষবরণ
+2017-04-14T10:15:04.747Z : creation aborted, post title নতুন বছরে নগর পুলিশের উপহার বাতাসা-পানি 
+2017-04-14T10:15:04.747Z : creation aborted, post title মন জয় করেছে লাঠি খেলা!
+2017-04-14T10:15:04.747Z : creation aborted, post title ডিএসসিসিতে নববর্ষ উদযাপন
+2017-04-14T10:15:04.747Z : creation aborted, post title মান্দায় বস্তাবন্দি মরদেহ উদ্ধার, আটক ৩
+2017-04-14T10:15:04.748Z : creation aborted, post title ডোপিং নিষেধাজ্ঞার মুখে শাহজাদ
+2017-04-14T10:15:04.747Z : creation aborted, post title ধর্মের সঙ্গে বৈশাখী উৎসবের বিরোধ নেই
+2017-04-14T10:15:04.748Z : creation aborted, post title প্রেসক্লাবে নববর্ষ উদযাপিত
+2017-04-14T10:15:04.748Z : creation aborted, post title যাত্রাবাড়ীতে সড়ক দুর্ঘটনায় নিহত ১ 
+2017-04-14T10:15:04.747Z : creation aborted, post title রাজনৈতিক নেতাদের বর্ষবরণ
+2017-04-14T10:15:04.749Z : creation success, post title গাজীপুরে ট্রেনে কাটা পড়ে য���বকের মৃত্যু
+2017-04-14T10:15:04.750Z : creation aborted, post title পুরোনো জঞ্জাল ফেলে এগিয়ে যাবে বাংলাদেশ
+2017-04-14T10:15:04.749Z : creation aborted, post title বাংলা কবিতায় বৈশাখ: সময়ের শিল্পিত পথ-ঘাট
+2017-04-14T10:15:04.750Z : Finished bdnews24 parser
+2017-04-14T15:00:02.491Z : Started bdnews24 parsing
+2017-04-14T15:00:06.510Z : Received RSS feed. 30 news found.
+2017-04-14T15:00:07.747Z : creation success, post title উৎসবের রঙ নেই কৃষকের ঘরে
+2017-04-14T15:00:07.749Z : creation success, post title লাঠিখেলায় মুগ্ধ দর্শকস্রোতা
+2017-04-14T15:00:07.749Z : creation success, post title গণভবনে সুরের মূর্ছনা, রসগোল্লা-বাতাসায় আপ্যায়ন
+2017-04-14T15:00:07.750Z : creation success, post title ঘড়ি-ঘণ্টা ধরে উৎসব, অতৃপ্তি নিয়ে ফেরা
+2017-04-14T15:00:07.751Z : creation success, post title বসুন্ধরা সিটিতে ‘বাবা রাফি’র ভিন্নধর্মী আউটলেট
+2017-04-14T15:00:07.752Z : creation success, post title উৎসবের রঙ বিবর্ণ হয়ে গেছে আইশাদের
+2017-04-14T15:00:07.780Z : creation success, post title ‘গতবার ছিল অবহেলা, এবার আছে প্রস্তুতি’
+2017-04-14T15:00:07.780Z : creation success, post title লালমনিরহাটে ঘোড়দৌড় প্রতিযোগিতা
+2017-04-14T15:00:07.803Z : creation success, post title মুর্শিদকুলি খাঁর কলিজাখেকো মেয়ের সমাধি!
+2017-04-14T15:00:07.926Z : creation success, post title তিল ধারণের ঠাঁই নেই মিরপুর চিড়িয়াখানায়
+2017-04-14T15:00:07.965Z : creation success, post title ক্রিকেট ব্যাটের আঘাতে শিশুর মৃত্যু
+2017-04-14T15:00:07.966Z : creation success, post title ঝড়ো ব্যাটিংয়ে কোহলির প্রত্যাবর্তন
+2017-04-14T15:00:07.994Z : creation success, post title মেজবানীতে বৈশাখী ইলিশ উৎসব শুরু 
+2017-04-14T15:00:07.994Z : creation success, post title কলকাতায় বাংলাদেশ উপ-হাইকমিশনের বাংলা নববর্ষ বরণ
+2017-04-14T15:00:08.017Z : creation success, post title ‘আম���কে ফেলতে পারেনি, পা পিছলেই পড়ে গেছি’
+2017-04-14T15:00:08.020Z : creation success, post title মানুষের আনন্দের মাঝেই নিজের আনন্দ অনুভব করি
+2017-04-14T15:00:08.044Z : creation success, post title শাঁখারি-তাঁতিবাজারে পঞ্জিকা অনুযায়ীই হালখাতা পালন
+2017-04-14T15:00:08.054Z : creation success, post title ফিশিং ট্রলারে ৭ টন জাটকা আটক
+2017-04-14T15:00:08.054Z : creation success, post title চুয়েটে বৈশাখী রং
+2017-04-14T15:00:08.076Z : creation success, post title সাটুরিয়ায় চড়ক মেলা অনুষ্ঠিত
+2017-04-14T15:00:08.077Z : creation success, post title পাঁচ তারকার বহুতলে বৈশাখ
+2017-04-14T15:00:08.088Z : creation success, post title ফেনীতে ট্রেনে কাটা পড়ে যুবকের মৃত্যু
+2017-04-14T15:00:08.095Z : creation success, post title মগবাজার ফ্লাইওভারে মাইক্রোবাস উল্টে আহত ৪
+2017-04-14T15:00:08.095Z : creation success, post title নর্থ ওয়েস্টার্ন ইউনিভার্সিটিতে বাংলা নববর্ষ উদযাপন
+2017-04-14T15:00:08.096Z : creation success, post title কলকাতা কাঁপাতে চান মোস্তাফিজ
+2017-04-14T15:00:08.110Z : creation success, post title ডিসি হিলে পুলিশের উপর বখাটের হামলা, আটক ৪
+2017-04-14T15:00:08.125Z : creation success, post title নীলফামারীতে ট্রেন থেকে ফেনসিডিল উদ্ধার
+2017-04-14T15:00:08.163Z : creation success, post title পাটুরিয়া-দৌলতদিয়া ঘাটে যানবাহনের চাপ কমেছে
+2017-04-14T15:00:08.164Z : creation success, post title নড়াইলে বৃদ্ধের গলাকাট‍া মরদেহ উদ্ধার
+2017-04-14T15:00:08.319Z : creation failed, post title এক মিনিট ৭ সেকেন্ডেই চ্যাম্পিয়ন দিদার বলি
+2017-04-14T15:00:08.319Z : Finished bdnews24 parser
+2017-04-14T15:15:01.857Z : Started bdnews24 parsing
+2017-04-14T15:15:02.777Z : Received RSS feed. 30 news found.
+2017-04-14T15:15:02.904Z : creation failed, post title এক মিনিট ৭ সেকেন্ডেই চ্যাম্পিয়ন দিদার বলি
+2017-04-14T15:15:02.906Z : creation success, post title গলা ছেড়ে গাইলেন প্রধানমন্ত্রী
+2017-04-14T15:15:02.908Z : creation aborted, post title ঘড়ি-ঘণ্টা ধরে উৎসব, অতৃপ্তি নিয়ে ফেরা
+2017-04-14T15:15:02.908Z : creation aborted, post title লাঠিখেলায় ���ুগ্ধ দর্শকস্রোতা
+2017-04-14T15:15:02.908Z : creation aborted, post title ‘গতবার ছিল অবহেলা, এবার আছে প্রস্তুতি’
+2017-04-14T15:15:02.908Z : creation aborted, post title লালমনিরহাটে ঘোড়দৌড় প্রতিযোগিতা
+2017-04-14T15:15:02.908Z : creation aborted, post title ফেনীতে ট্রেনে কাটা পড়ে যুবকের মৃত্যু
+2017-04-14T15:15:02.908Z : creation aborted, post title ঝড়ো ব্যাটিংয়ে কোহলির প্রত্যাবর্তন
+2017-04-14T15:15:02.908Z : creation aborted, post title ক্রিকেট ব্যাটের আঘাতে শিশুর মৃত্যু
+2017-04-14T15:15:02.908Z : creation aborted, post title নীলফামারীতে ট্রেন থেকে ফেনসিডিল উদ্ধার
+2017-04-14T15:15:02.908Z : creation aborted, post title ফিশিং ট্রলারে ৭ টন জাটকা আটক
+2017-04-14T15:15:02.908Z : creation aborted, post title ‘আমাকে ফেলতে পারেনি, পা পিছলেই পড়ে গেছি’
+2017-04-14T15:15:02.908Z : creation aborted, post title সাটুরিয়ায় চড়ক মেলা অনুষ্ঠিত
+2017-04-14T15:15:02.908Z : creation aborted, post title কলকাতা কাঁপাতে চান মোস্তাফিজ
+2017-04-14T15:15:02.908Z : creation aborted, post title নড়াইলে বৃদ্ধের গলাকাট‍া মরদেহ উদ্ধার
+2017-04-14T15:15:02.908Z : creation aborted, post title ডিসি হিলে পুলিশের উপর বখাটের হামলা, আটক ৪
+2017-04-14T15:15:02.908Z : creation aborted, post title উৎসবের রঙ বিবর্ণ হয়ে গেছে আইশাদের
+2017-04-14T15:15:02.908Z : creation aborted, post title উৎসবের রঙ নেই কৃ���কের ঘরে
+2017-04-14T15:15:02.909Z : creation aborted, post title বসুন্ধরা সিটিতে ‘বাবা রাফি’র ভিন্নধর্মী আউটলেট
+2017-04-14T15:15:02.909Z : creation aborted, post title মুর্শিদকুলি খাঁর কলিজাখেকো মেয়ের সমাধি!
+2017-04-14T15:15:02.909Z : creation aborted, post title গণভবনে সুরের মূর্ছনা, রসগোল্লা-বাতাসায় আপ্যায়ন
+2017-04-14T15:15:02.909Z : creation aborted, post title মেজবানীতে বৈশাখী ইলিশ উৎসব শুরু 
+2017-04-14T15:15:02.909Z : creation aborted, post title তিল ধারণের ঠাঁই নেই মিরপুর চিড়িয়াখানায়
+2017-04-14T15:15:02.909Z : creation aborted, post title কলকাতায় বাংলাদেশ উপ-হাইকমিশনের বাংলা নববর্ষ বরণ
+2017-04-14T15:15:02.909Z : creation aborted, post title শাঁখারি-তাঁতিবাজারে পঞ্জিকা অনুযায়ীই হালখাতা পালন
+2017-04-14T15:15:02.909Z : creation aborted, post title নর্থ ওয়েস্টার্ন ইউনিভার্সিটিতে বাংলা নববর্ষ উদযাপন
+2017-04-14T15:15:02.909Z : creation aborted, post title চুয়েটে বৈশাখী রং
+2017-04-14T15:15:02.909Z : creation aborted, post title পাটুরিয়া-দৌলতদিয়া ঘাটে যানবাহনের চাপ কমেছে
+2017-04-14T15:15:02.909Z : creation aborted, post title মানুষের আনন্দের মাঝেই নিজের আনন্দ অনুভব করি
+2017-04-14T15:15:02.909Z : creation aborted, post title পাঁচ তারকার বহুতলে বৈশাখ
+2017-04-14T15:15:02.910Z : Finished bdnews24 parser
+2017-04-14T15:30:01.923Z : Started bdnews24 parsing
+2017-04-14T15:30:03.559Z : Received RSS feed. 30 news found.
+2017-04-14T15:30:03.712Z : creation success, post title মহাদেবপুরে ট্রাক চাপায় রাজমিস্ত্রীর মৃত্যু
+2017-04-14T15:30:03.715Z : creation aborted, post title কলকাতায় বাংলাদেশ উপ-হাইকমিশনের বাংলা নববর্ষ বরণ
+2017-04-14T15:30:03.714Z : creation failed, post title এক মিনিট ৭ সেকেন্ডেই চ্যাম্পিয়ন দিদার বলি
+2017-04-14T15:30:03.716Z : creation aborted, post title নর্থ ওয়েস্টার্ন ইউনিভার্সিটিতে বাংলা নববর্ষ উদযাপন
+2017-04-14T15:30:03.716Z : creation aborted, post title শাঁখারি-তাঁতিবাজারে পঞ্জিকা অনুযায়ীই হালখাতা পালন
+2017-04-14T15:30:03.716Z : creation aborted, post title পাটুরিয়া-দৌলতদিয়া ঘাটে যানবাহনের চাপ কমেছে
+2017-04-14T15:30:03.716Z : creation aborted, post title চুয়েটে বৈশাখী রং
+2017-04-14T15:30:03.716Z : creation aborted, post title মানুষের আনন্দের মাঝেই নিজের আনন্দ অনুভব করি
+2017-04-14T15:30:03.716Z : creation aborted, post title পাঁচ তারকার বহুতলে বৈশাখ
+2017-04-14T15:30:03.716Z : creation aborted, post title উৎসবের রঙ বিবর্ণ হয়ে গেছে আইশাদের
+2017-04-14T15:30:03.716Z : creation aborted, post title উৎসবের রঙ নেই ক���ষকের ঘরে
+2017-04-14T15:30:03.716Z : creation aborted, post title বসুন্ধরা সিটিতে ‘বাবা রাফি’র ভিন্নধর্মী আউটলেট
+2017-04-14T15:30:03.716Z : creation aborted, post title মুর্শিদকুলি খাঁর কলিজাখেকো মেয়ের সমাধি!
+2017-04-14T15:30:03.716Z : creation aborted, post title তিল ধারণের ঠাঁই নেই মিরপুর চিড়িয়াখানায়
+2017-04-14T15:30:03.716Z : creation aborted, post title গণভবনে সুরের মূর্ছনা, রসগোল্লা-বাতাসায় আপ্যায়ন
+2017-04-14T15:30:03.716Z : creation aborted, post title মেজবানীতে বৈশাখী ইলিশ উৎসব শুরু 
+2017-04-14T15:30:03.716Z : creation aborted, post title নীলফামারীতে ট্রেন থেকে ফেনসিডিল উদ্ধার
+2017-04-14T15:30:03.716Z : creation aborted, post title ফিশিং ট্রলারে ৭ টন জাটকা আটক
+2017-04-14T15:30:03.716Z : creation aborted, post title ‘আমাকে ফেলতে পারেনি, পা পিছলেই পড়ে গেছি’
+2017-04-14T15:30:03.716Z : creation aborted, post title সাটুরিয়ায় চড়ক মেলা অনুষ্ঠিত
+2017-04-14T15:30:03.717Z : creation aborted, post title কলকাতা কাঁপাতে চান মোস্তাফিজ
+2017-04-14T15:30:03.717Z : creation aborted, post title নড়াইলে বৃদ্ধের গলাকাট‍া মরদেহ উদ্ধার
+2017-04-14T15:30:03.717Z : creation aborted, post title গলা ছেড়ে গাইলেন প্রধানমন্ত্রী
+2017-04-14T15:30:03.717Z : creation aborted, post title ঘড়ি-ঘণ্টা ধরে উৎসব, অতৃপ্তি নিয়ে ফেরা
+2017-04-14T15:30:03.718Z : creation aborted, post title ‘গতবার ছিল অবহেলা, এবার আছে প্রস্তুতি’
+2017-04-14T15:30:03.717Z : creation aborted, post title লাঠিখেলায় মুগ্ধ দর্শকস্রোতা
+2017-04-14T15:30:03.717Z : creation aborted, post title ক্রিকেট ব্যাটের আঘাতে শিশুর মৃত্যু
+2017-04-14T15:30:03.718Z : creation aborted, post title ঝড়ো ব্যাটিংয়ে কোহলির প্রত্যাবর্তন
+2017-04-14T15:30:03.718Z : creation aborted, post title ফেনীতে ট্রেনে কাটা পড়ে যুবকের মৃত্যু
+2017-04-14T15:30:03.718Z : creation aborted, post title লালমনিরহাটে ঘোড়দৌড় প্রতিযোগিতা
+2017-04-14T15:30:03.718Z : Finished bdnews24 parser
+2017-04-14T15:45:02.172Z : Started bdnews24 parsing
+2017-04-14T15:45:03.118Z : Received RSS feed. 30 news found.
+2017-04-14T15:45:03.274Z : creation failed, post title এক মিনিট ৭ সেকেন্ডেই চ্যাম্পিয়ন দিদার বলি
+2017-04-14T15:45:03.278Z : creation aborted, post title উৎসবের রঙ বিবর্ণ হয়ে গেছে আইশাদের
+2017-04-14T15:45:03.278Z : creation aborted, post title উৎসবের রঙ নেই কৃষকের ঘরে
+2017-04-14T15:45:03.278Z : creation aborted, post title বসুন্ধরা সিটিতে ‘বাবা রাফি’র ভিন্নধর্মী আউটলেট
+2017-04-14T15:45:03.276Z : creation success, post title মানুষ কষ্টে আছে
+2017-04-14T15:45:03.278Z : creation aborted, post title মুর্শিদকুলি খাঁর কলিজাখেকো মেয়ের সমাধি!
+2017-04-14T15:45:03.278Z : creation aborted, post title গণভবনে সুরের মূর্ছনা, রসগোল্লা-বাতাসায় আপ্যায়ন
+2017-04-14T15:45:03.278Z : creation aborted, post title মেজবানীতে বৈশাখী ইলিশ উৎসব শুরু 
+2017-04-14T15:45:03.278Z : creation aborted, post title তিল ধারণের ঠাঁই নেই মিরপুর চিড়িয়াখানায়
+2017-04-14T15:45:03.278Z : creation aborted, post title কলকাতায় বাংলাদেশ উপ-হাইকমিশনের বাংলা নববর্ষ বরণ
+2017-04-14T15:45:03.278Z : creation aborted, post title শাঁখারি-তাঁতিবাজারে পঞ্জিকা অনুযায়ীই হালখাতা পালন
+2017-04-14T15:45:03.278Z : creation aborted, post title নর্থ ওয়েস্টার্ন ইউনিভার্সিটিতে বাংলা নববর্ষ উদযাপন
+2017-04-14T15:45:03.278Z : creation aborted, post title পাটুরিয়া-দৌলতদিয়া ঘাটে যানবাহনের চাপ কমেছে
+2017-04-14T15:45:03.278Z : creation aborted, post title চুয়েটে বৈশাখী রং
+2017-04-14T15:45:03.278Z : creation aborted, post title মানুষের আনন্দের মাঝেই নিজের আনন্দ অনুভব করি
+2017-04-14T15:45:03.279Z : creation aborted, post title পাঁচ তারকার বহুতলে বৈশাখ
+2017-04-14T15:45:03.279Z : creation aborted, post title গলা ছেড়ে গাইলেন প্রধানমন্ত্রী
+2017-04-14T15:45:03.279Z : creation aborted, post title লাঠিখেলায় মুগ্ধ দর্শকস্রোতা
+2017-04-14T15:45:03.279Z : creation aborted, post title ঘড়ি-ঘণ্টা ধরে উৎসব, অতৃপ্তি নিয়ে ফেরা
+2017-04-14T15:45:03.279Z : creation aborted, post title ক্রিকেট ব্যাটের আঘাতে শিশুর মৃত্যু
+2017-04-14T15:45:03.279Z : creation aborted, post title ‘গতবার ছিল অবহেলা, এবার আছে প্রস্তুতি’
+2017-04-14T15:45:03.279Z : creation aborted, post title লালমনিরহাটে ঘোড়দৌড় প্রতিযোগিতা
+2017-04-14T15:45:03.279Z : creation aborted, post title ফেনীতে ট্রেনে কাটা পড়ে যুবকের মৃত্যু
+2017-04-14T15:45:03.279Z : creation aborted, post title মহাদেবপুরে ট্রাক চাপায় রাজমিস্ত্রীর মৃত্যু
+2017-04-14T15:45:03.279Z : creation aborted, post title নীলফামারীতে ট্রেন থেকে ফেনসিডিল উদ্ধার
+2017-04-14T15:45:03.279Z : creation aborted, post title ফিশিং ট্রলারে ৭ টন জাটকা আটক
+2017-04-14T15:45:03.279Z : creation aborted, post title ‘আমাকে ফেলতে পারেনি, পা পিছলেই পড়ে গেছি’
+2017-04-14T15:45:03.279Z : creation aborted, post title কলক���তা কাঁপাতে চান মোস্তাফিজ
+2017-04-14T15:45:03.279Z : creation aborted, post title সাটুরিয়ায় চড়ক মেলা অনুষ্ঠিত
+2017-04-14T15:45:03.280Z : creation aborted, post title নড়াইলে বৃদ্ধের গলাকাট‍া মরদেহ উদ্ধার
+2017-04-14T15:45:03.280Z : Finished bdnews24 parser
+2017-04-14T16:00:01.766Z : Started bdnews24 parsing
+2017-04-14T16:00:02.678Z : Received RSS feed. 30 news found.
+2017-04-14T16:00:02.847Z : creation success, post title চলন্ত পিকআপ ভ্যান থেকে পড়ে যুবকের মৃত্যু
+2017-04-14T16:00:02.849Z : creation aborted, post title মানুষ কষ্টে আছে
+2017-04-14T16:00:02.849Z : creation aborted, post title উৎসবের রঙ নেই কৃষকের ঘরে
+2017-04-14T16:00:02.849Z : creation aborted, post title উৎসবের রঙ বিবর্ণ হয়ে গেছে আইশাদের
+2017-04-14T16:00:02.849Z : creation aborted, post title বসুন্ধরা সিটিতে ‘বাবা রাফি’র ভিন্নধর্মী আউটলেট
+2017-04-14T16:00:02.849Z : creation aborted, post title মুর্শিদকুলি খাঁর কলিজাখেকো মেয়ের সমাধি!
+2017-04-14T16:00:02.850Z : creation aborted, post title গণভবনে সুরের মূর্ছনা, রসগোল্লা-বাতাসায় আপ্যায়ন
+2017-04-14T16:00:02.850Z : creation aborted, post title মেজবানীতে বৈশাখী ইলিশ উৎসব শুরু 
+2017-04-14T16:00:02.850Z : creation aborted, post title কলকাতায় বাংলাদেশ উপ-হাইকমিশনের বাংলা নববর্ষ বরণ
+2017-04-14T16:00:02.850Z : creation aborted, post title শাঁখারি-তাঁতিবাজারে পঞ্জিকা অনুযায়ীই হালখাতা পালন
+2017-04-14T16:00:02.850Z : creation aborted, post title নর্থ ওয়েস্টার্ন ইউনিভার্সিটিতে বাংলা নববর্ষ উদযাপন
+2017-04-14T16:00:02.850Z : creation aborted, post title পাটুরিয়া-দৌলতদিয়া ঘাটে যানবাহনের চাপ কমেছে
+2017-04-14T16:00:02.850Z : creation aborted, post title চুয়েটে বৈশাখী রং
+2017-04-14T16:00:02.850Z : creation aborted, post title মানুষের আনন্দের মাঝেই নিজের আনন্দ অনুভব করি
+2017-04-14T16:00:02.850Z : creation aborted, post title পাঁচ তারকার বহুতলে বৈশাখ
+2017-04-14T16:00:02.853Z : creation success, post title ব্র্যাক সিডিএম’র কনসার্ট মাতালেন মাকসুদ-সালমা
+2017-04-14T16:00:02.856Z : creation aborted, post title গলা ছেড়ে গাইলেন প্রধানমন্ত্রী
+2017-04-14T16:00:02.856Z : creation aborted, post title ঘড়ি-ঘণ্টা ধরে উৎসব, অতৃপ্তি নিয়ে ফেরা
+2017-04-14T16:00:02.856Z : creation aborted, post title লাঠিখেলায় মুগ্ধ দর্শকস্রোতা
+2017-04-14T16:00:02.856Z : creation aborted, post title ক্রিকেট ব্যাটের আঘাতে শিশুর মৃত্যু
+2017-04-14T16:00:02.856Z : creation aborted, post title ‘গতবার ছিল অবহেলা, এবার আছে প্রস্তুতি’
+2017-04-14T16:00:02.856Z : creation aborted, post title লালমনিরহাটে ঘোড়দৌড় প্রতিযোগিতা
+2017-04-14T16:00:02.856Z : creation aborted, post title মহাদেবপুরে ট্রাক চাপায় রাজমিস্ত্রীর মৃত্যু
+2017-04-14T16:00:02.856Z : creation aborted, post title নীলফামারীতে ট্রেন থেকে ফেনসিডিল উদ্ধার
+2017-04-14T16:00:02.857Z : creation aborted, post title ফিশিং ট্রলারে ৭ টন জাটকা আটক
+2017-04-14T16:00:02.858Z : creation aborted, post title ‘আমাকে ফেলতে পারেনি, পা পিছলেই পড়ে গেছি’
+2017-04-14T16:00:02.858Z : creation aborted, post title সাটুরিয়ায় চড়ক মেলা অনুষ্ঠিত
+2017-04-14T16:00:02.858Z : creation aborted, post title কলকাতা কাঁপাতে চান মোস্তাফিজ
+2017-04-14T16:00:02.858Z : creation aborted, post title নড়াইলে বৃদ্ধের গলাকাট‍া মরদেহ উদ্ধার
+2017-04-14T16:00:02.858Z : creation aborted, post title ফেনীতে ট্রেনে কাটা পড়ে যুবকের মৃত্যু
+2017-04-14T16:00:02.858Z : Finished bdnews24 parser
+2017-04-14T16:15:01.888Z : Started bdnews24 parsing
+2017-04-14T16:15:02.741Z : Received RSS feed. 30 news found.
+2017-04-14T16:15:02.845Z : creation aborted, post title ব্র্যাক সিডিএম’র কনসার্ট মাতালেন মাকসুদ-সালমা
+2017-04-14T16:15:02.845Z : creation aborted, post title গলা ছেড়ে গাইলেন প্রধানমন্ত্রী
+2017-04-14T16:15:02.845Z : creation aborted, post title ঘড়ি-ঘণ্টা ধরে উৎসব, অতৃপ্তি নিয়ে ফেরা
+2017-04-14T16:15:02.845Z : creation aborted, post title লাঠিখেলায় মুগ্ধ দর্শকস্রোতা
+2017-04-14T16:15:02.845Z : creation aborted, post title ক্রিকেট ব্যাটের আঘাতে শিশুর মৃত্যু
+2017-04-14T16:15:02.845Z : creation aborted, post title ‘গতবার ছিল অবহেলা, এবার আছে প্রস্তুতি’
+2017-04-14T16:15:02.846Z : creation aborted, post title লালমনিরহাটে ঘোড়দৌড় প্রতিযোগিতা
+2017-04-14T16:15:02.846Z : creation aborted, post title ফেনীতে ট্রেনে কাটা পড়ে যুবকের মৃত্যু
+2017-04-14T16:15:02.846Z : creation aborted, post title মহাদেবপুরে ট্রাক চাপায় রাজমিস্ত্রীর মৃত্যু
+2017-04-14T16:15:02.846Z : creation aborted, post title নীলফামারীতে ট্রেন থেকে ফেনসিডিল উদ্ধার
+2017-04-14T16:15:02.846Z : creation aborted, post title ফিশিং ট্রলারে ৭ টন জাটকা আটক
+2017-04-14T16:15:02.846Z : creation aborted, post title ‘আমাকে ফেলতে পারেনি, পা পিছলেই পড়ে গেছি’
+2017-04-14T16:15:02.846Z : creation aborted, post title নড়াইলে বৃদ্ধের গলাকাট‍া মরদেহ উদ্ধার
+2017-04-14T16:15:02.846Z : creation aborted, post title সাটুরিয়ায় চড়ক মেলা অনুষ্ঠিত
+2017-04-14T16:15:02.846Z : creation aborted, post title কলকাতা কাঁপাতে চান মোস্তাফিজ
+2017-04-14T16:15:02.849Z : creation aborted, post title মানুষ কষ্টে আছে
+2017-04-14T16:15:02.849Z : creation aborted, post title উৎসবের রঙ নেই কৃষকের ঘরে
+2017-04-14T16:15:02.849Z : creation aborted, post title মুর্শিদকুলি খাঁর কলিজাখেকো মেয়ের সমাধি!
+2017-04-14T16:15:02.849Z : creation aborted, post title বসুন্ধরা সিটিতে ‘বাবা রাফি’র ভিন্নধর্মী আউটলেট
+2017-04-14T16:15:02.849Z : creation aborted, post title চলন্ত পিকআপ ভ্যান থেকে পড়ে যুবকের মৃত্যু
+2017-04-14T16:15:02.849Z : creation aborted, post title গণভবনে সুরের মূর্ছনা, রসগোল্লা-বাতাসায় আপ্যায়ন
+2017-04-14T16:15:02.849Z : creation aborted, post title কলকাতায় বাংলাদেশ উপ-হাইকমিশনের বাংলা নববর্ষ বরণ
+2017-04-14T16:15:02.849Z : creation aborted, post title শাঁখারি-তাঁতিবাজারে পঞ্জিকা অনুযায়ীই হালখাতা পালন
+2017-04-14T16:15:02.849Z : creation aborted, post title উৎসবের রঙ বিবর্ণ হয়ে গেছে আইশাদের
+2017-04-14T16:15:02.849Z : creation aborted, post title পাটুরিয়া-দৌলতদিয়া ঘাটে যানবাহনের চাপ কমেছে
+2017-04-14T16:15:02.849Z : creation aborted, post title চুয়েটে বৈশাখী রং
+2017-04-14T16:15:02.849Z : creation aborted, post title নর্থ ওয়েস্টার্ন ইউনিভার্সিটিতে বাংলা নববর্ষ উদযাপন
+2017-04-14T16:15:02.849Z : creation aborted, post title মেজবানীতে বৈশাখী ইলিশ উৎসব শুরু 
+2017-04-14T16:15:02.849Z : creation aborted, post title মানুষের আনন্দের মাঝেই নিজের আনন্দ অনুভব করি
+2017-04-14T16:15:02.850Z : Finished bdnews24 parser
+2017-04-14T16:15:02.849Z : creation aborted, post title পাঁচ তারকার বহুতলে বৈশাখ
+2017-04-14T16:30:02.046Z : Started bdnews24 parsing
+2017-04-14T16:30:03.371Z : Received RSS feed. 30 news found.
+2017-04-14T16:30:03.470Z : creation aborted, post title ব্র্যাক সিডিএম’র কনসার্ট মাতালেন মাকসুদ-সালমা
+2017-04-14T16:30:03.470Z : creation aborted, post title চলন্ত পিকআপ ভ্যান থেকে পড়ে যুবকের মৃত্যু
+2017-04-14T16:30:03.470Z : creation aborted, post title কলকাতায় বাংলাদেশ উপ-হাইকমিশনের বাংলা নববর্ষ বরণ
+2017-04-14T16:30:03.470Z : creation aborted, post title শাঁখারি-তাঁতিবাজারে পঞ্জিকা অনুযায়ীই হালখাতা পালন
+2017-04-14T16:30:03.470Z : creation aborted, post title মানুষের আনন্দের মাঝেই নিজের আনন্দ অনুভব করি
+2017-04-14T16:30:03.470Z : creation aborted, post title নর্থ ওয়েস্টার্ন ইউনিভার্সিটিতে বাংলা নববর্ষ উদযাপন
+2017-04-14T16:30:03.470Z : creation aborted, post title পাটুরিয়া-দৌলতদিয়া ঘাটে যানবাহনের চাপ কমেছে
+2017-04-14T16:30:03.470Z : creation aborted, post title চুয়েটে বৈশাখী রং
+2017-04-14T16:30:03.473Z : creation aborted, post title নীলফামারীতে ট্রেন থেকে ফেনসিডিল উদ্ধার
+2017-04-14T16:30:03.473Z : creation aborted, post title ফিশিং ট্রলারে ৭ টন জাটকা আটক
+2017-04-14T16:30:03.473Z : creation aborted, post title ‘আমাকে ফেলতে পারেনি, পা পিছলেই পড়ে গেছি’
+2017-04-14T16:30:03.473Z : creation aborted, post title সাটুরিয়ায় চড়ক মেলা অনুষ্ঠিত
+2017-04-14T16:30:03.473Z : creation aborted, post title কলকাতা কাঁপাতে চান মোস্তাফিজ
+2017-04-14T16:30:03.473Z : creation aborted, post title নড়াইলে বৃদ্ধের গলাকাট‍া মরদেহ উদ্ধার
+2017-04-14T16:30:03.473Z : creation aborted, post title মহাদেবপুরে ট্রাক চাপায় রাজমিস্ত্রীর মৃত্যু
+2017-04-14T16:30:03.473Z : creation aborted, post title ঘড়ি-ঘণ্টা ধরে উৎসব, অতৃপ্তি নিয়ে ফেরা
+2017-04-14T16:30:03.473Z : creation aborted, post title গলা ���েড়ে গাইলেন প্রধানমন্ত্রী
+2017-04-14T16:30:03.473Z : creation aborted, post title ক্রিকেট ব্যাটের আঘাতে শিশুর মৃত্যু
+2017-04-14T16:30:03.473Z : creation aborted, post title লালমনিরহাটে ঘোড়দৌড় প্রতিযোগিতা
+2017-04-14T16:30:03.473Z : creation aborted, post title ‘গতবার ছিল অবহেলা, এবার আছে প্রস্তুতি’
+2017-04-14T16:30:03.473Z : creation aborted, post title ফেনীতে ট্রেনে কাটা পড়ে যুবকের মৃত্যু
+2017-04-14T16:30:03.473Z : creation aborted, post title উৎসবের রঙ বিবর্ণ হয়ে গেছে আইশাদের
+2017-04-14T16:30:03.474Z : creation aborted, post title উৎসবের রঙ নেই কৃষকের ঘরে
+2017-04-14T16:30:03.473Z : creation aborted, post title লাঠিখেলায় মুগ্ধ দর্শকস্রোতা
+2017-04-14T16:30:03.474Z : creation aborted, post title মুর্শিদকুলি খাঁর কলিজাখেকো মেয়ের সমাধি!
+2017-04-14T16:30:03.474Z : creation aborted, post title বসুন্ধরা সিটিতে ‘বাবা রাফি’র ভিন্নধর্মী আউটলেট
+2017-04-14T16:30:03.474Z : creation aborted, post title মেজবানীতে বৈশাখী ইলিশ উৎসব শুরু 
+2017-04-14T16:30:03.474Z : creation aborted, post title গণভবনে সুরের মূর্ছনা, রসগোল্লা-বাতাসায় আপ্যায়ন
+2017-04-14T16:30:03.474Z : Finished bdnews24 parser
+2017-04-14T16:30:03.473Z : creation aborted, post title মানুষ কষ্টে আছে
+2017-04-14T16:30:03.473Z : creation aborted, post title পাঁচ তারকার বহুতলে বৈশাখ
+2017-04-15T04:00:02.079Z : Started bdnews24 parsing
+2017-04-15T04:00:06.566Z : Received RSS feed. 30 news found.
+2017-04-15T04:00:06.805Z : creation success, post title সাটুরিয়ায় বৃদ্ধার মরদেহ উদ্ধার
+2017-04-15T04:00:06.805Z : creation success, post title বরিশালে সাতলাখ বাগদার রেনু পোনাসহ আটক ৭
+2017-04-15T04:00:06.809Z : creation success, post title আগে ছিল বাঙলা ঢোল, এখন হয়েছে রিমিক্স
+2017-04-15T04:00:06.809Z : creation success, post title পদ্মার তপ্ত বালুরাশিতে বর্ষবরণের উচ্ছ্বাস
+2017-04-15T04:00:06.809Z : creation success, post title উত্তর কোরিয়ায় হামলার জন্য প্রস্তুত আমেরিকা
+2017-04-15T04:00:06.809Z : creation success, post title বামফ্রন্টের ত্রিপুরা রাজ্য কমিটির সংবাদ সম্মেলন
+2017-04-15T04:00:06.809Z : creation success, post title অপুর সঙ্গে দেখা করে শাকিব গেলেন বুবলীর কাছে
+2017-04-15T04:00:06.809Z : creation success, post title চলন্ত পিকআপ ভ্যান থেকে পড়ে যুবকের মৃত্যু
+2017-04-15T04:00:06.812Z : creation success, post title বরিশালে ভাঙন রোধে হাজার কোটি টাকার প্রকল্প প্রস্তাব
+2017-04-15T04:00:06.812Z : creation success, post title গাজীপুরে চড়ক পূজা অনুষ্ঠিত
+2017-04-15T04:00:06.812Z : creation success, post title জলকেলিতে মাতোয়ারা মারমা তরুণ-তরুণী
+2017-04-15T04:00:06.812Z : creation success, post title ময়মনসিংহে হোটেল সিলভার ক্যাসেলে ভাঙচুর
+2017-04-15T04:00:06.812Z : creation success, post title বেতন নেই চালকদের, বিআরটিসির টাকা যাচ্ছে কোথায়?
+2017-04-15T04:00:06.812Z : creation success, post title সিংড়ায় বিদ্যুৎস্পৃষ্ট হয়ে এক ব্যক্তির মৃত্যু
+2017-04-15T04:00:06.812Z : creation success, post title নববর্ষে হাতিরঝিলে দর্শনার্থীদের জনস্রোত
+2017-04-15T04:00:06.812Z : creation success, post title অল্পের জন্য রক্ষা পেলো ���ুটি বট গাছ!
+2017-04-15T04:00:06.812Z : creation success, post title নেপিয়ার ঘাসে বেঁচে থাকার স্বপ্ন!
+2017-04-15T04:00:06.813Z : creation success, post title শ্রমের হাটে বৈশাখের ছোঁয়া লাগে না, থাকে চৈত্রের তাপদাহ
+2017-04-15T04:00:06.813Z : creation success, post title ভোলায় ২ দিনব্যাপী ঘুড়ি উৎসব
+2017-04-15T04:00:06.813Z : creation success, post title বৈশাখী মেলায় যেতে না দেওয়ায় কিশোরীর আত্মহত্যা
+2017-04-15T04:00:06.813Z : creation success, post title ভুরুঙ্গামারীতে রঙ ছিটানোয় শিশুকে বেঁধে নির্যাতন  
+2017-04-15T04:00:06.813Z : creation success, post title প্রেমে সফলতার সম্ভাবনা কুম্ভের, বৃশ্চিকের ভ্রমণে বাধা
+2017-04-15T04:00:06.813Z : creation success, post title মানুষ কষ্টে আছে
+2017-04-15T04:00:06.815Z : creation success, post title কোরিয় উপদ্বীপে উত্তেজনায় মুখ খুললো রাশিয়া
+2017-04-15T04:00:06.815Z : creation success, post title ভোলার বাঘমারা ব্রিজে মানুষের ঢল
+2017-04-15T04:00:06.815Z : creation success, post title বগুড়ায় বাস-ট্রাক সংঘর্ষে আহত ২৫
+2017-04-15T04:00:06.815Z : creation success, post title ফানুসে রঙিন ফেনী
+2017-04-15T04:00:06.815Z : creation success, post title ব্র্যাক সিডিএম’র কনসার্ট মাতালেন মাকসুদ-সালমা
+2017-04-15T04:00:06.816Z : Finished bdnews24 parser
+2017-04-15T04:00:06.815Z : creation success, post title সাংগ্রাই উপলক্ষে বুদ্ধমূর্তি স্নান উৎসব
+2017-04-15T04:00:06.815Z : creation failed, post title একই দিন দুই হ্যাটট্রিক, হেরে গেলেন বদ্রি!
+2017-04-15T04:15:01.345Z : Started bdnews24 parsing
+2017-04-15T04:15:02.385Z : Received RSS feed. 30 news found.
+2017-04-15T04:15:02.558Z : creation aborted, post title অল্পের জন্য রক্ষা পেলো দুটি বট গাছ!
+2017-04-15T04:15:02.558Z : creation aborted, post title সাংগ্রাই উপলক্ষে বুদ্ধমূর্তি স্নান উৎসব
+2017-04-15T04:15:02.558Z : creation aborted, post title কোরিয় উপদ্বীপে উত্তেজনায় মুখ খুললো রাশিয়া
+2017-04-15T04:15:02.558Z : creation aborted, post title সাটুরিয়ায় বৃদ্ধার মরদেহ উদ্ধার
+2017-04-15T04:15:02.558Z : creation aborted, post title আগে ছিল বাঙলা ঢোল, এখন হয়েছে রিমিক্স
+2017-04-15T04:15:02.558Z : creation aborted, post title পদ্মার তপ্ত বালুরাশিতে বর্ষবরণের উচ্ছ্বাস
+2017-04-15T04:15:02.558Z : creation aborted, post title উত্তর কোরিয়ায় হামলার জন্য প্রস্তুত আমেরিকা
+2017-04-15T04:15:02.558Z : creation aborted, post title বামফ্রন্টের ত্রিপুরা রাজ্য কমিটির সংবাদ সম্মেলন
+2017-04-15T04:15:02.558Z : creation aborted, post title বরিশালে সাতলাখ বাগদার রেনু পোনাসহ আটক ৭
+2017-04-15T04:15:02.558Z : creation aborted, post title অপুর সঙ্গে দেখা করে শাকিব গেলেন বুবলীর কাছে
+2017-04-15T04:15:02.558Z : creation aborted, post title চলন্ত পিকআপ ভ্যান থেকে পড়ে যুবকের মৃত্যু
+2017-04-15T04:15:02.562Z : creation success, post title হেস্টিংসের স্ত্রী, মেয়ের সমাধি ও একটি আর্মেনিয়ান চার্চ
+2017-04-15T04:15:02.564Z : creation failed, post title একই দিন দুই হ্যাটট্রিক, হেরে গেলেন বদ্রি!
+2017-04-15T04:15:02.565Z : creation aborted, post title নেপিয়ার ঘাসে বেঁচে থাকার স্বপ্ন!
+2017-04-15T04:15:02.565Z : creation aborted, post title বৈশাখী মেলায় যেতে না দেওয়ায় কিশোরীর আত্মহত্যা
+2017-04-15T04:15:02.565Z : creation aborted, post title শ্রমের হাটে বৈশাখের ছোঁয়া লাগে না, থাকে চৈত্রের তাপদাহ
+2017-04-15T04:15:02.565Z : creation aborted, post title বেতন নেই চালকদের, বিআরটিসির টাকা যাচ্ছে কোথায়?
+2017-04-15T04:15:02.565Z : creation aborted, post title গাজীপুরে চড়ক পূজা অনুষ্ঠিত
+2017-04-15T04:15:02.565Z : creation aborted, post title জলকেলিতে মাতোয়ারা মারমা তরুণ-তরুণী
+2017-04-15T04:15:02.566Z : creation aborted, post title ময়মনসিংহে হোটেল সিলভার ক্যাসেলে ভাঙচুর
+2017-04-15T04:15:02.565Z : creation aborted, post title বরিশালে ভাঙন রোধে হাজার কোটি টাকার প্রকল্প প্রস্তাব
+2017-04-15T04:15:02.566Z : creation aborted, post title সিংড়ায় বিদ্যুৎস্পৃষ্ট হয়ে এক ব্যক্তির মৃত্যু
+2017-04-15T04:15:02.566Z : creation aborted, post title ভুরুঙ্গামারীতে রঙ ছিটানোয় শিশুকে বেঁধে নির্যাতন  
+2017-04-15T04:15:02.566Z : creation aborted, post title ব্র্যাক সিডিএম’র কনসার্ট মাতালেন মাকসুদ-সালমা
+2017-04-15T04:15:02.566Z : creation aborted, post title ভোলায় ২ দিনব্যাপী ঘুড়ি উৎসব
+2017-04-15T04:15:02.566Z : creation aborted, post title নববর্ষে হাতিরঝিলে দর্শনার্থীদের জনস্রোত
+2017-04-15T04:15:02.566Z : creation aborted, post title ভোলার বাঘমারা ব্রিজে মানুষের ঢল
+2017-04-15T04:15:02.566Z : creation aborted, post title ফানুসে রঙিন ফেনী
+2017-04-15T04:15:02.567Z : creation aborted, post title বগুড়ায় বাস-ট্রাক সংঘর্ষে আহত ২৫
+2017-04-15T04:15:02.567Z : creation aborted, post title প্রেমে সফলতার সম্ভাবনা কুম্ভের, বৃশ্চিকের ভ্রমণে বাধা
+2017-04-15T04:15:02.568Z : Finished bdnews24 parser

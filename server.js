@@ -4,6 +4,7 @@ var child_process = require('child_process');
 var fs = require('fs');
 var scheduler = require('node-schedule');
 var news_service = require('./custom_modules/news-service.js');
+// var news_service_1 = require('./custom_modules/news-service-1.js');
 var passport = require('passport');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
@@ -77,7 +78,7 @@ queue.process('parse-kalerkontho-scrape', function (job, done) {
 //=======================================================
 
 //run queue in a series of processes every 1 mins=======
-scheduler.scheduleJob('*/59 * * * *', function () {
+scheduler.scheduleJob('*/15 * * * *', function () {
     // queue.create('parse-bdnews24-rss', {})
     //     .priority('high')
     //     .save(function (err) {
@@ -98,7 +99,8 @@ scheduler.scheduleJob('*/59 * * * *', function () {
     //     .on('complete', function () {
     //         console.log('prothomalo parsing job completed!');
     //     })
-    launchProcessSequence(['bdnews24RSSParser.js', 'prothomaloParser.js', 'kalerkonthoParser.js']);
+    console.log('its time for some scheduled works');
+    //launchProcessSequence(['bdnews24RSSParser.js', 'prothomaloParser.js', 'kalerkonthoParser.js']);
 });
 //========================================================
 
@@ -132,7 +134,7 @@ app.use(session({ secret: 'ilovescotchscotchyscotchscotch' })); // session secre
 app.use(passport.initialize());
 app.use(passport.session()); // persistent login sessions
 app.use(function (req, res, next) {
-    res.header("Access-Control-Allow-Origin", "http://localhost");
+    res.header("Access-Control-Allow-Origin", "http://localhost:8080");
     res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
     res.header("Access-Control-Allow-Credentials", "true");
     next();
@@ -253,7 +255,7 @@ app.get('/news/:id', function (req, res) {
         if (newsObject._doc.DescChunks.length != 0) {
             res.type('json');
             console.log('sending response');
-            res.send(JSON.stringify(response));
+            res.send(JSON.stringify(newsObject));
         } else {
             request(newsObject.Link, function (error, response, html) {
                 var $ = cheerio.load(html);

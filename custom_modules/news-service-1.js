@@ -1,29 +1,17 @@
 var mongoose = require('mongoose');
-var uuid = require('node-uuid');
 
-function getNewsDBObject(callback) {
+var newsDb = function () {
+
     var options = {
         server: { socketOptions: { keepAlive: 300000, connectTimeoutMS: 30000 } },
         replset: { socketOptions: { keepAlive: 300000, connectTimeoutMS: 30000 } }
     };
-    // mongoose.connect('mongodb://admin:admin@ds143539.mlab.com:43539/news', options);
-    mongoose.connect('mongodb://localhost:27017/news', options);
+    mongoose.connect('mongodb://admin:admin@ds143539.mlab.com:43539/news', options);
+    //mongoose.connect('mongodb://localhost:27017/news', options);
     var connection = mongoose.connection;
-    connection.once('open', function () {
-        callback(new newsDb(connection, uuid.v1()));
-    });
-    connection.on('error', function (error) {
-        console.log('an error occured while trying to connect to mongoDB');
-        console.log(error);
-        getNewsDBObject(callback);
-    });
-}
 
-var newsDb = function (connection, id) {
-    this.connection = connection;
-    this.id = id;
     var postSchema = new mongoose.Schema({
-        Title: { type: String, unique: true },
+        Title: { type: String, unique: false },
         Link: { type: String, unique: false },
         Description: { type: String, unique: false },
         PubDate: { type: String, unique: false },
@@ -32,7 +20,7 @@ var newsDb = function (connection, id) {
         ImageLink: { type: String, unique: false },
         Source: { type: String, unique: false },
         Status: { type: String, unique: false },
-        DetailedDesc: { type: String, unique: false, index: false, maxlength : 2000 }
+        DetailedDesc: { type: String, unique: false, index: false, maxlength: 2000 }
     });
 
     var descChunkSchema = new mongoose.Schema({
@@ -42,8 +30,12 @@ var newsDb = function (connection, id) {
     var Post = mongoose.model('Post', postSchema);
     var Chunk = mongoose.model('Chunk', descChunkSchema);
 
+    function init() {
+        connection.once('open');
+    }
+
     newsDb.prototype.createPost = function (post, callback) {
-        console.log('newsDB instance ' + id);
+
         var newPost = new Post(post);
         newPost.save(function (err, post) {
             if (!err) {
@@ -52,10 +44,11 @@ var newsDb = function (connection, id) {
                 callback('failed');
             }
         });
+
     }
 
     newsDb.prototype.updatePost = function (id, changedData, callback) {
-        console.log('newsDB instance ' + id);
+
         Post.findById(id, function (err, post) {
             if (err) return handleError(err);
 
@@ -70,10 +63,11 @@ var newsDb = function (connection, id) {
                 }
             });
         });
+
     }
 
     newsDb.prototype.getAllPost = function (skip, limit, success, failure) {
-        console.log('newsDB instance ' + id);
+
         Post.find({}, {}, { skip: skip, limit: limit }, function (err, posts) {
             if (!err) {
                 success(posts);
@@ -81,10 +75,11 @@ var newsDb = function (connection, id) {
                 failure(err);
             }
         });
+
     }
 
     newsDb.prototype.getPostByProperty = function (searchObj, skip, limit, success, failure) {
-        console.log('newsDB instance ' + id);
+
         Post.find(searchObj)
             .skip(skip)
             .limit(limit)
@@ -95,21 +90,23 @@ var newsDb = function (connection, id) {
                         success(data);
                     }
                     data.forEach(function (post, count) {
-                        newsDb.prototype.getChunkByProperty({PostId : post.id}, function (chunks) {
+                        newsDb.prototype.getChunkByProperty({ PostId: post.id }, function (chunks) {
                             post._doc.DescChunks = chunks;
                             if (count == data.length - 1) {
                                 success(data);
                             }
-                        }); 
+                        });
                     });
                 } else {
                     failure(err);
                 }
             });
+
     }
 
     newsDb.prototype.createChunk = function (chunk, callback) {
-        console.log('newsDB instance ' + id);
+
+
         var newChunk = new Chunk(chunk);
         newChunk.save(function (err, chunk) {
             if (callback) {
@@ -120,10 +117,12 @@ var newsDb = function (connection, id) {
                 }
             }
         });
+
     }
 
     newsDb.prototype.getChunkByProperty = function (searchObj, success, failure) {
-        console.log('newsDB instance ' + id);
+
+
         Chunk.find(searchObj)
             .exec(function (err, data) {
                 if (!err) {
@@ -132,12 +131,8 @@ var newsDb = function (connection, id) {
                     failure(err);
                 }
             });
-    }
 
-    newsDb.prototype.closeConnection = function () {
-        console.log('newsDB instance ' + id);
-        connection.close();
     }
 };
 
-module.exports.getNewsDBObject = getNewsDBObject;
+module.exports.newsDb = newsDb;

@@ -42,6 +42,7 @@ function init () {
                         Logger.logger('logs/kalerkonthoParserLog.txt', 'kalerkontho parsing completed');
                         // console.log('exiting process');
                         setTimeout(function () {
+                            newsDb.closeConnection();
                             process.exit();
                         }, 3000)
                     }

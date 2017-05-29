@@ -52,6 +52,7 @@ function init () {
                     if (resolveCount == 15) {
                         Logger.logger('logs/prothomaloParserLog.txt', 'prothom alo parsing completed');
                         setTimeout(function() {
+                            newsDb.closeConnection();
                             process.exit();
                         }, 3000);
                     }

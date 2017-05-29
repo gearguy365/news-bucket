@@ -45,6 +45,7 @@ function processXMLResponse(XMLString) {
         Promise.all(promises).then(function () {
             Logger.logger('logs/bdnews24RSSParserLog.txt', 'Finished bdnews24 parser');
             setTimeout(function () {
+                newsDb.closeConnection();
                 process.exit();
             }, 3000);
         });
