@@ -80,7 +80,7 @@ function processHtmlContent (html, link, category) {
             newObject.Description = $(this).find('.info').find('.summery').text();
             newObject.PubDate = $(this).find('.info').find('.additional').find('span').attr('data-published');
             newObject.Link = 'http://www.prothom-alo.com/' + $(this).find('.link_overlay').attr('href');
-            newObject.Guid = newObject.Link;
+            newObject.Guid = newObject.Link.match(/http:\/\/[a-zA-Z0-9.-]*\/[a-zA-Z0-9.]*\/[a-zA-Z0-9.]*\/[a-zA-Z0-9.]*/g)[0];
             newObject.Category = category;
             newObject.ImageLink = 'http:' + $(this).find('.image').find('img').attr('src');
             newObject.Source = 'prothomalo';

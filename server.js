@@ -78,7 +78,7 @@ news_service.getNewsDBObject(function (obj) {
 //=======================================================
 
 //run queue in a series of processes every 1 mins=======
-scheduler.scheduleJob('*/15 * * * *', function () {
+scheduler.scheduleJob('*/30 * * * *', function () {
     // queue.create('parse-bdnews24-rss', {})
     //     .priority('high')
     //     .save(function (err) {
@@ -100,7 +100,7 @@ scheduler.scheduleJob('*/15 * * * *', function () {
     //         console.log('prothomalo parsing job completed!');
     //     })
     console.log('its time for some scheduled works');
-    //launchProcessSequence(['bdnews24RSSParser.js', 'prothomaloParser.js', 'kalerkonthoParser.js']);
+    launchProcessSequence(['bdnews24RSSParser.js', 'prothomaloParser.js', 'kalerkonthoParser.js']);
 });
 //========================================================
 
@@ -134,7 +134,7 @@ app.use(session({ secret: 'ilovescotchscotchyscotchscotch' })); // session secre
 app.use(passport.initialize());
 app.use(passport.session()); // persistent login sessions
 app.use(function (req, res, next) {
-    res.header("Access-Control-Allow-Origin", "http://localhost:8080");
+    res.header("Access-Control-Allow-Origin", "https://news-bucket.herokuapp.com");
     res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
     res.header("Access-Control-Allow-Credentials", "true");
     next();
